@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Administrateur" audio_filename="ESLO1_MAG_627" version="4" version_date="160513">
+<Speakers>
+<Speaker id="spk1" name="HM" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="627VEN" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="627INC" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="JSM" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="58.099">
+<Turn startTime="0" endTime="2.814">
+
+
+</Turn>
+<Turn speaker="spk2" startTime="2.814" endTime="4.115">
+messieurs dames
+
+</Turn>
+<Turn speaker="spk1" startTime="4.115" endTime="9.266">
+euh est-ce que vous auriez ça madame ?
+euh 
+
+c'est une spécialité j'ai
+qui s'appelle matzo 
+ ?
+</Turn>
+<Turn speaker="spk2" startTime="9.266" endTime="9.805">
+non
+
+</Turn>
+<Turn speaker="spk1" startTime="9.805" endTime="10.567">
+d'accord
+</Turn>
+<Turn speaker="spk2 spk1" startTime="10.567" endTime="13.249">
+non j'ai pas ça
+vous voyez ce que c'est en fait ?
+non non je connais pas
+non
+</Turn>
+<Turn speaker="spk2" startTime="13.249" endTime="13.647">
+ah non
+</Turn>
+<Turn speaker="spk3" startTime="13.647" endTime="14.497">
+c'est 
+
+</Turn>
+<Turn speaker="spk1" startTime="14.497" endTime="16.727">
+vous savez pas où on peut le trouver ?
+où on peut en trouver ?
+</Turn>
+<Turn speaker="spk3" startTime="16.727" endTime="19.037">
+
+
+
+
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="19.037" endTime="19.727">
+je me demande
+non
+</Turn>
+<Turn speaker="spk2" startTime="19.727" endTime="21.347">
+vraiment pas non 
+
+</Turn>
+<Turn speaker="spk4" startTime="21.347" endTime="29.097">
+vous savez c'est f-
+c'est fait avec un
+
+enfin une es-
+
+farine spéciale et 
+
+enfin on nous avait dit 
+que dans la rue de Bourgogne
+</Turn>
+<Turn speaker="spk4 spk2" startTime="29.097" endTime="31.808">
+peut-être euh qu'on en trouverait
+comment que ça s'appelle ?
+
+
+</Turn>
+<Turn speaker="spk4 spk1" startTime="31.808" endTime="36.728">
+c'est matzo ça s'écrit 
+M A 
+M A T
+T
+Z O
+Z O
+
+
+</Turn>
+<Turn speaker="spk4" startTime="36.728" endTime="37.79">
+enfin euh
+</Turn>
+<Turn speaker="spk2" startTime="37.79" endTime="39.199">
+j'ai jamais entendu parler de ça 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="39.199" endTime="39.84">
+
+
+
+non ? 
+</Turn>
+<Turn speaker="spk4 spk2" startTime="39.84" endTime="41.453">
+ah ouais je vois vous connaissez pas et 
+non
+
+</Turn>
+<Turn speaker="spk4" startTime="41.453" endTime="49.551">
+vous connaissez pas par hasard 
+où à Orléans 
+enfin dans la région 
+ on trouverait ça ?
+vous voyez pas ?
+
+
+</Turn>
+<Turn speaker="spk2" startTime="49.551" endTime="51.94">
+non je connais pas du tout
+
+non 
+
+non
+</Turn>
+<Turn speaker="spk4 spk2" startTime="51.94" endTime="53.347">
+bon je vous remercie beaucoup
+au revoir messieurs dames
+</Turn>
+<Turn speaker="spk4" startTime="53.347" endTime="54.064">
+au revoir messieurs dames
+</Turn>
+<Turn speaker="spk1" startTime="54.064" endTime="54.409">
+au revoir madame
+</Turn>
+<Turn speaker="spk4" startTime="54.409" endTime="58.099">
+au revoir madame
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

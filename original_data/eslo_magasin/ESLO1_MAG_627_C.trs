@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Administrateur" audio_filename="ESLO1_MAG_627" version="4" version_date="160513">
+<Speakers>
+<Speaker id="spk1" name="HM" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="627VEN" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="627INC" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="JSM" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="58.099">
+<Turn startTime="0" endTime="2.814">
+<Sync time="0"/>
+
+<Event desc="conv" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2.814" endTime="4.115">
+<Sync time="2.814"/>
+messieurs dames
+<Sync time="3.265"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="4.115" endTime="9.266">
+<Sync time="4.115"/>
+euh est-ce que vous auriez ça madame ?
+<Sync time="6.0"/>
+euh 
+<Sync time="6.425"/>
+
+<Sync time="6.85"/>
+c'est une spécialité j'ai
+<Sync time="8.257"/>
+qui s'appelle matzo 
+<Event desc="motza" type="pronounce" extent="instantaneous"/>
+ ?
+</Turn>
+<Turn speaker="spk2" startTime="9.266" endTime="9.805">
+<Sync time="9.266"/>
+non
+<Sync time="9.638"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="9.805" endTime="10.567">
+<Sync time="9.805"/>
+d'accord
+</Turn>
+<Turn speaker="spk2 spk1" startTime="10.567" endTime="13.249">
+<Sync time="10.567"/>
+<Who nb="1"/>
+non j'ai pas ça
+<Who nb="2"/>
+vous voyez ce que c'est en fait ?
+<Sync time="12.054"/>
+<Who nb="1"/>
+non non je connais pas
+<Who nb="2"/>
+non
+</Turn>
+<Turn speaker="spk2" startTime="13.249" endTime="13.647">
+<Sync time="13.249"/>
+ah non
+</Turn>
+<Turn speaker="spk3" startTime="13.647" endTime="14.497">
+<Sync time="13.647"/>
+c'est 
+<Event desc="pif" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="14.497" endTime="16.727">
+<Sync time="14.497"/>
+vous savez pas où on peut le trouver ?
+<Sync time="15.931"/>
+où on peut en trouver ?
+</Turn>
+<Turn speaker="spk3" startTime="16.727" endTime="19.037">
+<Sync time="16.727"/>
+
+<Event desc="pif" type="pronounce" extent="instantaneous"/>
+
+<Sync time="17.845"/>
+
+<Sync time="18.175"/>
+
+<Event desc="pif" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="19.037" endTime="19.727">
+<Sync time="19.037"/>
+<Who nb="1"/>
+je me demande
+<Who nb="2"/>
+non
+</Turn>
+<Turn speaker="spk2" startTime="19.727" endTime="21.347">
+<Sync time="19.727"/>
+vraiment pas non 
+<Sync time="20.471"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="21.347" endTime="29.097">
+<Sync time="21.347"/>
+vous savez c'est f-
+<Sync time="21.984"/>
+c'est fait avec un
+<Sync time="23.312"/>
+
+<Sync time="23.657"/>
+enfin une es-
+<Sync time="24.162"/>
+
+<Sync time="24.613"/>
+farine spéciale et 
+<Sync time="26.339"/>
+
+<Sync time="27.189"/>
+enfin on nous avait dit 
+<Sync time="27.978"/>
+que dans la rue de Bourgogne
+</Turn>
+<Turn speaker="spk4 spk2" startTime="29.097" endTime="31.808">
+<Sync time="29.097"/>
+<Who nb="1"/>
+peut-être euh qu'on en trouverait
+<Who nb="2"/>
+comment que ça s'appelle ?
+<Sync time="31.463"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk4 spk1" startTime="31.808" endTime="36.728">
+<Sync time="31.808"/>
+<Who nb="1"/>
+c'est matzo ça s'écrit 
+<Who nb="2"/>
+M A 
+<Sync time="33.22"/>
+<Who nb="1"/>
+M A T
+<Who nb="2"/>
+T
+<Sync time="34.437"/>
+<Who nb="1"/>
+Z O
+<Who nb="2"/>
+Z O
+<Sync time="35.48"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="36.728" endTime="37.79">
+<Sync time="36.728"/>
+enfin euh
+</Turn>
+<Turn speaker="spk2" startTime="37.79" endTime="39.199">
+<Sync time="37.79"/>
+j'ai jamais entendu parler de ça 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="39.199" endTime="39.84">
+<Sync time="39.199"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+
+<Who nb="2"/>
+non ? 
+</Turn>
+<Turn speaker="spk4 spk2" startTime="39.84" endTime="41.453">
+<Sync time="39.84"/>
+<Who nb="1"/>
+ah ouais je vois vous connaissez pas et 
+<Who nb="2"/>
+non
+
+</Turn>
+<Turn speaker="spk4" startTime="41.453" endTime="49.551">
+<Sync time="41.453"/>
+vous connaissez pas par hasard 
+<Sync time="42.808"/>
+où à Orléans 
+<Sync time="43.827"/>
+enfin dans la région 
+<Event desc="pif" type="pronounce" extent="instantaneous"/>
+ on trouverait ça ?
+<Sync time="47.639"/>
+vous voyez pas ?
+<Sync time="48.301"/>
+
+<Sync time="48.735"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="49.551" endTime="51.94">
+<Sync time="49.551"/>
+non je connais pas du tout
+<Sync time="50.938"/>
+
+<Sync time="51.144"/>
+non 
+<Sync time="51.494"/>
+
+<Sync time="51.648"/>
+non
+</Turn>
+<Turn speaker="spk4 spk2" startTime="51.94" endTime="53.347">
+<Sync time="51.94"/>
+<Who nb="1"/>
+bon je vous remercie beaucoup
+<Who nb="2"/>
+au revoir messieurs dames
+</Turn>
+<Turn speaker="spk4" startTime="53.347" endTime="54.064">
+<Sync time="53.347"/>
+au revoir messieurs dames
+</Turn>
+<Turn speaker="spk1" startTime="54.064" endTime="54.409">
+<Sync time="54.064"/>
+au revoir madame
+</Turn>
+<Turn speaker="spk4" startTime="54.409" endTime="58.099">
+<Sync time="54.409"/>
+au revoir madame
+<Sync time="54.754"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

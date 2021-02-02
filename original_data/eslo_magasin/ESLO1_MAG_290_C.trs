@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="coline" audio_filename="290" version="8" version_date="110207">
+<Speakers>
+<Speaker id="spk1" name="MLC" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="DA740" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="CS" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="143.532">
+<Turn startTime="0" endTime="14.657" speaker="spk1">
+<Sync time="0"/>
+bonjour monsieur
+<Sync time="1.527"/>
+
+<Sync time="2.156"/>
+euh je cherche un 
+<Event desc="b" type="noise" extent="begin"/>
+ parfum 
+<Event desc="b" type="noise" extent="end"/>
+ dont j'ignore le nom
+<Sync time="4.79"/>
+c'est pour ma soeur
+<Sync time="6.522"/>
+et elle l'avait acheté je crois dans le midi de la France
+<Sync time="9.162"/>
+et alors euh
+<Sync time="10.0"/>
+
+<Sync time="11.108"/>
+est-ce que vous pourriez me euh
+<Sync time="12.888"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="14.657" endTime="19.319">
+<Sync time="14.657"/>
+parce que euh
+<Sync time="16.212"/>
+dans l- que l'on voit dans le midi vous savez pas
+</Turn>
+<Turn speaker="spk1 spk2" startTime="19.319" endTime="20.885">
+<Sync time="19.319"/>
+<Who nb="1"/>
+je ne sais pas justement
+<Who nb="2"/>
+je pense à Funel non ?
+</Turn>
+<Turn speaker="spk1" startTime="20.885" endTime="22.145">
+<Sync time="20.885"/>
+&amp;Finaze non je
+</Turn>
+<Turn speaker="spk1 spk2" startTime="22.145" endTime="22.715">
+<Sync time="22.145"/>
+<Who nb="1"/>
+crois pas
+<Who nb="2"/>
+Funel
+</Turn>
+<Turn speaker="spk1" startTime="22.715" endTime="25.995">
+<Sync time="22.715"/>
+Funel
+<Sync time="23.555"/>
+non si vous pouviez m'en citer d'autres peut-être
+</Turn>
+<Turn speaker="spk2" startTime="25.995" endTime="33.072">
+<Sync time="25.995"/>
+dans le midi qu'est-ce qu'il y a encore par-là euh hm
+<Sync time="29.932"/>
+peut-être c'était une marque typiquement de du midi non ?
+</Turn>
+<Turn speaker="spk1" startTime="33.072" endTime="42.681">
+<Sync time="33.072"/>
+enfin c'est-à-dire que j'ai déjà cherché dans d- d'autres magasins
+<Sync time="36.11"/>
+ils m'ont dit que euh
+<Sync time="37.486"/>
+ils ne connaissaient pas b- enfin je me demandais si
+<Sync time="40.248"/>
+si vous aviez ça
+<Sync time="41.551"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="42.681" endTime="45.671">
+<Sync time="42.681"/>
+qu'est-ce qu'il y a par-là encore à Grâce
+<Sync time="43.921"/>
+y a comme euh
+<Sync time="45.12"/>
+Molinard ?
+</Turn>
+<Turn speaker="spk1" startTime="45.671" endTime="49.695">
+<Sync time="45.671"/>
+oui Moli-
+<Sync time="46.331"/>
+
+<Sync time="47.309"/>
+non non
+<Sync time="48.111"/>
+c'était pas ça
+</Turn>
+<Turn speaker="spk2" startTime="49.695" endTime="51.902">
+<Sync time="49.695"/>
+non non y a
+<Sync time="50.621"/>
+y en a tellement de
+</Turn>
+<Turn speaker="spk3" startTime="51.902" endTime="53.488">
+<Sync time="51.902"/>
+de marques qui sont méconnues
+</Turn>
+<Turn speaker="spk1 spk2" startTime="53.488" endTime="56.667">
+<Sync time="53.488"/>
+<Who nb="1"/>
+aussi quand même
+<Who nb="2"/>
+de marques qui sont connues oui
+<Sync time="55.126"/>
+<Who nb="1"/>
+oui
+<Who nb="2"/>
+que l'on
+<Sync time="55.435"/>
+<Who nb="1"/>
+oui
+<Who nb="2"/>
+connaît même pas par ici dites-donc
+</Turn>
+<Turn speaker="spk1" startTime="56.667" endTime="57.343">
+<Sync time="56.667"/>
+ah oui c'est vrai ?
+</Turn>
+<Turn speaker="spk2" startTime="57.343" endTime="57.657">
+<Sync time="57.343"/>
+oh oui
+</Turn>
+<Turn speaker="spk1" startTime="57.657" endTime="59.013">
+<Sync time="57.657"/>
+ah je savais pas que c'était tellement
+</Turn>
+<Turn speaker="spk1 spk2" startTime="59.013" endTime="61.903">
+<Sync time="59.013"/>
+<Who nb="1"/>
+spécialisé
+<Who nb="2"/>
+ah oui
+<Sync time="59.708"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="61.903" endTime="68.903">
+<Sync time="61.903"/>
+puis bien entendu qu'on cite toutes les toutes les grandes marques
+<Sync time="64.042"/>
+que nous avons m'enfin euh dans le dans la région de de Nice de Grâce par là y a beaucoup de petits artisans
+</Turn>
+<Turn speaker="spk1" startTime="68.903" endTime="69.459">
+<Sync time="68.903"/>
+ah oui
+</Turn>
+<Turn speaker="spk2" startTime="69.459" endTime="70.734">
+<Sync time="69.459"/>
+qui fabriquent alors euh
+</Turn>
+<Turn speaker="spk1" startTime="70.734" endTime="71.314">
+<Sync time="70.734"/>
+d'accord
+</Turn>
+<Turn speaker="spk1 spk2" startTime="71.314" endTime="72.529">
+<Sync time="71.314"/>
+<Who nb="1"/>
+je voulais s- mais enfin
+<Who nb="2"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="72.529" endTime="85.155">
+<Sync time="72.529"/>
+je sais pas je
+<Sync time="73.687"/>
+je me rappelle
+<Sync time="74.762"/>
+pas maintenant mais si si si j'entendais le nom ça ça me reviendrait
+<Sync time="79.309"/>
+euh
+<Sync time="79.93"/>
+vous n'avez pas par-là qui sont
+<Sync time="82.442"/>
+
+<Sync time="83.435"/>
+enfin de cette région-là ?
+</Turn>
+<Turn speaker="spk2" startTime="85.155" endTime="87.493">
+<Sync time="85.155"/>
+ben hein
+<Sync time="86.237"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="87.493" endTime="90.706">
+<Sync time="87.493"/>
+parce que tout ça les grandes marques bien sûr je connais mais
+</Turn>
+<Turn speaker="spk2" startTime="90.706" endTime="103.233">
+<Sync time="90.706"/>
+c'est bien compliqué tout ça non je euh 
+<Event desc="e" type="noise" extent="instantaneous"/>
+
+<Sync time="93.527"/>
+d- de par-là non
+<Sync time="95.001"/>
+
+<Event desc="conv" type="noise" extent="instantaneous"/>
+
+<Sync time="97.943"/>
+y a rien de à mon avis à à part Funel que je connais et que je n'ai pas Molinard
+</Turn>
+<Turn speaker="spk1" startTime="103.233" endTime="103.684">
+<Sync time="103.233"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="103.684" endTime="106.07">
+<Sync time="103.684"/>
+euh les autres euh
+</Turn>
+<Turn speaker="spk1" startTime="106.07" endTime="110.128">
+<Sync time="106.07"/>
+bon il faudrait que je lui écrive parce qu'elle est en Angleterre et elle m'avait demandé de chercher ça
+</Turn>
+<Turn speaker="spk2" startTime="110.128" endTime="110.558">
+<Sync time="110.128"/>
+oui
+</Turn>
+<Turn speaker="spk2 spk1" startTime="110.558" endTime="111.268">
+<Sync time="110.558"/>
+<Who nb="1"/>
+ben c'est peut-être mieux
+<Who nb="2"/>
+elle a
+</Turn>
+<Turn speaker="spk2" startTime="111.268" endTime="113.583">
+<Sync time="111.268"/>
+parce que vous allez chercher pour rien enfin je sais pas là
+</Turn>
+<Turn speaker="spk1" startTime="113.583" endTime="118.343">
+<Sync time="113.583"/>
+oui
+<Sync time="114.233"/>
+oui mais enfin je
+<Sync time="115.415"/>
+je voyais que vous aviez un bon magasin je me disais que peut-être vous connaissiez
+</Turn>
+<Turn speaker="spk1 spk2" startTime="118.343" endTime="119.088">
+<Sync time="118.343"/>
+<Who nb="1"/>
+le je-
+<Who nb="2"/>
+non
+</Turn>
+<Turn speaker="spk1" startTime="119.088" endTime="120.277">
+<Sync time="119.088"/>
+
+<Event desc="conv" type="noise" extent="instantaneous"/>
+
+<Sync time="119.909"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="120.277" endTime="127.614">
+<Sync time="120.277"/>
+
+<Event desc="conv" type="noise" extent="instantaneous"/>
+
+<Sync time="123.798"/>
+bon alors du coup
+<Sync time="124.65"/>
+que je pourrais vous ci- ci- citer
+<Sync time="126.431"/>
+parce que
+</Turn>
+<Turn speaker="spk1" startTime="127.614" endTime="129.595">
+<Sync time="127.614"/>
+non
+<Sync time="127.961"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="129.595" endTime="130.658">
+<Sync time="129.595"/>
+y en tellement
+</Turn>
+<Turn speaker="spk1" startTime="130.658" endTime="135.006">
+<Sync time="130.658"/>
+
+<Event desc="conv" type="noise" extent="instantaneous"/>
+
+<Sync time="131.431"/>
+oui oui d'accord
+<Sync time="132.704"/>
+
+<Event desc="conv" type="noise" extent="instantaneous"/>
+
+<Sync time="133.484"/>
+bon enfin je vous remercie monsieur
+</Turn>
+<Turn speaker="spk2" startTime="135.006" endTime="138.605">
+<Sync time="135.006"/>
+je vous en prie
+<Sync time="135.682"/>
+vous pouvez toujours passer s'il y a d'autres précisions
+</Turn>
+<Turn speaker="spk1" startTime="138.605" endTime="143.532">
+<Sync time="138.605"/>
+oui
+<Sync time="139.215"/>
+c'est ça
+<Sync time="140.203"/>
+au revoir monsieur
+<Sync time="140.746"/>
+merci
+<Sync time="141.721"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Administrateur" audio_filename="ESLO1_MAG_625" version="5" version_date="160513">
+<Speakers>
+<Speaker id="spk1" name="JSM" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="625VEN" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="117.563">
+<Turn startTime="0" endTime="4.726">
+
+</Turn>
+<Turn speaker="spk1" startTime="4.726" endTime="16.406">
+euh
+je cherche
+
+euh
+une sorte de biscotte
+euh spéciale
+
+euh pour euh
+les juifs
+
+je me demande si vous auriez 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="16.406" endTime="18.387">
+quelque chose
+ah elles sont là
+
+
+</Turn>
+<Turn speaker="spk1" startTime="18.387" endTime="23.856">
+c'est un enfin ça s'appelle 
+euh 
+
+en avez-vous peut-être dans le quartier ?
+</Turn>
+<Turn speaker="spk2 spk1" startTime="23.856" endTime="24.998">
+dans une maison de régime
+quelque chose que
+</Turn>
+<Turn speaker="spk2" startTime="24.998" endTime="26.697">
+peut-être
+
+</Turn>
+<Turn speaker="spk1" startTime="26.697" endTime="28.098">
+euh j'y suis déjà allé
+</Turn>
+<Turn speaker="spk1 spk2" startTime="28.098" endTime="29.379">
+et ils en avaient ils en ont
+ah bon ?
+</Turn>
+<Turn speaker="spk1" startTime="29.379" endTime="38.467">
+ils m'ont envoyé dans
+
+un
+tout près de euh
+je sais pas le quartier ici
+ils ont dit que peut-être que je trouverai
+
+vous en avez jamais entendu parler ?
+</Turn>
+<Turn speaker="spk2" startTime="38.467" endTime="42.927">
+non
+la maison de régime c'est rue de Bourgogne ?
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="42.927" endTime="44.6">
+c'est peut-être là que vous auriez dû aller non ?
+ah ouais ouais
+</Turn>
+<Turn speaker="spk1" startTime="44.6" endTime="48.742">
+la rue de Bourgogne
+ouais mais c'est
+enfin je je suis pas orléanais je
+
+</Turn>
+<Turn speaker="spk2" startTime="48.742" endTime="50.627">
+vous connaissez le magasin 
+ les galeries ?
+</Turn>
+<Turn speaker="spk2 spk1" startTime="50.627" endTime="52.459">
+les nouvelles galeries ?
+oui oui je vois où c'est oui
+</Turn>
+<Turn speaker="spk2" startTime="52.459" endTime="56.26">
+et bien c'est en par ici à droite
+
+</Turn>
+<Turn speaker="spk1" startTime="56.26" endTime="57.614">
+ah oui d'accord
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="57.614" endTime="62.897">
+alors peut-être que
+oui oui oui
+
+
+</Turn>
+<Turn speaker="spk1" startTime="62.897" endTime="65.951">
+et ce que vous avez là c'est 
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="65.951" endTime="68.689">
+euh des biscottes euh
+oh non c'est biscottes ordinaires
+
+
+</Turn>
+<Turn speaker="spk1" startTime="68.689" endTime="69.565">
+oui
+
+</Turn>
+<Turn speaker="spk2" startTime="69.565" endTime="73.388">
+Saint-Honoré Saint-Luc
+
+Grégoire
+</Turn>
+<Turn speaker="spk1" startTime="73.388" endTime="73.919">
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="73.919" endTime="75.3">
+non c'est pas spécial
+</Turn>
+<Turn speaker="spk1 spk2" startTime="75.3" endTime="78.884">
+c'est un peu c'est des biscottes euh
+ou alors j'ai sans sel
+
+
+</Turn>
+<Turn speaker="spk2" startTime="78.884" endTime="84.033">
+gluten c'est que sur commande j'en ai pas reçu non
+
+
+
+</Turn>
+<Turn speaker="spk1" startTime="84.033" endTime="102.961">
+hm
+
+oui oui
+
+euh je vais je vais essayer plusieurs enfin
+je je préfère essayer de 
+ ça parce que
+
+c'est 
+
+
+euh je recherche pour moi
+
+mes amis
+
+et alors euh
+
+alors on m'a demandé de préparer ça
+
+</Turn>
+<Turn speaker="spk2" startTime="102.961" endTime="104.725">
+mais ça peut-être en maison de régime 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="104.725" endTime="106.643">
+peut-être peut-être parce que c'est une spécialité 
+oui 
+</Turn>
+<Turn speaker="spk2" startTime="106.643" endTime="112.492">
+mais je sais pas
+
+je ne l'ai pas
+
+je l'ai plus
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="112.492" endTime="113.187">
+merci beaucoup
+au revoir
+</Turn>
+<Turn speaker="spk1" startTime="113.187" endTime="117.563">
+excusez-moi de vous déranger
+merci
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

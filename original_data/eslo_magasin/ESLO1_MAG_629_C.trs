@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Administrateur" audio_filename="ESLO1_MAG_629" version="6" version_date="160530">
+<Speakers>
+<Speaker id="spk1" name="629VEN" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="JSM" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="629LOC" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="629INC" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="176.737">
+<Turn startTime="0" endTime="12.372">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="12.372" endTime="18.373">
+<Sync time="12.372"/>
+bien
+<Sync time="12.763"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Sync time="13.62"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Sync time="14.47"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="18.373" endTime="19.143">
+<Sync time="18.373"/>
+bonsoir monsieur
+</Turn>
+<Turn speaker="spk1" startTime="19.143" endTime="19.647">
+<Sync time="19.143"/>
+bonsoir monsieur 
+</Turn>
+<Turn speaker="spk2" startTime="19.647" endTime="33.108">
+<Sync time="19.647"/>
+euh
+<Sync time="20.364"/>
+nous cherchons quelque chose 
+<Sync time="21.937"/>
+qui euh
+<Sync time="23.125"/>
+
+<Sync time="23.683"/>
+une sorte de biscotte 
+<Sync time="25.045"/>
+euh juif
+<Sync time="26.326"/>
+
+<Sync time="27.176"/>
+juive euh
+<Sync time="28.037"/>
+c'est
+<Sync time="28.541"/>
+c'est ça s'appelle matzo M A T Z O
+<Sync time="31.329"/>
+vous n'auriez pas quelque chose euh ?
+</Turn>
+<Turn speaker="spk1" startTime="33.108" endTime="50.248">
+<Sync time="33.108"/>
+non non non 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Sync time="35.683"/>
+j'ai que ça comme biscottes
+<Sync time="37.091"/>
+
+<Sync time="38.233"/>
+pour l'instant encore je vais retirer plusieurs marques 
+<Sync time="40.721"/>
+et puis je suis en
+<Sync time="41.631"/>
+en boulanger
+<Sync time="42.614"/>
+
+<Sync time="43.357"/>
+je suis en boulanger des fois oui
+<Sync time="44.884"/>
+
+<Sync time="45.389"/>
+ou moi j'ai que ça tu vois 
+<Sync time="46.551"/>
+Heudebert
+<Sync time="47.513"/>
+biscottes
+<Sync time="48.177"/>
+ou biscottes barrées
+<Sync time="49.265"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="50.248" endTime="51.098">
+<Sync time="50.248"/>
+euh et
+</Turn>
+<Turn speaker="spk1" startTime="51.098" endTime="60.55">
+<Sync time="51.098"/>
+et après c'est pain gr-
+<Sync time="52.321"/>
+pain grillé
+<Sync time="53.195"/>
+pour moi c'est pas pareil
+<Sync time="54.57"/>
+
+<Sync time="55.93"/>
+ah oui ça vous trouvez ça chez un boulanger
+<Sync time="57.895"/>
+vous avez regardé chez un boulanger là ?
+<Sync time="60.019"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="60.55" endTime="61.824">
+<Sync time="60.55"/>
+<Who nb="1"/>
+ils font les biscottes
+<Who nb="2"/>
+euh
+</Turn>
+<Turn speaker="spk2" startTime="61.824" endTime="67.772">
+<Sync time="61.824"/>
+oui ils font des ils font des biscottes euh
+<Sync time="63.967"/>
+on a demandé mais
+<Sync time="65.17"/>
+c'est quelque chose de d'assez spécialisé alors
+</Turn>
+<Turn speaker="spk1" startTime="67.772" endTime="71.596">
+<Sync time="67.772"/>
+ah 
+oui
+<Sync time="68.703"/>
+
+<Sync time="69.951"/>
+ah oui oui oui bon ben ça devra être
+</Turn>
+<Turn speaker="spk2 spk1" startTime="71.596" endTime="73.455">
+<Sync time="71.596"/>
+<Who nb="1"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+oh y a tellement de marques
+</Turn>
+<Turn speaker="spk1" startTime="73.455" endTime="89.453">
+<Sync time="73.455"/>
+enfin habituellement les boulangers c'est vrai ils sont beaucoup
+<Sync time="76.296"/>
+apparemment je suis le seul 
+<Sync time="77.374"/>
+et 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Sync time="78.686"/>
+aujourd'hui les Heudebert c'est des vieilles marques 
+<Sync time="81.182"/>
+alors après le pain est grillé 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Sync time="83.678"/>
+
+<Sync time="84.368"/>
+ah oui je vois pas
+<Sync time="85.802"/>
+
+<Sync time="87.076"/>
+je vois pas où est-ce qu'ils peuvent être
+<Sync time="88.975"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="89.453" endTime="95.081">
+<Sync time="89.453"/>
+et
+<Sync time="90.143"/>
+
+<Sync time="93.223"/>
+dans la rue de Bourgogne vous voyez pas ?
+</Turn>
+<Turn speaker="spk1" startTime="95.081" endTime="105.994">
+<Sync time="95.081"/>
+oui
+<Sync time="95.294"/>
+parce que là y en a deux boulangers l'un en face de l'autre et un peu plus bas et y en a un qui fait
+<Sync time="99.489"/>
+qui fait le pâtissier lui il est peut-être un peu plus achalandé lui
+<Sync time="102.675"/>
+je ne sais pas qu'est-ce qu'ils font
+<Sync time="104.746"/>
+je sais pas du tout qu'est-ce qu'ils font
+</Turn>
+<Turn speaker="spk1 spk3" startTime="105.994" endTime="110.192">
+<Sync time="105.994"/>
+<Who nb="1"/>
+je peux pas vous
+
+<Who nb="2"/>
+monsieur NPERS il est là un peu
+<Sync time="108.214"/>
+<Who nb="1"/>
+qu'est-ce que vous voulez comme euh ?
+
+<Who nb="2"/>
+monsieur NPERS
+</Turn>
+<Turn speaker="spk2" startTime="110.192" endTime="115.976">
+<Sync time="110.192"/>
+c'est euh
+<Sync time="111.357"/>
+
+<Sync time="111.702"/>
+ça s'appelle matzo
+<Sync time="112.764"/>
+c'est M A T Z O
+<Sync time="114.171"/>
+c'est une spécialité juive
+</Turn>
+<Turn speaker="spk3" startTime="115.976" endTime="116.849">
+<Sync time="115.976"/>
+ah bon ?
+</Turn>
+<Turn speaker="spk2" startTime="116.849" endTime="119.534">
+<Sync time="116.849"/>
+et on nous avait dit que peut-être
+</Turn>
+<Turn speaker="spk1" startTime="119.534" endTime="122.145">
+<Sync time="119.534"/>
+alors il faudrait certainement une maison de régime
+</Turn>
+<Turn speaker="spk2" startTime="122.145" endTime="122.826">
+<Sync time="122.145"/>
+ah oui ?
+</Turn>
+<Turn speaker="spk1" startTime="122.826" endTime="131.933">
+<Sync time="122.826"/>
+une maison de régime peut-être encore ça
+<Sync time="125.03"/>
+une spécialité si c'est une spécialité un peu régime
+<Sync time="128.11"/>
+hein y a une maison de régime y en a une dans le bout de la rue là-bas mais
+</Turn>
+<Turn speaker="spk3" startTime="131.933" endTime="135.12">
+<Sync time="131.933"/>
+oui mais ici y en a à 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ aussi hein
+<Sync time="133.791"/>
+à l'autre bout hein
+<Sync time="134.668"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="135.12" endTime="143.51">
+<Sync time="135.12"/>
+et puis je me demande si y en a pas une autre
+<Sync time="136.364"/>
+vers à côté des galeries
+<Sync time="137.987"/>
+
+<Sync time="139.368"/>
+tu connais pas le maire oui
+<Sync time="140.241"/>
+ben une maison de régime
+<Sync time="141.253"/>
+y en a ben vous demandez une maison de régime
+</Turn>
+<Turn speaker="spk3" startTime="143.51" endTime="143.855">
+<Sync time="143.51"/>
+ou alors
+</Turn>
+<Turn speaker="spk1 spk3" startTime="143.855" endTime="144.997">
+<Sync time="143.855"/>
+<Who nb="1"/>
+oui de régime
+<Who nb="2"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="144.997" endTime="147.997">
+<Sync time="144.997"/>
+dans le faubourg dans le faubourg bourgogne
+<Sync time="146.829"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="147.997" endTime="151.038">
+<Sync time="147.997"/>
+hm
+<Sync time="148.543"/>
+c'est encore plus loin par là 
+<Sync time="150.033"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="151.038" endTime="156.109">
+<Sync time="151.038"/>
+oui
+<Sync time="151.383"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Sync time="152.472"/>
+oui à cette heure-ci
+<Sync time="153.34"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ les magasins ils ferment de bonne heure
+</Turn>
+<Turn speaker="spk3" startTime="156.109" endTime="164.764">
+<Sync time="156.109"/>
+oui il ferme à il ferme à huit heures lui aussi
+<Sync time="158.521"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Sync time="159.261"/>
+
+<Event desc="conv" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="164.764" endTime="165.906">
+<Sync time="164.764"/>
+je vous remercie beaucoup monsieur
+</Turn>
+<Turn speaker="spk3" startTime="165.906" endTime="176.737">
+<Sync time="165.906"/>
+au revoir monsieur
+<Sync time="166.894"/>
+
+<Event desc="nontrans" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

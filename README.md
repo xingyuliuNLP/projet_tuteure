@@ -14,7 +14,7 @@ Etat 02/02
 |-------------------|----------|--------------------------|
 - eslo_repas 968 (questions 100% spontanées)
 > Enregistrements lors de repas
-- eslo_magasin
+- eslo_magasin 76 (questions 100% spontanées)
 > Enregistrement (sur le vif) lors d’achats de produits plus ou moins exotiques dans des magasins orléanais
 - eslo_interview 980
 > Discussion en face à face entre un (ou plusieurs) chercheur(s) et un locuteur considéré comme une personnalité d’Orléans dans les domaines de l’éducation, l’industrie, le syndicalisme, la politique ou la culture

@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Administrateur" audio_filename="ESLO1_MAG_625" version="5" version_date="160513">
+<Speakers>
+<Speaker id="spk1" name="JSM" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="625VEN" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="117.563">
+<Turn startTime="0" endTime="4.726">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="4.726" endTime="16.406">
+<Sync time="4.726"/>
+euh
+<Sync time="5.177"/>
+je cherche
+<Sync time="6.106"/>
+
+<Sync time="7.088"/>
+euh
+<Sync time="8.071"/>
+une sorte de biscotte
+<Sync time="9.956"/>
+euh spéciale
+<Sync time="11.204"/>
+
+<Sync time="11.841"/>
+euh pour euh
+<Sync time="13.646"/>
+les juifs
+<Sync time="14.643"/>
+
+<Sync time="15.186"/>
+je me demande si vous auriez 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="16.406" endTime="18.387">
+<Sync time="16.406"/>
+<Who nb="1"/>
+quelque chose
+<Who nb="2"/>
+ah elles sont là
+<Sync time="17.583"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="18.387" endTime="23.856">
+<Sync time="18.387"/>
+c'est un enfin ça s'appelle 
+<Sync time="19.653"/>
+euh 
+<Event desc="pi" type="pronounce" extent="previous"/>
+
+<Sync time="21.99"/>
+en avez-vous peut-être dans le quartier ?
+</Turn>
+<Turn speaker="spk2 spk1" startTime="23.856" endTime="24.998">
+<Sync time="23.856"/>
+<Who nb="1"/>
+dans une maison de régime
+<Who nb="2"/>
+quelque chose que
+</Turn>
+<Turn speaker="spk2" startTime="24.998" endTime="26.697">
+<Sync time="24.998"/>
+peut-être
+<Sync time="25.609"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="26.697" endTime="28.098">
+<Sync time="26.697"/>
+euh j'y suis déjà allé
+</Turn>
+<Turn speaker="spk1 spk2" startTime="28.098" endTime="29.379">
+<Sync time="28.098"/>
+<Who nb="1"/>
+et ils en avaient ils en ont
+<Who nb="2"/>
+ah bon ?
+</Turn>
+<Turn speaker="spk1" startTime="29.379" endTime="38.467">
+<Sync time="29.379"/>
+ils m'ont envoyé dans
+<Sync time="30.494"/>
+
+<Sync time="31.291"/>
+un
+<Sync time="31.716"/>
+tout près de euh
+<Sync time="33.123"/>
+je sais pas le quartier ici
+<Sync time="34.583"/>
+ils ont dit que peut-être que je trouverai
+<Sync time="36.422"/>
+
+<Sync time="37.154"/>
+vous en avez jamais entendu parler ?
+</Turn>
+<Turn speaker="spk2" startTime="38.467" endTime="42.927">
+<Sync time="38.467"/>
+non
+<Sync time="39.104"/>
+la maison de régime c'est rue de Bourgogne ?
+<Sync time="41.673"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="42.927" endTime="44.6">
+<Sync time="42.927"/>
+<Who nb="1"/>
+c'est peut-être là que vous auriez dû aller non ?
+<Who nb="2"/>
+ah ouais ouais
+</Turn>
+<Turn speaker="spk1" startTime="44.6" endTime="48.742">
+<Sync time="44.6"/>
+la rue de Bourgogne
+<Sync time="45.37"/>
+ouais mais c'est
+<Sync time="46.405"/>
+enfin je je suis pas orléanais je
+<Sync time="48.237"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="48.742" endTime="50.627">
+<Sync time="48.742"/>
+vous connaissez le magasin 
+<Event desc="malgasin" type="pronounce" extent="instantaneous"/>
+ les galeries ?
+</Turn>
+<Turn speaker="spk2 spk1" startTime="50.627" endTime="52.459">
+<Sync time="50.627"/>
+<Who nb="1"/>
+les nouvelles galeries ?
+<Who nb="2"/>
+oui oui je vois où c'est oui
+</Turn>
+<Turn speaker="spk2" startTime="52.459" endTime="56.26">
+<Sync time="52.459"/>
+et bien c'est en par ici à droite
+<Sync time="54.959"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="56.26" endTime="57.614">
+<Sync time="56.26"/>
+ah oui d'accord
+<Sync time="57.003"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="57.614" endTime="62.897">
+<Sync time="57.614"/>
+<Who nb="1"/>
+alors peut-être que
+<Who nb="2"/>
+oui oui oui
+<Sync time="59.101"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="62.897" endTime="65.951">
+<Sync time="62.897"/>
+et ce que vous avez là c'est 
+<Sync time="64.968"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="65.951" endTime="68.689">
+<Sync time="65.951"/>
+<Who nb="1"/>
+euh des biscottes euh
+<Who nb="2"/>
+oh non c'est biscottes ordinaires
+<Sync time="68.238"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="68.689" endTime="69.565">
+<Sync time="68.689"/>
+oui
+<Sync time="69.111"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="69.565" endTime="73.388">
+<Sync time="69.565"/>
+Saint-Honoré Saint-Luc
+<Sync time="71.318"/>
+
+<Sync time="72.061"/>
+Grégoire
+</Turn>
+<Turn speaker="spk1" startTime="73.388" endTime="73.919">
+<Sync time="73.388"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="73.919" endTime="75.3">
+<Sync time="73.919"/>
+non c'est pas spécial
+</Turn>
+<Turn speaker="spk1 spk2" startTime="75.3" endTime="78.884">
+<Sync time="75.3"/>
+<Who nb="1"/>
+c'est un peu c'est des biscottes euh
+<Who nb="2"/>
+ou alors j'ai sans sel
+<Sync time="78.167"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="78.884" endTime="84.033">
+<Sync time="78.884"/>
+gluten c'est que sur commande j'en ai pas reçu non
+<Sync time="81.831"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="82.371"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="84.033" endTime="102.961">
+<Sync time="84.033"/>
+hm
+<Sync time="84.404"/>
+
+<Sync time="84.799"/>
+oui oui
+<Sync time="85.673"/>
+
+<Sync time="87.035"/>
+euh je vais je vais essayer plusieurs enfin
+<Sync time="88.761"/>
+je je préfère essayer de 
+<Event desc="pi" type="pronounce" extent="previous"/>
+ ça parce que
+<Sync time="91.147"/>
+
+<Sync time="91.784"/>
+c'est 
+<Event desc="pf" type="noise" extent="instantaneous"/>
+
+<Sync time="93.128"/>
+
+<Sync time="93.43"/>
+euh je recherche pour moi
+<Sync time="94.731"/>
+
+<Sync time="96.032"/>
+mes amis
+<Sync time="96.935"/>
+
+<Sync time="98.634"/>
+et alors euh
+<Sync time="100.273"/>
+
+<Sync time="100.572"/>
+alors on m'a demandé de préparer ça
+<Sync time="102.51"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="102.961" endTime="104.725">
+<Sync time="102.961"/>
+mais ça peut-être en maison de régime 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="104.725" endTime="106.643">
+<Sync time="104.725"/>
+<Who nb="1"/>
+peut-être peut-être parce que c'est une spécialité 
+<Who nb="2"/>
+oui 
+</Turn>
+<Turn speaker="spk2" startTime="106.643" endTime="112.492">
+<Sync time="106.643"/>
+mais je sais pas
+<Sync time="107.448"/>
+
+<Sync time="108.722"/>
+je ne l'ai pas
+<Sync time="109.545"/>
+
+<Sync time="110.855"/>
+je l'ai plus
+<Sync time="111.629"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="112.492" endTime="113.187">
+<Sync time="112.492"/>
+<Who nb="1"/>
+merci beaucoup
+<Who nb="2"/>
+au revoir
+</Turn>
+<Turn speaker="spk1" startTime="113.187" endTime="117.563">
+<Sync time="113.187"/>
+excusez-moi de vous déranger
+<Sync time="114.514"/>
+merci
+<Sync time="114.971"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>
