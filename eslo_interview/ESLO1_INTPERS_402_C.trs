@@ -1,0 +1,6913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Marion LEFAUCHEUX" audio_filename="ESLO1_INTPERS_402" version="9" version_date="130628">
+<Speakers>
+<Speaker id="spk1" name="PB" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="401PERS" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="3844.424">
+<Turn startTime="0" endTime="1.695" speaker="spk1">
+<Sync time="0"/>
+
+<Sync time="0.891"/>
+alors monsieur
+</Turn>
+<Turn speaker="spk2" startTime="1.695" endTime="19.554">
+<Sync time="1.695"/>
+alors je suis donc le directeur
+<Sync time="4.499"/>
+de l'enseignement
+<Sync time="5.844"/>
+catholique
+<Sync time="6.774"/>
+
+<Sync time="7.062"/>
+du diocèse
+<Sync time="8.08"/>
+d'Orléans
+<Sync time="9.051"/>
+
+<Sync time="9.765"/>
+je m'appelle
+<Sync time="10.651"/>
+
+<Sync time="10.878"/>
+le chanoine Michel Quartier
+<Sync time="13.118"/>
+
+<Sync time="13.67"/>
+et c'est à ce titre euh
+<Sync time="15.381"/>
+de l'enseignement catholique
+<Sync time="17.1"/>
+
+<Sync time="17.326"/>
+que vous venez donc 
+<Sync time="18.375"/>
+m'interviewer
+<Sync time="19.265"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="19.554" endTime="21.727">
+<Sync time="19.554"/>
+oui c'est cela
+<Sync time="20.425"/>
+oui
+<Sync time="20.983"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="21.727" endTime="59.482">
+<Sync time="21.727"/>
+parmi toutes les questions que vous m'avez posées
+<Sync time="24.433"/>
+
+<Sync time="25.467"/>
+je ne pourrai certainement
+<Sync time="26.963"/>
+en retenir
+<Sync time="28.182"/>
+
+<Sync time="28.428"/>
+que
+<Sync time="28.778"/>
+quelques-unes
+<Sync time="29.752"/>
+
+<Sync time="32.05"/>
+le thème principal
+<Sync time="34.014"/>
+qui est
+<Sync time="34.673"/>
+l'enseignement catholique euh
+<Sync time="36.353"/>
+à Orléans
+<Sync time="37.405"/>
+
+<Sync time="38.419"/>
+est trop vaste
+<Sync time="40.034"/>
+
+<Sync time="40.424"/>
+pour que nous abordions
+<Sync time="42.014"/>
+
+<Sync time="43.054"/>
+tous ses aspects
+<Sync time="44.316"/>
+
+<Sync time="45.019"/>
+en l'espace euh d'une heure
+<Sync time="47.004"/>
+
+<Sync time="48.973"/>
+mais je voudrais
+<Sync time="50.434"/>
+d'abord
+<Sync time="51.238"/>
+répondre à votre première question
+<Sync time="53.385"/>
+
+<Sync time="53.673"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="54.061"/>
+comment
+<Sync time="54.846"/>
+fonctionne
+<Sync time="55.818"/>
+
+<Sync time="56.626"/>
+cet enseignement catholique
+<Sync time="58.118"/>
+dans le diocèse ?
+<Sync time="59.132"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="59.482" endTime="62.734">
+<Sync time="59.482"/>
+c'est cela
+<Sync time="60.288"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="62.734" endTime="284.999">
+<Sync time="62.734"/>
+il faudrait le prendre à ses différents niveaux
+<Sync time="64.897"/>
+
+<Sync time="65.474"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="66.011"/>
+depuis la base
+<Sync time="67.359"/>
+
+<Sync time="67.772"/>
+jusqu'au sommet
+<Sync time="68.889"/>
+
+<Sync time="70.697"/>
+au niveau de la base
+<Sync time="71.943"/>
+c'est-à-dire
+<Sync time="72.88"/>
+au niveau de l'établissement
+<Sync time="74.412"/>
+au niveau de l'école
+<Sync time="75.719"/>
+
+<Sync time="77.172"/>
+nous avons des conseils
+<Sync time="78.814"/>
+
+<Sync time="79.373"/>
+de parents
+<Sync time="80.363"/>
+
+<Sync time="81.065"/>
+ou d'anciens
+<Sync time="81.998"/>
+
+<Sync time="83.813"/>
+auxquels se joignent
+<Sync time="85.282"/>
+
+<Sync time="85.53"/>
+des maîtres
+<Sync time="86.522"/>
+et évidemment le chef de l'établissement
+<Sync time="88.801"/>
+
+<Sync time="89.276"/>
+les aumôniers
+<Sync time="90.38"/>
+
+<Sync time="91.353"/>
+qui sont des conseils d'établissement
+<Sync time="93.437"/>
+
+<Sync time="94.459"/>
+et dont la mission
+<Sync time="95.452"/>
+
+<Sync time="96.076"/>
+est d'assurer
+<Sync time="97.059"/>
+
+<Sync time="97.369"/>
+la vitalité de l'école
+<Sync time="98.966"/>
+
+<Sync time="99.669"/>
+c'est entre les mains des parents
+<Sync time="101.479"/>
+
+<Sync time="103.094"/>
+qu'est remis
+<Sync time="104.004"/>
+
+<Sync time="104.521"/>
+le sort
+<Sync time="105.351"/>
+de l'établissement
+<Sync time="106.453"/>
+
+<Sync time="107.28"/>
+soit parents actuels
+<Sync time="108.847"/>
+
+<Sync time="109.489"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="109.673"/>
+soit parents 
+<Sync time="110.356"/>
+anciens
+<Sync time="111.045"/>
+
+<Sync time="112.369"/>
+et
+<Sync time="112.741"/>
+également
+<Sync time="113.572"/>
+entre les mains
+<Sync time="114.634"/>
+
+<Sync time="114.861"/>
+du chef d'établissement le premier intéressé
+<Sync time="117.734"/>
+et de ses maîtres
+<Sync time="118.638"/>
+
+<Sync time="121.02"/>
+ces conseils de parents
+<Sync time="122.678"/>
+
+<Sync time="123.816"/>
+ont trois objets
+<Sync time="125.325"/>
+
+<Sync time="125.677"/>
+particuliers
+<Sync time="126.503"/>
+
+<Sync time="127.858"/>
+ou bien
+<Sync time="128.457"/>
+
+<Sync time="130.608"/>
+ils sont chargés 
+<Sync time="131.951"/>
+de la gestion de l'établissement
+<Sync time="133.689"/>
+ce sont des questions 
+<Sync time="134.625"/>
+purement matérielles
+<Sync time="135.796"/>
+
+<Sync time="136.632"/>
+de bâtiment
+<Sync time="137.589"/>
+
+<Sync time="137.863"/>
+de traitement
+<Sync time="138.795"/>
+
+<Sync time="139.311"/>
+d'achat de matériel pour la pédagogie
+<Sync time="141.57"/>
+
+<Sync time="142.153"/>
+c'est ce qu'on appelle l'organisme financier
+<Sync time="143.938"/>
+
+<Sync time="145.463"/>
+dans notre langage
+<Sync time="146.743"/>
+juridique français nous appelons ces groupes
+<Sync time="149.105"/>
+
+<Sync time="149.372"/>
+des associations
+<Sync time="150.593"/>
+d'éducation
+<Sync time="151.448"/>
+populaire
+<Sync time="152.219"/>
+
+<Sync time="152.528"/>
+en abrégé
+<Sync time="153.521"/>
+A
+<Sync time="154.101"/>
+E
+<Sync time="154.784"/>
+P
+<Sync time="155.18"/>
+
+<Sync time="156.76"/>
+dont le rôle
+<Sync time="157.485"/>
+est essentiellement
+<Sync time="158.609"/>
+un rôle administratif et financier
+<Sync time="160.914"/>
+
+<Sync time="162.631"/>
+il y a ensuite un
+<Sync time="163.646"/>
+
+<Sync time="164.774"/>
+des groupements
+<Sync time="165.939"/>
+
+<Sync time="166.29"/>
+qui sont spécifiquement
+<Sync time="167.804"/>
+constitués
+<Sync time="168.572"/>
+de parents
+<Sync time="169.317"/>
+
+<Sync time="170.745"/>
+que nous appelons dans notre langage
+<Sync time="172.937"/>
+
+<Sync time="173.354"/>
+les Apel
+<Sync time="174.347"/>
+c'est-à-dire
+<Sync time="175.34"/>
+association
+<Sync time="176.559"/>
+des parents
+<Sync time="177.408"/>
+de l'enseignement
+<Sync time="178.301"/>
+libre
+<Sync time="178.818"/>
+
+<Sync time="180.033"/>
+la mission des APEL
+<Sync time="181.463"/>
+
+<Sync time="182.53"/>
+est de s'occuper de
+<Sync time="184.083"/>
+l'éducation des enfants
+<Sync time="185.417"/>
+
+<Sync time="186.936"/>
+tout ce qui concerne
+<Sync time="188.211"/>
+
+<Sync time="188.813"/>
+la tâche essentielle de l'école
+<Sync time="190.945"/>
+
+<Sync time="191.69"/>
+c'est-à-dire
+<Sync time="192.511"/>
+
+<Sync time="193.131"/>
+l'instruction
+<Sync time="194.131"/>
+
+<Sync time="194.576"/>
+et l'éducation
+<Sync time="195.581"/>
+
+<Sync time="196.469"/>
+relève
+<Sync time="197.429"/>
+de l'association de parents d'élèves
+<Sync time="199.228"/>
+
+<Sync time="199.91"/>
+cette association de parents d'élèves travaille évidemment 
+<Sync time="202.476"/>
+très étroitement
+<Sync time="203.346"/>
+
+<Sync time="203.636"/>
+avec 
+<Sync time="204.154"/>
+les parents
+<Sync time="204.838"/>
+et le directeur
+<Sync time="206.005"/>
+
+<Sync time="206.986"/>
+car il ne peut pas y avoir
+<Sync time="208.852"/>
+une école
+<Sync time="209.682"/>
+
+<Sync time="210.833"/>
+si parents
+<Sync time="211.893"/>
+
+<Sync time="212.435"/>
+et maîtres
+<Sync time="213.355"/>
+travaillent chacun 
+<Sync time="214.385"/>
+de leur côté
+<Sync time="215.297"/>
+
+<Sync time="216.022"/>
+ce qui fait l'originalité d'une école chrétienne 
+<Sync time="218.625"/>
+c'est cette communauté éducative
+<Sync time="221.134"/>
+
+<Sync time="221.465"/>
+selon le terme que le co- le
+<Sync time="222.893"/>
+congrès de Lyon en mille neuf cent soixante-sept
+<Sync time="225.258"/>
+
+<Sync time="225.627"/>
+a défini
+<Sync time="226.498"/>
+
+<Sync time="227.203"/>
+communauté éducative
+<Sync time="228.867"/>
+de tous ceux qui
+<Sync time="230.017"/>
+à un point de vue ou à un autre ont la responsabilité de l'enfant
+<Sync time="233.33"/>
+
+<Sync time="234.102"/>
+une école chrétienne n'est pas faite d'individus qui sont juxtaposés les uns à côté des autres et qui travaillent avec des opinions personnelles
+<Sync time="241.038"/>
+
+<Sync time="241.512"/>
+une école chrétienne 
+<Sync time="242.627"/>
+c'est l'oeuvre 
+<Sync time="243.442"/>
+d'une association d'individus qui travaillent ensemble
+<Sync time="246.466"/>
+dans une même
+<Sync time="247.462"/>
+
+<Sync time="247.751"/>
+voie
+<Sync time="248.219"/>
+
+<Sync time="248.467"/>
+pour un même but
+<Sync time="249.608"/>
+
+<Sync time="249.936"/>
+qui est la formation chrétienne des jeunes
+<Sync time="251.607"/>
+
+<Sync time="252.766"/>
+ce n'est pas tellement ce qui peut être dit par tel ou tel maître
+<Sync time="255.875"/>
+
+<Sync time="256.247"/>
+qui peut
+<Sync time="256.929"/>
+
+<Sync time="257.259"/>
+orienter
+<Sync time="258.197"/>
+les jeunes
+<Sync time="259.177"/>
+dans son éducation
+<Sync time="260.425"/>
+
+<Sync time="260.868"/>
+c'est
+<Sync time="261.168"/>
+l'atmosphère
+<Sync time="261.955"/>
+qui est respirée
+<Sync time="262.972"/>
+
+<Sync time="263.55"/>
+dans un climat
+<Sync time="264.671"/>
+
+<Sync time="265.228"/>
+où
+<Sync time="265.829"/>
+euh
+<Sync time="266.412"/>
+ensemble
+<Sync time="267.284"/>
+on a la même foi la même manière de concevoir
+<Sync time="270.542"/>
+la destinée humaine
+<Sync time="272.138"/>
+
+<Sync time="272.552"/>
+la même foi
+<Sync time="273.671"/>
+en notre seigneur Jésus-Christ
+<Sync time="275.212"/>
+
+<Sync time="275.647"/>
+et aussi
+<Sync time="276.442"/>
+
+<Sync time="276.883"/>
+euh dans
+<Sync time="277.964"/>
+la manière de se comporter
+<Sync time="280.089"/>
+
+<Sync time="281.908"/>
+hm
+<Sync time="282.177"/>
+attendez il faudrait
+<Sync time="282.862"/>
+vous pouvez effacer ?
+<Sync time="283.754"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="284.999" endTime="286.714">
+<Sync time="284.999"/>
+ou- oui on peut effacer après
+</Turn>
+<Turn speaker="spk1 spk2" startTime="286.714" endTime="288.345">
+<Sync time="286.714"/>
+<Who nb="1"/>
+c'est c'est 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+non parce que ma phrase n'est pas française
+</Turn>
+<Turn speaker="spk2" startTime="288.345" endTime="288.968">
+<Sync time="288.345"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="288.968" endTime="295.238">
+<Sync time="288.968"/>
+ah oui mais vous n'avez 
+<Event desc="rire en fond" type="noise" extent="instantaneous"/>
+
+<Sync time="289.942"/>
+qu'à recommencer puis on peut 
+<Sync time="291.62"/>
+on peut ent-
+<Sync time="292.26"/>
+ensuite euh effacer
+<Sync time="293.985"/>
+
+<Sync time="294.28"/>
+c'est plus facile 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="295.238" endTime="296.016">
+<Sync time="295.238"/>
+<Who nb="1"/>
+que de retrouver 
+<Who nb="2"/>
+et
+</Turn>
+<Turn speaker="spk1" startTime="296.016" endTime="297.785">
+<Sync time="296.016"/>
+maintenant le début de la phrase
+</Turn>
+<Turn speaker="spk2" startTime="297.785" endTime="298.701">
+<Sync time="297.785"/>
+c'est plus facile ?
+</Turn>
+<Turn speaker="spk2 spk1" startTime="298.701" endTime="299.01">
+<Sync time="298.701"/>
+<Who nb="1"/>
+bon
+<Who nb="2"/>
+c'est plus
+</Turn>
+<Turn speaker="spk1" startTime="299.01" endTime="301.72">
+<Sync time="299.01"/>
+beaucoup plus facile 
+<Sync time="299.716"/>
+oui v- je vous assure
+<Sync time="300.625"/>
+qu'on peut très facilement 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="301.72" endTime="304.26">
+<Sync time="301.72"/>
+<Who nb="1"/>
+couper la la bande après
+<Who nb="2"/>
+bon alors il faudra reprendre
+</Turn>
+<Turn speaker="spk2" startTime="304.26" endTime="307.001">
+<Sync time="304.26"/>
+à partir du moment
+<Sync time="305.112"/>
+où j'ai défini le rôle des Apel
+</Turn>
+<Turn speaker="spk1" startTime="307.001" endTime="307.458">
+<Sync time="307.001"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="307.458" endTime="313.605">
+<Sync time="307.458"/>
+parce que 
+<Sync time="307.934"/>
+comme vous voulez 
+<Sync time="308.623"/>
+que nous fassions en même temps
+<Sync time="309.913"/>
+
+<Sync time="310.204"/>
+une édition euh
+<Sync time="311.464"/>
+pour le français
+<Sync time="312.26"/>
+
+<Sync time="312.675"/>
+euh
+</Turn>
+<Turn speaker="spk1 spk2" startTime="313.605" endTime="317.424">
+<Sync time="313.605"/>
+<Who nb="1"/>
+oh non je vous ass- non
+<Who nb="2"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Sync time="314.661"/>
+<Who nb="1"/>
+on ne va pas vous prendre comme euh
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="315.927"/>
+<Who nb="1"/>
+comme modèle nécessairement
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="317.424" endTime="319.42">
+<Sync time="317.424"/>
+du du français parlé d'aujourd'hui
+</Turn>
+<Turn speaker="spk1 spk2" startTime="319.42" endTime="326.584">
+<Sync time="319.42"/>
+<Who nb="1"/>
+si vous préférez ah oui
+<Who nb="2"/>
+parce qu'il y a une faute une faute de français 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Sync time="321.625"/>
+<Who nb="1"/>
+ah c'est peut-être mieux
+<Who nb="2"/>
+alors
+<Sync time="322.68"/>
+<Who nb="1"/>
+parce que 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+alors je reprends
+<Sync time="323.654"/>
+<Who nb="1"/>
+les Français font quand même des fautes de français
+<Who nb="2"/>
+j- je reprends
+</Turn>
+<Turn speaker="spk1" startTime="326.584" endTime="327.106">
+<Sync time="326.584"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="327.106" endTime="328.631">
+<Sync time="327.106"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ à la définition de l'Apel
+</Turn>
+<Turn speaker="spk1" startTime="328.631" endTime="329.398">
+<Sync time="328.631"/>
+oui
+<Sync time="328.963"/>
+bon
+</Turn>
+<Turn speaker="spk2" startTime="329.398" endTime="332.021">
+<Sync time="329.398"/>
+le groupe de parents
+<Sync time="330.585"/>
+
+<Sync time="331.788"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="332.021" endTime="332.873">
+<Sync time="332.021"/>
+<Who nb="1"/>
+et je note
+<Who nb="2"/>
+qui euh
+</Turn>
+<Turn speaker="spk2" startTime="332.873" endTime="576.058">
+<Sync time="332.873"/>
+constitue
+<Sync time="333.6"/>
+ce que nous appelons
+<Sync time="334.431"/>
+l'Apel
+<Sync time="335.05"/>
+c'est-à-dire
+<Sync time="335.794"/>
+l'association de parents d'élèves de l'enseignement libre
+<Sync time="338.408"/>
+
+<Sync time="338.721"/>
+ce groupe
+<Sync time="339.495"/>
+
+<Sync time="339.752"/>
+a pour but
+<Sync time="340.498"/>
+essentiel
+<Sync time="341.61"/>
+
+<Sync time="343.725"/>
+l'éducation
+<Sync time="344.759"/>
+
+<Sync time="345.301"/>
+des jeunes
+<Sync time="346.074"/>
+
+<Sync time="346.549"/>
+qui sont confiés à l'école
+<Sync time="347.617"/>
+
+<Sync time="348.547"/>
+il ne s'agit plus ici
+<Sync time="349.855"/>
+de question de bâtiment 
+<Sync time="350.976"/>
+de question d'argent ou de question de finances
+<Sync time="353.12"/>
+
+<Sync time="353.388"/>
+il s'agit
+<Sync time="354.168"/>
+de ce pourquoi l'école est faite
+<Sync time="356.27"/>
+
+<Sync time="356.808"/>
+c'est-à-dire
+<Sync time="357.496"/>
+
+<Sync time="357.743"/>
+la constitution
+<Sync time="358.783"/>
+
+<Sync time="359.404"/>
+d'une 
+<Sync time="359.713"/>
+communauté
+<Sync time="360.503"/>
+éducative
+<Sync time="361.518"/>
+
+<Sync time="361.931"/>
+dans laquelle
+<Sync time="362.658"/>
+
+<Sync time="362.781"/>
+parents
+<Sync time="363.263"/>
+
+<Sync time="363.469"/>
+maîtres
+<Sync time="364.129"/>
+et enfants
+<Sync time="364.969"/>
+partageant
+<Sync time="365.659"/>
+une même cons-
+<Sync time="366.345"/>
+une même conception de la vie
+<Sync time="368.007"/>
+qui pour nous est la vie chrétienne
+<Sync time="369.559"/>
+
+<Sync time="372.314"/>
+donc une communauté
+<Sync time="373.23"/>
+éducative
+<Sync time="374.292"/>
+
+<Sync time="374.624"/>
+et qui se chargera de
+<Sync time="376.202"/>
+créer
+<Sync time="376.803"/>
+le climat
+<Sync time="377.822"/>
+
+<Sync time="378.382"/>
+de vie évangélique
+<Sync time="379.509"/>
+tel que nous devrions le concevoir 
+<Sync time="381.266"/>
+pour le plus parfait épanouissement des jeunes
+<Sync time="383.083"/>
+
+<Sync time="385.683"/>
+une école chrétienne n'est pas
+<Sync time="387.238"/>
+f- faite
+<Sync time="387.982"/>
+d'éléments juxtaposés
+<Sync time="389.591"/>
+
+<Sync time="390.465"/>
+qui par hasard
+<Sync time="391.828"/>
+
+<Sync time="392.453"/>
+partagent une même foi
+<Sync time="393.979"/>
+
+<Sync time="395.308"/>
+ce sont
+<Sync time="396.115"/>
+
+<Sync time="396.612"/>
+des parents
+<Sync time="397.426"/>
+
+<Sync time="398.006"/>
+qui
+<Sync time="398.484"/>
+
+<Sync time="399.459"/>
+parce que
+<Sync time="400.391"/>
+ils partagent
+<Sync time="401.268"/>
+une même foi
+<Sync time="402.2"/>
+et une même conception de la vie
+<Sync time="403.822"/>
+
+<Sync time="404.05"/>
+veulent organiser
+<Sync time="405.256"/>
+
+<Sync time="405.737"/>
+un établissement dans lequel le climat
+<Sync time="407.892"/>
+
+<Sync time="410.586"/>
+climat
+<Sync time="411.147"/>
+
+<Sync time="411.372"/>
+doit être
+<Sync time="412.08"/>
+
+<Sync time="412.266"/>
+devrait être
+<Sync time="413.274"/>
+
+<Sync time="413.5"/>
+voudrait être
+<Sync time="414.579"/>
+
+<Sync time="415.24"/>
+un climat de vie évangélique 
+<Sync time="416.948"/>
+avec tout ce que cela représente
+<Sync time="419.059"/>
+de vertu
+<Sync time="419.991"/>
+et morale
+<Sync time="420.632"/>
+
+<Sync time="420.923"/>
+et théologale
+<Sync time="421.814"/>
+
+<Sync time="424.603"/>
+c'est donc
+<Sync time="425.185"/>
+aux aux parents
+<Sync time="426.137"/>
+
+<Sync time="426.47"/>
+et qu'il revient
+<Sync time="427.677"/>
+
+<Sync time="427.922"/>
+de voir
+<Sync time="428.792"/>
+comment
+<Sync time="429.394"/>
+dans les petits détails de la vie de chaque jour
+<Sync time="431.872"/>
+
+<Sync time="432.801"/>
+comment dans le climat qui se crée dans l'école
+<Sync time="435.449"/>
+
+<Sync time="436.814"/>
+cet établissement
+<Sync time="437.989"/>
+est fidèle
+<Sync time="438.67"/>
+ou non
+<Sync time="439.208"/>
+
+<Sync time="439.454"/>
+à l'idéal qu'il s'est proposé
+<Sync time="441.263"/>
+
+<Sync time="443.109"/>
+ce groupe de parents d'Apel
+<Sync time="444.506"/>
+
+<Sync time="444.711"/>
+je le disais tout à l'heure
+<Sync time="445.854"/>
+travaille
+<Sync time="446.256"/>
+très étroitement
+<Sync time="447.444"/>
+avec les parents
+<Sync time="448.503"/>
+le directeur
+<Sync time="449.561"/>
+
+<Sync time="450.036"/>
+et les élèves
+<Sync time="451.012"/>
+
+<Sync time="452.192"/>
+les réunions de parents se font
+<Sync time="454.198"/>
+
+<Sync time="456.329"/>
+à des heures
+<Sync time="457.286"/>
+
+<Sync time="457.595"/>
+où l'on espère pouvoir toucher le maximum de personnes
+<Sync time="460.611"/>
+
+<Sync time="462.367"/>
+mais pour être
+<Sync time="463.248"/>
+très objectif
+<Sync time="464.776"/>
+
+<Sync time="465.5"/>
+il faut bien dire
+<Sync time="466.903"/>
+
+<Sync time="468.601"/>
+que
+<Sync time="469.034"/>
+si nous avons parfois des difficultés
+<Sync time="471.681"/>
+
+<Sync time="472.669"/>
+pour recruter
+<Sync time="474.001"/>
+
+<Sync time="474.861"/>
+les membres
+<Sync time="476.368"/>
+
+<Sync time="476.917"/>
+des AEP
+<Sync time="478.092"/>
+chargés
+<Sync time="478.882"/>
+des questions financières
+<Sync time="480.346"/>
+et matérielles
+<Sync time="481.417"/>
+
+<Sync time="482.667"/>
+nous avons peut-être encore plus de difficultés
+<Sync time="485.207"/>
+
+<Sync time="485.871"/>
+pour recruter
+<Sync time="487.099"/>
+des parents
+<Sync time="487.846"/>
+
+<Sync time="488.549"/>
+qui acceptent de prendre la responsabilité
+<Sync time="491.234"/>
+
+<Sync time="491.649"/>
+de ces groupes de réflexion
+<Sync time="493.289"/>
+
+<Sync time="495.484"/>
+car euh
+<Sync time="496.396"/>
+
+<Sync time="496.768"/>
+l'expérience prouve
+<Sync time="498.307"/>
+
+<Sync time="499.104"/>
+qu'il est parfois 
+<Sync time="499.767"/>
+plus facile 
+<Sync time="500.409"/>
+de trouver des solutions 
+<Sync time="501.531"/>
+à des problèmes de bâtiment
+<Sync time="502.865"/>
+
+<Sync time="503.508"/>
+et de finances
+<Sync time="504.937"/>
+
+<Sync time="506.03"/>
+qu'à des problèmes d'éducation
+<Sync time="507.549"/>
+
+<Sync time="510.377"/>
+et que les parents s'expriment 
+<Sync time="512.342"/>
+plus facilement
+<Sync time="513.234"/>
+
+<Sync time="514.149"/>
+lorsqu'il s'agira de discuter un budget et d'établir des scolarités
+<Sync time="517.771"/>
+
+<Sync time="518.541"/>
+ou de définir un plan de financement pour des emprunts
+<Sync time="521.399"/>
+
+<Sync time="523.686"/>
+que lorsqu'il s'agira
+<Sync time="525.035"/>
+
+<Sync time="525.2"/>
+tout simplement
+<Sync time="525.99"/>
+
+<Sync time="527.546"/>
+de voir dans quelle mesure
+<Sync time="529.267"/>
+l'école
+<Sync time="530.034"/>
+
+<Sync time="530.235"/>
+est fidèle
+<Sync time="531.15"/>
+
+<Sync time="531.834"/>
+à l'enseignement de notre seigneur Jésus-Christ
+<Sync time="533.873"/>
+
+<Sync time="535.078"/>
+et ce qu'elle doit faire
+<Sync time="536.424"/>
+
+<Sync time="537.832"/>
+pour être toujours 
+<Sync time="538.967"/>
+plus généreuse 
+<Sync time="540.152"/>
+et plus croyante
+<Sync time="541.187"/>
+
+<Sync time="543.801"/>
+on s'exprime 
+<Event desc="explime" type="pronounce" extent="instantaneous"/>
+
+<Sync time="544.575"/>
+on s'exprime 
+<Sync time="545.488"/>
+beaucoup de parents
+<Sync time="546.495"/>
+
+<Sync time="547.381"/>
+ont certainement
+<Sync time="548.451"/>
+des convictions
+<Sync time="549.275"/>
+très profondes
+<Sync time="549.971"/>
+
+<Sync time="551.816"/>
+mais ils ont
+<Sync time="552.876"/>
+plus de difficultés à s'exprimer
+<Sync time="554.653"/>
+en groupe
+<Sync time="555.233"/>
+
+<Sync time="555.938"/>
+sur ce qui fait peut-être euh
+<Sync time="558.04"/>
+les raisons fondamentales d'exister
+<Sync time="560.23"/>
+
+<Sync time="561.19"/>
+plus que ce pos-
+<Sync time="562.288"/>
+plus
+<Sync time="563.1"/>
+
+<Sync time="564.372"/>
+que 
+<Sync time="564.703"/>
+sur ce 
+<Sync time="565.954"/>
+qui 
+<Sync time="566.453"/>
+concerne
+<Sync time="567.633"/>
+
+<Sync time="568.504"/>
+des constructions
+<Sync time="569.588"/>
+
+<Sync time="570.279"/>
+ou des modes
+<Sync time="571.116"/>
+
+<Sync time="571.488"/>
+de vie
+<Sync time="572.132"/>
+
+<Sync time="573.464"/>
+je pense que vous comprenez un
+<Sync time="574.708"/>
+peu notre distinction
+</Turn>
+<Turn speaker="spk2 spk1" startTime="576.058" endTime="576.594">
+<Sync time="576.058"/>
+<Who nb="1"/>
+entre 
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="576.594" endTime="578.438">
+<Sync time="576.594"/>
+ce que j'appelle les Apel et les AEP
+</Turn>
+<Turn speaker="spk1" startTime="578.438" endTime="581.386">
+<Sync time="578.438"/>
+oui vous avez distingué très clairement entre les deux oui
+<Sync time="581.137"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="581.386" endTime="714.478">
+<Sync time="581.386"/>
+alors nous avons donc ces deux associations de base
+<Sync time="583.657"/>
+
+<Sync time="584.237"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="584.568"/>
+et
+<Sync time="585.085"/>
+
+<Sync time="585.582"/>
+au sein même de l'établissement
+<Sync time="587.225"/>
+
+<Sync time="587.619"/>
+il y a un troisième 
+<Sync time="588.607"/>
+groupement qui existe et qui lui se réunit 
+<Sync time="590.365"/>
+beaucoup plus fréquemment
+<Sync time="591.294"/>
+
+<Sync time="591.961"/>
+parce qu'il est affronté aux 
+<Sync time="593.119"/>
+problèmes de chaque jour
+<Sync time="594.309"/>
+
+<Sync time="594.556"/>
+non pas simplement les grands principes
+<Sync time="596.451"/>
+
+<Sync time="596.969"/>
+ou d'éducation
+<Sync time="597.936"/>
+ou de fonctionnement
+<Sync time="599.057"/>
+
+<Sync time="599.594"/>
+mais que
+<Sync time="600.111"/>
+c'est la vie quotidienne si vous voulez
+<Sync time="601.971"/>
+
+<Sync time="602.242"/>
+ce conseil d'établissement 
+<Sync time="603.474"/>
+qui est formé 
+<Sync time="604.158"/>
+du directeur des maîtres des responsables de la surveillance du de l'aumônier
+<Sync time="608.711"/>
+
+<Sync time="609.021"/>
+et de quelques représentants 
+<Sync time="610.505"/>
+de parents 
+<Sync time="611.166"/>
+de l'Apel
+<Sync time="611.783"/>
+
+<Sync time="612.257"/>
+ce conseil se réunit nécessairement toutes les semaines
+<Sync time="614.687"/>
+fait le point
+<Sync time="615.543"/>
+
+<Sync time="616.049"/>
+et à tout instant est obligé
+<Sync time="617.82"/>
+de rectifier assimiler répondre à des urgences
+<Sync time="620.936"/>
+
+<Sync time="621.246"/>
+et c'est dans ce
+<Sync time="622.343"/>
+
+<Sync time="622.806"/>
+ce conseil
+<Sync time="623.783"/>
+
+<Sync time="624.717"/>
+où il n'y a que de
+<Sync time="625.736"/>
+quelques éléments représentatifs des deux autres
+<Sync time="628.1"/>
+
+<Sync time="628.452"/>
+c'est dans ce conseil
+<Sync time="629.422"/>
+que se pense vraiment la vie de la maison
+<Sync time="631.398"/>
+
+<Sync time="631.833"/>
+parce que
+<Sync time="632.663"/>
+toute vie humaine 
+<Sync time="633.764"/>
+est faite de détails et non pas de grands principes
+<Sync time="635.707"/>
+
+<Sync time="636.307"/>
+ce sont les détails de chaque jour
+<Sync time="637.658"/>
+
+<Sync time="638.322"/>
+et c'est dans ce conseil que nous
+<Sync time="639.975"/>
+faisons rentrer 
+<Sync time="640.917"/>
+lorsque l'établissement est un peu important
+<Sync time="642.777"/>
+
+<Sync time="643.067"/>
+des représentants des élèves
+<Sync time="644.529"/>
+à partir de la troisième et surtout jusqu'aux classes terminales
+<Sync time="647.561"/>
+
+<Sync time="647.916"/>
+afin que
+<Sync time="648.763"/>
+euh le point de vue des élèves soit lui aussi bien connu
+<Sync time="651.41"/>
+et pour que les jeunes aussi 
+<Sync time="652.457"/>
+puissent apporter leurs éléments de solution
+<Sync time="654.431"/>
+
+<Sync time="654.721"/>
+dans les problèmes de la vie de chaque jour 
+<Sync time="656.358"/>
+qui sont leur vie
+<Sync time="657.364"/>
+
+<Sync time="659.121"/>
+à eux
+<Sync time="659.472"/>
+
+<Sync time="662.351"/>
+voilà donc définie si vous voulez
+<Sync time="663.895"/>
+la structure de base
+<Sync time="665.071"/>
+
+<Sync time="665.298"/>
+voilà l'élément
+<Sync time="665.968"/>
+qui est à la base
+<Sync time="666.848"/>
+
+<Sync time="668.343"/>
+les maîtres
+<Sync time="669.026"/>
+
+<Sync time="670.145"/>
+de leur côté
+<Sync time="671.346"/>
+
+<Sync time="671.594"/>
+euh s'ingénient
+<Sync time="673.226"/>
+
+<Sync time="673.393"/>
+pour pouvoir se réunir
+<Sync time="675.473"/>
+entre eux
+<Sync time="676.344"/>
+
+<Sync time="676.873"/>
+et parler des questions 
+<Sync time="677.851"/>
+qui sont spécialement leurs questions de pédagogie
+<Sync time="679.874"/>
+
+<Sync time="681.627"/>
+selon leur discipline
+<Sync time="683.06"/>
+si c'est un établissement important
+<Sync time="685.082"/>
+
+<Sync time="686.387"/>
+ou tout simplement entre eux
+<Sync time="687.943"/>
+
+<Sync time="688.461"/>
+lorsque c'est une petite école
+<Sync time="689.795"/>
+primaire entre deux 
+<Sync time="690.975"/>
+trois quatre instituteurs ou institutrices
+<Sync time="693.241"/>
+
+<Sync time="694.433"/>
+euh pour euh
+<Sync time="695.538"/>
+se tenir au courant
+<Sync time="696.887"/>
+les uns et les autres de leur f-
+<Sync time="698.455"/>
+des réformes de la pédagogie 
+<Sync time="700.037"/>
+des modifications de programme
+<Sync time="701.883"/>
+
+<Sync time="702.945"/>
+nous sommes en ce moment en France depuis plusieurs années en bouleversement complet du point de vue des méthodes pédagogiques 
+<Sync time="707.726"/>
+je n'en parlerai pas ici
+<Sync time="708.897"/>
+
+<Sync time="709.207"/>
+puisque je suppose que les maîtres vous en ont causé dans votre interview 
+<Sync time="712.204"/>
+avec monsieur NPERS
+<Sync time="713.746"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="714.478" endTime="715.725">
+<Sync time="714.478"/>
+<Who nb="1"/>
+euh il faut savoir que
+<Who nb="2"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="715.725" endTime="1168.95">
+<Sync time="715.725"/>
+toutes ces 
+<Sync time="716.39"/>
+bouleversements de méthodes
+<Sync time="717.844"/>
+
+<Sync time="718.288"/>
+pédagogiques
+<Sync time="719.235"/>
+
+<Sync time="719.545"/>
+demandent évidemment une 
+<Sync time="720.747"/>
+concertation entre les maîtres d'un même établissement
+<Sync time="723.076"/>
+
+<Sync time="726.248"/>
+au plan du diocèse
+<Sync time="727.486"/>
+
+<Sync time="730.373"/>
+nous avons
+<Sync time="731.564"/>
+
+<Sync time="731.813"/>
+une structure analogue
+<Sync time="732.868"/>
+
+<Sync time="733.848"/>
+les Apel f- sont fédérées
+<Sync time="735.553"/>
+
+<Sync time="736.362"/>
+les AEP
+<Sync time="737.338"/>
+sont fédérées
+<Sync time="738.334"/>
+
+<Sync time="739.122"/>
+le rôle reste le même
+<Sync time="740.571"/>
+
+<Sync time="740.901"/>
+le but de la fédération
+<Sync time="742.432"/>
+
+<Sync time="742.783"/>
+est simplement de guider
+<Sync time="744.193"/>
+d'épauler de stimuler 
+<Sync time="745.719"/>
+de trouver des responsables euh
+<Sync time="747.481"/>
+
+<Sync time="748.165"/>
+et parfois un peu n'est-ce pas de 
+<Sync time="749.851"/>
+secouer les sommeils léthargiques qui qui ne
+<Sync time="752.28"/>
+peuvent pas ne pas se produire de 
+<Sync time="753.8"/>
+temps à autre dans telle ou telle école particulière
+<Sync time="756.31"/>
+
+<Sync time="760.267"/>
+le conseil d'établissement 
+<Event desc="rire en fond" type="noise" extent="instantaneous"/>
+
+<Sync time="762.017"/>
+
+<Sync time="762.727"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="762.975"/>
+
+<Sync time="763.329"/>
+est un organisme
+<Sync time="764.351"/>
+
+<Sync time="764.951"/>
+qui est propre à chaque établissement
+<Sync time="766.663"/>
+il n'y a pas quelque chose d'analogue 
+<Sync time="768.407"/>
+sur le plan diocésain
+<Sync time="769.57"/>
+
+<Sync time="770.589"/>
+par contre sur le plan diocésain
+<Sync time="772.256"/>
+
+<Sync time="772.669"/>
+nous avons un comité diocésain de l'enseignement catholique
+<Sync time="775.096"/>
+et cela est excessivement important
+<Sync time="776.824"/>
+
+<Sync time="777.991"/>
+ce comité diocésain de l'enseignement catholique regroupe
+<Sync time="780.841"/>
+
+<Sync time="781.246"/>
+des représentants de
+<Sync time="782.474"/>
+tous les organismes
+<Sync time="783.616"/>
+qui d'une manière ou d'une autre travaillent
+<Sync time="785.298"/>
+
+<Sync time="786.086"/>
+dans l'enseignement libre
+<Sync time="786.998"/>
+
+<Sync time="787.518"/>
+représentants des parents d'élèves
+<Sync time="789.032"/>
+représentants des organismes de gestion les AEP
+<Sync time="791.856"/>
+
+<Sync time="792.333"/>
+représentants des anciens
+<Sync time="793.619"/>
+représentants des maîtres
+<Sync time="794.91"/>
+représentants des chefs d'établissement
+<Sync time="796.729"/>
+
+<Sync time="798.413"/>
+euh représentants des syndicats
+<Sync time="800.87"/>
+
+<Sync time="801.263"/>
+de 
+<Sync time="802.168"/>
+de chefs d'établissement et syndicats de maîtres
+<Sync time="805.051"/>
+
+<Sync time="805.362"/>
+représentants des éducateurs
+<Sync time="807.176"/>
+
+<Sync time="807.735"/>
+euh j'en oublie certainement encore
+<Sync time="809.445"/>
+
+<Sync time="810.088"/>
+et tout cet organisme
+<Sync time="811.351"/>
+
+<Sync time="812.034"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="812.284"/>
+qui s'appelle le comité diocésain de l'enseignement catholique
+<Sync time="814.678"/>
+est chargé
+<Sync time="815.344"/>
+
+<Sync time="816.399"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="816.606"/>
+de définir ce que l'on pourrait appeler dans un sens très large
+<Sync time="819.552"/>
+
+<Sync time="819.758"/>
+la politique générale de l'enseignement libre
+<Sync time="821.896"/>
+
+<Sync time="822.027"/>
+en n'oubliant pas
+<Sync time="822.907"/>
+que dans cette politique générale il y a en particulier
+<Sync time="825.553"/>
+
+<Sync time="825.759"/>
+tout cet aspect pastoral de l'éducation de la foi des jeunes
+<Sync time="829.023"/>
+
+<Sync time="829.387"/>
+qui relève
+<Sync time="830.253"/>
+de la charge particulière de l'évêque
+<Sync time="832.579"/>
+dans un diocèse
+<Sync time="833.583"/>
+
+<Sync time="834.727"/>
+l'enseignement catholique n'est pas un organisme 
+<Sync time="836.534"/>
+qui a pour but de tourner en lui-même
+<Sync time="838.423"/>
+
+<Sync time="838.726"/>
+pour
+<Sync time="839.035"/>
+pour pour tourner
+<Sync time="839.986"/>
+pour le plaisir de r-
+<Sync time="840.813"/>
+de tourner avec son recrutement de professeurs
+<Sync time="843.047"/>
+
+<Sync time="843.273"/>
+et puis ces ces installations matérielles
+<Sync time="845.815"/>
+
+<Sync time="846.084"/>
+il a pour but essentiellement
+<Sync time="847.642"/>
+
+<Sync time="848.057"/>
+l'éducation des jeunes
+<Sync time="849.514"/>
+et en particulier
+<Sync time="850.365"/>
+l'éducation de la foi des jeunes quand il s'agit des jeunes chrétiens
+<Sync time="853.477"/>
+
+<Sync time="853.836"/>
+et donc il est normal
+<Sync time="855.087"/>
+qu'ils n'oublient jamais
+<Sync time="856.191"/>
+cette perspective première
+<Sync time="858.156"/>
+
+<Sync time="858.362"/>
+malgré tous les autres soucis
+<Sync time="859.817"/>
+
+<Sync time="860.036"/>
+et voilà pourquoi ce comité diocésain de l'enseignement catholique est 
+<Sync time="862.798"/>
+placé sous la présidence de l'évêque
+<Sync time="864.498"/>
+
+<Sync time="866.545"/>
+l'évêque
+<Sync time="867.333"/>
+
+<Sync time="867.56"/>
+euh propose
+<Sync time="868.532"/>
+
+<Sync time="869.32"/>
+au comité diocésain de l'enseignement catholique
+<Sync time="871.914"/>
+
+<Sync time="872.62"/>
+un certain nombre de
+<Sync time="874.063"/>
+personnes
+<Sync time="874.726"/>
+
+<Sync time="875.161"/>
+qui pourraient faire
+<Sync time="876.262"/>
+
+<Sync time="876.925"/>
+remplir le rôle
+<Sync time="878.085"/>
+
+<Sync time="879.125"/>
+de directeur
+<Sync time="880.139"/>
+
+<Sync time="880.553"/>
+euh diocésain
+<Sync time="881.442"/>
+
+<Sync time="882.219"/>
+et
+<Sync time="882.509"/>
+parmi ces différentes personnes
+<Sync time="883.94"/>
+qui sont proposées par l'évêque
+<Sync time="885.372"/>
+
+<Sync time="885.93"/>
+le comité diocésain choisit
+<Sync time="888.07"/>
+
+<Sync time="888.402"/>
+tel
+<Sync time="888.837"/>
+ou tel
+<Sync time="889.437"/>
+
+<Sync time="889.623"/>
+à qui incombe la mission
+<Sync time="891.138"/>
+
+<Sync time="891.427"/>
+de coordonner les initiatives de stimuler 
+<Sync time="894.308"/>
+d'être l'instrument
+<Sync time="895.66"/>
+
+<Sync time="896.201"/>
+euh
+<Sync time="896.596"/>
+pratique
+<Sync time="897.304"/>
+
+<Sync time="897.739"/>
+de tout ce comité
+<Sync time="898.76"/>
+
+<Sync time="900.048"/>
+c'est le rôle que je remplis actuellement
+<Sync time="901.857"/>
+
+<Sync time="902.272"/>
+au
+<Sync time="902.892"/>
+
+<Sync time="904.033"/>
+dans le diocèse
+<Sync time="905.154"/>
+d'Orléans
+<Sync time="905.942"/>
+
+<Sync time="906.335"/>
+en tant donc 
+<Sync time="906.913"/>
+que directeur de l'enseignement catholique
+<Sync time="908.759"/>
+
+<Sync time="910.658"/>
+cette association
+<Sync time="912.683"/>
+
+<Sync time="913.346"/>
+que l'on appelle donc
+<Sync time="914.346"/>
+le comité diocésain de l'enseignement catholique
+<Sync time="917.02"/>
+
+<Sync time="917.37"/>
+évolue
+<Sync time="917.99"/>
+comme toute association vivante
+<Sync time="919.813"/>
+
+<Sync time="920.309"/>
+des projets de modification de statut sont en cours
+<Sync time="923.679"/>
+
+<Sync time="924.592"/>
+euh
+<Sync time="924.914"/>
+
+<Sync time="925.142"/>
+mais
+<Sync time="925.64"/>
+
+<Sync time="925.764"/>
+quelle que soit la forme
+<Sync time="927.121"/>
+
+<Sync time="927.39"/>
+que prendra ce comité
+<Sync time="928.679"/>
+
+<Sync time="929.3"/>
+l'esprit reste le même
+<Sync time="930.962"/>
+
+<Sync time="931.354"/>
+il s'agit
+<Sync time="932.078"/>
+de regrouper les responsables réels
+<Sync time="934.422"/>
+
+<Sync time="935.271"/>
+et il s'agit de coordonner
+<Sync time="936.844"/>
+
+<Sync time="937.342"/>
+l'ensemble
+<Sync time="938.24"/>
+de l'activité d'enseignement catholique dans un département
+<Sync time="940.746"/>
+
+<Sync time="942.581"/>
+voilà donc pour le plan départemental
+<Sync time="944.337"/>
+
+<Sync time="945.726"/>
+nous cherchons de plus en plus à avoir
+<Sync time="947.571"/>
+un échelon régional
+<Sync time="948.839"/>
+
+<Sync time="951.517"/>
+vous savez que
+<Sync time="952.706"/>
+en France
+<Sync time="953.349"/>
+nous sommes appelés à travailler de plus en plus au plan de la région
+<Sync time="956.412"/>
+
+<Sync time="958.726"/>
+euh
+<Sync time="959.433"/>
+vous savez que
+<Sync time="960.602"/>
+
+<Sync time="960.849"/>
+cette euh
+<Sync time="961.387"/>
+tendance
+<Sync time="962.307"/>
+
+<Sync time="962.806"/>
+
+<Event desc="n" type="noise" extent="instantaneous"/>
+
+<Sync time="963.199"/>
+à la régionalisation
+<Sync time="964.718"/>
+
+<Sync time="967.525"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="967.753"/>
+répond au désir
+<Sync time="969.269"/>
+
+<Sync time="969.578"/>
+de quantité de Français
+<Sync time="971.214"/>
+
+<Sync time="973.664"/>
+c'est un terme
+<Sync time="974.534"/>
+
+<Sync time="974.849"/>
+qui est assez flou
+<Sync time="976.175"/>
+
+<Sync time="977.439"/>
+euh
+<Sync time="977.957"/>
+
+<Sync time="978.288"/>
+euh nous savons fort bien qu'en France
+<Sync time="981.038"/>
+
+<Sync time="981.822"/>
+autour n- de ce terme euh 
+<Sync time="983.119"/>
+de régionalisation et des réformes de régionalisation
+<Sync time="986.3"/>
+
+<Sync time="987.4"/>
+s'est déroulé
+<Sync time="988.403"/>
+notre fameux référendum
+<Sync time="989.976"/>
+
+<Sync time="990.536"/>
+qui a abouti
+<Sync time="991.499"/>
+
+<Sync time="992.286"/>
+à la démission du président de la République
+<Sync time="994.387"/>
+
+<Sync time="996.038"/>
+toute le monde parle de géné-
+<Sync time="997.219"/>
+de de régionalisation
+<Sync time="998.862"/>
+
+<Sync time="999.754"/>
+euh la manière dont elle a été présentée à l'occasion des derniers évènements politiques
+<Sync time="1003.644"/>
+
+<Sync time="1005.499"/>
+f- fait que
+<Sync time="1006.663"/>
+on met un peu sous le boisseau
+<Sync time="1008.404"/>
+
+<Sync time="1009.888"/>
+la réforme des structures administratives
+<Sync time="1012.19"/>
+
+<Sync time="1012.541"/>
+qui avait été prévue
+<Sync time="1013.639"/>
+
+<Sync time="1014.799"/>
+mais on a l'impression très nette
+<Sync time="1016.558"/>
+
+<Sync time="1016.89"/>
+que reviendront
+<Sync time="1018.345"/>
+
+<Sync time="1018.701"/>
+nécessairement
+<Sync time="1019.738"/>
+
+<Sync time="1020.171"/>
+les objectifs
+<Sync time="1021.297"/>
+
+<Sync time="1022.168"/>
+de régionalisation
+<Sync time="1023.467"/>
+
+<Sync time="1024.064"/>
+et en tout cas c'est une nécessité absolue
+<Sync time="1026.045"/>
+
+<Sync time="1026.564"/>
+la centralisant-
+<Sync time="1027.394"/>
+la centralisation française est excellente
+<Sync time="1029.701"/>
+
+<Sync time="1030.025"/>
+en sens qu'elle a fait
+<Sync time="1031.005"/>
+l'unité
+<Sync time="1031.839"/>
+
+<Sync time="1032.172"/>
+euh de la France
+<Sync time="1033.811"/>
+
+<Sync time="1034.309"/>
+dans des périodes euh
+<Sync time="1035.429"/>
+
+<Sync time="1036.464"/>
+ou
+<Sync time="1037.043"/>
+les régions voulaient être tellement autonomes
+<Sync time="1039.448"/>
+et demeuraient
+<Sync time="1040.402"/>
+
+<Sync time="1040.732"/>
+voulaient demeurer tellement autonomes 
+<Sync time="1042.456"/>
+qu'elles risquaient de faire obstacle
+<Sync time="1043.893"/>
+
+<Sync time="1044.306"/>
+à l'unité du pays autour de la royauté française
+<Sync time="1046.946"/>
+
+<Sync time="1047.761"/>
+que ça a été l'oeuvre de la
+<Sync time="1049.303"/>
+de la royauté française
+<Sync time="1050.928"/>
+
+<Sync time="1051.301"/>
+que de constituer petit à petit un Etat français
+<Sync time="1053.934"/>
+
+<Sync time="1054.811"/>
+se substituant à des régions autonomes
+<Sync time="1057.183"/>
+
+<Sync time="1058.16"/>
+euh cela a été fortifié encore après la Révolution avec l'esprit centralisateur de Napoléon premier
+<Sync time="1063.787"/>
+
+<Sync time="1064.896"/>
+mais
+<Sync time="1065.565"/>
+on peut dire que maintenant la France ne craint pas
+<Sync time="1067.799"/>
+
+<Sync time="1068.433"/>
+euh de devenir
+<Sync time="1069.636"/>
+une euh
+<Sync time="1070.77"/>
+
+<Sync time="1071.225"/>
+euh 
+<Event desc="pf" type="noise" extent="instantaneous"/>
+
+<Sync time="1071.842"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="1072.437"/>
+
+<Sync time="1073.969"/>
+ne craint pas la France ne craint pas de
+<Sync time="1075.843"/>
+
+<Sync time="1076.053"/>
+de revenir à l'état primitif d'une dispersion des provinces
+<Sync time="1079.52"/>
+et d'une désorganisation complète
+<Sync time="1081.654"/>
+
+<Sync time="1082.264"/>
+donc elle peut se permettre
+<Sync time="1083.657"/>
+
+<Sync time="1085.182"/>
+de donner beaucoup plus d'initiatives
+<Sync time="1088.181"/>
+
+<Sync time="1088.946"/>
+aux autorités régionales
+<Sync time="1090.983"/>
+
+<Sync time="1093.251"/>
+euh
+<Sync time="1093.707"/>
+je ferme la parenthèse sur cet aspect un peu 
+<Sync time="1095.634"/>
+politique ou historique de 
+<Sync time="1097.364"/>
+l'histoire de la régionalisation en France
+<Sync time="1099.537"/>
+
+<Sync time="1099.848"/>
+mais
+<Sync time="1100.303"/>
+
+<Sync time="1100.717"/>
+il est indispensable que nous prenions petit à petit des
+<Sync time="1103.424"/>
+des dimensions régionales
+<Sync time="1105.008"/>
+
+<Sync time="1106.129"/>
+et en tout cas pour nous 
+<Sync time="1106.929"/>
+pour l'enseignement catholique c'est certainement indispensable
+<Sync time="1109.041"/>
+car il y a un certain nombre de
+<Sync time="1110.489"/>
+
+<Sync time="1110.86"/>
+d'objectifs
+<Sync time="1111.728"/>
+que nous ne pourrons atteindre qu'au niveau de la région
+<Sync time="1113.796"/>
+
+<Sync time="1114.555"/>
+car l'échelon national est beaucoup trop vaste
+<Sync time="1116.561"/>
+
+<Sync time="1117.553"/>
+pour pouvoir réaliser
+<Sync time="1118.82"/>
+
+<Sync time="1119.173"/>
+et quelque chose
+<Sync time="1120.058"/>
+
+<Sync time="1120.224"/>
+d'utile directement
+<Sync time="1121.543"/>
+
+<Sync time="1122.428"/>
+il faut penser que
+<Sync time="1123.606"/>
+les distances
+<Sync time="1124.754"/>
+
+<Sync time="1125.136"/>
+sont un obstacle
+<Sync time="1126.326"/>
+
+<Sync time="1127.112"/>
+à la réalisation
+<Sync time="1128.538"/>
+
+<Sync time="1128.93"/>
+ou à des réalisations pratiques
+<Sync time="1130.532"/>
+
+<Sync time="1130.965"/>
+sur le plan national nous ne pouvons pas envisager
+<Sync time="1133.577"/>
+
+<Sync time="1134.136"/>
+d'avoir euh
+<Sync time="1135.491"/>
+
+<Sync time="1136.005"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ la réponse
+<Sync time="1137.185"/>
+à nos objectifs immédiats
+<Sync time="1138.719"/>
+
+<Sync time="1139.049"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="1139.242"/>
+tandis que sur le plan de la région
+<Sync time="1140.804"/>
+nous le pouvons
+<Sync time="1141.445"/>
+euh je donne quelques exemples
+<Sync time="1142.835"/>
+
+<Sync time="1143.165"/>
+lorsqu'il s'agit de la formation des maîtres
+<Sync time="1144.871"/>
+
+<Sync time="1145.222"/>
+des maîtres du primaire
+<Sync time="1146.44"/>
+
+<Sync time="1146.957"/>
+il est évident qu'un département
+<Sync time="1148.532"/>
+
+<Sync time="1148.801"/>
+euh ne peut pas à lui tout seul
+<Sync time="1150.155"/>
+monter une école normale
+<Sync time="1151.672"/>
+
+<Sync time="1152.498"/>
+bon il est évident
+<Sync time="1153.539"/>
+que s'il faut que cela s- réel
+<Sync time="1154.873"/>
+se réalise à l'échelon de la France
+<Sync time="1156.836"/>
+
+<Sync time="1157.27"/>
+euh nous n'enverrons pas des stagiaires à
+<Sync time="1159.342"/>
+trois cents ou quatre cents kilomètres
+<Sync time="1160.904"/>
+pour faire des études de
+<Sync time="1162.462"/>
+d'instituteur
+<Sync time="1163.352"/>
+
+<Sync time="1164.014"/>
+par contre l'échelon de la région est un échelon
+<Sync time="1165.996"/>
+
+<Sync time="1166.222"/>
+tout à fait euh
+<Sync time="1167.172"/>
+
+<Sync time="1167.42"/>
+à échelle humaine
+<Sync time="1168.165"/>
+pour nous
+<Sync time="1168.599"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1168.95" endTime="1170.655">
+<Sync time="1168.95"/>
+voulez
+<Sync time="1169.281"/>
+vous parlez de l'école normale
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1170.655" endTime="1172.42">
+<Sync time="1170.655"/>
+<Who nb="1"/>
+euh catholique
+<Who nb="2"/>
+
+<Event desc="bg" type="noise" extent="instantaneous"/>
+ oui
+<Sync time="1171.423"/>
+<Who nb="1"/>
+c'est oui
+<Who nb="2"/>
+l'école normale catholique
+</Turn>
+<Turn speaker="spk2" startTime="1172.42" endTime="1429.838">
+<Sync time="1172.42"/>
+pour former des maîtres
+<Sync time="1173.333"/>
+les maîtres du primaire
+<Sync time="1174.413"/>
+
+<Sync time="1175.138"/>
+bon lorsque les maîtres du secondaire
+<Sync time="1176.87"/>
+
+<Sync time="1177.226"/>
+vont vouloir
+<Sync time="1177.702"/>
+dépasser un petit peu la sphère de leur établissement
+<Sync time="1179.936"/>
+
+<Sync time="1180.598"/>
+pour pouvoir coordonner aussi leurs initiatives 
+<Sync time="1183.137"/>
+lorsqu'on va vouloir faire par exemple une session de formation de professeurs de français
+<Sync time="1186.559"/>
+
+<Sync time="1186.826"/>
+ou de professeur d'histoire et de géographie
+<Sync time="1188.608"/>
+
+<Sync time="1190.038"/>
+l'échelon national 
+<Sync time="1191.019"/>
+c'est tout de suite des distances considérables
+<Sync time="1192.756"/>
+
+<Sync time="1193.465"/>
+l'échelon régional c'est normal
+<Sync time="1195.156"/>
+
+<Sync time="1196.429"/>
+nous pourrons beaucoup plus facilement
+<Sync time="1197.966"/>
+
+<Sync time="1198.362"/>
+nous 
+<Sync time="1198.778"/>
+nous retrouver avec 
+<Sync time="1200.167"/>
+euh des distances 
+<Sync time="1200.964"/>
+de deux cents cent cinquante deux cents kilomètres
+<Sync time="1203.068"/>
+
+<Sync time="1203.377"/>
+pour faire des sessions 
+<Sync time="1204.232"/>
+locales
+<Sync time="1204.852"/>
+
+<Sync time="1206.035"/>
+voilà donc un certain nombre de
+<Sync time="1207.342"/>
+
+<Sync time="1208.212"/>
+d'aspects
+<Sync time="1208.895"/>
+si vous voulez qui sont importants
+<Sync time="1210.328"/>
+
+<Sync time="1210.724"/>
+d'autre part
+<Sync time="1211.511"/>
+
+<Sync time="1212.763"/>
+nous avons aussi
+<Sync time="1213.923"/>
+
+<Sync time="1214.315"/>
+à tenir compte
+<Sync time="1215.291"/>
+
+<Sync time="1215.579"/>
+du fait que
+<Sync time="1216.409"/>
+la réforme de l'enseignement multiplie les enseignements
+<Sync time="1219.528"/>
+
+<Sync time="1220.211"/>
+euh
+<Sync time="1220.815"/>
+
+<Sync time="1221.187"/>
+techniques
+<Sync time="1221.868"/>
+
+<Sync time="1222.636"/>
+si par exemple au niveau
+<Sync time="1224.012"/>
+
+<Sync time="1224.26"/>
+des études de premier cycle 
+<Sync time="1225.588"/>
+jusqu'à la fin de la troisième
+<Sync time="1227.369"/>
+
+<Sync time="1228.305"/>
+les élèves ont sensiblement les mêmes programmes
+<Sync time="1231.521"/>
+
+<Sync time="1232.845"/>
+et si d'autre part
+<Sync time="1233.89"/>
+nos effectifs nous
+<Sync time="1234.981"/>
+permettent de constituer aussi 
+<Sync time="1236.266"/>
+des établissements normaux
+<Sync time="1237.282"/>
+
+<Sync time="1238.479"/>
+lorsque nous arrivons au plan du deuxième cycle
+<Sync time="1240.612"/>
+
+<Sync time="1241.216"/>
+c'est-à-dire seconde première et terminale
+<Sync time="1243.17"/>
+pour la préparation des baccalauréats
+<Sync time="1244.64"/>
+
+<Sync time="1245.705"/>
+nous n'avons pas d'effectif suffisant
+<Sync time="1247.203"/>
+pour pouvoir faire des établissements niveau lycée
+<Sync time="1249.366"/>
+
+<Sync time="1250.905"/>
+partout où nous avons des 
+<Sync time="1251.931"/>
+CES
+<Sync time="1253.135"/>
+
+<Sync time="1254.092"/>
+il est donc indispensable de se regrouper
+<Sync time="1256.135"/>
+
+<Sync time="1258.077"/>
+on peut encore dire 
+<Sync time="1258.98"/>
+qu'à l'échelon de chaque département nous avons suffisamment d'effectif 
+<Sync time="1261.643"/>
+pour assurer les baccalauréats traditionnels
+<Sync time="1263.632"/>
+
+<Sync time="1265.271"/>
+mais lorsqu'il s'agit de baccalauréats
+<Sync time="1266.727"/>
+techniques très spécialisés
+<Sync time="1268.139"/>
+
+<Sync time="1268.858"/>
+lorsqu'il s'agit d'installations 
+<Sync time="1270.179"/>
+techniques très compliquées et donc très coûteuses
+<Sync time="1272.479"/>
+
+<Sync time="1274.547"/>
+nous n'avons plus sur le plan d'un département
+<Sync time="1276.476"/>
+
+<Sync time="1277.84"/>
+euh suffisamment d'élèves
+<Sync time="1279.409"/>
+
+<Sync time="1279.999"/>
+pour pouvoir assurer vraiment
+<Sync time="1281.405"/>
+
+<Sync time="1281.714"/>
+des classes valables
+<Sync time="1282.753"/>
+
+<Sync time="1283.269"/>
+qu'il s'agisse par exemple de l'orientation en-
+<Sync time="1285.253"/>
+agricole
+<Sync time="1285.915"/>
+
+<Sync time="1286.182"/>
+le lycée agricole
+<Sync time="1287.306"/>
+
+<Sync time="1287.699"/>
+qu'il s'agisse euh
+<Sync time="1288.673"/>
+d'enseignement
+<Sync time="1289.416"/>
+technique
+<Sync time="1290.139"/>
+
+<Sync time="1290.529"/>
+euh
+<Sync time="1290.986"/>
+tel que les baccalauréats
+<Sync time="1292.044"/>
+de technicien de
+<Sync time="1293.401"/>
+
+<Sync time="1293.627"/>
+mécanique
+<Sync time="1294.603"/>
+d'électricité
+<Sync time="1295.474"/>
+
+<Sync time="1296.675"/>
+qu'il s'agisse
+<Sync time="1297.839"/>
+euh
+<Sync time="1298.335"/>
+de baccalauréats de technicien de biochimie
+<Sync time="1300.555"/>
+
+<Sync time="1301.887"/>
+de
+<Sync time="1302.197"/>
+préparation des carrières sociales
+<Sync time="1303.92"/>
+
+<Sync time="1304.873"/>
+les baccalauréats
+<Sync time="1305.702"/>
+technicien du secteur économique
+<Sync time="1307.941"/>
+
+<Sync time="1308.52"/>
+que ce soit les 
+<Sync time="1309.226"/>
+techniques quantitatives de gestion 
+<Sync time="1310.832"/>
+que ce soit les techniques administratives
+<Sync time="1312.881"/>
+
+<Sync time="1313.986"/>
+nous n'avons pas
+<Sync time="1314.832"/>
+
+<Sync time="1315.017"/>
+la possibilité dans chaque diocèse
+<Sync time="1317.012"/>
+
+<Sync time="1317.548"/>
+de créer des établissements de ce niveau
+<Sync time="1319.41"/>
+
+<Sync time="1319.987"/>
+il est donc indispensable 
+<Sync time="1321.22"/>
+de le faire sur le plan de la région
+<Sync time="1322.823"/>
+
+<Sync time="1323.815"/>
+et d'autre part
+<Sync time="1324.734"/>
+
+<Sync time="1325.002"/>
+il est aussi indispensable 
+<Sync time="1326.265"/>
+que le faisant sur le plan de la région
+<Sync time="1328.137"/>
+
+<Sync time="1329.537"/>
+nous ne laissions pas
+<Sync time="1330.614"/>
+trop d'initiatives
+<Sync time="1332.028"/>
+
+<Sync time="1333.33"/>
+se prendre
+<Sync time="1334.263"/>
+
+<Sync time="1334.51"/>
+sans une certaine coordination
+<Sync time="1336.375"/>
+
+<Sync time="1337.266"/>
+afin que des établissements
+<Sync time="1338.885"/>
+à vocation très particulière
+<Sync time="1340.799"/>
+
+<Sync time="1341.324"/>
+ne se créent pas
+<Sync time="1342.455"/>
+
+<Sync time="1342.993"/>
+dans une s- dans un secteur
+<Sync time="1344.349"/>
+géographique trop restreint
+<Sync time="1345.847"/>
+
+<Sync time="1346.506"/>
+pour ne pas se nuire
+<Sync time="1347.499"/>
+
+<Sync time="1348.936"/>
+je pense en particulier que dans une académie 
+<Sync time="1351.029"/>
+comme la nôtre dans la région
+<Sync time="1352.438"/>
+
+<Sync time="1352.73"/>
+euh Orléans-Tours
+<Sync time="1354.11"/>
+
+<Sync time="1355.106"/>
+les deux villes d'Orléans et de Tours
+<Sync time="1357.026"/>
+peuvent se permettre
+<Sync time="1357.903"/>
+
+<Sync time="1358.481"/>
+d'avoir quelques enseignements 
+<Sync time="1359.745"/>
+spécialisés en matière technique
+<Sync time="1361.441"/>
+
+<Sync time="1362.444"/>
+mais qu'il ne serait nullement opportun
+<Sync time="1364.232"/>
+
+<Sync time="1364.876"/>
+qu'il en naisse trop
+<Sync time="1366.099"/>
+
+<Sync time="1366.82"/>
+ailleurs
+<Sync time="1367.303"/>
+
+<Sync time="1369.36"/>
+donc
+<Sync time="1369.689"/>
+voici quelques aspects
+<Sync time="1370.703"/>
+que j'ai pris à titre d'exemples mais il y en a beaucoup d'autres
+<Sync time="1372.913"/>
+
+<Sync time="1373.657"/>
+qui sont des
+<Sync time="1374.617"/>
+
+<Sync time="1374.803"/>
+des programmes des projets
+<Sync time="1376.229"/>
+
+<Sync time="1376.849"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="1377.22"/>
+à l'échelon régional
+<Sync time="1378.307"/>
+
+<Sync time="1378.698"/>
+voilà pourquoi nous avons constitué
+<Sync time="1380.258"/>
+
+<Sync time="1381.095"/>
+au-dessus
+<Sync time="1381.743"/>
+
+<Sync time="1382.012"/>
+des comités diocésains de l'enseignement catholique
+<Sync time="1384.154"/>
+qui existent dans les cinq
+<Sync time="1385.518"/>
+diocèses de la région
+<Sync time="1386.845"/>
+
+<Sync time="1387.817"/>
+nous avons constitué au-dessus
+<Sync time="1389.268"/>
+
+<Sync time="1389.846"/>
+un organisme
+<Sync time="1390.676"/>
+régional qui s'appelle
+<Sync time="1391.923"/>
+
+<Sync time="1392.149"/>
+le Corec
+<Sync time="1392.96"/>
+
+<Sync time="1393.392"/>
+comité
+<Sync time="1393.995"/>
+régional
+<Sync time="1394.832"/>
+
+<Sync time="1395.102"/>
+de l'enseignement
+<Sync time="1395.909"/>
+catholique
+<Sync time="1396.584"/>
+
+<Sync time="1397.268"/>
+ce comité a été placé
+<Sync time="1398.673"/>
+
+<Sync time="1398.9"/>
+sous la responsabilité de l'évêque de la région
+<Sync time="1401.621"/>
+
+<Sync time="1402.842"/>
+qui a reçu
+<Sync time="1403.752"/>
+
+<Sync time="1405.395"/>
+de la commission épiscopale
+<Sync time="1406.972"/>
+
+<Sync time="1407.199"/>
+régionale
+<Sync time="1407.9"/>
+
+<Sync time="1408.358"/>
+le souci du monde scolaire
+<Sync time="1410.106"/>
+
+<Sync time="1411.805"/>
+plus particulièrement
+<Sync time="1412.772"/>
+le monde scolaire
+<Sync time="1413.624"/>
+et tout le monde scolaire
+<Sync time="1414.7"/>
+
+<Sync time="1414.884"/>
+ceux de l'enseignement publique comme ceux de l'enseignement catholique
+<Sync time="1417.06"/>
+
+<Sync time="1417.725"/>
+et
+<Sync time="1417.994"/>
+cet évêque est Monseigneur Goupy l'évêque de Blois
+<Sync time="1420.23"/>
+
+<Sync time="1422.234"/>
+voilà pour nos structures
+<Sync time="1423.826"/>
+
+<Sync time="1425.358"/>
+je n'ai été
+<Sync time="1426.203"/>
+
+<Sync time="1426.781"/>
+très rapide je n'ai donné que les grandes lignes
+<Sync time="1428.869"/>
+euh
+<Sync time="1429.322"/>
+il ne peut
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1429.838" endTime="1431.621">
+<Sync time="1429.838"/>
+<Who nb="1"/>
+pas être question de rentrer dans le détail
+<Who nb="2"/>
+c'est
+</Turn>
+<Turn speaker="spk2" startTime="1431.621" endTime="1476.086">
+<Sync time="1431.621"/>
+c'est beaucoup trop compliqué
+<Sync time="1432.753"/>
+
+<Sync time="1433.3"/>
+euh
+<Sync time="1433.776"/>
+
+<Event desc="pf" type="noise" extent="instantaneous"/>
+
+<Sync time="1434.127"/>
+l'essentiel c'est de bien voir
+<Sync time="1436.025"/>
+
+<Sync time="1436.313"/>
+comment se structure cet enseignement catholique
+<Sync time="1438.623"/>
+
+<Sync time="1438.912"/>
+alors je n'ai pas parlé du plan national
+<Sync time="1440.59"/>
+
+<Sync time="1440.817"/>
+mais vous avez ensuite la même chose sur le plan national
+<Sync time="1443.378"/>
+
+<Sync time="1443.876"/>
+un comité national de l'enseignement catholique
+<Sync time="1446.394"/>
+
+<Sync time="1447.331"/>
+qui
+<Sync time="1447.645"/>
+reprend si vous voulez
+<Sync time="1449.138"/>
+
+<Sync time="1449.618"/>
+la même représentation de
+<Sync time="1451.525"/>
+tous les éléments
+<Sync time="1452.31"/>
+
+<Sync time="1452.889"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="1453.075"/>
+qui ont une part active dans la vie de l'enseignement catholique 
+<Sync time="1455.633"/>
+au niveau des Apel des AEP des maîtres des chefs d'établissement des éducateurs des aumôniers
+<Sync time="1460.432"/>
+
+<Sync time="1460.722"/>
+euh
+<Sync time="1461.177"/>
+
+<Sync time="1461.706"/>
+mais
+<Sync time="1462.058"/>
+tout cela
+<Sync time="1462.493"/>
+au plan national
+<Sync time="1463.445"/>
+
+<Sync time="1463.919"/>
+et c'est cet organisme 
+<Sync time="1465.222"/>
+au plan national
+<Sync time="1466.267"/>
+
+<Sync time="1466.994"/>
+qui a 
+<Sync time="1467.409"/>
+comme euh directeur
+<Sync time="1468.7"/>
+comme secrétaire général Monseigneur Cuminal
+<Sync time="1470.937"/>
+
+<Sync time="1473.714"/>
+voilà pour nos structures internes
+<Sync time="1475.202"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1476.086" endTime="1478.181">
+<Sync time="1476.086"/>
+est-ce que vous permettez que je pose une question ?
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1478.181" endTime="1479.257">
+<Sync time="1478.181"/>
+<Who nb="1"/>
+qui euh
+<Who nb="2"/>
+oui
+<Sync time="1478.928"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1479.257" endTime="1514.665">
+<Sync time="1479.257"/>
+pourrait paraître euh
+<Sync time="1480.331"/>
+
+<Sync time="1480.786"/>
+peut-être un peu naïve
+<Sync time="1481.778"/>
+
+<Sync time="1482.297"/>
+mais
+<Sync time="1482.728"/>
+
+<Sync time="1482.976"/>
+sur le plan national ou sur le plan régional ou sur le plan départemental diocésain
+<Sync time="1488.063"/>
+
+<Sync time="1488.91"/>
+est-ce que
+<Sync time="1489.697"/>
+en principe généralement vous attendez
+<Sync time="1491.959"/>
+
+<Sync time="1492.578"/>
+euh les décisions
+<Sync time="1494.246"/>
+
+<Sync time="1495.638"/>
+de
+<Sync time="1496.258"/>
+l'enseignement publique
+<Sync time="1497.463"/>
+
+<Sync time="1497.67"/>
+et puis ensuite
+<Sync time="1498.547"/>
+vous essayez
+<Sync time="1499.729"/>
+
+<Sync time="1500.242"/>
+de euh
+<Sync time="1500.895"/>
+de créer quelque chose de pareil
+<Sync time="1502.385"/>
+dans l'enseignement catholique c'est-à-dire
+<Sync time="1503.856"/>
+euh
+<Sync time="1504.228"/>
+je pense euh
+<Sync time="1505.623"/>
+non seulement
+<Sync time="1506.286"/>
+
+<Sync time="1506.595"/>
+au niveau
+<Sync time="1507.423"/>
+des réformes 
+<Event desc="resformes" type="pronounce" extent="instantaneous"/>
+ en général c'est-à-dire euh changements
+<Sync time="1509.986"/>
+
+<Sync time="1510.505"/>
+de la structure de l'enseignement secondaire CES
+<Sync time="1513.777"/>
+par exemple
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1514.665" endTime="1515.638">
+<Sync time="1514.665"/>
+<Who nb="1"/>
+hm hm
+<Who nb="2"/>
+mais aussi
+</Turn>
+<Turn speaker="spk1" startTime="1515.638" endTime="1527.862">
+<Sync time="1515.638"/>
+en ce qui concerne euh
+<Sync time="1517.153"/>
+
+<Sync time="1518.305"/>
+euh les baccalauréats ou
+<Sync time="1521.105"/>
+ou
+<Sync time="1521.579"/>
+ou enfin divers euh
+<Sync time="1523.196"/>
+aspects de
+<Sync time="1524.233"/>
+de la vie
+<Sync time="1525.372"/>
+journali- euh
+<Sync time="1526.487"/>
+de tous les jours dans les écoles
+<Sync time="1527.717"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1527.862" endTime="1532.188">
+<Sync time="1527.862"/>
+<Who nb="1"/>
+est-ce que
+<Who nb="2"/>
+bon
+<Sync time="1528.418"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+<Sync time="1529.012"/>
+<Who nb="1"/>
+euh
+<Who nb="2"/>
+alors c'est une question capitale
+<Sync time="1530.484"/>
+<Who nb="1"/>
+oui
+<Who nb="2"/>
+que vous me posez là
+<Sync time="1531.463"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+<Sync time="1531.732"/>
+<Who nb="1"/>
+oui
+<Who nb="2"/>
+n'est-ce pas ?
+</Turn>
+<Turn speaker="spk2" startTime="1532.188" endTime="1544.63">
+<Sync time="1532.188"/>
+nous allons la prendre tout de suite
+<Sync time="1533.182"/>
+sous un as-
+<Sync time="1533.864"/>
+sous un autre aspect si vous voulez bien
+<Sync time="1535.637"/>
+
+<Sync time="1536.319"/>
+euh
+<Sync time="1536.838"/>
+sous l'aspect de la liberté de l'enseignement
+<Sync time="1539.599"/>
+
+<Sync time="1540.094"/>
+catholique
+<Sync time="1540.923"/>
+par rapport
+<Sync time="1541.957"/>
+à l'enseignement d'Etat
+<Sync time="1543.389"/>
+à la suite des contrats
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1544.63" endTime="1545.209">
+<Sync time="1544.63"/>
+<Who nb="1"/>
+car
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="1545.209" endTime="1548.893">
+<Sync time="1545.209"/>
+c'est dans ce cadre-là
+<Sync time="1546.371"/>
+que se situe exactement votre intervention
+<Sync time="1548.462"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1548.893" endTime="1549.244">
+<Sync time="1548.893"/>
+oui
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1549.244" endTime="1551.316">
+<Sync time="1549.244"/>
+<Who nb="1"/>
+vous me dites au fond
+<Who nb="2"/>
+ouais
+<Sync time="1550.342"/>
+<Who nb="1"/>
+allez-vous de l'avant
+<Who nb="2"/>
+oui c'est vrai
+</Turn>
+<Turn speaker="spk2" startTime="1551.316" endTime="1554.465">
+<Sync time="1551.316"/>
+ou attendez-vous
+<Sync time="1552.417"/>
+euh
+<Sync time="1553.021"/>
+pour pouvoir copier ?
+<Sync time="1554.157"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1554.465" endTime="1557.689">
+<Sync time="1554.465"/>
+<Who nb="1"/>
+voilà un peu votre votre question
+<Who nb="2"/>
+c'est cela oui c'est cela oui
+<Sync time="1556.421"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1557.689" endTime="2236.862">
+<Sync time="1557.689"/>
+euh
+<Sync time="1558.317"/>
+
+<Sync time="1558.917"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="1559.311"/>
+les rapports
+<Sync time="1560.118"/>
+
+<Sync time="1560.613"/>
+de l'enseignement catholique
+<Sync time="1562.014"/>
+
+<Sync time="1562.514"/>
+avec
+<Sync time="1563.257"/>
+
+<Sync time="1563.63"/>
+l'Education nationale sont définis
+<Sync time="1565.662"/>
+
+<Sync time="1566.242"/>
+par
+<Sync time="1566.679"/>
+la loi
+<Sync time="1567.343"/>
+du trente euh et un décembre mille neuf cent cinquante-neuf
+<Sync time="1570.961"/>
+
+<Sync time="1572.676"/>
+cette euh loi
+<Sync time="1573.948"/>
+
+<Sync time="1574.885"/>
+est précédée d'un très grand préambule
+<Sync time="1577.126"/>
+qui était le discours de monsieur Michel Debré
+<Sync time="1579.188"/>
+
+<Sync time="1580.225"/>
+et dans ce grand préambule
+<Sync time="1581.593"/>
+
+<Sync time="1581.778"/>
+il était dit en particulier
+<Sync time="1583.191"/>
+
+<Sync time="1584.869"/>
+qu'il ne s'agissait nullement
+<Sync time="1586.318"/>
+
+<Sync time="1587.214"/>
+de vouloir faire rentrer
+<Sync time="1588.786"/>
+
+<Sync time="1589.538"/>
+l'enseignement catholique
+<Sync time="1590.926"/>
+dans l'Education nationale
+<Sync time="1592.41"/>
+telle qu'elle est
+<Sync time="1592.988"/>
+mais qu'il s'agissait de respecter son caractère propre
+<Sync time="1595.433"/>
+
+<Sync time="1596.867"/>
+dans ce caractère propre
+<Sync time="1598.173"/>
+
+<Sync time="1599.116"/>
+on sentait bien 
+<Sync time="1600.094"/>
+
+<Sync time="1600.444"/>
+dans tout l'ensemble de ce discours
+<Sync time="1602.332"/>
+
+<Sync time="1603.551"/>
+on sentait bien
+<Sync time="1604.523"/>
+
+<Sync time="1605.687"/>
+que revenait perpétuellement
+<Sync time="1607.321"/>
+
+<Sync time="1607.715"/>
+ce qui avait été signalé à la commission Lapie
+<Sync time="1610.219"/>
+
+<Sync time="1611.236"/>
+qui avait précédé
+<Sync time="1612.265"/>
+
+<Sync time="1612.492"/>
+la préparation de cette loi
+<Sync time="1613.904"/>
+
+<Sync time="1614.631"/>
+dans le caractère 
+<Event desc="carlatère" type="pronounce" extent="instantaneous"/>
+ propre
+<Sync time="1615.953"/>
+
+<Sync time="1616.369"/>
+nous envisagions
+<Sync time="1617.447"/>
+
+<Sync time="1617.859"/>
+d'abord notre conception chrétienne de l'Homme
+<Sync time="1619.94"/>
+
+<Sync time="1620.789"/>
+qui fait que
+<Sync time="1621.369"/>
+malgré la liaison
+<Sync time="1622.741"/>
+
+<Sync time="1623.322"/>
+avec l'enseignement de l'Etat
+<Sync time="1624.605"/>
+nous ne voulions pas abord- abandonner
+<Sync time="1626.487"/>
+
+<Sync time="1626.818"/>
+le motif profond
+<Sync time="1628.083"/>
+pour lequel nous voulions des écoles catholiques
+<Sync time="1629.856"/>
+
+<Sync time="1631.102"/>
+et il y avait 
+<Event desc="arait" type="pronounce" extent="instantaneous"/>
+ ensuite un deuxième aspect
+<Sync time="1632.932"/>
+
+<Sync time="1633.502"/>
+qui était la liberté des méthodes pédagogiques pour pouvoir organiser l'enseignement
+<Sync time="1637.22"/>
+
+<Sync time="1639.096"/>
+selon
+<Sync time="1639.881"/>
+
+<Sync time="1640.169"/>
+ce qui paraîtrait le meilleur
+<Sync time="1641.546"/>
+
+<Sync time="1642.196"/>
+aux maîtres
+<Sync time="1642.857"/>
+
+<Sync time="1643.063"/>
+de l'établissement
+<Sync time="1643.971"/>
+
+<Sync time="1645.69"/>
+j'ai fait un peu allusion
+<Sync time="1646.916"/>
+au premier point tout à l'heure
+<Sync time="1648.353"/>
+
+<Sync time="1648.601"/>
+dans la première partie de mon interview sur le rôle des Apel
+<Sync time="1651.071"/>
+
+<Sync time="1651.798"/>
+je réponds maintenant au deuxième point
+<Sync time="1653.485"/>
+
+<Sync time="1654.168"/>
+que vous me disiez tout à l'heure en matière de pédagogie
+<Sync time="1656.454"/>
+
+<Sync time="1656.804"/>
+comment se situe votre liberté ?
+<Sync time="1658.512"/>
+
+<Sync time="1660.797"/>
+ce qui a été dit dans le préambule
+<Sync time="1662.749"/>
+
+<Sync time="1664.135"/>
+a été
+<Sync time="1664.715"/>
+
+<Sync time="1665.003"/>
+très fortement atténué dans les textes de la loi
+<Sync time="1667.277"/>
+
+<Sync time="1670.196"/>
+et 
+<Sync time="1670.588"/>
+nous trouvons en particulier dans le texte
+<Sync time="1672.258"/>
+
+<Sync time="1672.962"/>
+du
+<Sync time="1673.727"/>
+
+<Sync time="1674.39"/>
+contrat d'association
+<Sync time="1675.59"/>
+
+<Sync time="1675.922"/>
+cette phrase
+<Sync time="1676.814"/>
+
+<Sync time="1678.183"/>
+que euh
+<Sync time="1679.092"/>
+les établissements sous contrat d'association doivent se conformer
+<Sync time="1681.902"/>
+aux programmes
+<Sync time="1682.75"/>
+et aux méthodes
+<Sync time="1683.516"/>
+
+<Sync time="1683.683"/>
+de l'enseignement publique
+<Sync time="1684.639"/>
+
+<Sync time="1688.015"/>
+sauf
+<Sync time="1688.916"/>
+
+<Sync time="1689.728"/>
+dérogations exceptionnelles
+<Sync time="1691.243"/>
+
+<Sync time="1691.616"/>
+pour cas très particuliers
+<Sync time="1692.801"/>
+
+<Sync time="1694.547"/>
+si bien que nous nous trouvons
+<Sync time="1695.711"/>
+
+<Sync time="1696.658"/>
+dans une situation
+<Sync time="1697.572"/>
+
+<Sync time="1698.359"/>
+un peu difficile
+<Sync time="1699.373"/>
+
+<Sync time="1700.931"/>
+d'une part
+<Sync time="1701.786"/>
+
+<Sync time="1703.629"/>
+l'enseignement catholique
+<Sync time="1705.079"/>
+
+<Sync time="1705.896"/>
+ne confère pas
+<Sync time="1707.079"/>
+
+<Sync time="1707.327"/>
+les grades
+<Sync time="1708.162"/>
+
+<Sync time="1708.779"/>
+universitaires
+<Sync time="1709.63"/>
+
+<Sync time="1711.118"/>
+en France il n'y a de grades universitaires
+<Sync time="1713.688"/>
+
+<Sync time="1714.567"/>
+que ceux qui sont décernés
+<Sync time="1715.813"/>
+
+<Sync time="1716.267"/>
+par l'Education nationale
+<Sync time="1717.447"/>
+
+<Sync time="1718.75"/>
+pour nous le
+<Sync time="1719.286"/>
+les grades universitaires c'est le baccalauréat
+<Sync time="1721.445"/>
+
+<Sync time="1722.105"/>
+le BEPC d'accord nous n'allons pas plus haut
+<Sync time="1724.108"/>
+
+<Sync time="1724.416"/>
+dans l'enseignement secondaire
+<Sync time="1725.493"/>
+
+<Sync time="1726.634"/>
+nos élèves sont donc obligés de passer le baccalauréat
+<Sync time="1728.71"/>
+
+<Sync time="1730.119"/>
+les programmes du baccalauréat sont déterminés par l'Education nationale
+<Sync time="1733.206"/>
+
+<Sync time="1734.033"/>
+nous avons donc à suivre
+<Sync time="1735.142"/>
+
+<Sync time="1735.802"/>
+les programmes si nous voulons que les élèves puissent de leur côté 
+<Sync time="1738.761"/>
+
+<Sync time="1739.319"/>
+être
+<Sync time="1739.71"/>
+euh
+<Sync time="1740.186"/>
+admis
+<Sync time="1740.662"/>
+au baccalauréat
+<Sync time="1741.473"/>
+
+<Sync time="1743.826"/>
+d'autre part on nous demande
+<Sync time="1745.067"/>
+de suivre les horaires
+<Sync time="1746.289"/>
+
+<Sync time="1746.992"/>
+de l'enseignement publique
+<Sync time="1748.08"/>
+
+<Sync time="1749.428"/>
+il est dit que dans telle classe
+<Sync time="1750.799"/>
+les élé- les les élèves doivent avoir cinq heures de français 
+<Sync time="1753.247"/>
+quatre heures de mathématiques deux heures d'histoire et de géographie
+<Sync time="1755.556"/>
+
+<Sync time="1756.632"/>
+lorsque les chefs d'établissement déposent
+<Sync time="1758.675"/>
+leurs euh
+<Sync time="1759.325"/>
+programmes
+<Sync time="1759.967"/>
+d'année
+<Sync time="1760.527"/>
+
+<Sync time="1761.686"/>
+devant l'Education nationale
+<Sync time="1763.18"/>
+ils sont obligés de faire remarquer
+<Sync time="1764.775"/>
+
+<Sync time="1765.105"/>
+que tel professeur
+<Sync time="1766.172"/>
+qui enseigne telle discipline assure tant d'heures de cours dans telles classes pendant toute l'année
+<Sync time="1770.41"/>
+
+<Sync time="1772.33"/>
+nous avons donc si vous voulez
+<Sync time="1773.672"/>
+
+<Sync time="1774.065"/>
+l'obligation
+<Sync time="1774.901"/>
+de passer les examens d-
+<Sync time="1776.121"/>
+
+<Sync time="1776.514"/>
+d'Etat
+<Sync time="1777.015"/>
+
+<Sync time="1778.013"/>
+de respecter les programmes
+<Sync time="1779.464"/>
+de l'Etat
+<Sync time="1780.169"/>
+
+<Sync time="1781.211"/>
+dans le cadre des horaires
+<Sync time="1782.452"/>
+de l'Etat
+<Sync time="1783.227"/>
+
+<Sync time="1785.244"/>
+euh vous me demandez ensuite
+<Sync time="1786.845"/>
+quelle est la liberté
+<Sync time="1788.355"/>
+
+<Sync time="1789.753"/>
+euh il peut y avoir la liberté pédagogique de la méthode
+<Sync time="1792.306"/>
+
+<Sync time="1793.62"/>
+les maîtres peuvent employer les méthodes
+<Sync time="1795.567"/>
+qu'ils souhaitent
+<Sync time="1796.787"/>
+
+<Sync time="1797.971"/>
+pour
+<Sync time="1798.497"/>
+arriver
+<Sync time="1799.141"/>
+au mieux
+<Sync time="1799.823"/>
+
+<Sync time="1800.07"/>
+dans un cadre
+<Sync time="1801.042"/>
+très défini
+<Sync time="1801.83"/>
+du point de vue des programmes et des examens
+<Sync time="1803.619"/>
+
+<Sync time="1803.762"/>
+et des horaires
+<Sync time="1804.527"/>
+
+<Sync time="1806.052"/>
+alors là c'est indéfinissable
+<Sync time="1807.481"/>
+
+<Sync time="1807.945"/>
+vous avez des maîtres timorés
+<Sync time="1809.248"/>
+
+<Sync time="1809.828"/>
+qui diront
+<Sync time="1810.479"/>
+
+<Sync time="1810.664"/>
+ben
+<Sync time="1810.955"/>
+puisque je vais être inspecté par un inspecteur de l'Education nationale
+<Sync time="1814.297"/>
+
+<Sync time="1815.334"/>
+et que
+<Sync time="1816.06"/>
+ma destinée
+<Sync time="1817.347"/>
+dépendra de mon inspection
+<Sync time="1818.923"/>
+
+<Sync time="1819.626"/>
+puisque mon traitement mon classement ma progression
+<Sync time="1822.524"/>
+
+<Sync time="1823.616"/>
+dépendront du jugement que va porter
+<Sync time="1825.638"/>
+
+<Sync time="1826.324"/>
+l'inspecteur qui viendra me visiter
+<Sync time="1828.256"/>
+
+<Sync time="1828.922"/>
+il faut que je sache 
+<Event desc="fache" type="pronounce" extent="instantaneous"/>
+ exactement
+<Sync time="1830.603"/>
+
+<Sync time="1831.036"/>
+quelles sont les théories pédagogiques de cet inspecteur
+<Sync time="1833.606"/>
+
+<Sync time="1835.736"/>
+et quand cet inspecteur est déjà venu visiter 
+<Sync time="1837.837"/>
+une fois et qu'il a donné un avis défavorable 
+<Sync time="1840.058"/>
+parce que l'enseignement ne lui plaisait pas
+<Sync time="1841.81"/>
+
+<Sync time="1842.698"/>
+quand à la suite de son inspection
+<Sync time="1844.36"/>
+
+<Sync time="1844.984"/>
+il a parlé pendant une heure
+<Sync time="1846.354"/>
+avec le maître 
+<Sync time="1847.304"/>
+pour lui faire remarquer 
+<Sync time="1848.243"/>
+quelles étaient ses carences 
+<Sync time="1849.33"/>
+le maître s'applique
+<Sync time="1850.431"/>
+
+<Sync time="1850.616"/>
+à bien rentrer dans les vues de l'inspecteur
+<Sync time="1852.664"/>
+
+<Sync time="1852.912"/>
+pour que la fois suivante
+<Sync time="1854.256"/>
+
+<Sync time="1854.545"/>
+on ne lui fasse pas les mêmes griefs
+<Sync time="1856.25"/>
+
+<Sync time="1857.6"/>
+c'est ce que j'appelle un peu les maîtres timorés
+<Sync time="1859.819"/>
+
+<Sync time="1860.966"/>
+qui sont des bons maîtres
+<Sync time="1862.392"/>
+mais qui ne sont pas des génies
+<Sync time="1863.623"/>
+
+<Sync time="1865.261"/>
+ensuite vous avez
+<Sync time="1866.379"/>
+les maîtres qui sont parfaitement qualifiés
+<Sync time="1868.495"/>
+
+<Sync time="1869.381"/>
+qui n'ont pas peur
+<Sync time="1870.641"/>
+des contrôles
+<Sync time="1871.535"/>
+
+<Sync time="1871.867"/>
+et qui sont such- sa-
+<Sync time="1872.962"/>
+suffisamment en possession de leur discipline
+<Sync time="1875.238"/>
+
+<Sync time="1875.713"/>
+et qui connaissent suffisamment la pédagogie 
+<Sync time="1877.606"/>
+pour se permettre des méthodes très personnelles
+<Sync time="1879.739"/>
+
+<Sync time="1881.314"/>
+ces maîtres-là ne craignent pas la visite d'un inspecteur
+<Sync time="1884.021"/>
+
+<Sync time="1884.497"/>
+car tout inspecteur
+<Sync time="1885.959"/>
+
+<Sync time="1886.456"/>
+qui considère
+<Sync time="1887.518"/>
+
+<Sync time="1888.181"/>
+qui constate
+<Sync time="1889.111"/>
+
+<Sync time="1889.689"/>
+qu'un maître est très à l'aise dans son enseignement
+<Sync time="1891.971"/>
+
+<Sync time="1893.462"/>
+ne se formalisera pas que la méthode ne soit pas sa méthode d'inspecteur
+<Sync time="1897.13"/>
+
+<Sync time="1897.81"/>
+il saura reconnaître que c'est une méthode qui est bonne
+<Sync time="1900.034"/>
+
+<Sync time="1901.456"/>
+si bien qu'au fond votre question de tout à l'heure
+<Sync time="1903.428"/>
+l'initiative pédagogique est-elle possible ?
+<Sync time="1905.564"/>
+
+<Sync time="1906.11"/>
+je dis
+<Sync time="1906.649"/>
+
+<Sync time="1907.104"/>
+elle est restreinte parce que la loi
+<Sync time="1909.111"/>
+
+<Sync time="1909.669"/>
+nous oblige
+<Sync time="1910.459"/>
+à suivre un certain nombre
+<Sync time="1912.096"/>
+
+<Sync time="1912.407"/>
+d'exigences
+<Sync time="1913.632"/>
+
+<Sync time="1914.127"/>
+mais elle est possible
+<Sync time="1915.311"/>
+
+<Sync time="1915.971"/>
+pour les meilleurs des maîtres
+<Sync time="1917.482"/>
+
+<Sync time="1917.938"/>
+qui ne craignent pas
+<Sync time="1918.89"/>
+une tutelle administrative trop forte
+<Sync time="1920.89"/>
+
+<Sync time="1921.915"/>
+c'est donc
+<Sync time="1922.473"/>
+
+<Sync time="1922.886"/>
+euh si vous voulez
+<Sync time="1924.129"/>
+en en fonction de la valeur
+<Sync time="1925.997"/>
+pédagogique
+<Sync time="1926.864"/>
+du maître
+<Sync time="1927.507"/>
+
+<Sync time="1927.776"/>
+que nous aurons des méthodes pédagogiques nouvelles
+<Sync time="1929.981"/>
+
+<Sync time="1931.324"/>
+cependant nous estimons
+<Sync time="1932.878"/>
+
+<Sync time="1933.911"/>
+que
+<Sync time="1934.303"/>
+ces textes réglementaires
+<Sync time="1936.712"/>
+sont vraiment trop stricts
+<Sync time="1938.525"/>
+
+<Sync time="1938.773"/>
+quand ils parlent de programmes 
+<Sync time="1940.471"/>
+d'horaires
+<Sync time="1941.152"/>
+
+<Sync time="1943.577"/>
+et d'examens
+<Sync time="1944.445"/>
+
+<Sync time="1945.252"/>
+et nous aimerions
+<Sync time="1946.385"/>
+
+<Sync time="1947.178"/>
+que le texte de la loi
+<Sync time="1948.653"/>
+
+<Sync time="1949.843"/>
+future
+<Sync time="1950.565"/>
+
+<Sync time="1952.013"/>
+lève un peu ce carcan
+<Sync time="1953.608"/>
+
+<Sync time="1955.393"/>
+et sans demander
+<Sync time="1956.552"/>
+
+<Sync time="1959.354"/>
+que nous puissions échapper
+<Sync time="1960.632"/>
+
+<Sync time="1961.525"/>
+au baccalauréat
+<Sync time="1962.333"/>
+
+<Sync time="1963.464"/>
+nous aimerions du moins
+<Sync time="1964.873"/>
+
+<Sync time="1965.393"/>
+pouvoir échapper à une tutelle administrative trop forte
+<Sync time="1968.726"/>
+
+<Sync time="1969.386"/>
+pour laisser aux maîtres
+<Sync time="1970.665"/>
+le soin de constituer
+<Sync time="1971.863"/>
+leurs programmes
+<Sync time="1972.941"/>
+
+<Sync time="1973.312"/>
+et leurs horaires
+<Sync time="1974.243"/>
+
+<Sync time="1975.762"/>
+cette initiative
+<Sync time="1976.762"/>
+pédagogique
+<Sync time="1977.629"/>
+n'est certainement poss- pas possible
+<Sync time="1979.767"/>
+
+<Sync time="1980.035"/>
+avec les textes actuels
+<Sync time="1981.38"/>
+
+<Sync time="1984.714"/>
+cela c'est une
+<Sync time="1985.5"/>
+un premier aspect la liberté
+<Sync time="1987.151"/>
+pédagogique
+<Sync time="1988.026"/>
+vous m'avez demandé ensuite
+<Sync time="1989.185"/>
+
+<Sync time="1989.969"/>
+si
+<Sync time="1990.566"/>
+dans le choix des
+<Sync time="1991.682"/>
+examens
+<Sync time="1992.342"/>
+
+<Sync time="1993.852"/>
+nous pouvons
+<Sync time="1994.7"/>
+euh
+<Sync time="1995.092"/>
+ouvrir les sections
+<Sync time="1996.311"/>
+
+<Sync time="1996.979"/>
+que bon nous semble
+<Sync time="1997.992"/>
+
+<Sync time="1999.442"/>
+ou bien si nous sommes obligés 
+<Sync time="2000.81"/>
+d'attendre que l'Education nationale
+<Sync time="2002.849"/>
+
+<Sync time="2004.263"/>
+ait rodé
+<Sync time="2005.275"/>
+
+<Sync time="2005.977"/>
+les nouveaux enseignements
+<Sync time="2007.195"/>
+pour pouvoir les prendre nous-mêmes
+<Sync time="2008.582"/>
+
+<Sync time="2010.833"/>
+c'est une question qui est bien
+<Sync time="2012.406"/>
+difficile
+<Sync time="2013.098"/>
+
+<Sync time="2017.017"/>
+il faudra ici
+<Sync time="2018.089"/>
+reprendre
+<Sync time="2019.164"/>
+
+<Sync time="2020.28"/>
+la définition du besoin scolaire
+<Sync time="2022.989"/>
+reconnu
+<Sync time="2023.698"/>
+
+<Sync time="2024.674"/>
+il est dit dans la loi
+<Sync time="2025.705"/>
+que
+<Sync time="2025.996"/>
+les établissements
+<Sync time="2027.07"/>
+
+<Sync time="2027.864"/>
+peuvent passer
+<Sync time="2028.755"/>
+un contrat 
+<Sync time="2029.565"/>
+avec l'Etat
+<Sync time="2030.516"/>
+
+<Sync time="2031.409"/>
+dans la mesure
+<Sync time="2032.526"/>
+où l'Education nationale
+<Sync time="2034.057"/>
+reconnaît
+<Sync time="2034.854"/>
+
+<Sync time="2035.934"/>
+que l'enseignement
+<Sync time="2036.789"/>
+
+<Sync time="2038.656"/>
+de cet établissement
+<Sync time="2039.772"/>
+
+<Sync time="2040.856"/>
+répond
+<Sync time="2041.516"/>
+à un besoin
+<Sync time="2042.467"/>
+scolaire
+<Sync time="2043.254"/>
+
+<Sync time="2043.606"/>
+reconnu
+<Sync time="2044.268"/>
+
+<Sync time="2047.608"/>
+or comment
+<Sync time="2048.396"/>
+
+<Sync time="2049.613"/>
+l'Education nationale
+<Sync time="2050.941"/>
+
+<Sync time="2051.811"/>
+reconnaît-elle
+<Sync time="2052.953"/>
+
+<Sync time="2054.822"/>
+qu'une initiative
+<Sync time="2056.068"/>
+
+<Sync time="2056.274"/>
+pédagogique
+<Sync time="2057.27"/>
+
+<Sync time="2057.496"/>
+répondra à un besoin scolaire ?
+<Sync time="2059.662"/>
+
+<Sync time="2062.287"/>
+euh
+<Sync time="2062.763"/>
+nous touchons là
+<Sync time="2063.744"/>
+l'un des points essentiels
+<Sync time="2065.284"/>
+
+<Sync time="2065.78"/>
+de la
+<Sync time="2066.876"/>
+nouvelle loi
+<Sync time="2067.998"/>
+
+<Sync time="2070.378"/>
+la loi Debré
+<Sync time="2071.375"/>
+
+<Sync time="2071.771"/>
+était faite
+<Sync time="2072.745"/>
+
+<Sync time="2073.83"/>
+pour ne pas laisser mourir de faim
+<Sync time="2075.222"/>
+
+<Sync time="2076.027"/>
+les maîtres
+<Sync time="2076.731"/>
+
+<Sync time="2077.005"/>
+qui étaient dans l'enseignement privé
+<Sync time="2078.481"/>
+
+<Sync time="2080.667"/>
+à un moment
+<Sync time="2081.542"/>
+
+<Sync time="2082.123"/>
+où l'Education nationale ne pouvait pas elle-même
+<Sync time="2084.434"/>
+
+<Sync time="2084.6"/>
+assimiler
+<Sync time="2085.263"/>
+tous les effectifs de France
+<Sync time="2086.929"/>
+
+<Sync time="2088.298"/>
+en définitive
+<Sync time="2089.126"/>
+elle a été
+<Sync time="2089.851"/>
+une loi d'économie considérable pour l'Etat
+<Sync time="2092.114"/>
+
+<Sync time="2093.088"/>
+car s'il avait fallu que l'enseignement libre s'arrête 
+<Sync time="2095.025"/>
+parce qu'il ne pouvait pas payer les maîtres
+<Sync time="2096.63"/>
+
+<Sync time="2097.198"/>
+l'Etat aurait dépensé quatre fois plus
+<Sync time="2099.239"/>
+
+<Sync time="2099.694"/>
+pour récupérer les élèves
+<Sync time="2101.143"/>
+
+<Sync time="2101.555"/>
+et les éduquer
+<Sync time="2102.528"/>
+
+<Sync time="2103.381"/>
+aux mêmes conditions financières
+<Sync time="2104.813"/>
+
+<Sync time="2105.393"/>
+que seule l'Education nationale
+<Sync time="2106.802"/>
+
+<Sync time="2108.001"/>
+il s'agissait donc 
+<Sync time="2108.849"/>
+pour la loi Debré de répondre à un problème humain
+<Sync time="2110.902"/>
+
+<Sync time="2111.418"/>
+que les maîtres en fonction ne meurent pas de faim
+<Sync time="2113.282"/>
+
+<Sync time="2114.146"/>
+et en même temps de faire une très grosse économie sur le budget national
+<Sync time="2117.014"/>
+
+<Sync time="2119.204"/>
+mais
+<Sync time="2119.741"/>
+
+<Sync time="2119.989"/>
+depuis s-
+<Sync time="2120.568"/>
+cinquante-neuf
+<Sync time="2121.729"/>
+
+<Sync time="2122.455"/>
+tous les projets
+<Sync time="2123.304"/>
+
+<Sync time="2124.776"/>
+ou tout au moins de nombreux projets
+<Sync time="2126.504"/>
+
+<Sync time="2126.752"/>
+qui ont été faits sur la réforme de l'enseignement
+<Sync time="2129.015"/>
+
+<Sync time="2130.547"/>
+tendent à prendre pour principe
+<Sync time="2132.391"/>
+
+<Sync time="2132.768"/>
+que l'Education nationale
+<Sync time="2134.227"/>
+
+<Sync time="2134.557"/>
+doit pouvoir faire face
+<Sync time="2136.121"/>
+
+<Sync time="2136.492"/>
+à tous les besoins
+<Sync time="2137.403"/>
+de la jeunesse française
+<Sync time="2138.694"/>
+
+<Sync time="2139.819"/>
+et que c'est donc 
+<Sync time="2140.482"/>
+à elle
+<Sync time="2141.125"/>
+
+<Sync time="2141.518"/>
+qu'il appartient d'ouvrir
+<Sync time="2142.699"/>
+
+<Sync time="2143.09"/>
+les nouveaux établissements
+<Sync time="2144.503"/>
+
+<Sync time="2145.148"/>
+ou les nouvelles sections
+<Sync time="2146.557"/>
+
+<Sync time="2147.034"/>
+conformes à la réforme de l'enseignement
+<Sync time="2148.563"/>
+
+<Sync time="2150.959"/>
+tant que l'enseignement catholique demande à passer des contrats
+<Sync time="2153.377"/>
+
+<Sync time="2155.185"/>
+pour permettre à des maîtres d'être payés
+<Sync time="2157.151"/>
+
+<Sync time="2157.833"/>
+dans le cadre des enseignements anciens
+<Sync time="2159.616"/>
+
+<Sync time="2160.882"/>
+nous n'avons pas trop de difficultés
+<Sync time="2162.349"/>
+
+<Sync time="2163.507"/>
+chaque fois que l'enseignement catholique
+<Sync time="2164.873"/>
+demande à ouvrir des sections nouvelles
+<Sync time="2166.651"/>
+
+<Sync time="2167.668"/>
+pour faire face
+<Sync time="2168.475"/>
+ou à la réforme de l'enseignement
+<Sync time="2169.737"/>
+ou tout simplement aux besoins économiques de la région
+<Sync time="2172.26"/>
+
+<Sync time="2172.675"/>
+que nous connaissons bien et que nous sentons bien
+<Sync time="2174.484"/>
+
+<Sync time="2174.937"/>
+parce que nous sommes en rapport constant
+<Sync time="2176.501"/>
+
+<Sync time="2176.914"/>
+avec les autorités locales
+<Sync time="2178.361"/>
+
+<Sync time="2178.628"/>
+chargées du développement industriel d'une région
+<Sync time="2180.889"/>
+
+<Sync time="2182.542"/>
+chaque fois que nous prétendons vouloir nous adapter
+<Sync time="2184.88"/>
+
+<Sync time="2185.21"/>
+ou à la réforme
+<Sync time="2186.098"/>
+ou à la vie
+<Sync time="2186.76"/>
+
+<Sync time="2187.814"/>
+on nous répond que ce n'est pas notre mission
+<Sync time="2189.414"/>
+
+<Sync time="2190.711"/>
+et que nous ne répondons pas à un besoin scolaire
+<Sync time="2192.764"/>
+
+<Sync time="2193.449"/>
+car l'Education nationale est bien assez grande
+<Sync time="2195.49"/>
+
+<Sync time="2195.965"/>
+pour pouvoir
+<Sync time="2196.816"/>
+faire face
+<Sync time="2197.533"/>
+à tous les besoins nouveaux
+<Sync time="2198.863"/>
+
+<Sync time="2199.905"/>
+et que c'est sa mission
+<Sync time="2200.889"/>
+
+<Sync time="2201.305"/>
+d'éduquer les Français
+<Sync time="2202.259"/>
+
+<Sync time="2202.506"/>
+nous touchons donc là à un problème de fond
+<Sync time="2204.105"/>
+
+<Sync time="2205.137"/>
+qui est
+<Sync time="2205.594"/>
+
+<Sync time="2205.822"/>
+celui-ci
+<Sync time="2206.486"/>
+
+<Sync time="2206.898"/>
+il y a en France une loi scolaire
+<Sync time="2208.954"/>
+
+<Sync time="2209.823"/>
+mais il reste
+<Sync time="2210.671"/>
+dans l'Education nationale
+<Sync time="2211.999"/>
+
+<Sync time="2212.882"/>
+une
+<Sync time="2213.254"/>
+mentalité
+<Sync time="2214.105"/>
+
+<Sync time="2214.807"/>
+très particulière
+<Sync time="2215.819"/>
+
+<Sync time="2216.232"/>
+qui consiste à dire
+<Sync time="2217.33"/>
+
+<Sync time="2217.496"/>
+que les besoins de la jeunesse française
+<Sync time="2219.35"/>
+
+<Sync time="2219.978"/>
+doivent être euh
+<Sync time="2221.402"/>
+
+<Sync time="2222.416"/>
+doivent être euh
+<Sync time="2224.918"/>
+
+<Sync time="2225.848"/>
+les besoins de la jeunesse française
+<Sync time="2228.061"/>
+
+<Sync time="2229.966"/>
+doivent être euh
+<Sync time="2232.871"/>
+hm
+<Sync time="2233.139"/>
+je cherche le mot
+<Sync time="2234.032"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2236.862" endTime="2239.919">
+<Sync time="2236.862"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ je vais pas vous aider
+<Sync time="2237.93"/>
+compris euh
+<Sync time="2239.198"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2239.919" endTime="2241.996">
+<Sync time="2239.919"/>
+<Who nb="1"/>
+que c'est à l'
+<Who nb="2"/>
+oui
+<Sync time="2241.747"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2241.996" endTime="2243.323">
+<Sync time="2241.996"/>
+de répondre à tous les besoins
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2243.323" endTime="2245.533">
+<Sync time="2243.323"/>
+<Who nb="1"/>
+de la jeunesse française
+<Who nb="2"/>
+oui
+<Sync time="2244.329"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2245.533" endTime="2382.353">
+<Sync time="2245.533"/>
+alors
+<Sync time="2245.987"/>
+évidemment
+<Sync time="2246.752"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="2247.184"/>
+euh nous ne pouvons pas être d'accord
+<Sync time="2248.667"/>
+
+<Sync time="2250.291"/>
+parce que cela voudrait dire
+<Sync time="2251.519"/>
+
+<Sync time="2253.705"/>
+puisque l'avenir est fait 
+<Sync time="2254.83"/>
+t-
+<Sync time="2255.29"/>
+
+<Sync time="2255.707"/>
+de choses nouvelles
+<Sync time="2256.695"/>
+
+<Sync time="2258.352"/>
+puisque dans le monde 
+<Sync time="2259.384"/>
+la révolution technique actuelle il ne peut pas être question
+<Sync time="2262.122"/>
+
+<Sync time="2262.554"/>
+de conserver purement et simplement les enseignements anciens
+<Sync time="2265.257"/>
+
+<Sync time="2266.041"/>
+nous ne pouvons pas dire la vocation de l'enseignement catholique
+<Sync time="2268.323"/>
+
+<Sync time="2268.797"/>
+consiste à demeurer simplement
+<Sync time="2270.409"/>
+sur 
+<Sync time="2270.905"/>
+les 
+<Sync time="2271.277"/>
+les enseignements d'autrefois
+<Sync time="2272.503"/>
+
+<Sync time="2275.234"/>
+chaque fois que nous voulons donc ouvrir quelque chose de nouveau et j'y ai fait allusion
+<Sync time="2277.945"/>
+tout à l'heure au baccalauréat technique
+<Sync time="2279.539"/>
+bal-
+<Sync time="2279.891"/>
+baccalauréat 
+<Event desc="baccalaurééala" type="pronounce" extent="instantaneous"/>
+
+<Sync time="2280.851"/>
+baccalauréat de technicien de
+<Sync time="2282.917"/>
+
+<Sync time="2283.249"/>
+de biochimie de sciences économiques euh
+<Sync time="2286.323"/>
+
+<Sync time="2286.654"/>
+euh de mécanique d'électricité 
+<Sync time="2288.66"/>
+de dessinateur industriel 
+<Sync time="2290.173"/>
+chaque fois que nous voulons ouvrir des sections
+<Sync time="2291.94"/>
+
+<Sync time="2292.949"/>
+nouvelles dans ce sens
+<Sync time="2294.295"/>
+
+<Sync time="2295.854"/>
+l'Education d- nationale nous dit
+<Sync time="2297.434"/>
+
+<Sync time="2298.715"/>
+on ne peut pas vous empêcher d'ouvrir les sections
+<Sync time="2300.678"/>
+
+<Sync time="2302.164"/>
+puisque vous êtes en France et qu'en France on est libre
+<Sync time="2304.355"/>
+
+<Sync time="2305.529"/>
+donc ouvrez
+<Sync time="2306.293"/>
+
+<Sync time="2306.521"/>
+vos sections
+<Sync time="2307.122"/>
+
+<Sync time="2307.931"/>
+et dans cinq ans
+<Sync time="2308.781"/>
+
+<Sync time="2309.691"/>
+quand on aura constaté
+<Sync time="2310.928"/>
+
+<Sync time="2312.002"/>
+euh
+<Sync time="2312.601"/>
+le fruit de votre travail
+<Sync time="2314.07"/>
+
+<Sync time="2315.454"/>
+on vous dira
+<Sync time="2316.032"/>
+qu'on les reconnaît
+<Sync time="2316.757"/>
+et qu'on vous paye les professeurs
+<Sync time="2318.245"/>
+
+<Sync time="2318.887"/>
+ou bien on vous dira que ce n'est
+<Sync time="2320.129"/>
+pas valable
+<Sync time="2320.665"/>
+parce que vous avez eu des échecs aux examens et on ne vous payera pas les professeurs
+<Sync time="2323.894"/>
+
+<Sync time="2325.752"/>
+ce à quoi nous répondons
+<Sync time="2326.89"/>
+
+<Sync time="2328.425"/>
+il nous est absolument impossible de fonctionner pendant cinq ans
+<Sync time="2331.199"/>
+
+<Sync time="2332.397"/>
+sans l'aide de l'Etat
+<Sync time="2333.346"/>
+
+<Sync time="2335.409"/>
+nous ne pouvons pas commencer
+<Sync time="2336.645"/>
+
+<Sync time="2338.837"/>
+car les sections nouvelles
+<Sync time="2340.159"/>
+sont des sections qui ne peuvent 
+<Event desc="peute" type="pronounce" extent="instantaneous"/>
+ qui ne 
+<Sync time="2341.697"/>
+peuvent être
+<Sync time="2342.235"/>
+fonctié-
+<Sync time="2342.686"/>
+fon- on-
+<Sync time="2343.161"/>
+confiées qu'à des professeurs anciens
+<Sync time="2344.813"/>
+
+<Sync time="2346.577"/>
+on ne mettrait pas des professeurs jeunes
+<Sync time="2348.377"/>
+débutants
+<Sync time="2349.06"/>
+
+<Sync time="2350.671"/>
+dans des sections
+<Sync time="2351.747"/>
+
+<Sync time="2353.727"/>
+d'avant-garde
+<Sync time="2354.451"/>
+
+<Sync time="2354.993"/>
+il faut y mettre au contraire des professeurs 
+<Sync time="2356.829"/>
+pour qui la pédagogie n'a pas de secret
+<Sync time="2358.367"/>
+
+<Sync time="2359.561"/>
+si on veut qu'elle réussisse
+<Sync time="2360.727"/>
+
+<Sync time="2362.202"/>
+or aucun professeur ne voudra quitter sa situation
+<Sync time="2364.751"/>
+
+<Sync time="2366.044"/>
+d-
+<Sync time="2366.462"/>
+
+<Sync time="2366.605"/>
+et sa rémunération de l'Etat
+<Sync time="2368.093"/>
+
+<Sync time="2369.127"/>
+pour rester pendant plusieurs années
+<Sync time="2370.617"/>
+
+<Sync time="2371.3"/>
+dans une situation très précaire
+<Sync time="2372.984"/>
+
+<Sync time="2373.998"/>
+ne sachant pas si l'enseignement
+<Sync time="2375.468"/>
+
+<Sync time="2375.676"/>
+de cette nouvelle section sera un jour reconnu
+<Sync time="2377.815"/>
+
+<Sync time="2379.08"/>
+et perdant cinq années d'ancienneté
+<Sync time="2380.873"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2382.353" endTime="2383.533">
+<Sync time="2382.353"/>
+hm
+<Sync time="2382.788"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2383.533" endTime="2592.958">
+<Sync time="2383.533"/>
+ce qui brise quand même
+<Sync time="2384.697"/>
+toute une carrière dé- d'enseignant
+<Sync time="2386.299"/>
+
+<Sync time="2388.373"/>
+donc nous ne pouvons pas financièrement
+<Sync time="2390.145"/>
+
+<Sync time="2390.682"/>
+payer de professeurs
+<Sync time="2391.882"/>
+
+<Sync time="2392.952"/>
+pour assurer des sections nouvelles
+<Sync time="2394.346"/>
+
+<Sync time="2395.567"/>
+et même si nous le pouvions
+<Sync time="2396.86"/>
+
+<Sync time="2397.914"/>
+aucun professeur n'accepterait de quitter une situation sûre
+<Sync time="2400.892"/>
+
+<Sync time="2402.026"/>
+pour aller à l'avant-garde
+<Sync time="2403.271"/>
+
+<Sync time="2404.349"/>
+quand l'enseignement d'Etat ouvre des sections nouvelles
+<Sync time="2406.671"/>
+il ne dit pas à ses professeurs
+<Sync time="2408.067"/>
+nous ne v-
+<Sync time="2408.46"/>
+nous n'allons pas vous payer pendant cinq ans
+<Sync time="2410.16"/>
+
+<Sync time="2410.277"/>
+votre carrière sera arrêtée pendant cinq ans
+<Sync time="2412.501"/>
+puis si dans cinq ans vous faites bien
+<Sync time="2413.906"/>
+
+<Sync time="2414.093"/>
+on verra
+<Sync time="2414.484"/>
+
+<Sync time="2414.812"/>
+nous nous répondons
+<Sync time="2415.686"/>
+
+<Sync time="2416.14"/>
+l'établissement dans lequel nous voulons en- en ouvrir une section nouvelle 
+<Sync time="2419.215"/>
+est un établissement qui a fait ses preuves
+<Sync time="2420.975"/>
+
+<Sync time="2421.823"/>
+qui est construit
+<Sync time="2422.549"/>
+
+<Sync time="2423.63"/>
+qui a ses résultats aux examens
+<Sync time="2425.144"/>
+
+<Sync time="2425.33"/>
+traditionnels
+<Sync time="2426.054"/>
+
+<Sync time="2426.543"/>
+qui a son corps professoral
+<Sync time="2427.846"/>
+son corps professoral que vous connaissez
+<Sync time="2429.603"/>
+qui est valable
+<Sync time="2430.518"/>
+que vous avez inspecté
+<Sync time="2431.725"/>
+
+<Sync time="2431.911"/>
+un corps professoral qui est reclassé
+<Sync time="2434.043"/>
+
+<Sync time="2434.717"/>
+pourquoi voulez-vous
+<Sync time="2435.635"/>
+
+<Sync time="2436.238"/>
+que
+<Sync time="2436.589"/>
+
+<Sync time="2436.941"/>
+dans la même lignée
+<Sync time="2438.207"/>
+
+<Sync time="2438.311"/>
+avec des mêmes professeurs 
+<Sync time="2439.541"/>
+que vous connaissez
+<Sync time="2440.282"/>
+
+<Sync time="2440.818"/>
+nous n'ayons pas
+<Sync time="2441.606"/>
+t-
+<Sync time="2441.813"/>
+autant de chances de réussite dans une section nouvelle
+<Sync time="2444.221"/>
+
+<Sync time="2444.633"/>
+que les professeurs de l'Etat ?
+<Sync time="2445.879"/>
+
+<Sync time="2448.305"/>
+et cela est très très difficile parce que
+<Sync time="2450.234"/>
+
+<Sync time="2450.668"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="2450.895"/>
+les textes étant des textes
+<Sync time="2452.426"/>
+
+<Sync time="2452.902"/>
+l'interprétation
+<Sync time="2453.976"/>
+de
+<Sync time="2454.35"/>
+des autorités administratives locales 
+<Sync time="2456.531"/>
+est toujours restrictif
+<Sync time="2458.384"/>
+
+<Sync time="2458.858"/>
+et si nous voulons percer nous sommes obligés d'aller
+<Sync time="2461.029"/>
+
+<Sync time="2461.74"/>
+jusqu'au comité national de conciliation
+<Sync time="2463.66"/>
+
+<Sync time="2464.924"/>
+ce comité national de conciliation a été constitué 
+<Sync time="2467.366"/>
+par le législateur
+<Sync time="2468.584"/>
+
+<Sync time="2468.953"/>
+pour arbitrer
+<Sync time="2469.908"/>
+les cas
+<Sync time="2470.343"/>
+difficiles
+<Sync time="2470.99"/>
+
+<Sync time="2471.724"/>
+or nous sommes là
+<Sync time="2472.576"/>
+à un cas difficile
+<Sync time="2473.886"/>
+
+<Sync time="2474.386"/>
+car il s'agit de savoir si la loi scolaire
+<Sync time="2476.29"/>
+
+<Sync time="2476.496"/>
+est faite pour permettre le développement
+<Sync time="2478.283"/>
+ou si elle est faite en attendant l'extinction
+<Sync time="2480.297"/>
+
+<Sync time="2481.108"/>
+voilà donc
+<Sync time="2481.645"/>
+un cas essentiel
+<Sync time="2482.725"/>
+
+<Sync time="2483.014"/>
+le comité national
+<Sync time="2484.266"/>
+
+<Sync time="2484.555"/>
+de conciliation
+<Sync time="2485.41"/>
+
+<Sync time="2485.803"/>
+qui est constitué de personnalités
+<Sync time="2487.457"/>
+
+<Sync time="2487.913"/>
+les plus haut placées
+<Sync time="2489.195"/>
+de France
+<Sync time="2489.962"/>
+
+<Sync time="2490.375"/>
+mais qui ne sont pas spécialement des personnalités enseignantes
+<Sync time="2493.253"/>
+
+<Sync time="2493.686"/>
+ce sont des personnes
+<Sync time="2494.917"/>
+q-
+<Sync time="2495.207"/>
+
+<Sync time="2495.434"/>
+dont l'autorité n'est 
+<Sync time="2496.809"/>
+rejetée par personne
+<Sync time="2498.041"/>
+
+<Sync time="2498.899"/>
+et euh ce sont en même temps
+<Sync time="2501.543"/>
+euh des personnes qui ne sont liées si vous voulez
+<Sync time="2504.264"/>
+à aucune organisation d'enseignement
+<Sync time="2506.004"/>
+
+<Sync time="2506.752"/>
+et qui portent sur nos problèmes d'enseignement un regard tout neuf
+<Sync time="2509.704"/>
+tout autre
+<Sync time="2510.49"/>
+
+<Sync time="2511.195"/>
+dans ce comité national de conciliation
+<Sync time="2513.306"/>
+
+<Sync time="2514.05"/>
+il y a les personnalités telles
+<Sync time="2515.785"/>
+
+<Sync time="2516.011"/>
+que
+<Sync time="2516.738"/>
+
+<Sync time="2517.009"/>
+monsieur Leprince-Ringuet
+<Sync time="2518.364"/>
+
+<Sync time="2519.676"/>
+euh
+<Sync time="2519.964"/>
+telles que monsieur Merveilleux du Vignaux
+<Sync time="2522.135"/>
+qui était l'ancien chef de cabinet 
+<Sync time="2524.175"/>
+du président de la République monsieur René Coty
+<Sync time="2526.538"/>
+
+<Sync time="2527.977"/>
+il y a
+<Sync time="2529.184"/>
+monsieur Mons
+<Sync time="2530.762"/>
+
+<Sync time="2531.383"/>
+qui est un ancien chef de cabinet de Léon Blum
+<Sync time="2534.622"/>
+
+<Sync time="2535.035"/>
+qui lui-même a été gouverneur en Tunisie
+<Sync time="2537.174"/>
+
+<Sync time="2537.504"/>
+pendant les dernières années du protectorat en Tunisie
+<Sync time="2540.01"/>
+
+<Sync time="2540.465"/>
+enfin un certain nombre de personnalités fort diverses vous le voyez par euh
+<Sync time="2543.375"/>
+
+<Sync time="2543.725"/>
+et ce sont ces
+<Sync time="2544.762"/>
+
+<Sync time="2544.905"/>
+personnalités
+<Sync time="2545.775"/>
+
+<Sync time="2547.162"/>
+qui
+<Sync time="2547.584"/>
+
+<Sync time="2548.02"/>
+donnent
+<Sync time="2548.681"/>
+
+<Sync time="2548.867"/>
+un avis au ministre de l'Education nationale sur le cas particulier
+<Sync time="2552.381"/>
+présenté par l'école particulière de tel endroit qui veut ouvrir une section particulière
+<Sync time="2556.768"/>
+dans un établissement particulier
+<Sync time="2558.239"/>
+
+<Sync time="2559.78"/>
+il y a donc une manière
+<Sync time="2561.11"/>
+
+<Sync time="2561.629"/>
+de créer des é- des des enseignements nouveaux
+<Sync time="2563.847"/>
+
+<Sync time="2565.3"/>
+mais on sent très bien qu'elle est tellement compliquée
+<Sync time="2568.04"/>
+
+<Sync time="2569.945"/>
+qu'il faut passer par une filière tellement étroite
+<Sync time="2572.459"/>
+
+<Sync time="2573.556"/>
+qu'en définitive ne se lancent
+<Sync time="2575.287"/>
+à l'assaut
+<Sync time="2576.041"/>
+
+<Sync time="2576.205"/>
+de cette montagne
+<Sync time="2577.33"/>
+
+<Sync time="2578.445"/>
+que les chefs d'établissement
+<Sync time="2579.69"/>
+qui ont vraiment beaucoup d'enthousiasme de conviction
+<Sync time="2582.283"/>
+
+<Sync time="2582.989"/>
+et qui n'ont pas peur d'un échec
+<Sync time="2584.53"/>
+
+<Sync time="2587.776"/>
+voilà pour répondre un petit peu à votre question
+<Sync time="2589.992"/>
+
+<Sync time="2590.472"/>
+euh
+<Sync time="2590.787"/>
+êtes-vous à l'avant-garde
+<Sync time="2592.174"/>
+
+<Sync time="2592.586"/>
+ou
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2592.958" endTime="2593.248">
+<Sync time="2592.958"/>
+<Who nb="1"/>
+euh au
+<Who nb="2"/>
+hm
+</Turn>
+<Turn speaker="spk2" startTime="2593.248" endTime="2678.215">
+<Sync time="2593.248"/>
+contraire vous contentez-vous de suivre ?
+<Sync time="2595.053"/>
+
+<Sync time="2595.404"/>
+nous avons ici dans le Loiret beaucoup d'enseignements que nous avons réussi
+<Sync time="2598.451"/>
+à développer
+<Sync time="2599.206"/>
+
+<Sync time="2600.034"/>
+de sections que nous avons réussi à mettre sous contrat
+<Sync time="2602.496"/>
+dès leur origine
+<Sync time="2603.779"/>
+
+<Sync time="2604.503"/>
+parce que nous avons
+<Sync time="2605.642"/>
+mené une
+<Sync time="2606.494"/>
+
+<Sync time="2607.094"/>
+politique
+<Sync time="2608.546"/>
+
+<Sync time="2608.959"/>
+euh
+<Sync time="2609.186"/>
+
+<Event desc="pf" type="noise" extent="instantaneous"/>
+
+<Sync time="2609.702"/>
+d'entêtement
+<Sync time="2610.511"/>
+
+<Sync time="2611.821"/>
+jusqu'à ce que nous obtenions du comité national
+<Sync time="2614.29"/>
+
+<Sync time="2614.578"/>
+l'autorisation
+<Sync time="2615.695"/>
+
+<Sync time="2616.108"/>
+d'ouvrir ces sections
+<Sync time="2617.224"/>
+et de les mettre sous contrat
+<Sync time="2618.482"/>
+
+<Sync time="2619.339"/>
+et c'est certainement pour l'ensemble de notre région
+<Sync time="2621.629"/>
+
+<Sync time="2622.228"/>
+un atout
+<Sync time="2623.01"/>
+
+<Sync time="2623.715"/>
+parce que les départements des environs
+<Sync time="2625.866"/>
+peuvent euh
+<Sync time="2626.903"/>
+
+<Sync time="2627.505"/>
+peuvent ainsi
+<Sync time="2628.294"/>
+euh
+<Sync time="2629.225"/>
+
+<Sync time="2629.659"/>
+trouver
+<Sync time="2630.155"/>
+ici un complément d'orientation
+<Sync time="2632.121"/>
+
+<Sync time="2632.577"/>
+pour les familles
+<Sync time="2633.407"/>
+
+<Sync time="2634.835"/>
+je passerai sous silence
+<Sync time="2636.286"/>
+
+<Sync time="2636.616"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="2637.652"/>
+les conséquences
+<Sync time="2639.375"/>
+d'une telle politique
+<Sync time="2640.604"/>
+
+<Sync time="2641.291"/>
+mais vous devez vous douter que
+<Sync time="2642.638"/>
+
+<Sync time="2642.803"/>
+pour se développer dans ce sens-là
+<Sync time="2644.751"/>
+
+<Sync time="2645.351"/>
+il faut investir énormément
+<Sync time="2647.056"/>
+parce qu'il faut construire
+<Sync time="2648.207"/>
+
+<Sync time="2649.281"/>
+et que
+<Sync time="2649.736"/>
+là
+<Sync time="2650.044"/>
+nous n'avons aucune aide de l'Etat
+<Sync time="2651.535"/>
+
+<Sync time="2652.529"/>
+l'Etat paye les professeurs
+<Sync time="2654.089"/>
+
+<Sync time="2654.376"/>
+l'Etat paye
+<Sync time="2655.204"/>
+certaines dépenses de fonctionnement
+<Sync time="2656.955"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="2657.556"/>
+mais l'Etat
+<Sync time="2658.116"/>
+ne nous verse absolument pas un sou
+<Sync time="2659.752"/>
+
+<Sync time="2659.979"/>
+pour les constructions scolaires
+<Sync time="2661.163"/>
+
+<Sync time="2662.367"/>
+or nos établissements ne sont pas faits
+<Sync time="2664.57"/>
+
+<Sync time="2666.008"/>
+pour
+<Sync time="2666.483"/>
+accueillir les nouvelles sections scolaires
+<Sync time="2668.6"/>
+
+<Sync time="2669.083"/>
+étant donné
+<Sync time="2669.683"/>
+que jusqu'à la loi de cinquante-neuf
+<Sync time="2671.572"/>
+
+<Sync time="2671.901"/>
+nous n'avions pas beaucoup de possibilités de construire
+<Sync time="2674.521"/>
+puisqu'il s'agissait
+<Sync time="2675.589"/>
+d'aller au plus urgent
+<Sync time="2676.765"/>
+
+<Sync time="2676.993"/>
+c'est-à-dire de payer les maîtres
+</Turn>
+<Turn speaker="spk1" startTime="2678.215" endTime="2681.918">
+<Sync time="2678.215"/>
+hm
+<Sync time="2678.627"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2681.918" endTime="2682.62">
+<Sync time="2681.918"/>
+voilà
+<Sync time="2682.31"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2682.62" endTime="2694.325">
+<Sync time="2682.62"/>
+il me semble quand même qué-
+<Sync time="2683.951"/>
+
+<Sync time="2685.367"/>
+il devrait y avoir un euh
+<Sync time="2687.062"/>
+
+<Sync time="2688.555"/>
+une possibilité de collaboration entre euh
+<Sync time="2691.127"/>
+
+<Sync time="2691.415"/>
+l'Etat
+<Sync time="2692.347"/>
+et
+<Sync time="2692.968"/>
+
+<Sync time="2693.341"/>
+les catholiques
+</Turn>
+<Turn speaker="spk2" startTime="2694.325" endTime="2694.822">
+<Sync time="2694.325"/>
+oui
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2694.822" endTime="2697.53">
+<Sync time="2694.822"/>
+<Who nb="1"/>
+ou l'Etat et l'Eglise
+<Who nb="2"/>
+oui
+<Sync time="2696.451"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2697.53" endTime="2726.078">
+<Sync time="2697.53"/>
+mais au lieu de cette euh
+<Sync time="2699.475"/>
+
+<Sync time="2701.14"/>
+euh ce qui semble être toujours une euh
+<Sync time="2703.731"/>
+
+<Sync time="2705.076"/>
+un
+<Sync time="2705.759"/>
+une imposition de la part
+<Sync time="2707.704"/>
+
+<Sync time="2708.285"/>
+de l'Etat
+<Sync time="2709.011"/>
+
+<Sync time="2709.367"/>
+sur l'Eglise et sur l'organisation de l'enseignement catholique
+<Sync time="2712.77"/>
+
+<Sync time="2715.515"/>
+pourquoi est-ce que vous pensez que
+<Sync time="2717.297"/>
+
+<Sync time="2717.979"/>
+qu'on n'arrive pas à une collaboration
+<Sync time="2719.579"/>
+que que l'Etat euh n- ne
+<Sync time="2721.804"/>
+
+<Sync time="2722.031"/>
+n'accepte pas 
+<Event desc="mic" type="noise" extent="instantaneous"/>
+
+<Sync time="2723.229"/>
+
+<Sync time="2723.602"/>
+une espèce de 
+<Event desc="mic" type="noise" extent="instantaneous"/>
+
+<Sync time="2724.85"/>
+
+<Event desc="mic" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2726.078" endTime="2728.984">
+<Sync time="2726.078"/>
+je
+<Sync time="2726.327"/>
+je pense qu'il ne fau- 
+<Sync time="2727.091"/>
+il ne faudrait pas dire qu'il ne l'accepte pas
+</Turn>
+<Turn speaker="spk1" startTime="2728.984" endTime="2729.501">
+<Sync time="2728.984"/>
+hm
+</Turn>
+<Turn speaker="spk2" startTime="2729.501" endTime="2738.061">
+<Sync time="2729.501"/>
+parce que
+<Sync time="2730.167"/>
+euh
+<Sync time="2730.456"/>
+la loi scolaire
+<Sync time="2731.523"/>
+a été
+<Sync time="2732.161"/>
+euh
+<Sync time="2733.052"/>
+
+<Sync time="2733.412"/>
+excessivement bénéfique
+<Sync time="2734.925"/>
+
+<Sync time="2735.814"/>
+pour le rapprochement des mentalités
+<Sync time="2737.64"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2738.061" endTime="2738.474">
+<Sync time="2738.061"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="2738.474" endTime="2861.079">
+<Sync time="2738.474"/>
+nous revenons de très très loin en France
+<Sync time="2740.646"/>
+
+<Sync time="2741.205"/>
+et le fossé est énorme
+<Sync time="2742.896"/>
+
+<Sync time="2743.536"/>
+entre les différentes conceptions sur l'éducation
+<Sync time="2745.847"/>
+
+<Sync time="2746.363"/>
+je pense que la loi scolaire est de ce côté-là
+<Sync time="2748.745"/>
+très bénéfique
+<Sync time="2749.703"/>
+car elle a opéré 
+<Sync time="2750.612"/>
+un très gros rapprochement
+<Sync time="2752.39"/>
+
+<Sync time="2752.905"/>
+j'avais sorti ici pour vous le montrer
+<Sync time="2754.839"/>
+
+<Sync time="2755.15"/>
+le livre qui vient de paraître
+<Sync time="2756.732"/>
+sur
+<Sync time="2757.145"/>
+un bilan
+<Sync time="2757.787"/>
+
+<Sync time="2758.2"/>
+dix années d'application de la loi 
+<Sync time="2760.006"/>
+du trente et un décembre cinquante-neuf
+<Sync time="2761.803"/>
+
+<Sync time="2762.324"/>
+faite
+<Sync time="2762.963"/>
+par
+<Sync time="2763.623"/>
+un
+<Sync time="2763.973"/>
+professeur 
+<Sync time="2764.615"/>
+en droit
+<Sync time="2765.134"/>
+
+<Sync time="2765.88"/>
+qui s'est particulièrement spécialisé
+<Sync time="2767.951"/>
+euh sur
+<Sync time="2768.694"/>
+euh la jurisprudence
+<Sync time="2770.957"/>
+
+<Sync time="2771.496"/>
+de ces dix années
+<Sync time="2772.376"/>
+
+<Sync time="2774.208"/>
+pas uniquement sur les
+<Sync time="2775.162"/>
+textes de la loi de cinquante-neuf et sur les décrets de soixante 
+<Sync time="2778.272"/>
+mais sur l'évolution de ces dix années
+<Sync time="2779.932"/>
+
+<Sync time="2780.511"/>
+et quand on voit
+<Sync time="2781.277"/>
+
+<Sync time="2781.847"/>
+les textes d'aujourd'hui
+<Sync time="2782.964"/>
+
+<Sync time="2783.707"/>
+par rapport
+<Sync time="2784.451"/>
+aux décrets du début
+<Sync time="2785.596"/>
+
+<Sync time="2786.273"/>
+nous constatons
+<Sync time="2787.018"/>
+une énorme
+<Sync time="2788.121"/>
+
+<Sync time="2788.825"/>
+une énorme évolution
+<Sync time="2790.3"/>
+
+<Sync time="2790.796"/>
+dans le sens du rapprochement
+<Sync time="2792.182"/>
+
+<Sync time="2792.786"/>
+et
+<Sync time="2793.158"/>
+en ce sens euh 
+<Sync time="2794.177"/>
+j'ai beaucoup aimé une très grosse conférence que nous a faite 
+<Sync time="2796.639"/>
+monsieur Mons dont je vous parlais tout à l'heure
+<Sync time="2798.466"/>
+
+<Sync time="2799.297"/>
+euh
+<Sync time="2799.648"/>
+qui est
+<Sync time="2800.229"/>
+donc un membre de ce comité national de conciliation
+<Sync time="2803.384"/>
+
+<Sync time="2804.025"/>
+et qui lui-même
+<Sync time="2805.001"/>
+
+<Sync time="2805.58"/>
+est socialiste euh
+<Sync time="2807.349"/>
+
+<Sync time="2807.636"/>
+bien bien connu
+<Sync time="2808.758"/>
+puisqu'il était je vous le disais euh
+<Sync time="2810.405"/>
+
+<Sync time="2811.008"/>
+euh chef de cabinet
+<Sync time="2812.114"/>
+
+<Sync time="2812.506"/>
+du président Léon Blum
+<Sync time="2813.958"/>
+
+<Sync time="2816.05"/>
+et
+<Sync time="2816.484"/>
+qui nous fait au
+<Sync time="2818.101"/>
+à nous directeurs diocésains 
+<Sync time="2819.577"/>
+de France réunis à t- à
+<Sync time="2821.584"/>
+
+<Sync time="2821.935"/>
+Saint-Flour
+<Sync time="2822.724"/>
+
+<Sync time="2823.201"/>
+au
+<Sync time="2824.153"/>
+au moment de l'hiver dernier
+<Sync time="2825.4"/>
+qui nous a fait une
+<Sync time="2826.292"/>
+une journée de conférences et d'entretiens
+<Sync time="2828.166"/>
+
+<Sync time="2829.807"/>
+et l'un des thèmes essentiels 
+<Sync time="2831.242"/>
+de son entretien était celui-ci
+<Sync time="2832.776"/>
+
+<Sync time="2834.059"/>
+je puis vous dire
+<Sync time="2835.052"/>
+
+<Sync time="2835.278"/>
+en tant que membre du comité de conciliation
+<Sync time="2837.17"/>
+
+<Sync time="2837.854"/>
+et au nom même de mes collègues
+<Sync time="2839.487"/>
+
+<Sync time="2840.068"/>
+qui partagent tous le même point de vue
+<Sync time="2841.641"/>
+
+<Sync time="2842.159"/>
+c'est que cette loi scolaire
+<Sync time="2843.423"/>
+
+<Sync time="2843.712"/>
+a été une loi de rapprochement entre les Français
+<Sync time="2845.699"/>
+
+<Sync time="2846.557"/>
+non pas une loi de division comme on l'a dit au début
+<Sync time="2848.795"/>
+elle va couper les Français
+<Sync time="2849.968"/>
+
+<Sync time="2850.379"/>
+mais une loi de compréhension
+<Sync time="2851.87"/>
+
+<Sync time="2852.943"/>
+car euh
+<Sync time="2853.774"/>
+l'ensemble de tous les travaux que nous avons pu faire
+<Sync time="2856.346"/>
+
+<Sync time="2857.144"/>
+avec une équipe
+<Sync time="2858.241"/>
+
+<Sync time="2858.881"/>
+constituée d'éléments très disparates
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2861.079" endTime="2863.1">
+<Sync time="2861.079"/>
+<Who nb="1"/>
+du point de vue des mentalités
+<Who nb="2"/>
+hm
+<Sync time="2862.48"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2863.1" endTime="2872.164">
+<Sync time="2863.1"/>
+nous a montré
+<Sync time="2863.97"/>
+combien
+<Sync time="2864.723"/>
+
+<Sync time="2865.041"/>
+nous pouvions nous entendre
+<Sync time="2866.641"/>
+sur un problème qui est aussi
+<Sync time="2868.091"/>
+
+<Sync time="2868.65"/>
+aussi difficile
+<Sync time="2869.541"/>
+
+<Sync time="2870.285"/>
+nous sommes donc en très grand progrès
+<Sync time="2871.937"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2872.164" endTime="2874.254">
+<Sync time="2872.164"/>
+<Who nb="1"/>
+en très très grand progrès
+<Who nb="2"/>
+hm hm
+<Sync time="2873.414"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2874.254" endTime="3077.079">
+<Sync time="2874.254"/>
+seulement
+<Sync time="2874.77"/>
+
+<Sync time="2875.266"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="2875.492"/>
+
+<Sync time="2875.947"/>
+il faut i- i-
+<Sync time="2877.067"/>
+il faut comprendre ce qu'est la France
+<Sync time="2878.911"/>
+
+<Sync time="2880.985"/>
+la France est un pays n'est-ce pas qui a hm
+<Sync time="2882.68"/>
+
+<Sync time="2883.075"/>
+qui a des idées très généreuses et très belles
+<Sync time="2884.723"/>
+bon
+<Sync time="2885.092"/>
+
+<Sync time="2885.692"/>
+les hm
+<Sync time="2887.225"/>
+
+<Sync time="2887.433"/>
+les
+<Sync time="2887.804"/>
+textes les préambules les orientations des lois
+<Sync time="2890.46"/>
+c'est superbe
+<Sync time="2891.226"/>
+
+<Sync time="2891.882"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="2892.235"/>
+
+<Sync time="2892.709"/>
+et puis la France elle est faite d'administrations
+<Sync time="2894.717"/>
+
+<Sync time="2897.216"/>
+et les personnes qui appliquent
+<Sync time="2898.731"/>
+la plupart du temps
+<Sync time="2899.643"/>
+n'est-ce pas ces lois
+<Sync time="2900.576"/>
+
+<Sync time="2901.132"/>
+ne sont pas les personnes
+<Sync time="2902.168"/>
+
+<Sync time="2902.953"/>
+qui les ont préparées
+<Sync time="2903.986"/>
+
+<Sync time="2906.017"/>
+mais c'est 
+<Event desc="pf" type="noise" extent="instantaneous"/>
+ l'énorme personnel administratif
+<Sync time="2909.989"/>
+
+<Sync time="2910.752"/>
+qui
+<Sync time="2911.331"/>
+qui prend un texte
+<Sync time="2912.571"/>
+
+<Sync time="2913.841"/>
+qui essaye de le comprendre
+<Sync time="2915.202"/>
+
+<Sync time="2916.186"/>
+et qui a toujours en arrière-pensée
+<Sync time="2918.013"/>
+
+<Sync time="2918.922"/>
+qu'il est fait pour
+<Sync time="2920.225"/>
+économiser les deniers de l'Etat
+<Sync time="2921.805"/>
+
+<Sync time="2923.349"/>
+donc chaque fois que un mot peut être interprété d'une manière restrictive
+<Sync time="2927.173"/>
+
+<Sync time="2928.058"/>
+chaque fois qu'une virgule 
+<Sync time="2929.156"/>
+peut être considérée comme n'existant pas
+<Sync time="2931.22"/>
+
+<Sync time="2932.223"/>
+chaque fois
+<Sync time="2932.845"/>
+que euh 
+<Sync time="2933.788"/>
+ça fait un travail un peu supplémentaire d'étudier un dossier alors 
+<Sync time="2936.886"/>
+qu'il est beaucoup plus simple
+<Sync time="2938.004"/>
+
+<Sync time="2938.314"/>
+de dire qu'il ne répond pas aux exigences voulues
+<Sync time="2940.516"/>
+
+<Sync time="2941.175"/>
+on vous renvoie le texte
+<Sync time="2942.521"/>
+
+<Sync time="2943.958"/>
+et
+<Sync time="2944.35"/>
+s- s-
+<Sync time="2944.869"/>
+
+<Sync time="2945.129"/>
+faut 
+<Event desc="fraut" type="pronounce" extent="instantaneous"/>
+ le savoir c'est comme ça
+<Sync time="2946.444"/>
+
+<Sync time="2946.876"/>
+c'est dû tout simplement à
+<Sync time="2948.68"/>
+
+<Sync time="2949.195"/>
+euh 
+<Event desc="pf" type="noise" extent="instantaneous"/>
+
+<Sync time="2949.855"/>
+
+<Sync time="2950.597"/>
+à la volonté d'économie peut-être
+<Sync time="2952.411"/>
+
+<Sync time="2953.012"/>
+euh c'est dû aussi bah mon dieu à une certaine euh 
+<Sync time="2955.97"/>
+faiblesse humaine qui fait dire que les choses nouvelles sont plus compliquées que les choses routinières
+<Sync time="2960.031"/>
+
+<Sync time="2961.455"/>
+alors euh
+<Sync time="2962.738"/>
+on nous renvoie très souvent des dossiers en nous disant il manque ceci il manque cela 
+<Sync time="2966.072"/>
+c'est pas conforme
+<Sync time="2966.944"/>
+
+<Sync time="2967.191"/>
+alors
+<Sync time="2967.521"/>
+si on se contente de dire euh hm
+<Sync time="2969.421"/>
+
+<Sync time="2969.752"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="2969.958"/>
+le dieu administration m'a renvoyé euh mon dossier
+<Sync time="2972.905"/>
+
+<Sync time="2973.319"/>
+donc je m'en s- 
+<Sync time="2974.013"/>
+je me soumets au dieu administration en disant qu'il a raison
+<Sync time="2976.923"/>
+
+<Sync time="2977.361"/>
+bah comme ça on fait jamais rien
+<Sync time="2978.6"/>
+
+<Sync time="2979.593"/>
+on peut dire aussi n'est-ce pas
+<Sync time="2980.963"/>
+les hommes de l'administration 
+<Sync time="2982.599"/>
+peuvent se tromper les hommes de l'administration
+<Sync time="2984.815"/>
+peuvent euh ignorer euh
+<Sync time="2986.525"/>
+
+<Sync time="2986.897"/>
+alors je vais
+<Sync time="2987.626"/>
+je vais m'expliquer
+<Sync time="2988.641"/>
+
+<Sync time="2989.856"/>
+et puis si les hommes de l'administration n'acceptent pas mes explications y a quand même 
+<Sync time="2994.077"/>
+dans l'administration des textes qui disent qu'y a des
+<Sync time="2996.771"/>
+
+<Sync time="2996.997"/>
+des conseils d'interprétation
+<Sync time="2998.479"/>
+
+<Sync time="2999.39"/>
+y a des tribunaux 
+<Sync time="3000.371"/>
+y a des tribunaux administratifs qui sont faits pour casser des décisions
+<Sync time="3003.515"/>
+q- pour
+<Sync time="3003.821"/>
+casser des décisions de circulaires
+<Sync time="3005.548"/>
+
+<Sync time="3005.797"/>
+parce qu'elles ne répondent pas aux
+<Sync time="3006.998"/>
+
+<Sync time="3007.246"/>
+aux aux idées fondamentales de la loi
+<Sync time="3009.067"/>
+
+<Sync time="3009.602"/>
+alors évidemment il faut tout un appareil juridique
+<Sync time="3011.656"/>
+
+<Sync time="3011.902"/>
+et nous avons dans l'enseignement libre tout un appareil juridique
+<Sync time="3014.515"/>
+spécialisé dans l'étude de la loi
+<Sync time="3016.221"/>
+
+<Sync time="3016.885"/>
+pour que 
+<Sync time="3017.413"/>
+euh les décisions du plan administratif
+<Sync time="3019.787"/>
+
+<Sync time="3020.122"/>
+ne fassent pas loi
+<Sync time="3021.195"/>
+
+<Sync time="3023.313"/>
+bon alors ça si vous voulez
+<Sync time="3024.536"/>
+euh
+<Sync time="3025.246"/>
+ce n'est pas ce n'est pas
+<Sync time="3026.902"/>
+
+<Event desc="pf" type="noise" extent="instantaneous"/>
+
+<Sync time="3027.194"/>
+essentiellement si vous voulez de la mauvaise volonté c'est c'est
+<Sync time="3030.216"/>
+c'est la loi de l'humanité
+<Sync time="3031.454"/>
+
+<Sync time="3032.903"/>
+et puis alors
+<Sync time="3033.403"/>
+il y a à côté de cela
+<Sync time="3034.399"/>
+
+<Sync time="3034.981"/>
+un noyau à pensées
+<Sync time="3036.35"/>
+
+<Sync time="3038.746"/>
+et cela est beaucoup plus grave
+<Sync time="3040.102"/>
+
+<Sync time="3040.911"/>
+euh ce noyau à pensées qui fait dire que il n'est
+<Sync time="3043.38"/>
+
+<Sync time="3044.779"/>
+il n'est pas normal
+<Sync time="3045.837"/>
+
+<Sync time="3046.71"/>
+qu'il y ait
+<Sync time="3047.32"/>
+euh
+<Sync time="3047.924"/>
+
+<Sync time="3049.355"/>
+plusieurs manières d'éduquer les Français
+<Sync time="3051.283"/>
+
+<Sync time="3052.475"/>
+et qui dit n'est-ce pas c'est à l'Education nationale 
+<Sync time="3054.674"/>
+service d'Etat
+<Sync time="3055.616"/>
+
+<Sync time="3056.236"/>
+euh
+<Sync time="3056.816"/>
+de répondre à l'éducation des Français euh
+<Sync time="3059.903"/>
+purement et simplement et uniquement
+<Sync time="3061.643"/>
+
+<Sync time="3063.933"/>
+alors
+<Sync time="3064.265"/>
+cela s'appuie sur toute une philosophie 
+<Sync time="3066.476"/>
+toute une conception du rôle de l'Etat
+<Sync time="3068.689"/>
+
+<Sync time="3069.314"/>
+euh je peux pas partir sur tout ce sujet-là 
+<Sync time="3071.153"/>
+j'en f- je vous ferais volontiers une conférence là-dessus mais
+<Sync time="3073.246"/>
+
+<Sync time="3073.7"/>
+c'est beaucoup trop con- beaucoup trop long
+<Sync time="3075.261"/>
+n'est-ce pas beaucoup trop long
+<Sync time="3076.288"/>
+
+<Sync time="3076.682"/>
+s-
+</Turn>
+<Turn speaker="spk2" startTime="3077.079" endTime="3078.698">
+<Sync time="3077.079"/>
+je voulais simplement vous dire c'est un fait
+</Turn>
+<Turn speaker="spk1" startTime="3078.698" endTime="3079.495">
+<Sync time="3078.698"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="3079.495" endTime="3233.529">
+<Sync time="3079.495"/>
+en France il y a cela
+<Sync time="3080.446"/>
+
+<Sync time="3081.445"/>
+alors
+<Sync time="3081.988"/>
+
+<Sync time="3082.257"/>
+ce fait s'appuie ensuite n'est-ce pas évidemment comme p-
+<Sync time="3084.753"/>
+
+<Sync time="3085.008"/>
+comme tout
+<Sync time="3085.57"/>
+tout mouvement comme toute politique
+<Sync time="3087.418"/>
+on a une théorie
+<Sync time="3088.535"/>
+
+<Sync time="3089.592"/>
+et puis ensuite on a selon les circonstances des moyens
+<Sync time="3092.059"/>
+
+<Sync time="3092.433"/>
+pour euh réaliser cette théorie
+<Sync time="3094.245"/>
+
+<Sync time="3095.053"/>
+alors les moyens on les trouve très facilement en ce moment
+<Sync time="3097.48"/>
+
+<Sync time="3098.173"/>
+ce noyau à pensées
+<Sync time="3099.416"/>
+
+<Sync time="3100.293"/>
+il dit euh
+<Sync time="3101.308"/>
+
+<Sync time="3101.892"/>
+nous allons faire des dépenses considérables 
+<Sync time="3103.393"/>
+si nous laissons l'enseignement catholique euh
+<Sync time="3105.23"/>
+
+<Sync time="3105.544"/>
+euh s'adapter à 
+<Sync time="3107.104"/>
+à la réforme et ouvrir des établissements
+<Sync time="3109.012"/>
+
+<Sync time="3109.817"/>
+bah puis nous nous en ouvrirons d'autres dans l'Education nationale puis en définitive
+<Sync time="3113.109"/>
+
+<Sync time="3113.337"/>
+on va en avoir deux
+<Sync time="3114.348"/>
+
+<Sync time="3114.549"/>
+et puis ils vont se faire concurrence
+<Sync time="3115.959"/>
+
+<Sync time="3116.539"/>
+donc supprimons la concurrence
+<Sync time="3118.134"/>
+
+<Sync time="3119.779"/>
+bon
+<Sync time="3120.182"/>
+euh on va nous dire euh
+<Sync time="3122.552"/>
+
+<Sync time="3123.274"/>
+on va nous dire la carte scolaire
+<Sync time="3125.447"/>
+
+<Sync time="3126.418"/>
+la carte scolaire
+<Sync time="3127.605"/>
+
+<Sync time="3127.958"/>
+c'est-à-dire
+<Sync time="3128.842"/>
+la répartition des différents enseignements
+<Sync time="3130.911"/>
+en fonction des effectifs d'enfants
+<Sync time="3132.879"/>
+
+<Sync time="3135.468"/>
+on va nous dire cette carte scolaire
+<Sync time="3137.024"/>
+
+<Sync time="3138.347"/>
+il y a une manière de la faire c'est la manière sage
+<Sync time="3140.958"/>
+
+<Sync time="3141.339"/>
+on dit il y a tant d'élèves
+<Sync time="3142.711"/>
+
+<Sync time="3143.126"/>
+dans un secteur de tant
+<Sync time="3144.413"/>
+
+<Sync time="3145.179"/>
+donc il nous faut tant de collèges
+<Sync time="3146.713"/>
+
+<Sync time="3147.319"/>
+ensuite à partir de la seconde
+<Sync time="3149.08"/>
+
+<Sync time="3149.495"/>
+il faut tant d'élèves dans une dans un département 
+<Sync time="3151.57"/>
+pour pouvoir à partir de la s- 
+<Sync time="3152.63"/>
+avoir un établissement à partir de la seconde
+<Sync time="3154.524"/>
+
+<Sync time="3154.837"/>
+donc on prend le total des élèves
+<Sync time="3156.505"/>
+
+<Sync time="3157.064"/>
+et puis on fait des divisions
+<Sync time="3158.226"/>
+puis ça fait de l'arithmétique
+<Sync time="3159.344"/>
+
+<Sync time="3159.616"/>
+et on dit faut tant d'établissements
+<Sync time="3160.901"/>
+
+<Sync time="3161.848"/>
+si vous laissez dans cette conception-là
+<Sync time="3163.786"/>
+s'intégrer des établissements de l'enseignement libre
+<Sync time="3166.045"/>
+
+<Sync time="3166.642"/>
+d'un seul coup nous
+<Sync time="3167.574"/>
+toute notre carte scolaire de l'enseignement public elle est faussée
+<Sync time="3169.981"/>
+
+<Sync time="3170.852"/>
+parce que euh
+<Sync time="3172.041"/>
+
+<Sync time="3172.372"/>
+euh nous comptons nous avec la totalité des élèves
+<Sync time="3174.827"/>
+
+<Sync time="3176.403"/>
+donc euh
+<Sync time="3177.178"/>
+y a pas de possibilité de collaborer avec un enseignement privé
+<Sync time="3180.14"/>
+
+<Sync time="3183.401"/>
+alors ce à quoi nous répondons
+<Sync time="3184.952"/>
+mais
+<Sync time="3185.312"/>
+pourquoi prenez-vous pour principe
+<Sync time="3186.966"/>
+
+<Sync time="3187.543"/>
+qu'il faut que la totalité des élèves aillent tous dans l'enseignement d'Etat
+<Sync time="3190.545"/>
+
+<Sync time="3191.865"/>
+nous ne demandons pas mieux que de discuter avec vous autour d'une table
+<Sync time="3194.793"/>
+pour savoir s'il est bon
+<Sync time="3196.008"/>
+
+<Sync time="3196.32"/>
+de faire une prévision dans tel ou tel sens
+<Sync time="3198.747"/>
+
+<Sync time="3199.845"/>
+et je comprends très bien
+<Sync time="3200.925"/>
+que si vous faites une prévision pour tout le monde
+<Sync time="3202.841"/>
+
+<Sync time="3203.462"/>
+euh nous arrivions nécessairement à une impasse
+<Sync time="3205.827"/>
+
+<Sync time="3206.58"/>
+car lorsque les établissements seront construits
+<Sync time="3208.691"/>
+
+<Sync time="3210.087"/>
+ou les élèves resteront dans l'enseignement libre
+<Sync time="3212.118"/>
+
+<Sync time="3212.551"/>
+et vous aurez des établissements où il y aura de la place
+<Sync time="3215.096"/>
+
+<Sync time="3216.287"/>
+ou les élèves
+<Sync time="3217.136"/>
+vont dans les établissements où vous avez de la place
+<Sync time="3219.45"/>
+et les établissements d'enseignement libre seront vides
+<Sync time="3221.476"/>
+
+<Sync time="3222.045"/>
+ce n'est vraiment pas une politique d'économie
+<Sync time="3223.763"/>
+
+<Sync time="3224.931"/>
+alors nous disons
+<Sync time="3225.664"/>
+que le remède il est dans la concertation autour d'une table
+<Sync time="3228.176"/>
+avant de commencer
+<Sync time="3229.142"/>
+
+<Sync time="3231.802"/>
+mais cela pour l'instant n'est pas pensable
+</Turn>
+<Turn speaker="spk1" startTime="3233.529" endTime="3234.763">
+<Sync time="3233.529"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="3234.763" endTime="3352.692">
+<Sync time="3234.763"/>
+alors il faut
+<Sync time="3235.864"/>
+
+<Sync time="3236.177"/>
+il faut s'entendre au mieux
+<Sync time="3237.84"/>
+
+<Sync time="3238.424"/>
+euh
+<Sync time="3238.824"/>
+pour des occasions hm
+<Sync time="3240.648"/>
+exceptionnelles pour des points particuliers
+<Sync time="3243.359"/>
+
+<Sync time="3243.628"/>
+négocier
+<Sync time="3244.528"/>
+
+<Sync time="3247.629"/>
+évidemment comme en ce moment
+<Sync time="3249.056"/>
+il n'y a pas d- suffisamment de finances
+<Sync time="3250.743"/>
+pour l'Etat pour faire tout
+<Sync time="3252.13"/>
+
+<Sync time="3252.299"/>
+les constructions qui seraient nécessaires
+<Sync time="3254.184"/>
+
+<Sync time="3254.707"/>
+on peut penser qu'il les fera davantage là où il n'y a pas d'enseignement libre
+<Sync time="3258.272"/>
+
+<Sync time="3260.397"/>
+mais s'il les fait là où il y a de l'enseignement libre
+<Sync time="3262.74"/>
+
+<Sync time="3264.215"/>
+i- il est certain que nous au- nous irons à une impasse
+<Sync time="3267.352"/>
+
+<Sync time="3268.188"/>
+au fond
+<Sync time="3268.62"/>
+la conception
+<Sync time="3269.56"/>
+de ce noyau que j'appelle l'Education nationale
+<Sync time="3272.288"/>
+
+<Sync time="3272.786"/>
+cette conception
+<Sync time="3273.783"/>
+est celle-ci
+<Sync time="3274.909"/>
+
+<Sync time="3275.365"/>
+à propos de la carte scolaire
+<Sync time="3277.311"/>
+
+<Sync time="3277.601"/>
+l'enseignement libre répond à un besoin
+<Sync time="3280.067"/>
+
+<Sync time="3280.96"/>
+lorsque l'enseignement public n'a pas de place pour mettre les enfants
+<Sync time="3283.96"/>
+
+<Sync time="3287.964"/>
+ou lorsque l'enseignement public n'a pas un projet immédiat
+<Sync time="3290.844"/>
+
+<Sync time="3291.058"/>
+pour construire ce qu'il faut pour mettre les enfants
+<Sync time="3293.068"/>
+
+<Sync time="3294.472"/>
+alors que
+<Sync time="3295.176"/>
+nous disons
+<Sync time="3296.045"/>
+les parents d'élèves disent
+<Sync time="3297.31"/>
+
+<Sync time="3297.852"/>
+un établissement d'enseignement libre répond à un besoin scolaire
+<Sync time="3301.253"/>
+
+<Sync time="3302.164"/>
+lorsqu'il y a un nombre de parents suffisant
+<Sync time="3304.575"/>
+qui veulent
+<Sync time="3305.283"/>
+
+<Sync time="3305.662"/>
+une éducation de leurs enfants
+<Sync time="3307.44"/>
+
+<Sync time="3307.772"/>
+dans un établissement privé
+<Sync time="3309.158"/>
+
+<Sync time="3309.986"/>
+ce qui fait
+<Sync time="3310.711"/>
+
+<Sync time="3311.006"/>
+le besoin scolaire
+<Sync time="3312.354"/>
+
+<Sync time="3312.79"/>
+c'est la volonté
+<Sync time="3313.558"/>
+exprimée par les familles qui disent
+<Sync time="3315.362"/>
+je le veux
+<Sync time="3315.926"/>
+
+<Sync time="3316.715"/>
+si ces familles sont en nombre suffisant 
+<Sync time="3318.497"/>
+pour constituer un établissement
+<Sync time="3319.924"/>
+
+<Sync time="3320.257"/>
+alors à ce moment-là on ne voit pas pourquoi
+<Sync time="3321.934"/>
+ça ne répond pas à un besoin scolaire
+<Sync time="3323.99"/>
+alors la conception est très différente
+<Sync time="3325.946"/>
+
+<Sync time="3326.844"/>
+nous irons petit
+<Sync time="3327.779"/>
+petit à petit n'est-ce pas dans
+<Sync time="3329.736"/>
+peut-être dans un rapprochement
+<Sync time="3331.207"/>
+
+<Sync time="3332.182"/>
+mais c'est cela qu'on aimerait bien que la nouvelle loi
+<Sync time="3334.232"/>
+
+<Sync time="3334.781"/>
+précise
+<Sync time="3335.424"/>
+
+<Sync time="3336.839"/>
+qu'appelle-t-on
+<Sync time="3337.586"/>
+
+<Sync time="3338.359"/>
+le besoin
+<Sync time="3339.043"/>
+scolaire
+<Sync time="3339.706"/>
+reconnu ?
+<Sync time="3340.393"/>
+
+<Sync time="3343.236"/>
+car tout en définitive
+<Sync time="3344.58"/>
+
+<Sync time="3344.932"/>
+dépend de cette interprétation
+<Sync time="3346.525"/>
+
+<Sync time="3351.675"/>
+voilà
+<Sync time="3352.068"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3352.692" endTime="3378.785">
+<Sync time="3352.692"/>
+oui
+<Sync time="3353.01"/>
+alors je vous remercie beaucoup
+<Sync time="3354.42"/>
+
+<Sync time="3355.021"/>
+j'avais complètement oublié que j'avais 
+<Sync time="3357.01"/>
+l'intention de vous demander euh
+<Sync time="3358.911"/>
+
+<Sync time="3360.011"/>
+s- euh si
+<Sync time="3361.485"/>
+
+<Sync time="3361.859"/>
+Orléans
+<Sync time="3362.375"/>
+
+<Sync time="3363.141"/>
+ou si les a- le diocèse d'Orléans est assez typique
+<Sync time="3365.946"/>
+comme euh
+<Sync time="3367.067"/>
+
+<Sync time="3367.981"/>
+comme diocèse
+<Sync time="3369.216"/>
+
+<Sync time="3370.23"/>
+en
+<Sync time="3370.914"/>
+
+<Sync time="3371.165"/>
+tant que euh 
+<Event desc="pf" type="noise" extent="instantaneous"/>
+
+<Sync time="3372.743"/>
+
+<Sync time="3373.123"/>
+euh établissement d'enseignement catholique
+<Sync time="3375.818"/>
+
+<Sync time="3376.353"/>
+ou s'il y a moins ici qu'ailleurs ou s'il y a
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3378.785" endTime="3379.675">
+<Sync time="3378.785"/>
+<Who nb="1"/>
+plus ici qu'ailleurs
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="3379.675" endTime="3393.984">
+<Sync time="3379.675"/>
+eh bien je pense que pour Orléans nous
+<Sync time="3381.802"/>
+
+<Sync time="3382.204"/>
+nous pouvons
+<Sync time="3382.848"/>
+
+<Sync time="3383.692"/>
+tirer à peu près la même conclusion que 
+<Sync time="3385.906"/>
+pour beaucoup d'autres choses depuis que les départements de France
+<Sync time="3388.667"/>
+ne s'appellent plus
+<Sync time="3389.538"/>
+
+<Sync time="3390.865"/>
+avec leur nom propre
+<Sync time="3392.11"/>
+mais avec des numéros
+<Sync time="3393.521"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3393.984" endTime="3394.651">
+<Sync time="3393.984"/>
+oui
+<Sync time="3394.381"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3394.651" endTime="3516.483">
+<Sync time="3394.651"/>
+nous avons le numéro quarante-cinq
+<Sync time="3396.303"/>
+pour le Loiret
+<Sync time="3397.033"/>
+
+<Sync time="3397.715"/>
+et quarante-cinq cela fait la moitié de quatre-vingt-dix
+<Sync time="3400.248"/>
+
+<Sync time="3401.178"/>
+et nous avons l'habitude de dire 
+<Sync time="3402.572"/>
+que dans le département du Loiret on est moyen pour tout
+<Sync time="3404.901"/>
+
+<Sync time="3405.608"/>
+nous ne sommes euh géants pour rien
+<Sync time="3407.994"/>
+et miscro- microscopiques pour rien
+<Sync time="3410.148"/>
+
+<Sync time="3410.768"/>
+nous sommes moyens pour tout
+<Sync time="3411.921"/>
+c'est ce qu'on vous dira 
+<Sync time="3412.732"/>
+pour le développement économique c'est ce qu'on vous dira pour euh
+<Sync time="3415.074"/>
+
+<Sync time="3415.437"/>
+pour tout
+<Sync time="3415.877"/>
+
+<Sync time="3416.317"/>
+alors je vous le dis aussi pour l'enseignement libre nous sommes moyens
+<Sync time="3418.3"/>
+
+<Sync time="3419.538"/>
+euh nous n'avons
+<Sync time="3420.263"/>
+nullement l'intention de nous comparer à des départements 
+<Sync time="3422.397"/>
+tels que la Vendée la Bretagne l'Alsace le nord Lyon
+<Sync time="3425.478"/>
+la Lozère
+<Sync time="3426.476"/>
+
+<Sync time="3427.881"/>
+qui sont les départements où y a le plus d'enseignement libre
+<Sync time="3429.857"/>
+
+<Sync time="3430.976"/>
+mais
+<Sync time="3431.247"/>
+nous ne sommes pas non plus des départements euh
+<Sync time="3433.658"/>
+médiocres
+<Sync time="3434.196"/>
+
+<Sync time="3435.029"/>
+nous avons
+<Sync time="3435.837"/>
+euh douze mille élèves dans l'ensemble du département
+<Sync time="3439.135"/>
+
+<Sync time="3439.632"/>
+dont la moitié en établissement secondaire ou technique
+<Sync time="3442.445"/>
+
+<Sync time="3443.933"/>
+euh nous avons
+<Sync time="3445.16"/>
+fait un gros effort d'adaptation comme je vous le disais à la réforme
+<Sync time="3448.159"/>
+
+<Sync time="3448.574"/>
+pour pouvoir offrir une euh
+<Sync time="3449.899"/>
+
+<Sync time="3450.108"/>
+une orientation aux familles
+<Sync time="3451.752"/>
+
+<Sync time="3452.541"/>
+avec beaucoup de diversité
+<Sync time="3453.892"/>
+
+<Sync time="3455.02"/>
+euh
+<Sync time="3455.6"/>
+pour l'ensemble de la région nous sommes de la région Centre
+<Sync time="3458.775"/>
+
+<Sync time="3458.967"/>
+nous sommes à peu près à égalité avec Tours
+<Sync time="3461.517"/>
+et avec Chartres
+<Sync time="3462.532"/>
+
+<Sync time="3463.178"/>
+surtout avec Tours
+<Sync time="3464.154"/>
+qui sont les deux établissements qui ont le plus d'enseignement libre
+<Sync time="3466.211"/>
+Orléans et Tours
+<Sync time="3467.108"/>
+
+<Sync time="3468.129"/>
+euh les autres départements
+<Sync time="3469.272"/>
+sont moins importants ou par le nombre total de leurs habitants 
+<Sync time="3472.34"/>
+ou par la
+<Sync time="3473.337"/>
+la répartition de leurs collèges d'enseignement libre
+<Sync time="3475.362"/>
+
+<Sync time="3476.299"/>
+ce qui fait que dans l'enseignement 
+<Sync time="3477.773"/>
+dans le Loiret nous ayons un enseignement libre important
+<Sync time="3480.389"/>
+
+<Sync time="3480.667"/>
+c'est la conséquence de cent ans
+<Sync time="3482.348"/>
+d'existence
+<Sync time="3483.389"/>
+
+<Sync time="3483.659"/>
+la suite de Monseigneur Dupanloup
+<Sync time="3485.179"/>
+
+<Sync time="3485.532"/>
+qui s'est trouvé évêque d'Orléans peu de temps après la loi
+<Sync time="3488.496"/>
+
+<Sync time="3488.835"/>
+de dix-huit cent cinquante
+<Sync time="3490.264"/>
+qui a 
+<Sync time="3490.638"/>
+développé l'enseignement libre secondaire 
+<Sync time="3492.787"/>
+la loi Falloux
+<Sync time="3493.593"/>
+
+<Sync time="3494.544"/>
+et Monseigneur Dupanloup qui a été l'un des
+<Sync time="3496.805"/>
+
+<Sync time="3497.014"/>
+des artisans de cette loi s'est trouvé après
+<Sync time="3499.162"/>
+
+<Sync time="3499.412"/>
+euh évêque d'Orléans
+<Sync time="3500.624"/>
+et il l'a appliqué dans son diocèse
+<Sync time="3502.553"/>
+d'Orléans et voilà pourquoi
+<Sync time="3503.733"/>
+
+<Sync time="3504.085"/>
+euh il a mis sur place un certain nombre de structures
+<Sync time="3506.36"/>
+et nous n'avons fait que les développer petit à petit les adapter
+<Sync time="3509.042"/>
+
+<Sync time="3509.399"/>
+mais c'est la lancée de ce de ce siècle entier de d'existence
+<Sync time="3513.183"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3516.483" endTime="3523.516">
+<Sync time="3516.483"/>
+ah oui
+<Sync time="3517.082"/>
+
+<Sync time="3517.826"/>
+oui c'est très intéressant
+<Sync time="3518.881"/>
+
+<Sync time="3519.233"/>
+je crois que
+<Sync time="3520.068"/>
+
+<Sync time="3520.399"/>
+euh la seule question
+<Sync time="3521.847"/>
+
+<Sync time="3522.076"/>
+à part ça que j'avais à vous poser
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3523.516" endTime="3524.514">
+<Sync time="3523.516"/>
+<Who nb="1"/>
+c'est
+<Who nb="2"/>
+oui
+<Sync time="3523.951"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3524.514" endTime="3530.086">
+<Sync time="3524.514"/>
+euh hm
+<Sync time="3525.267"/>
+
+<Sync time="3525.687"/>
+comment croyez-vous que les parents
+<Sync time="3527.097"/>
+eux-mêmes choisissent entre l'école
+<Sync time="3529.459"/>
+libre
+</Turn>
+<Turn speaker="spk2" startTime="3530.086" endTime="3530.525">
+<Sync time="3530.086"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="3530.525" endTime="3532.123">
+<Sync time="3530.525"/>
+et l'école publique ?
+</Turn>
+<Turn speaker="spk2" startTime="3532.123" endTime="3532.557">
+<Sync time="3532.123"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="3532.557" endTime="3537.0">
+<Sync time="3532.557"/>
+vous avez parlé
+<Sync time="3533.425"/>
+
+<Sync time="3533.881"/>
+de euh
+<Sync time="3534.736"/>
+
+<Sync time="3535.881"/>
+euh des Apel
+</Turn>
+<Turn speaker="spk2" startTime="3537.0" endTime="3537.435">
+<Sync time="3537.0"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="3537.435" endTime="3541.794">
+<Sync time="3537.435"/>
+et 
+<Sync time="3538.059"/>
+des parents 
+<Sync time="3538.835"/>
+et des professeurs et 
+<Sync time="3540.359"/>
+des élèves qui qui se mettent ensemble 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3541.794" endTime="3543.53">
+<Sync time="3541.794"/>
+<Who nb="1"/>
+pour créer une éducation
+<Who nb="2"/>
+c'est ça oui
+</Turn>
+<Turn speaker="spk1" startTime="3543.53" endTime="3553.118">
+<Sync time="3543.53"/>
+mais il y a sans doute d'autres parents
+<Sync time="3545.155"/>
+
+<Sync time="3545.369"/>
+qui simplement euh se trouvent
+<Sync time="3547.507"/>
+en face
+<Sync time="3548.482"/>
+
+<Sync time="3548.923"/>
+de l'enseignement public et de l'enseignement libre
+<Sync time="3551.198"/>
+et il leur faut faire un choix entre 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3553.118" endTime="3556.64">
+<Sync time="3553.118"/>
+<Who nb="1"/>
+les deux
+<Who nb="2"/>
+oui
+<Sync time="3553.988"/>
+<Who nb="1"/>
+comment est-ce qu'en général on 
+<Who nb="2"/>
+oui
+<Sync time="3555.264"/>
+<Who nb="1"/>
+fait ce choix ?
+<Who nb="2"/>
+oui oh c'est très
+</Turn>
+<Turn speaker="spk2" startTime="3556.64" endTime="3562.342">
+<Sync time="3556.64"/>
+très difficile n'est-ce pas à répondre à cette question
+<Sync time="3559.078"/>
+
+<Sync time="3559.348"/>
+parce que euh la plupart du temps ce sont les mêmes parents
+<Sync time="3561.983"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3562.342" endTime="3562.986">
+<Sync time="3562.342"/>
+oui
+<Sync time="3562.675"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3562.986" endTime="3571.702">
+<Sync time="3562.986"/>
+je pense
+<Sync time="3563.59"/>
+l- la plupart des parents
+<Sync time="3565.085"/>
+
+<Sync time="3565.5"/>
+euh ont des élèves
+<Sync time="3566.726"/>
+la plupart des parents
+<Sync time="3567.722"/>
+qui ont des élèves dans l'enseignement libre
+<Sync time="3569.489"/>
+
+<Sync time="3569.636"/>
+ont aussi des élèves dans l'enseignement public
+</Turn>
+<Turn speaker="spk1" startTime="3571.702" endTime="3573.628">
+<Sync time="3571.702"/>
+hm
+<Sync time="3572.016"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3573.628" endTime="3844.424">
+<Sync time="3573.628"/>
+et voilà pourquoi
+<Sync time="3574.834"/>
+je pense qu'on ne peut pas parler
+<Sync time="3576.458"/>
+
+<Sync time="3577.306"/>
+euh
+<Sync time="3578.237"/>
+de
+<Sync time="3579.206"/>
+d'association de parents
+<Sync time="3580.776"/>
+
+<Sync time="3581.318"/>
+euh de de l'enseignement libre
+<Sync time="3583.013"/>
+
+<Sync time="3583.962"/>
+euh comme si il existait une catégorie de citoyens français
+<Sync time="3587.22"/>
+
+<Sync time="3588.051"/>
+qui n'avait aucune vue
+<Sync time="3589.756"/>
+
+<Sync time="3590.522"/>
+sur
+<Sync time="3591.109"/>
+euh l'enseignement d'Etat l'enseignement public et les problèmes
+<Sync time="3593.66"/>
+
+<Sync time="3593.888"/>
+d'éducation qui se posent dans l'enseignement public
+<Sync time="3595.855"/>
+
+<Sync time="3596.046"/>
+la plupart
+<Sync time="3596.724"/>
+
+<Sync time="3597.159"/>
+euh ont en même temps des enfants des deux côtés
+<Sync time="3599.17"/>
+
+<Sync time="3600.819"/>
+cela est d'abord est une nécessité
+<Sync time="3602.598"/>
+
+<Sync time="3602.969"/>
+parce que euh l'enseignement euh libre
+<Sync time="3605.122"/>
+n'assure pas
+<Sync time="3606.141"/>
+
+<Sync time="3607.033"/>
+dans toutes les implantations géographiques
+<Sync time="3608.832"/>
+
+<Sync time="3609.301"/>
+la diversité des enseignements qui sont nécessaires
+<Sync time="3611.367"/>
+
+<Sync time="3611.749"/>
+pour les enfants
+<Sync time="3612.332"/>
+donc il est même indispensable en dehors de toute conception de l'éducation
+<Sync time="3615.3"/>
+
+<Sync time="3615.674"/>
+il est d'abord indispensable
+<Sync time="3616.856"/>
+inévitable au moins
+<Sync time="3617.998"/>
+que des parents
+<Sync time="3618.866"/>
+aient des enfants dans les deux enseignements
+<Sync time="3620.57"/>
+
+<Sync time="3621.853"/>
+je vois par exemple un sec- 
+<Sync time="3622.844"/>
+un certain nombre de secteurs où nous n'avons que des écoles primaires
+<Sync time="3625.474"/>
+
+<Sync time="3625.703"/>
+lorsque l'enfant sort à onze ans
+<Sync time="3627.131"/>
+
+<Sync time="3627.695"/>
+il doit bien aller dans un établissement
+<Sync time="3629.206"/>
+
+<Sync time="3629.455"/>
+et s'il veut venir à Orléans ou dans ou à Gien 
+<Sync time="3631.404"/>
+ou à Montargis il faudrait qu'il soit pensionnaire
+<Sync time="3633.212"/>
+des parents ne le peuvent pas
+<Sync time="3634.27"/>
+
+<Sync time="3635.101"/>
+donc à partir de la sixième l'enfant devient un élève de l'enseignement public
+<Sync time="3637.947"/>
+
+<Sync time="3639.063"/>
+nous avons des établissements 
+<Sync time="3640.048"/>
+qui vont jusqu'à la troisième et il n'y a pas nécessairement à côté un niveau lycée
+<Sync time="3643.437"/>
+
+<Sync time="3643.752"/>
+donc à partir de la seconde ils vont dans l'enseignement public
+<Sync time="3645.996"/>
+
+<Sync time="3646.599"/>
+nous avons en fin de troisième des quantités d'établissements techniques
+<Sync time="3649.344"/>
+
+<Sync time="3649.579"/>
+des k- des k- 
+<Event desc="bg" type="noise" extent="instantaneous"/>
+ des quantités
+<Sync time="3651.038"/>
+d'enseignements techniques que nous n'assurons pas
+<Sync time="3653.13"/>
+
+<Sync time="3653.442"/>
+sauf en quelques points géographiques
+<Sync time="3655.11"/>
+
+<Sync time="3655.383"/>
+donc il faut bien que les parents
+<Sync time="3656.758"/>
+
+<Sync time="3657.301"/>
+confient leurs enfants à l'enseignement d'Etat
+<Sync time="3658.773"/>
+
+<Sync time="3659.248"/>
+donc les mêmes parents
+<Sync time="3660.221"/>
+
+<Sync time="3660.698"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ font la plupart du temps
+<Sync time="3662.004"/>
+partie
+<Sync time="3662.627"/>
+
+<Sync time="3662.795"/>
+d'associations de parents d'élèves de l'enseignement public
+<Sync time="3664.926"/>
+
+<Sync time="3665.114"/>
+et ont le même souci d'éducation de leurs enfants
+<Sync time="3667.204"/>
+
+<Sync time="3667.604"/>
+avec d'autres méthodes
+<Sync time="3668.774"/>
+qui sont la
+<Sync time="3669.926"/>
+euh
+<Sync time="3670.153"/>
+les méthodes des aumôneries de l'enseignement publique et et
+<Sync time="3672.634"/>
+et ils ne peuvent pas être étrangers
+<Sync time="3674.299"/>
+à ces soucis
+<Sync time="3675.112"/>
+
+<Sync time="3676.271"/>
+mon rôle n'était pas ici d'aborder avec vous
+<Sync time="3678.463"/>
+euh toute la question des problèmes de l'aumônerie et de l'enseignement publique
+<Sync time="3681.57"/>
+
+<Sync time="3681.84"/>
+et voilà pourquoi je n'en n'ai pas parlé
+<Sync time="3683.499"/>
+
+<Sync time="3683.832"/>
+mais euh
+<Sync time="3684.533"/>
+nous avons toujours sous ach-
+<Sync time="3685.772"/>
+sous-jacent
+<Sync time="3686.724"/>
+
+<Sync time="3687.118"/>
+ce problème
+<Sync time="3688.05"/>
+de
+<Sync time="3688.901"/>
+
+<Sync time="3689.315"/>
+la hm
+<Sync time="3690.764"/>
+
+<Sync time="3691.235"/>
+hm de la
+<Sync time="3692.832"/>
+
+<Sync time="3693.04"/>
+de la présence
+<Sync time="3694.197"/>
+de mêmes
+<Sync time="3694.921"/>
+mêmes familles dans des organismes
+<Sync time="3696.826"/>
+
+<Sync time="3697.22"/>
+euh qui sont
+<Sync time="3698.26"/>
+différents
+<Sync time="3698.958"/>
+
+<Sync time="3701.111"/>
+alors
+<Sync time="3701.638"/>
+pourquoi ceux qui peuvent
+<Sync time="3703.109"/>
+choisir l'enseignement public
+<Sync time="3704.542"/>
+parce que localement il y a les enseignements qui conviennent
+<Sync time="3707.556"/>
+
+<Sync time="3707.867"/>
+choisissent-ils l'enseignement libre ou choisissent-ils l'enseignement public ?
+<Sync time="3710.924"/>
+
+<Sync time="3712.518"/>
+je pense que
+<Sync time="3713.904"/>
+il y a des questions de de faits qui peuvent dire que
+<Sync time="3718.178"/>
+
+<Sync time="3718.653"/>
+euh 
+<Event desc="pf" type="noise" extent="instantaneous"/>
+
+<Sync time="3719.567"/>
+
+<Sync time="3719.796"/>
+géographiquement on est plus proche de l'un que plus proche de l'autre
+<Sync time="3722.82"/>
+
+<Sync time="3723.547"/>
+euh que
+<Sync time="3724.544"/>
+telle euh
+<Sync time="3725.31"/>
+telle famille amie va là ou n'y va pas
+<Sync time="3727.399"/>
+
+<Sync time="3727.807"/>
+y a des questions financières qui jouent
+<Sync time="3729.663"/>
+euh
+<Sync time="3730.696"/>
+des familles nombreuses
+<Sync time="3731.716"/>
+peuvent faire un sacrifice pour un ou deux ne peuvent pas faire
+<Sync time="3734.217"/>
+un sacrifice financier pour tout
+<Sync time="3735.861"/>
+
+<Sync time="3736.4"/>
+parce que je vous ai dit qu'il restait à notre charge quantité de dépenses
+<Sync time="3739.442"/>
+
+<Sync time="3739.697"/>
+hm
+<Sync time="3740.222"/>
+à commencer par les dépenses de construction
+<Sync time="3741.786"/>
+
+<Sync time="3742.302"/>
+là-bas
+<Sync time="3742.696"/>
+
+<Sync time="3742.902"/>
+et qu'il faut bien que nous demandions encore des participations aux familles
+<Sync time="3745.637"/>
+
+<Sync time="3746.659"/>
+euh il peut y avoir aussi des
+<Sync time="3748.876"/>
+hm
+<Sync time="3749.705"/>
+des motifs d'ordre sociologique
+<Sync time="3751.801"/>
+
+<Sync time="3752.674"/>
+il se trouve que telle famille m'a dit un jour
+<Sync time="3755.191"/>
+
+<Sync time="3755.712"/>
+euh que voulez-vous
+<Sync time="3756.666"/>
+
+<Sync time="3757.266"/>
+je suis d'un quartier
+<Sync time="3758.818"/>
+périphérique
+<Sync time="3759.565"/>
+
+<Sync time="3760.294"/>
+euh d'un milieu euh ouvrier
+<Sync time="3762.597"/>
+
+<Sync time="3763.076"/>
+et si j'envoie mon fils euh plus loin
+<Sync time="3765.089"/>
+
+<Sync time="3766.086"/>
+j'ai peur qu'il se trouve
+<Sync time="3767.422"/>
+
+<Sync time="3767.796"/>
+dans la m- l'école où il y aura en même temps
+<Sync time="3770.159"/>
+
+<Sync time="3771.185"/>
+les enfants de mon patron
+<Sync time="3772.281"/>
+
+<Sync time="3773.957"/>
+bon
+<Sync time="3774.311"/>
+
+<Sync time="3774.646"/>
+euh
+<Sync time="3775.224"/>
+que voulez-vous que je réponde à cela ?
+<Sync time="3776.529"/>
+euh 
+<Event desc="pf" type="noise" extent="instantaneous"/>
+
+<Sync time="3777.871"/>
+chacun est libre
+<Sync time="3778.64"/>
+fait fait comme il veut
+<Sync time="3779.549"/>
+
+<Sync time="3780.336"/>
+mais euh
+<Sync time="3781.102"/>
+je pense aussi que
+<Sync time="3782.654"/>
+
+<Sync time="3782.968"/>
+il y a des un certain nombre de chrétiens qui
+<Sync time="3785.13"/>
+
+<Sync time="3786.316"/>
+p- qui estiment
+<Sync time="3787.207"/>
+
+<Sync time="3788.575"/>
+que euh
+<Sync time="3789.342"/>
+étant donné que le monde est très diversifié 
+<Sync time="3791.289"/>
+que les options euh religieuses sont très mélangées
+<Sync time="3794.054"/>
+
+<Sync time="3794.55"/>
+et
+<Sync time="3794.8"/>
+que les jeunes seront habitués seront appelés à vivre euh dans
+<Sync time="3798.199"/>
+
+<Sync time="3798.575"/>
+dans une euh
+<Sync time="3800.048"/>
+
+<Sync time="3800.553"/>
+mentalité dans une euh
+<Sync time="3802.274"/>
+vie si vous voulez dans
+<Sync time="3803.909"/>
+
+<Sync time="3804.65"/>
+dans un milieu
+<Sync time="3805.741"/>
+
+<Sync time="3806.279"/>
+où ils seront appelés à
+<Sync time="3807.547"/>
+
+<Sync time="3807.776"/>
+à être confrontés à toutes sortes de mentalités philosophiques ou religieuses
+<Sync time="3811.657"/>
+
+<Sync time="3811.992"/>
+il est bon que très jeune 
+<Sync time="3813.406"/>
+dans le cadre d'un lycée ils rencontrent les mêmes courants
+<Sync time="3815.681"/>
+
+<Sync time="3817.053"/>
+et qui
+<Sync time="3817.797"/>
+ont donc une autre manière de concevoir l'éducation chrétienne des jeunes
+<Sync time="3821.637"/>
+
+<Sync time="3822.029"/>
+en disant que
+<Sync time="3823.404"/>
+
+<Sync time="3823.635"/>
+plutôt que de se retrouver
+<Sync time="3824.984"/>
+
+<Sync time="3825.276"/>
+entre familles qui partagent la même foi
+<Sync time="3827.994"/>
+il vaut mieux qu'ils se trouvent au contraire mêlés avec d'autres
+<Sync time="3830.365"/>
+
+<Sync time="3830.661"/>
+ce sont des opinions ce sont des manières euh
+<Sync time="3832.483"/>
+l- les parents sont libres de d'avoir leurs euh
+<Sync time="3835.436"/>
+
+<Sync time="3835.912"/>
+leurs conceptions leurs choix
+<Sync time="3837.509"/>
+
+<Sync time="3838.444"/>
+d'ailleurs la déclaration de Lourdes qui a été faite par les évêques
+<Sync time="3841.814"/>
+euh tout récemm-
+</Turn>
+</Section>
+</Episode>
+</Trans>

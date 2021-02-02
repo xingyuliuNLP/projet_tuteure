@@ -1,0 +1,6196 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Administrateur" audio_filename="401" version="21" version_date="110323">
+<Speakers>
+<Speaker id="spk1" name="401PERS" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="OU" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="JR" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="JK" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="5819.419">
+<Turn startTime="0" endTime="1.693">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1.693" endTime="61.889">
+<Sync time="1.693"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ de la bande on a quand même la conscience plus ou moins tranquille dans la mesure où
+<Sync time="7.083"/>
+
+<Event desc="toux en fond" type="noise" extent="instantaneous"/>
+
+<Sync time="7.583"/>
+nous recueillons euh
+<Sync time="8.714"/>
+une documentation destinée à l'enseignement et à la à la recherche
+<Sync time="12.029"/>
+
+<Sync time="12.687"/>
+n'est-ce pas
+<Sync time="13.383"/>
+
+<Sync time="14.313"/>
+donc nous pouvons tous faire abstraction de nos propres idées sur quelque question que ce soit
+<Sync time="19.303"/>
+
+<Sync time="19.661"/>
+ce qui est très reposant
+<Sync time="21.311"/>
+
+<Sync time="22.123"/>
+et nous espérons que nos témoins euh
+<Sync time="24.843"/>
+
+<Sync time="26.04"/>
+enfin ferons de même parce que
+<Sync time="28.186"/>
+
+<Sync time="29.45"/>
+ce que nous cherchons à avoir c'est un témoignage euh varié
+<Sync time="32.897"/>
+
+<Sync time="33.814"/>
+sur tous les aspects de la ville d'Orléans
+<Sync time="36.063"/>
+
+<Sync time="36.998"/>
+témoignage qui
+<Sync time="38.028"/>
+
+<Sync time="39.054"/>
+sera euh
+<Sync time="40.132"/>
+s'accompagnera de l'expression française de chacun des témoins
+<Sync time="45.169"/>
+
+<Sync time="45.675"/>
+parce que ce sont des choses que 
+<Sync time="47.063"/>
+
+<Sync time="48.379"/>
+nos étudiants en Angleterre n'ont pas le l'occasion de d'avoir pour eux-mêmes
+<Sync time="53.404"/>
+parce que même s'ils viennent en France le plus souvent ils ne rencontrent qu'un tout petit cercle
+<Sync time="57.896"/>
+une seule famille
+<Sync time="59.041"/>
+
+<Sync time="60.477"/>
+ou un petit groupe d'étudiants
+</Turn>
+<Turn speaker="spk1" startTime="61.889" endTime="62.873">
+<Sync time="61.889"/>
+hm
+<Sync time="62.248"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="62.873" endTime="82.175">
+<Sync time="62.873"/>
+alors je crois que ça peut leur donner
+<Sync time="64.976"/>
+
+<Sync time="65.954"/>
+une sorte d'illustration vivante
+<Sync time="67.819"/>
+
+<Sync time="68.401"/>
+n'est-ce pas de des différents aspects de la civilisation française
+<Sync time="71.277"/>
+
+<Sync time="72.14"/>
+et nous avons choisi Orléans parce que
+<Sync time="73.816"/>
+
+<Sync time="74.889"/>
+ça nous semblait une ville à la fois intéressante et assez commode parce que on peut quand même faire le tour de la ville plus facilement que euh dans
+</Turn>
+<Turn speaker="spk1" startTime="82.175" endTime="82.533">
+<Sync time="82.175"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="82.533" endTime="83.778">
+<Sync time="82.533"/>
+Lyon ou Marseille
+</Turn>
+<Turn speaker="spk1" startTime="83.778" endTime="86.091">
+<Sync time="83.778"/>
+et vous êtes vous-même professeur en France ?
+</Turn>
+<Turn speaker="spk2" startTime="86.091" endTime="89.636">
+<Sync time="86.091"/>
+je suis
+<Sync time="86.888"/>
+professeur de français en Angleterre
+<Sync time="89.011"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="89.636" endTime="92.669">
+<Sync time="89.636"/>
+ah
+<Sync time="89.855"/>
+je croyais que vous étiez professeur de français en France
+</Turn>
+<Turn speaker="spk2 spk1" startTime="92.669" endTime="96.342">
+<Sync time="92.669"/>
+<Who nb="1"/>
+non 
+<Event desc="pi" type="pronounce" extent="previous"/>
+ 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+à vous entendre 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="96.342" endTime="98.427">
+<Sync time="96.342"/>
+quand même pas
+<Sync time="97.301"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="98.427" endTime="100.673">
+<Sync time="98.427"/>
+et vous-même monsieur vous êtes également anglais ?
+</Turn>
+<Turn speaker="spk3" startTime="100.673" endTime="101.747">
+<Sync time="100.673"/>
+oui c'est cela
+</Turn>
+<Turn speaker="spk1" startTime="101.747" endTime="103.76">
+<Sync time="101.747"/>
+très bien
+<Sync time="102.873"/>
+tous les trois donc
+</Turn>
+<Turn speaker="spk4" startTime="103.76" endTime="106.264">
+<Sync time="103.76"/>
+ah oui
+<Sync time="104.356"/>
+
+<Sync time="104.833"/>
+oui c'est
+<Sync time="105.596"/>
+c'est une invasion
+</Turn>
+<Turn speaker="spk1 spk4" startTime="106.264" endTime="106.981">
+<Sync time="106.264"/>
+<Who nb="1"/>
+et vous m'avez
+<Who nb="2"/>
+très originale
+</Turn>
+<Turn speaker="spk1" startTime="106.981" endTime="124.122">
+<Sync time="106.981"/>
+dit que vous avez retardé votre voyage en France
+<Sync time="110.561"/>
+en raison des évènements
+<Sync time="112.422"/>
+vous m'avez dit d'ailleurs une phrase qui m'a bien intéressé vous m'avez dit
+<Sync time="115.408"/>
+je crois qu'il y a eu certains évènements en France euh
+<Sync time="119.181"/>
+que vous devez connaître et qui nous ont empêchés de de venir au mois de mai
+<Sync time="123.478"/>
+
+<Event desc="pif" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk4 spk1" startTime="124.122" endTime="126.841">
+<Sync time="124.122"/>
+<Who nb="1"/>
+oui et cela d'ailleurs malgré euh
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="126.841" endTime="128.491">
+<Sync time="126.841"/>
+à l'encontre de tous nos instincts
+</Turn>
+<Turn speaker="spk1" startTime="128.491" endTime="129.922">
+<Sync time="128.491"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="129.922" endTime="134.386">
+<Sync time="129.922"/>
+d'instinct nous aurions été là sur place
+<Sync time="132.283"/>
+depuis le début du mois de mai mais malheureusement
+</Turn>
+<Turn speaker="spk1 spk4" startTime="134.386" endTime="135.674">
+<Sync time="134.386"/>
+<Who nb="1"/>
+c'était pas possible
+<Who nb="2"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ transport
+</Turn>
+<Turn speaker="spk1" startTime="135.674" endTime="136.533">
+<Sync time="135.674"/>
+
+<Sync time="135.987"/>
+d'accord
+</Turn>
+<Turn speaker="spk4" startTime="136.533" endTime="137.134">
+<Sync time="136.533"/>
+et
+</Turn>
+<Turn speaker="spk1" startTime="137.134" endTime="137.425">
+<Sync time="137.134"/>
+oh puis
+</Turn>
+<Turn speaker="spk4 spk1" startTime="137.425" endTime="139.624">
+<Sync time="137.425"/>
+<Who nb="1"/>
+autant de problèmes matériels
+<Who nb="2"/>
+y il n'y avait pas que les transports
+</Turn>
+<Turn speaker="spk4" startTime="139.624" endTime="142.221">
+<Sync time="139.624"/>
+euh
+<Sync time="140.046"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="142.221" endTime="154.557">
+<Sync time="142.221"/>
+il n'y avait pas que la grève des transports qui vous empêchait de venir
+<Sync time="145.731"/>
+et pourtant vous avez manqué une excellente occasion
+<Sync time="149.332"/>
+
+<Sync time="150.048"/>
+d'entendre euh dialoguer tous les français ensemble
+<Sync time="154.088"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="154.557" endTime="155.901">
+<Sync time="154.557"/>
+oui
+<Sync time="154.869"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="155.901" endTime="166.385">
+<Sync time="155.901"/>
+car du matin jusqu'au soir
+<Sync time="157.67"/>
+tous les français ont dialogué
+<Sync time="159.65"/>
+
+<Sync time="160.68"/>
+et vous auriez pu enregistrer
+<Sync time="162.302"/>
+et vous auriez eu tous les tons
+<Sync time="163.928"/>
+et toutes les nuances
+<Sync time="165.216"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk4" startTime="166.385" endTime="167.368">
+<Sync time="166.385"/>
+<Who nb="1"/>
+oui c'est une occasion 
+<Who nb="2"/>
+sûrement
+</Turn>
+<Turn speaker="spk2" startTime="167.368" endTime="168.064">
+<Sync time="167.368"/>
+manquée en 
+</Turn>
+<Turn speaker="spk4 spk2" startTime="168.064" endTime="168.637">
+<Sync time="168.064"/>
+<Who nb="1"/>
+oui
+<Who nb="2"/>
+effet
+</Turn>
+<Turn speaker="spk3" startTime="168.637" endTime="171.809">
+<Sync time="168.637"/>
+no- et que nous regrettons beaucoup d'ailleurs
+<Sync time="170.74"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="171.809" endTime="178.591">
+<Sync time="171.809"/>
+
+<Event desc="i" type="noise" extent="instantaneous"/>
+ 
+<Event desc="bg" type="noise" extent="instantaneous"/>
+
+<Sync time="173.121"/>
+
+<Sync time="175.391"/>
+mais alors là vous êtes en France pour combien de temps maintenant ?
+</Turn>
+<Turn speaker="spk2" startTime="178.591" endTime="181.167">
+<Sync time="178.591"/>
+maintenant pour euh une dizaine de jours
+</Turn>
+<Turn speaker="spk3" startTime="181.167" endTime="182.316">
+<Sync time="181.167"/>
+hm
+<Sync time="181.636"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="182.316" endTime="183.127">
+<Sync time="182.316"/>
+une dizaine de jours
+</Turn>
+<Turn speaker="spk2" startTime="183.127" endTime="195.991">
+<Sync time="183.127"/>
+nous faisons maintenant une pré-enquête
+<Sync time="184.844"/>
+
+<Sync time="185.75"/>
+n'est-ce pas euh
+<Sync time="186.895"/>
+
+<Sync time="187.229"/>
+écoutez à la base de
+<Sync time="188.66"/>
+sur la base de l'analyse de cette pré-enquête nous avons décidé des lignes à suivre dans l'enquête principale qui se fera en mars
+</Turn>
+<Turn speaker="spk2 spk3" startTime="195.991" endTime="197.493">
+<Sync time="195.991"/>
+<Who nb="1"/>
+de l'année prochaine
+<Who nb="2"/>
+mars ou avril prochain
+</Turn>
+<Turn speaker="spk3" startTime="197.493" endTime="198.662">
+<Sync time="197.493"/>
+je crois au mois de mars
+</Turn>
+<Turn speaker="spk1" startTime="198.662" endTime="202.335">
+<Sync time="198.662"/>
+mais alors c'est tout une organisation scientifique qui se met sur pied
+</Turn>
+<Turn speaker="spk3 spk1" startTime="202.335" endTime="204.558">
+<Sync time="202.335"/>
+<Who nb="1"/>
+oui scientifique c'est beaucoup dire
+<Who nb="2"/>
+si je comprends bien
+</Turn>
+<Turn speaker="spk1" startTime="204.558" endTime="206.08">
+<Sync time="204.558"/>
+hm hm
+<Sync time="205.026"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="206.08" endTime="206.795">
+<Sync time="206.08"/>
+mais
+</Turn>
+<Turn speaker="spk2" startTime="206.795" endTime="207.309">
+<Sync time="206.795"/>
+nous sommes
+</Turn>
+<Turn speaker="spk3" startTime="207.309" endTime="213.234">
+<Sync time="207.309"/>
+nous essayons d'organiser les choses 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="208.830"/>
+
+<Sync time="209.403"/>
+j'espère que ça ira d'une 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ scientifique mais
+<Sync time="212.328"/>
+nous allons voir
+</Turn>
+<Turn speaker="spk2" startTime="213.234" endTime="214.284">
+<Sync time="213.234"/>
+nous essayons de faire preuve de 
+<Event desc="pi" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="214.284" endTime="219.062">
+<Sync time="214.284"/>
+vous voulez euh enregistrer le maximum
+<Sync time="217.246"/>
+
+<Sync time="217.793"/>
+de témoignages
+</Turn>
+<Turn speaker="spk1 spk2" startTime="219.062" endTime="220.218">
+<Sync time="219.062"/>
+<Who nb="1"/>
+dans tous les milieux 
+<Who nb="2"/>
+c'est s-
+</Turn>
+<Turn speaker="spk1" startTime="220.218" endTime="220.831">
+<Sync time="220.218"/>
+de la population
+</Turn>
+<Turn speaker="spk2 spk1" startTime="220.831" endTime="221.714">
+<Sync time="220.831"/>
+<Who nb="1"/>
+c'est ce-
+<Who nb="2"/>
+orléanaise
+</Turn>
+<Turn speaker="spk2" startTime="221.714" endTime="230.457">
+<Sync time="221.714"/>
+c'est ça oui
+<Sync time="222.401"/>
+
+<Sync time="223.984"/>
+d'une part euh
+<Sync time="225.367"/>
+des témoignages de personnes
+<Sync time="227.013"/>
+
+<Sync time="227.495"/>
+enfin qui ont plus ou moins une position plus ou moins officielle
+</Turn>
+<Turn speaker="spk1" startTime="230.457" endTime="230.77">
+<Sync time="230.457"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="230.77" endTime="235.377">
+<Sync time="230.77"/>
+et d'autre part ce que j'ai nommé les aléatoires c'est des gens qu'on choisit un peu au hasard
+</Turn>
+<Turn speaker="spk1" startTime="235.377" endTime="235.997">
+<Sync time="235.377"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="235.997" endTime="240.009">
+<Sync time="235.997"/>
+et à qui on pose des questions sur euh la vie euh leurs idées enfin 
+</Turn>
+<Turn speaker="spk1" startTime="240.009" endTime="241.505">
+<Sync time="240.009"/>
+c'est ça
+<Sync time="240.618"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="241.505" endTime="253.056">
+<Sync time="241.505"/>
+et nous aimerions aussi
+<Sync time="243.37"/>
+euh
+<Sync time="244.138"/>
+
+<Sync time="244.747"/>
+monter si c'était possible des petites discussions où les gens parleront peut-être plus librement que
+<Sync time="251.191"/>
+
+<Sync time="251.925"/>
+que en face de nos questions
+</Turn>
+<Turn speaker="spk1" startTime="253.056" endTime="254.52">
+<Sync time="253.056"/>
+hm
+<Sync time="253.514"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="254.52" endTime="259.629">
+<Sync time="254.52"/>
+de façon à voir exactement comment les gens se comportent en petits groupes quand ils discutent de quelque chose
+</Turn>
+<Turn speaker="spk1" startTime="259.629" endTime="265.493">
+<Sync time="259.629"/>
+hm hm
+<Sync time="260.113"/>
+
+<Sync time="261.811"/>
+oui je vous avais indiqué un certain nombre de noms
+<Sync time="264.797"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="265.493" endTime="266.352">
+<Sync time="265.493"/>
+<Who nb="1"/>
+sur Orléans
+<Who nb="2"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="266.352" endTime="273.015">
+<Sync time="266.352"/>
+
+<Sync time="266.953"/>
+euh mais dans ce stade préliminaire vous ne voyez que quelques personnes probablement
+<Sync time="271.703"/>
+
+</Turn>
+<Turn speaker="spk3 spk2" startTime="273.015" endTime="273.54">
+<Sync time="273.015"/>
+<Who nb="1"/>
+en effet
+<Who nb="2"/>
+c'est ça
+</Turn>
+<Turn speaker="spk1" startTime="273.54" endTime="274.594">
+<Sync time="273.54"/>
+oui oui
+<Sync time="274.165"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="274.594" endTime="277.866">
+<Sync time="274.594"/>
+pour l'instant
+<Sync time="275.405"/>
+
+<Sync time="276.411"/>
+une quinzaine une vingtaine
+</Turn>
+<Turn speaker="spk1" startTime="277.866" endTime="282.588">
+<Sync time="277.866"/>
+voilà oui
+<Sync time="278.507"/>
+
+<Sync time="280.239"/>
+très bien
+<Sync time="280.879"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="282.588" endTime="303.233">
+<Sync time="282.588"/>
+enfin j'avais pensé que pour commencer
+<Sync time="285.311"/>
+euh je vous demanderai 
+<Sync time="286.981"/>
+
+<Sync time="287.487"/>
+de nous parler de la spécificité d'Orléans
+<Sync time="291.117"/>
+dans les domaines qui vous intéressent en quoi Orléans
+<Sync time="294.15"/>
+
+<Sync time="294.65"/>
+serait-il
+<Sync time="295.51"/>
+
+<Sync time="296.417"/>
+différent d'une autre ville ?
+<Sync time="298.019"/>
+
+<Sync time="298.769"/>
+euh
+<Sync time="299.574"/>
+enfin de votre point de vue
+<Sync time="301.01"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="303.233" endTime="307.268">
+<Sync time="303.233"/>
+de notre point de vue vous voulez dire du point de vue religieux du point de vue catholique alors ?
+</Turn>
+<Turn speaker="spk2" startTime="307.268" endTime="307.976">
+<Sync time="307.268"/>
+oui c'est ça oui
+</Turn>
+<Turn speaker="spk1" startTime="307.976" endTime="308.452">
+<Sync time="307.976"/>
+n'est-ce pas ?
+</Turn>
+<Turn speaker="spk2" startTime="308.452" endTime="308.799">
+<Sync time="308.452"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="308.799" endTime="311.327">
+<Sync time="308.799"/>
+en se plaçant sur le point de vue de l'Eglise
+</Turn>
+<Turn speaker="spk2" startTime="311.327" endTime="312.264">
+<Sync time="311.327"/>
+c'est ça oui
+</Turn>
+<Turn speaker="spk1" startTime="312.264" endTime="312.691">
+<Sync time="312.264"/>
+en quoi 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="312.691" endTime="313.557">
+<Sync time="312.691"/>
+<Who nb="1"/>
+par exemple 
+<Who nb="2"/>
+euh
+</Turn>
+<Turn speaker="spk2" startTime="313.557" endTime="330.848">
+<Sync time="313.557"/>
+enfin même pour être plus concret euh dans le travail de tous les jours
+<Sync time="317.89"/>
+
+<Sync time="318.499"/>
+euh
+<Sync time="319.458"/>
+est-ce qu'il y a des difficultés spécifiques à Orléans que vous n'auriez pas ailleurs ou bien des avantages euh
+<Sync time="324.733"/>
+
+<Sync time="326.717"/>
+qui sont particuliers à Orléans ?
+<Sync time="328.959"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="330.848" endTime="341.751">
+<Sync time="330.848"/>
+oui
+<Sync time="331.238"/>
+
+<Sync time="335.793"/>
+ben c'est qu'une question évidemment qui est un peu
+<Sync time="338.889"/>
+un peu piquante et brûlante n'est-ce pas
+</Turn>
+<Turn speaker="spk3 spk1" startTime="341.751" endTime="345.066">
+<Sync time="341.751"/>
+<Who nb="1"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ je ne l'avais pas voulu tel 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+rapide 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="345.066" endTime="375.855">
+<Sync time="345.066"/>
+c'est vrai
+<Sync time="345.691"/>
+non c'est parce que
+<Sync time="346.912"/>
+
+<Sync time="348.801"/>
+il ne faudrait pas être chauvin n'est-ce pas
+<Sync time="351.143"/>
+en disant que nous trouvons que notre ville a tous les avantages et que les autres n'en ont aucun
+<Sync time="355.774"/>
+
+<Sync time="356.657"/>
+euh il faut être loyal
+<Sync time="359.195"/>
+alors évidemment euh
+<Sync time="360.869"/>
+on aime bien notre secteur d'Orléans parce que
+<Sync time="364.398"/>
+parce que on est originaire de la région
+<Sync time="366.998"/>
+parce qu'on a toujours vécu dans dans cette région du Centre alors euh
+<Sync time="371.701"/>
+on y voit quand même un certain nombre d'avantages comme on est attaché à son pays natal
+</Turn>
+<Turn speaker="spk3" startTime="375.855" endTime="377.477">
+<Sync time="375.855"/>
+hm hm
+<Sync time="376.496"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="377.477" endTime="425.87">
+<Sync time="377.477"/>
+alors si maintenant vous nous demandez de l'analyser de l'extérieur pour savoir euh quels sont les avantages réels
+<Sync time="383.891"/>
+
+<Sync time="384.445"/>
+qu'il peut y avoir
+<Sync time="385.828"/>
+
+<Sync time="388.499"/>
+je vous dirais que c'est une ville qui qui est du coeur
+<Sync time="391.361"/>
+c'est du coeur de la France c'est
+<Sync time="393.083"/>
+c'est dans la moyenne
+<Sync time="394.519"/>
+vous entendrez dire certainement
+<Sync time="396.754"/>
+
+<Sync time="398.244"/>
+par beaucoup d'autres de
+<Sync time="400.274"/>
+
+<Sync time="401.04"/>
+des personnes avec lesquelles vous vous entretiendrez
+<Sync time="404.216"/>
+que nous sommes un département moyen parce que
+<Sync time="406.82"/>
+nous sommes le département de quarante-cinq
+<Sync time="408.609"/>
+en France
+<Sync time="409.515"/>
+
+<Sync time="410.569"/>
+quarante-cinq
+<Sync time="411.308"/>
+il y a à peu près quatre-vingt-dix départements
+<Sync time="413.645"/>
+et nous portons le numéro quarante-cinq
+<Sync time="416.34"/>
+c'est dire que nous sommes dans la moyenne
+<Sync time="418.558"/>
+
+<Sync time="419.207"/>
+alors on peut appeler la moyenne comme un peu au-dessus de la médiocrité
+<Sync time="423.29"/>
+ou comme un peu en-dessous
+<Sync time="424.94"/>
+de euh
+</Turn>
+<Turn speaker="spk3 spk2" startTime="425.87" endTime="426.677">
+<Sync time="425.87"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="426.677" endTime="488.697">
+<Sync time="426.677"/>
+de ce qui est mieux quoi
+<Sync time="428.205"/>
+nous sommes dans la moyenne
+<Sync time="429.543"/>
+et 
+<Event desc="tx" type="noise" extent="instantaneous"/>
+
+<Sync time="430.634"/>
+notre euh
+<Sync time="431.743"/>
+
+<Sync time="432.68"/>
+notre place si vous voulez dans l'Eglise de France nous sommes aussi dans la moyenne
+<Sync time="436.609"/>
+
+<Sync time="437.608"/>
+euh il y a des régions de France qui sont dites des régions euh
+<Sync time="441.615"/>
+
+<Sync time="442.506"/>
+très chrétiennes
+<Sync time="443.506"/>
+
+<Sync time="444.872"/>
+il y en a d'autres qui sont dites des religi- des régions euh
+<Sync time="448.009"/>
+peu chrétiennes
+<Sync time="449.119"/>
+
+<Sync time="449.648"/>
+nous c'est dans la bonne moyenne
+<Sync time="451.914"/>
+on est bien avec tout le monde
+<Sync time="453.429"/>
+
+<Sync time="453.982"/>
+voilà
+<Sync time="454.56"/>
+il y a un un fond général de
+<Sync time="457.293"/>
+
+<Sync time="457.965"/>
+de sympathie de la population locale envers l'Eglise
+<Sync time="462.649"/>
+nous entretenons certainement de bonnes relations avec tout l'ensemble
+<Sync time="466.947"/>
+
+<Sync time="467.686"/>
+des
+<Sync time="468.669"/>
+des hommes qui partagent notre diocèse
+<Sync time="471.105"/>
+
+<Sync time="472.68"/>
+mais
+<Sync time="473.443"/>
+il n'y a
+<Sync time="474.771"/>
+
+<Sync time="475.351"/>
+pas d'excessif
+<Sync time="476.949"/>
+et puis je crois aussi qu'il y a quand même euh
+<Sync time="480.19"/>
+un une sympathie générale envers l'Eglise qui fait que nous pouvons travailler à notre mission
+<Sync time="486.116"/>
+dans des conditions assez bonnes
+</Turn>
+<Turn speaker="spk2" startTime="488.697" endTime="489.226">
+<Sync time="488.697"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="489.226" endTime="516.729">
+<Sync time="489.226"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ bonnes
+<Sync time="490.538"/>
+on est dans la moyenne
+<Sync time="491.778"/>
+
+<Sync time="492.35"/>
+on est dans la moyenne
+<Sync time="493.638"/>
+alors euh
+<Sync time="495.355"/>
+dans le l'Orléanais si vous voulez
+<Sync time="497.811"/>
+nous
+<Sync time="498.837"/>
+nous avons plusieurs euh
+<Sync time="501.06"/>
+plusieurs régions géographiques
+<Sync time="503.33"/>
+
+<Sync time="504.356"/>
+et chaque région géographique a aussi son comportement
+<Sync time="509.612"/>
+euh
+<Sync time="510.924"/>
+vis-à-vis de la foi vis-à-vis de l- de l'Eglise vis-à-vis de la vie chrétienne
+</Turn>
+<Turn speaker="spk2" startTime="516.729" endTime="518.978">
+<Sync time="516.729"/>
+hm hm
+<Sync time="517.256"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="518.978" endTime="591.921">
+<Sync time="518.978"/>
+on dit que euh
+<Sync time="520.7"/>
+il y a la région de Beauce
+<Sync time="523.543"/>
+
+<Sync time="524.979"/>
+dans la région de Beauce on dit que
+<Sync time="527.542"/>
+
+<Sync time="528.23"/>
+la culture est une culture euh qui rend bien mais qui demande beaucoup de travail
+<Sync time="535.047"/>
+
+<Sync time="536.001"/>
+c'est une terre solide c'est une terre forte
+<Sync time="539.006"/>
+c'est long à mûrir et à pousser mais c'est solide
+<Sync time="542.607"/>
+
+<Sync time="543.637"/>
+alors on dit que le tempérament du Beauceron est un tempérament euh volontaire travailleur mais fidèle
+<Sync time="550.235"/>
+
+<Sync time="551.088"/>
+et quand il a donné sa sa foi
+<Sync time="553.597"/>
+
+<Sync time="554.246"/>
+à quelqu'un
+<Sync time="555.539"/>
+c'est durable
+<Sync time="557.118"/>
+
+<Sync time="558.077"/>
+euh nous le ressentons certainement
+<Sync time="561.42"/>
+euh dans le comportement religieux
+<Sync time="564.974"/>
+
+<Sync time="565.849"/>
+il y a des
+<Sync time="567.118"/>
+
+<Sync time="567.943"/>
+des traditions de famille
+<Sync time="570.223"/>
+qui se transmettent dans le domaine religieux comme dans tout le domaine du travail du sérieux de l'économie de la résistance
+<Sync time="578.838"/>
+
+<Sync time="579.463"/>
+des cultures euh
+<Sync time="581.161"/>
+y a la la tradition familiale
+<Sync time="583.622"/>
+nous sentons très bien que lorsque la foi euh est implantée dans une famille
+<Sync time="590.442"/>
+c'est solide
+</Turn>
+<Turn speaker="spk2" startTime="591.921" endTime="592.687">
+<Sync time="591.921"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="592.687" endTime="639.136">
+<Sync time="592.687"/>
+on n'a pas peur de l'effort
+<Sync time="594.342"/>
+
+<Sync time="595.217"/>
+et euh les curés qui sont en Beauce
+<Sync time="598.804"/>
+sentent cet attachement de la de la population
+<Sync time="602.624"/>
+
+<Sync time="603.246"/>
+mais on sent aussi que le Beauceron n'accorde euh sa fidélité
+<Sync time="607.685"/>
+
+<Sync time="608.466"/>
+que après avoir bien connu
+<Sync time="610.497"/>
+
+<Sync time="612.001"/>
+il faut avoir fait ses preuves 
+<Sync time="614.792"/>
+soi-même d'attachement au pays
+<Sync time="617.089"/>
+
+<Sync time="619.084"/>
+le Beauceron sait observer longtemps
+<Sync time="621.456"/>
+mais nos prêtres de Beauce qui sont les curés de campagne
+<Sync time="624.597"/>
+
+<Sync time="625.07"/>
+euh ont en général avec leur population
+<Sync time="628.898"/>
+cet euh s- ce lien si vous voulez qui n'est pas superficiel mais en profondeur
+<Sync time="635.462"/>
+euh qui correspond bien à la fidélité d'une d'une race
+</Turn>
+<Turn speaker="spk2" startTime="639.136" endTime="639.691">
+<Sync time="639.136"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="639.691" endTime="684.336">
+<Sync time="639.691"/>
+
+<Sync time="641.068"/>
+et puis
+<Sync time="641.884"/>
+nous avons une autre région qui est le Gâtinais
+<Sync time="645.06"/>
+
+<Sync time="646.973"/>
+le Gâtinais lui c'est une région beaucoup plus
+<Sync time="650.126"/>
+euh boisée d'une part
+<Sync time="652.492"/>
+et puis beaucoup plus euh
+<Sync time="655.001"/>
+vouée à à l'élevage
+<Sync time="657.224"/>
+
+<Sync time="657.802"/>
+et il y a aussi de la très bonne culture
+<Sync time="660.302"/>
+
+<Sync time="661.618"/>
+mais hum euh le Gâtinais est très accueillant
+<Sync time="667.084"/>
+il est très bienveillant
+<Sync time="668.787"/>
+
+<Sync time="669.381"/>
+il est très aimable
+<Sync time="672.569"/>
+
+<Sync time="674.835"/>
+mais euh
+<Sync time="676.819"/>
+on ne trouve pas si vous voulez euh la même profondeur d'attachement à la foi chrétienne dans le Gâtinais
+</Turn>
+<Turn speaker="spk2" startTime="684.336" endTime="684.908">
+<Sync time="684.336"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="684.908" endTime="693.551">
+<Sync time="684.908"/>
+et puis c'est un pays dans lequel on aime la bonne vie
+<Sync time="687.611"/>
+
+<Sync time="688.455"/>
+c'est un pays très joyeux
+<Sync time="690.274"/>
+
+<Sync time="690.82"/>
+euh les fêtes y sont plus plus nombreuses
+</Turn>
+<Turn speaker="spk2" startTime="693.551" endTime="693.861">
+<Sync time="693.551"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="693.861" endTime="720.881">
+<Sync time="693.861"/>
+
+<Sync time="695.006"/>
+euh
+<Sync time="695.85"/>
+
+<Sync time="696.895"/>
+je pourrais vous dire que certainement
+<Sync time="699.364"/>
+
+<Sync time="700.252"/>
+euh la morale chrétienne euh paraît plus difficile euh à nos gens du Gâtinais que dans la Beauce
+<Sync time="706.285"/>
+
+<Sync time="707.268"/>
+euh c'est aussi une des raisons pour lesquelles euh
+<Sync time="710.778"/>
+euh
+<Sync time="711.661"/>
+l'attachement est peut-être moins en profondeur
+<Sync time="713.979"/>
+mais ils gagnent tellement en spontanéité en en amabilité en gentillesse
+</Turn>
+<Turn speaker="spk2" startTime="720.881" endTime="721.86">
+<Sync time="720.881"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="721.86" endTime="744.757">
+<Sync time="721.86"/>
+
+<Sync time="723.175"/>
+qu'ils euh
+<Sync time="724.769"/>
+
+<Sync time="726.69"/>
+qu'ils ont peut-être d'avantage si vous voulez de l'évangile la
+<Sync time="731.011"/>
+la caractéristique de la sympathie de l'accueil et de la charité
+<Sync time="735.089"/>
+
+<Sync time="735.876"/>
+mais que il faudrait peut-être moins moins chercher du côté du renoncement ou de ou de l'austérité
+<Sync time="743.894"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="744.757" endTime="776.439">
+<Sync time="744.757"/>
+est-ce qu'il y a une différence nette euh
+<Sync time="748.406"/>
+
+<Sync time="749.532"/>
+parmi euh les différentes couches sociales
+<Sync time="753.376"/>
+dans la mesure où vous arrivez à à les toucher à les attacher
+<Sync time="757.12"/>
+
+<Sync time="759.052"/>
+à l'Eglise c'est-à-dire que euh
+<Sync time="761.687"/>
+
+<Sync time="762.693"/>
+est-ce qu'il y a des couches sociales qui plus que d'autres disons dans Orléans même où évidemment la la société est plus stratifiée peut-être euh
+<Sync time="770.759"/>
+plus variée que qu'à la campagne
+<Sync time="773.22"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="776.439" endTime="782.191">
+<Sync time="776.439"/>
+oui alors là on aborde l'autre point de vue qui n'est plus le point de vue géographique
+<Sync time="780.422"/>
+mais qui est le point de vue sociologique
+</Turn>
+<Turn speaker="spk2" startTime="782.191" endTime="782.452">
+<Sync time="782.191"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="782.452" endTime="793.287">
+<Sync time="782.452"/>
+n'est-ce pas les différentes couches de la société
+<Sync time="785.339"/>
+
+<Sync time="787.104"/>
+euh il est bien vrai que dans les campagnes le prêtre est à même de de côtoyer tout le monde
+<Sync time="793.02"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="793.287" endTime="793.555">
+<Sync time="793.287"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="793.555" endTime="811.397">
+<Sync time="793.555"/>
+n'est-ce pas
+<Sync time="794.074"/>
+il y a beaucoup moins de dis- de distinction entre euh les contacts que peut avoir le prêtre et puis les classes dirigeantes
+<Sync time="802.087"/>
+et le prêtre et et le monde ouvrier
+<Sync time="805.359"/>
+le prêtre connaît très bien tout le monde
+<Sync time="808.249"/>
+et il est en contact avec tout le monde dans un petit pays
+</Turn>
+<Turn speaker="spk2" startTime="811.397" endTime="814.283">
+<Sync time="811.397"/>
+hm hm
+<Sync time="811.944"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="814.283" endTime="824.235">
+<Sync time="814.283"/>
+lorsqu'il s'agit d'une grande ville comme Orléans
+<Sync time="816.58"/>
+
+<Sync time="817.436"/>
+le prêtre est bien plus en contact avec ceux qui viennent le voir
+<Sync time="820.624"/>
+
+<Sync time="821.845"/>
+parce qu'il ne peut pas être en contact avec tout le monde
+</Turn>
+<Turn speaker="spk2" startTime="824.235" endTime="826.138">
+<Sync time="824.235"/>
+hm hm
+<Sync time="824.798"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="826.138" endTime="880.794">
+<Sync time="826.138"/>
+alors ceux qui viennent le voir ce sont les les hommes qui ont une euh formation chrétienne et qui font partie de la paroisse
+<Sync time="835.547"/>
+
+<Sync time="836.108"/>
+et qui viennent à l'occasion de l'éducation des enfants
+<Sync time="839.952"/>
+à l'occasion des offices à l'occasion des cérémonies religieuses
+<Sync time="844.054"/>
+euh qui viennent pour les baptêmes pour les mariages les enterrements
+<Sync time="848.399"/>
+euh qui viennent toujours pour un but précis qui a trait à la euh
+<Sync time="852.4"/>
+à la vie euh chrétienne
+<Sync time="854.357"/>
+
+<Sync time="855.41"/>
+mais euh les contacts du prêtre avec euh les couches euh
+<Sync time="860.914"/>
+avec les problèmes
+<Sync time="862.85"/>
+directs des hommes qui sont le le travail euh sous tous ses aspects
+<Sync time="868.531"/>
+euh ces ces problèmes-là sont certainement plus difficiles à aborder
+<Sync time="874.188"/>
+parce que le nombre des prêtres en ville est quand même très petit par rapport à la proportion de la campagne
+</Turn>
+<Turn speaker="spk2" startTime="880.794" endTime="881.891">
+<Sync time="880.794"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="881.891" endTime="939.673">
+<Sync time="881.891"/>
+alors vous abordez là tout
+<Sync time="883.823"/>
+tout cet aspect de l'effort de l'Eglise actuelle
+<Sync time="887.238"/>
+pour n'être pas simplement en contact avec 
+<Sync time="891.178"/>
+ceux qui traditionnellement sont chrétiens
+<Sync time="894.307"/>
+mais le problème de l'Eglise du contact avec tous les hommes
+<Sync time="898.437"/>
+
+<Sync time="899.157"/>
+et en particulier avec ceux qui
+<Sync time="901.733"/>
+
+<Sync time="902.499"/>
+qui sont plus plus éprouvés quoi dans le travail
+<Sync time="905.685"/>
+
+<Sync time="906.357"/>
+vous connaissez bien les problèmes actuels
+<Sync time="908.671"/>
+euh je n'ai pas l'intention en ce moment de pouvoir vous exposer
+<Sync time="912.372"/>
+quelles sont les difficultés de contact qu'il peut y avoir entre les Eglises
+<Sync time="916.212"/>
+que ce soit l'Eglise catholique l'Eglise protestante l'Eglise orthodoxe et toutes les Eglises et le monde des travailleurs
+<Sync time="922.25"/>
+nous connaissons tous n'est-ce pas tellement le monde des travailleurs depuis un siècle a été travaillé
+<Sync time="926.495"/>
+par le thé- les théories du marxisme
+<Sync time="928.932"/>
+et nous savons très bien quelle que soit l'Eglise à laquelle nous appartenons
+<Sync time="932.605"/>
+nous savons très bien que euh une grande frange du monde des travailleurs est séparée de l'Eglise
+</Turn>
+<Turn speaker="spk2" startTime="939.673" endTime="940.127">
+<Sync time="939.673"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="940.127" endTime="987.061">
+<Sync time="940.127"/>
+euh avec des a priori peut-être avec des jugements parfois vrais
+<Sync time="945.664"/>
+mais c'est un fait
+<Sync time="946.714"/>
+
+<Sync time="947.816"/>
+et alors il y a certainement depuis une vingtaine d'années en France un effort considérable et surtout depuis la guerre de de quarante n'est-ce pas
+<Sync time="955.053"/>
+il y a un effort considérable de rapprochement
+<Sync time="957.598"/>
+
+<Sync time="958.695"/>
+alors cela se manifeste euh
+<Sync time="960.913"/>
+de beaucoup de beaucoup de manières
+<Sync time="962.516"/>
+
+<Sync time="963.427"/>
+vous avez eu l'expérience des prêtres ouvriers
+<Sync time="966.127"/>
+
+<Sync time="966.847"/>
+nous en avons quelques uns dans le département
+<Sync time="969.28"/>
+et il est certain que cela est une occasion pour eux
+<Sync time="973.911"/>
+en même temps de donner aux prêtres dans leur ensemble un écho du milieu ouvrier
+<Sync time="980.76"/>
+et en même temps de donner dans le monde ouvrier un aspect de ce qu'est vraiment le prêtre
+</Turn>
+<Turn speaker="spk2" startTime="987.061" endTime="987.466">
+<Sync time="987.061"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="987.466" endTime="1061.627">
+<Sync time="987.466"/>
+en dehors de toutes les apparences qu'il peut y avoir
+<Sync time="990.566"/>
+dans une société où tout est organisé réglé 
+<Event desc="pif" type="pronounce" extent="previous"/>
+
+<Sync time="994.334"/>
+où l'on met des étiquettes sur les personnes
+<Sync time="996.886"/>
+et il y a certainement des prêtres qui dans ce domaine-là réussissent à manifester euh
+<Sync time="1002.991"/>
+
+<Sync time="1004.132"/>
+un visage tout différent de celui que croit être le monde ouvrier lorsqu'il parle du prêtre
+<Sync time="1013.11"/>
+
+<Sync time="1015.25"/>
+nous avons aussi euh beaucoup de prêtres qui sont en contact euh très étroit avec les chrétiens qui qui sont dans tous les milieux
+<Sync time="1024.807"/>
+
+<Sync time="1027.01"/>
+euh l'action catholique de ce côté-là est bien développée dans l'ensemble du département
+<Sync time="1033.021"/>
+ce sont au fond les
+<Sync time="1034.886"/>
+les chrétiens des différents milieux qui se réunissent ensemble
+<Sync time="1038.468"/>
+et qui essayent de se demander comment ils peuvent vivre en chrétien dans les milieux du travail
+<Sync time="1044.244"/>
+
+<Sync time="1046.204"/>
+alors nous avons un évêque ici à Orléans monseigneur NPERS
+<Sync time="1049.758"/>
+
+<Sync time="1050.305"/>
+qui est très très attaché
+<Sync time="1052.218"/>
+à cette forme de présence de l'Eglise dans le monde entier par l'intermédiaire des des chrétiens qui vivent euh dans les différentes formes
+</Turn>
+<Turn speaker="spk2" startTime="1061.627" endTime="1062.336">
+<Sync time="1061.627"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="1062.336" endTime="1074.243">
+<Sync time="1062.336"/>
+de 
+<Sync time="1063.242"/>
+
+<Sync time="1064.387"/>
+de la vie actuelle
+<Sync time="1065.723"/>
+
+<Sync time="1066.583"/>
+et qui pousse beaucoup ses prêtres à à se soucier des problèmes du monde
+<Sync time="1071.92"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1074.243" endTime="1085.318">
+<Sync time="1074.243"/>
+est-ce que l'expansion d'Orléans vous a euh
+<Sync time="1077.467"/>
+
+<Sync time="1078.898"/>
+incité à prendre euh
+<Sync time="1080.949"/>
+
+<Sync time="1081.621"/>
+des mesures enfin pour essayer de toucher les nouveaux
+</Turn>
+<Turn speaker="spk1" startTime="1085.318" endTime="1085.919">
+<Sync time="1085.318"/>
+nouveaux venus ?
+</Turn>
+<Turn speaker="spk2" startTime="1085.919" endTime="1086.711">
+<Sync time="1085.919"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="1086.711" endTime="1144.989">
+<Sync time="1086.711"/>
+bien Orléans est une ville
+<Sync time="1088.719"/>
+était une ville tranquille
+<Sync time="1090.584"/>
+
+<Sync time="1091.233"/>
+
+<Event desc="pi" type="pronounce" extent="previous"/>
+
+<Sync time="1091.733"/>
+c'était une ville tranquille paisible
+<Sync time="1094.619"/>
+euh disons une ville bourgeoise au au bon sens du mot d'autrefois
+<Sync time="1100.443"/>
+
+<Event desc="pi" type="pronounce" extent="previous"/>
+
+<Sync time="1101.259"/>
+une ville euh
+<Sync time="1102.456"/>
+sans sans histoire
+<Sync time="1104.412"/>
+et euh
+<Sync time="1105.705"/>
+vous avez une preuve que les habitants d'Orléans
+<Sync time="1109.335"/>
+
+<Sync time="1110.242"/>
+aimaient la tranquillité
+<Sync time="1111.882"/>
+
+<Sync time="1112.882"/>
+c'est que
+<Sync time="1114.288"/>
+lorsque fut inventée
+<Sync time="1116.756"/>
+cette chose extraordinaire que l'on appelle
+<Event desc="*qu'on ne l'appelle" type="pronounce" extent="previous"/>
+ les chemins de fer
+<Sync time="1120.426"/>
+
+<Sync time="1121.254"/>
+les Orléanais de ce temps
+<Sync time="1124.036"/>
+
+<Sync time="1124.645"/>
+préférèrent la tranquillité de la ville au bruit des machines
+<Sync time="1128.539"/>
+
+<Sync time="1129.414"/>
+et c'est pourquoi ils refusèrent que leur ville
+<Sync time="1132.312"/>
+reçût t- ait une gare
+<Sync time="1134.844"/>
+
+<Sync time="1135.469"/>
+c'était bruyant c'était l'occasion de de mettre la perturbation
+<Sync time="1140.644"/>
+alors la gare d'Orléans s'est créée en dehors d'Orléans
+<Sync time="1144.011"/>
+aux Aubrais
+</Turn>
+<Turn speaker="spk2" startTime="1144.989" endTime="1145.995">
+<Sync time="1144.989"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="1145.995" endTime="1177.213">
+<Sync time="1145.995"/>
+et puis la gare d'Orléans s'est développée
+<Sync time="1148.714"/>
+aux Aubrais
+<Sync time="1149.464"/>
+
+<Sync time="1150.698"/>
+et puis
+<Sync time="1151.604"/>
+lorsque les Orléanais se sont aperçus que l'avenir était dans
+<Sync time="1155.897"/>
+dans le chemin de fer
+<Sync time="1157.459"/>
+
+<Sync time="1158.349"/>
+ils ne pouvaient plus être question de ramener la gare des Aubrais dans la gare d'Orléans
+<Sync time="1162.694"/>
+alors voilà pourquoi vous avez deux gares à Orléans
+<Sync time="1165.56"/>
+vous avez une petite gare qui assure la navette et qui qui qui rejoint les Aubrais
+<Sync time="1169.785"/>
+
+<Sync time="1170.497"/>
+et puis vous avez la grande gare de trafic qui est celle des Aubrais
+<Sync time="1173.96"/>
+alors on a ça pour tout à peu près voyez-vous
+<Sync time="1176.278"/>
+Orléans 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1177.213" endTime="1178.172">
+<Sync time="1177.213"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+est une ville
+</Turn>
+<Turn speaker="spk1" startTime="1178.172" endTime="1207.21">
+<Sync time="1178.172"/>
+qui aimait sa tranquillité
+<Sync time="1179.688"/>
+
+<Sync time="1180.297"/>
+et puis
+<Sync time="1181.396"/>
+et puis Orléans s'est trouvé d'un seul coup bouleversé n'est-ce pas
+<Sync time="1184.849"/>
+parce que à la suite de de quarante-cinq et de la guerre
+<Sync time="1189.313"/>
+euh Orléans est petit à petit devenue une zone industrielle
+<Sync time="1193.177"/>
+et puis c'était la dis- décentralisation de Paris
+<Sync time="1196.551"/>
+et puis après c'était la création de l'université euh de la Source à Orléans
+<Sync time="1201.458"/>
+
+<Sync time="1201.82"/>
+et puis il faut bien dire qu'il y a un maire à Orléans qui désire beaucoup beaucoup le développement de la ville
+</Turn>
+<Turn speaker="spk2" startTime="1207.21" endTime="1207.592">
+<Sync time="1207.21"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="1207.592" endTime="1291.591">
+<Sync time="1207.592"/>
+qui a fait tout
+<Sync time="1209.029"/>
+
+<Sync time="1209.67"/>
+pour qu'il y ait ce développement industriel
+<Sync time="1211.976"/>
+pour qu'il y ait le développement de
+<Sync time="1214.914"/>
+intellectuel
+<Sync time="1216.337"/>
+avec la création de l'université de la Source
+<Sync time="1219.034"/>
+
+<Sync time="1219.801"/>
+et puis qui fait tout
+<Sync time="1221.74"/>
+pour que euh la ville ait des relations avec le monde entier
+<Sync time="1225.552"/>
+la ville est jumelée n'est-ce pas avec un certain nombre de villes étrangères
+<Sync time="1230.271"/>
+et puis
+<Sync time="1232.208"/>
+les fêtes de Jeanne d'Arc sont l'occasion de renouer des liens d'amitié avec toutes sortes de nations étrangères
+<Sync time="1239.239"/>
+
+<Sync time="1240.208"/>
+si bien que
+<Sync time="1242.085"/>
+tout cela a amené chez chez les Orléanais
+<Sync time="1245.114"/>
+euh la nécessité de
+<Sync time="1247.265"/>
+de voir autre chose que la tranquillité
+<Sync time="1249.507"/>
+
+<Sync time="1251.229"/>
+je ne dis pas que les Orléanais sont toujours bien d'accord
+<Sync time="1254.62"/>
+parce que toute cette expansion
+<Sync time="1256.781"/>
+
+<Sync time="1258.093"/>
+impose évidemment des charges
+<Sync time="1260.47"/>
+
+<Sync time="1262.205"/>
+et qu'ils aimeraient peut-être mieux avoir une bordure de rue et un trottoir bien pavé devant eux toujours admirablement entretenu
+<Sync time="1269.412"/>
+
+<Sync time="1270.395"/>
+euh plutôt que de savoir que l'on fait des travaux importants à la Source pour pouvoir y construire l'université
+<Sync time="1277.244"/>
+li- l'université c'est à cinq kilomètres tandis que mon morceau de pavé il est devant ma porte
+<Sync time="1282.137"/>
+
+<Sync time="1283.044"/>
+alors euh 
+<Sync time="1284.592"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="1285.6"/>
+cela vous dénote un petit peu
+<Sync time="1287.413"/>
+
+<Sync time="1288.038"/>
+le désir de l'Orléanais d'avoir une vie un peu tranquille
+</Turn>
+<Turn speaker="spk2" startTime="1291.591" endTime="1292.426">
+<Sync time="1291.591"/>
+hm 
+<Event desc="tx" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1292.426" endTime="1333.953">
+<Sync time="1292.426"/>
+alors nous nous avons ressenti la même chose
+<Sync time="1294.41"/>
+le clergé d'Orléans est un clergé extrêmement
+<Sync time="1298.917"/>
+c'était un clergé euh
+<Sync time="1301.064"/>
+c'était et c'est c'est toujours
+<Sync time="1302.929"/>
+mais enfin c'était un clergé très très digne
+<Sync time="1305.986"/>
+
+<Sync time="1307.202"/>
+nous avons
+<Sync time="1308.18"/>
+nous avons eu la marque pendant
+<Sync time="1310.789"/>
+
+<Sync time="1311.257"/>
+
+<Event desc="pif" type="pronounce" extent="instantaneous"/>
+
+<Sync time="1311.763"/>
+pendant une centaine d'années n'est-ce pas ?
+<Sync time="1314.415"/>
+de personnalités très marquantes qui ont formé le clergé
+<Sync time="1318.092"/>
+
+<Sync time="1319.642"/>
+il y avait monseigneur NPERS
+<Sync time="1321.649"/>
+
+<Sync time="1322.266"/>
+c'est un très grand évêque de France
+<Sync time="1324.322"/>
+
+<Sync time="1325.353"/>
+et
+<Sync time="1326.431"/>
+
+<Sync time="1327.127"/>
+monseigneur NPERS
+<Sync time="1329.297"/>
+s'était beaucoup penché sur l'éducation de de la jeunesse
+</Turn>
+<Turn speaker="spk2" startTime="1333.953" endTime="1334.812">
+<Sync time="1333.953"/>
+hm
+<Sync time="1334.453"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1334.812" endTime="1397.881">
+<Sync time="1334.812"/>
+et en particulier du jeune clergé
+<Sync time="1336.872"/>
+
+<Sync time="1338.045"/>
+et il avait exigé de son clergé une tenue un ordre un
+<Sync time="1343.988"/>
+le le prêtre devait être un un un notable du pays euh non seulement dans le domaine des
+<Sync time="1350.976"/>
+de la foi et des moeurs mais dans le domaine n'est-ce pas de la vie courante
+<Sync time="1354.817"/>
+
+<Sync time="1355.583"/>
+et puis nous avons eu des supérieurs de grand séminaire qui sont restés très très longtemps
+<Sync time="1360.719"/>
+et qui ont donné au clergé une habitude de régularité de sérieux de foi profonde
+<Sync time="1367.369"/>
+et euh
+<Sync time="1368.853"/>
+il se mêlait si vous voulez dans le cler- dans le clergé orléanais
+<Sync time="1372.99"/>
+en même temps un un soucis de vie chrétienne profonde de renoncement très grand
+<Sync time="1378.795"/>
+de très grande fidélité à son sacerdoce
+<Sync time="1381.566"/>
+
+<Sync time="1382.353"/>
+et en même temps un désir de
+<Sync time="1386.155"/>
+
+<Sync time="1388.289"/>
+un
+<Sync time="1389.458"/>
+un désir de de noblesse de dignité
+<Sync time="1393.469"/>
+et
+<Sync time="1394.844"/>
+
+<Sync time="1396.235"/>
+i- il n'y avait pas de laisser-aller
+</Turn>
+<Turn speaker="spk2" startTime="1397.881" endTime="1398.148">
+<Sync time="1397.881"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="1398.148" endTime="1424.162">
+<Sync time="1398.148"/>
+à aucun point de vue
+<Sync time="1399.603"/>
+simplement un cl- un clergé n'est-ce pas très distingué
+<Sync time="1402.255"/>
+
+<Sync time="1403.19"/>
+et ce ce qui dans
+<Sync time="1405.597"/>
+
+<Sync time="1406.39"/>
+dans les diocèses des environs
+<Sync time="1408.37"/>
+euh donnait l'occasion de quelques boutades
+<Sync time="1412.1"/>
+
+<Sync time="1412.868"/>
+quoi on disait lorsqu'on parle d'un prêtre de Chartres
+<Sync time="1416.879"/>
+on dit c'est un gars de Chartres
+<Sync time="1419.097"/>
+
+<Sync time="1419.793"/>
+mais quand c'est un prêtre d'Orléans
+<Sync time="1422.035"/>
+on dit c'est un monsieur d'Orléans
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1424.162" endTime="1425.593">
+<Sync time="1424.162"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4 spk3" startTime="1425.593" endTime="1427.882">
+<Sync time="1425.593"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1427.882" endTime="1452.455">
+<Sync time="1427.882"/>
+nous avions cette cette boutade ce qui ce qui dénotait
+<Sync time="1431.793"/>
+que euh 
+<Sync time="1433.677"/>
+
+<Sync time="1435.251"/>
+euh il y avait quoi un un désir
+<Sync time="1437.612"/>
+non pas un désir c'était la formation générale qui était donnée
+<Sync time="1442.887"/>
+et qui faisait que il y avait en même temps une euh
+<Sync time="1445.868"/>
+
+<Sync time="1446.727"/>
+un sens de la de la dignité en même temps qu'un sens du
+<Sync time="1450.454"/>
+du rôle profond du prêtre
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1452.455" endTime="1454.22">
+<Sync time="1452.455"/>
+<Who nb="1"/>
+le recrutement et la
+<Who nb="2"/>
+chose 
+<Event desc="pi" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1454.22" endTime="1458.493">
+<Sync time="1454.22"/>
+formation du clergé se font sur un plan local ?
+</Turn>
+<Turn speaker="spk1" startTime="1458.493" endTime="1458.903">
+<Sync time="1458.493"/>
+euh 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1458.903" endTime="1459.409">
+<Sync time="1458.903"/>
+<Who nb="1"/>
+
+<Event desc="pif" type="pronounce" extent="previous"/>
+
+<Who nb="2"/>
+jusque
+</Turn>
+<Turn speaker="spk1" startTime="1459.409" endTime="1485.599">
+<Sync time="1459.409"/>
+maintenant
+<Sync time="1460.439"/>
+le Loiret réussissait
+<Sync time="1462.924"/>
+à avoir un séminaire
+<Sync time="1465.309"/>
+avec euh cinquante soixante séminaristes
+<Sync time="1468.862"/>
+ce qui euh lui permettait d'avoir un séminaire à lui
+<Sync time="1472.716"/>
+
+<Sync time="1473.422"/>
+et monseigneur NPERS le prédécesseur de monseigneur NPERS
+<Sync time="1478.616"/>
+
+<Sync time="1479.555"/>
+avait toujours tenu
+<Sync time="1480.939"/>
+
+<Sync time="1482.227"/>
+à ce que le clergé euh soit formé dans le diocèse
+</Turn>
+<Turn speaker="spk2" startTime="1485.599" endTime="1486.224">
+<Sync time="1485.599"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="1486.224" endTime="1492.973">
+<Sync time="1486.224"/>
+parce que pour lui
+<Sync time="1487.388"/>
+
+<Sync time="1488.107"/>
+le le clergé était formé pour un diocèse
+</Turn>
+<Turn speaker="spk2" startTime="1492.973" endTime="1493.363">
+<Sync time="1492.973"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="1493.363" endTime="1515.344">
+<Sync time="1493.363"/>
+c'était des prêtes n'est-ce pas originaires d'un pays
+<Sync time="1496.836"/>
+ils étaient formés pour l'apostolat dans ce pays
+<Sync time="1500.371"/>
+et il voulait que ils soient en contact pendant leur formation au grand séminaire
+<Sync time="1505.885"/>
+avec euh la pastorale les moyens d'action qui étaient dans les paroisses
+<Sync time="1510.927"/>
+pour que le prêtre soit vraiment euh bien inséré dans son rôle
+</Turn>
+<Turn speaker="spk2" startTime="1515.344" endTime="1516.672">
+<Sync time="1515.344"/>
+hm hm
+<Sync time="1515.86"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1516.672" endTime="1550.304">
+<Sync time="1516.672"/>
+et monseigneur NPERS n'était donc pas partisan des regroupements de séminaires
+<Sync time="1523.265"/>
+
+<Sync time="1524.438"/>
+cela évidemment nous a fait critiquer aussi un peu par les voisins
+<Sync time="1528.802"/>
+
+<Sync time="1529.459"/>
+parce que les voisins disaient
+<Sync time="1531.545"/>
+nous aurions grand grand besoin d'avoir un séminaire commun parce que nous n'avons pas beaucoup de monde
+<Sync time="1537.75"/>
+
+<Sync time="1538.469"/>
+dans nos séminaires
+<Sync time="1539.873"/>
+et il est difficile d'assurer toute la formation avec des effectifs restreints
+<Sync time="1544.958"/>
+
+<Sync time="1545.501"/>
+et les diocèses voisins auraient bien voulu se regrouper avec celui d'Orléans
+</Turn>
+<Turn speaker="spk2" startTime="1550.304" endTime="1552.007">
+<Sync time="1550.304"/>
+hm
+<Sync time="1550.898"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1552.007" endTime="1640.061">
+<Sync time="1552.007"/>
+et
+<Sync time="1553.409"/>
+
+<Sync time="1554.284"/>
+et puis les choses ont évolué
+<Sync time="1556.562"/>
+monseigneur euh NPERS a été remplacé par monseigneur NPERS
+<Sync time="1561.46"/>
+
+<Sync time="1562.538"/>
+et monseigneur NPERS a une toute autre vue
+<Sync time="1565.491"/>
+
+<Sync time="1566.132"/>
+et il désire au contraire beaucoup qu'il y ait des échanges
+<Sync time="1569.908"/>
+
+<Sync time="1570.611"/>
+c'est un évêque qui est très missionnaire
+<Sync time="1573.153"/>
+puisqu'il a fait partie de la commission des missions au concile
+<Sync time="1576.848"/>
+
+<Sync time="1577.374"/>
+et c'est un évêque qui est très lié avec beaucoup de prêtres de l'Afrique et de l'Amérique
+<Sync time="1581.905"/>
+qui circule beaucoup
+<Sync time="1583.169"/>
+qui connaît très très bien les problèmes du clergé et de l'Eglise
+<Sync time="1586.748"/>
+aussi bien en Afrique qu'en Amérique
+<Sync time="1588.296"/>
+monseigneur NPERS est très souvent
+<Sync time="1590.157"/>
+en contact avec euh ce clergé et même très souvent aussi absent pour être en contact avec ce clergé
+<Sync time="1595.969"/>
+
+<Sync time="1597.109"/>
+et pour lui euh le département n'est plus euh la cellule de base c'est la région
+<Sync time="1603.95"/>
+la région apostolique
+<Sync time="1605.715"/>
+et il est donc tout à fait orienté pour un travail en collaboration avec les autres évêques
+<Sync time="1611.419"/>
+
+<Sync time="1612.469"/>
+et il se trouve en même temps
+<Sync time="1614.548"/>
+
+<Sync time="1615.173"/>
+que le nombre des séminaristes chez nous a beaucoup diminué
+<Sync time="1619.27"/>
+
+<Sync time="1620.661"/>
+si bien que il est impossible
+<Sync time="1623.324"/>
+
+<Sync time="1624.028"/>
+de faire vivre nous retrouvons
+<Sync time="1626.162"/>
+nous la même difficulté qu'avaient les diocèses voisins
+<Sync time="1630.173"/>
+et nous sommes obligés aussi ne serait-ce que pour organiser vraiment un séminaire avec des études solides et des professeurs assez nombreux
+<Sync time="1638.053"/>
+nous sommes aussi obligés de nous regrouper
+</Turn>
+<Turn speaker="spk2" startTime="1640.061" endTime="1640.858">
+<Sync time="1640.061"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="1640.858" endTime="1652.281">
+<Sync time="1640.858"/>
+si bien que la le changement des personnes
+<Sync time="1644.363"/>
+
+<Sync time="1644.988"/>
+et la diminution du nombre des vocations
+<Sync time="1647.661"/>
+nous ont amenés à nous insérer dans le mouvement euh régional
+</Turn>
+<Turn speaker="spk2" startTime="1652.281" endTime="1652.922">
+<Sync time="1652.281"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="1652.922" endTime="1666.013">
+<Sync time="1652.922"/>
+et euh les jeunes du séminaire d'Orléans des deux premières années
+<Sync time="1658.338"/>
+c'est-à-dire les deux années qui suivent le baccalauréat
+<Sync time="1661.276"/>
+les deux années de philosophie ne se font plus à Orléans mais se font à Tours
+</Turn>
+<Turn speaker="spk2" startTime="1666.013" endTime="1667.341">
+<Sync time="1666.013"/>
+hm
+<Sync time="1666.482"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1667.341" endTime="1678.831">
+<Sync time="1667.341"/>
+mais par contre nous recevons dans les trois dernières années
+<Sync time="1671.121"/>
+pour les années de théologie nous recevons les séminaristes des autres départements de la région
+<Sync time="1676.612"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="1678.831" endTime="1708.88">
+<Sync time="1678.831"/>
+hm oui
+<Sync time="1681.166"/>
+est-ce que en fonction de
+<Sync time="1683.985"/>
+tous les nouveaux besoins dont vous avez parlé tout à l'heure
+<Sync time="1686.756"/>
+la présence
+<Sync time="1688.319"/>
+la présence chrétienne dans des contextes industriels par exemple euh
+<Sync time="1691.907"/>
+
+<Sync time="1692.742"/>
+euh le problème euh
+<Sync time="1694.57"/>
+
+<Sync time="1694.929"/>
+du marxisme
+<Sync time="1696.033"/>
+
+<Sync time="1696.658"/>
+est-ce que par conséquent la formation de séminaristes euh a dû évoluer ?
+<Sync time="1701.599"/>
+euh c- est-ce que le contenu a dû changer ?
+<Sync time="1704.344"/>
+
+<Sync time="1705.088"/>
+pour faire face à ces nouveaux problèmes ?
+<Sync time="1706.814"/>
+
+<Sync time="1708.164"/>
+par rapport à
+</Turn>
+<Turn speaker="spk1 spk3" startTime="1708.88" endTime="1709.934">
+<Sync time="1708.88"/>
+<Who nb="1"/>
+et bien il y a
+<Who nb="2"/>
+
+<Event desc="pif" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1709.934" endTime="1754.368">
+<Sync time="1709.934"/>
+il y a d'abord alors je vous
+<Sync time="1711.055"/>
+pour terminer justement ce que je disais tout à l'heure 
+<Sync time="1713.206"/>
+nous étions
+<Sync time="1714.041"/>
+nous 
+<Sync time="1715.072"/>
+dans l'Eglise un peu marqués par le euh le climat général d'un peuple sans histoire et tranquille
+<Sync time="1722.255"/>
+et qui euh depuis vingt ans euh devant l'afflux de toute cette modernisation
+<Sync time="1728.977"/>
+
+<Sync time="1730.487"/>
+euh nous avons été aussi amenés à euh repenser
+<Sync time="1735.67"/>
+l'ensemble de la pastorale ce que nous appelons la pastorale c'est-à-dire le contact au fond
+<Sync time="1740.921"/>
+euh du prêtre avec les chrétiens et avec les hommes de notre temps
+<Sync time="1746.329"/>
+
+<Sync time="1748.218"/>
+alors euh je vous ai dit tout à l'heure
+<Sync time="1750.822"/>
+les les éléments de réponses
+<Sync time="1752.706"/>
+je dis bien les éléments
+</Turn>
+<Turn speaker="spk3" startTime="1754.368" endTime="1754.678">
+<Sync time="1754.368"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1754.678" endTime="1813.875">
+<Sync time="1754.678"/>
+les éléments de réponses
+<Sync time="1756.546"/>
+il y a d'abord qu'il faut se connaître
+<Sync time="1758.436"/>
+
+<Sync time="1760.498"/>
+euh alors on se connaît en étant en contact très étroit 
+<Sync time="1766.276"/>
+avec les chrétiens qui sont eux-mêmes engagés dans les différents milieux sociaux et professionnels
+<Sync time="1773.411"/>
+ce que je disais tout à l'heure de l'action catholique
+<Sync time="1775.991"/>
+
+<Sync time="1777.037"/>
+alors il y a beaucoup de réunions sur la ville d'Orléans de ces chrétiens par milieu de travail
+<Sync time="1783.537"/>
+alors vous connaissez peut-être l'organisation française enfin elle doit être analogue dans les autres euh nations
+<Sync time="1789.743"/>
+de l'action catholique 
+<Sync time="1790.845"/>
+il y a le milieu ouvrier il y a le milieu indépendant
+<Sync time="1794.141"/>
+il y a le milieu étudiant pour les jeunes
+<Sync time="1797.556"/>
+il y a un s- y a un certain nombre de
+<Sync time="1799.802"/>
+
+<Sync time="1800.849"/>
+il y a le milieu agricole
+<Sync time="1802.449"/>
+ou le milieu rural
+<Sync time="1804.405"/>
+alors nous nous efforçons
+<Sync time="1806.341"/>
+
+<Sync time="1807.075"/>
+en tant que prêtres
+<Sync time="1808.321"/>
+d'être très à l'écoute
+<Sync time="1810.525"/>
+
+<Sync time="1810.884"/>
+de tous les problèmes de ces différents milieux
+<Sync time="1813.584"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1813.875" endTime="1815.835">
+<Sync time="1813.875"/>
+hm
+<Sync time="1814.469"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1815.835" endTime="1957.809">
+<Sync time="1815.835"/>
+alors cela c'est le domaine je dirais de du contact au premier degré c'est-à-dire avec ceux qui quand même tout en étant de tous les milieux ont déjà le contact habituel avec l'Eglise
+<Sync time="1826.559"/>
+
+<Sync time="1827.203"/>
+c'est-à-dire des des chrétiens de la paroisse
+<Sync time="1831.164"/>
+
+<Sync time="1832.123"/>
+et puis il y a ensuite une recherche d'un contact plus plus direct encore
+<Sync time="1837.236"/>
+avec ceux qu'on ne voit jamais
+<Sync time="1839.263"/>
+à l'Eglise
+<Sync time="1840.575"/>
+
+<Sync time="1841.2"/>
+et alors c'est l'expérience de ces prêtres dont j'en parlais tout à l'heure
+<Sync time="1844.581"/>
+prêtres ouvriers dans le monde du travail
+<Sync time="1847.109"/>
+qui prennent un métier
+<Sync time="1848.765"/>
+
+<Sync time="1850.643"/>
+et puis
+<Sync time="1851.862"/>
+où il y a les
+<Sync time="1853.900"/>
+où les expériences
+<Sync time="1855.596"/>
+
+<Sync time="1856.44"/>
+de religieux missionnaires
+<Sync time="1858.923"/>
+
+<Sync time="1859.876"/>
+qui sont venus s'implanter dans dans le diocèse dans le monde rural
+<Sync time="1864.373"/>
+
+<Sync time="1864.92"/>
+et qui sont en contact direct avec euh les les gens du pays 
+<Sync time="1869.473"/>
+je pense aux frères missionnaires des campagnes
+<Sync time="1872.057"/>
+
+<Sync time="1872.419"/>
+c'est le but de la congrégation
+<Sync time="1875.734"/>
+
+<Sync time="1876.831"/>
+de venir vivre au milieu des ruraux
+<Sync time="1880.064"/>
+
+<Sync time="1881.782"/>
+alors euh soit des ordres euh religieux d'hommes
+<Sync time="1886.275"/>
+
+<Sync time="1886.869"/>
+qui vivent au milieu des ruraux en en allant faire la moisson avec eux euh à la manière des ouvriers dans les entreprises
+<Sync time="1894.072"/>
+et qui retrouvent leur communauté le soir
+<Sync time="1896.713"/>
+
+<Sync time="1897.634"/>
+ils sont si vous voulez hommes avec les hommes ils sont
+<Sync time="1900.457"/>
+ils sont travailleurs avec les travailleurs
+<Sync time="1902.87"/>
+et en même temps euh
+<Sync time="1904.492"/>
+cela leur permet
+<Sync time="1906.214"/>
+d'êt- d'apporter quand cela est nécessaire
+<Sync time="1909.51"/>
+la réponse de l'évangile aux problèmes des gens
+<Sync time="1912.281"/>
+ou alors simplement
+<Sync time="1913.812"/>
+de vivre dans une grande charité et d'une grande amitié
+<Sync time="1916.934"/>
+
+<Sync time="1918.243"/>
+car au fond
+<Sync time="1919.196"/>
+
+<Sync time="1919.759"/>
+c'est de là que part à peu près tout le reste
+<Sync time="1921.988"/>
+
+<Sync time="1922.898"/>
+alors il y a aussi les soeurs missionnaires
+<Sync time="1925.437"/>
+
+<Sync time="1926.17"/>
+des soeurs missionnaires
+<Sync time="1927.685"/>
+euh des campagnes
+<Sync time="1929.104"/>
+qui de la même manière
+<Sync time="1931.057"/>
+s'en vont travailler comme aides familiales elles vont faire la cuisine vont faire le ménage
+<Sync time="1935.693"/>
+euh dans dans les familles
+<Sync time="1937.944"/>
+
+<Sync time="1939.151"/>
+de plus en plus euh
+<Sync time="1940.692"/>
+au lieu de d'avoir des ordres religieux qui
+<Sync time="1943.361"/>
+
+<Sync time="1944.035"/>
+qui vivent euh entre eux
+<Sync time="1946.306"/>
+euh dans le travail manuel et la prière
+<Sync time="1948.631"/>
+
+<Sync time="1949.186"/>
+mais d'un travail manuel qui est uniquement chez eux
+<Sync time="1952.111"/>
+
+<Sync time="1952.668"/>
+euh nous avons des religieux qui s'en vont travailler en dehors comme comme des salariés
+</Turn>
+<Turn speaker="spk2" startTime="1957.809" endTime="1959.739">
+<Sync time="1957.809"/>
+hm hm
+<Sync time="1958.833"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="1959.739" endTime="2170.769">
+<Sync time="1959.739"/>
+qui en sont au minimum vital
+<Sync time="1961.528"/>
+
+<Sync time="1962.129"/>
+et puis euh
+<Sync time="1963.612"/>
+qui se retrouvent pour la prière la vie de communauté le soir le dimanche
+<Sync time="1967.882"/>
+
+<Sync time="1968.483"/>
+mais qui dans la journée sont sont des travailleurs
+<Sync time="1970.944"/>
+
+<Sync time="1971.755"/>
+dans dans les différents milieux un peu partout
+<Sync time="1974.425"/>
+
+<Sync time="1976.815"/>
+c'est
+<Sync time="1977.471"/>
+voilà quelques quelques essais si vous voulez de contact avec ceux qui
+<Sync time="1982.086"/>
+ceux qui ne viennent pas habituellement
+<Sync time="1984.619"/>
+oui
+<Sync time="1985.666"/>
+mais le problème de des prêtres
+<Sync time="1987.843"/>
+
+<Sync time="1988.678"/>
+est très difficile parce que
+<Sync time="1990.621"/>
+
+<Sync time="1991.914"/>
+euh nous ne sommes pas très nombreux
+<Sync time="1994.036"/>
+
+<Sync time="1995.21"/>
+et euh le simple service paroissial est lui-même très absorbant
+<Sync time="2000.254"/>
+
+<Sync time="2000.911"/>
+très très absorbant
+<Sync time="2002.311"/>
+
+<Sync time="2003.037"/>
+car euh bien que il n'y ait pas une pratique religieuse abondante
+<Sync time="2008.818"/>
+de la part des chrétiens
+<Sync time="2010.756"/>
+nous avons cependant une quantité de Français
+<Sync time="2014.553"/>
+qui viennent euh demander à la paroisse
+<Sync time="2017.892"/>
+
+<Sync time="2018.296"/>
+les services religieux quelques fois dans leur vie
+<Sync time="2021.875"/>
+
+<Sync time="2022.562"/>
+et c'est toujours l'occasion des baptêmes des premières communions des confirmations des mariages des enterrements
+<Sync time="2029.682"/>
+mais
+<Sync time="2030.259"/>
+il y a très peu de prêtres si bien que si on le voulait depuis le matin jusqu'au soir on serait toujours
+<Sync time="2035.341"/>
+euh uniquement dans son bureau à recevoir ceux qui viennent il y aurait toujours du travail
+<Sync time="2040.71"/>
+
+<Sync time="2042.122"/>
+et
+<Sync time="2043.009"/>
+alors euh nous avons dans le clergé
+<Sync time="2045.785"/>
+deux courants
+<Sync time="2047.3"/>
+le courant de ceux qui disent mais nous avons déjà un travail qui est considérable en recevant les personnes qui viennent nous voir
+<Sync time="2054.466"/>
+
+<Sync time="2055.401"/>
+ne serait-ce que pour les conseils à recevoir
+<Sync time="2058.053"/>
+
+<Sync time="2058.845"/>
+ou pour des actes religieux qui sont à préparer
+<Sync time="2061.912"/>
+
+<Sync time="2062.642"/>
+comme des baptêmes comme des mariages comme des communions des enfants
+<Sync time="2066.968"/>
+alors euh nous n'arrivons déjà pas à faire face à ce qu'on nous demande
+<Sync time="2073.002"/>
+nous ne voyons pas comment nous pourrions encore aller au-delà de ce qu'on ne nous demande pas
+<Sync time="2077.872"/>
+
+<Sync time="2079.594"/>
+et puis il y a d'autres prêtres qui disent
+<Sync time="2082.52"/>
+
+<Sync time="2083.071"/>
+mais
+<Sync time="2083.748"/>
+ceux qui ne nous demandent pas
+<Sync time="2086.133"/>
+ne nous demanderont jamais
+<Sync time="2087.902"/>
+
+<Sync time="2088.683"/>
+donc euh si nous n'y allons pas les premiers
+<Sync time="2091.474"/>
+
+<Sync time="2092.242"/>
+l'Eglise n'aura jamais de contact avec tous ceux qu'elle ne voit jamais
+<Sync time="2096.251"/>
+
+<Sync time="2096.804"/>
+donc il vaut mieux laisser tomber
+<Sync time="2099.664"/>
+
+<Sync time="2100.596"/>
+la demande de ceux qui viennent nous trouver
+<Sync time="2103.581"/>
+
+<Sync time="2104.8"/>
+en mettant sur la porte absent
+<Sync time="2107.36"/>
+
+<Sync time="2109.094"/>
+et puis euh s'en aller pendant ce temps-là
+<Sync time="2112.95"/>
+prendre la pelle et la pioche ou le pinceau ou le marteau
+<Sync time="2118.542"/>
+et passer sa journée dans une usine à travailler avec ceux qui travaillent
+<Sync time="2123.125"/>
+et là on verra des quantités de gens qui ne viennent jamais
+<Sync time="2127.83"/>
+
+<Sync time="2128.642"/>
+mieux vaut mettre absent à ceux qui viennent
+<Sync time="2130.709"/>
+
+<Sync time="2131.677"/>
+que d'être absent
+<Sync time="2133.079"/>
+
+<Sync time="2133.689"/>
+de tous ceux que l'on ne verrait jamais
+<Sync time="2135.927"/>
+
+<Sync time="2137.986"/>
+alors vous avez deux courants
+<Sync time="2139.955"/>
+deux courants d'esprit deux deux manières de voir les choses différemment
+<Sync time="2143.738"/>
+
+<Sync time="2144.382"/>
+qui toutes les deux s'inspirent d'un même désir d'être fidèle à la mission que l'on a reçue
+<Sync time="2150.802"/>
+qui est une mission de présence dans le monde et d'annonce de l'évangile dans le monde
+<Sync time="2154.958"/>
+
+<Sync time="2156.192"/>
+mais les deux manières qui partent d'un même principe
+<Sync time="2160.651"/>
+sont diamétralement opposées
+<Sync time="2163.35"/>
+
+<Sync time="2164.619"/>
+les uns disent pour être présents restons
+<Sync time="2168.11"/>
+les autres disent pour être présents partons
+</Turn>
+<Turn speaker="spk2 spk3" startTime="2170.769" endTime="2173.476">
+<Sync time="2170.769"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2173.476" endTime="2197.499">
+<Sync time="2173.476"/>
+mais les deux veulent être présents
+<Sync time="2175.382"/>
+
+<Sync time="2176.648"/>
+alors entre les deux
+<Sync time="2178.103"/>
+il y a ceux qui essayent
+<Sync time="2180.016"/>
+euh d'être en même temps et présents et et absents
+<Sync time="2183.816"/>
+
+<Sync time="2185.18"/>
+c'est-à-dire euh
+<Sync time="2186.258"/>
+
+<Sync time="2187.589"/>
+qui savent très bien qu'ils ne peuvent pas s'engager à longueur de journée dans la vie du travail des hommes parce que
+<Sync time="2195.186"/>
+ils estiment que ce n'est pas leur place
+</Turn>
+<Turn speaker="spk2" startTime="2197.499" endTime="2198.859">
+<Sync time="2197.499"/>
+hm
+<Sync time="2197.952"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2198.859" endTime="2207.637">
+<Sync time="2198.859"/>
+qu'ils ont un autre ministère à faire
+<Sync time="2201.093"/>
+mais qui essaient quand même d'être extrêmement près des soucis de de leurs paroissiens
+</Turn>
+<Turn speaker="spk2" startTime="2207.637" endTime="2208.977">
+<Sync time="2207.637"/>
+hm
+<Sync time="2208.047"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2208.977" endTime="2295.578">
+<Sync time="2208.977"/>
+alors vous vous entendez dans l'Eglise euh des des personnes qui
+<Sync time="2215.559"/>
+qui se plaignent en disant nous nous ne voyons plus nos prêtres
+<Sync time="2219.126"/>
+
+<Sync time="2219.883"/>
+vous avez beaucoup de malades qui disent autrefois y a vingt ans
+<Sync time="2223.166"/>
+
+<Sync time="2223.580"/>
+euh il y avait dans la paroisse un prêtre qui voyait tous les malades
+<Sync time="2227.483"/>
+qui leur rendait visite
+<Sync time="2228.609"/>
+
+<Sync time="2229.878"/>
+maintenant quand on sonne quand on appelle au téléphone pour avoir un prêtre y a jamais personne
+<Sync time="2234.915"/>
+
+<Sync time="2235.421"/>
+ils sont toujours partis
+<Sync time="2236.843"/>
+
+<Sync time="2238.422"/>
+et il est vrai que
+<Sync time="2240.484"/>
+
+<Sync time="2241.218"/>
+le genre de ministère est est différent
+<Sync time="2244.126"/>
+
+<Sync time="2245.223"/>
+le prêtre autrefois faisait le catéchisme pour tous les enfants
+<Sync time="2248.538"/>
+
+<Sync time="2249.563"/>
+nous cherchons maintenant des méthodes où dans les différents quartiers dans les rues
+<Sync time="2254.214"/>
+dans les différentes implantations ce sont des chrétiens qui font le catéchisme aux enfants du coin
+<Sync time="2259.276"/>
+
+<Sync time="2260.276"/>
+alors c'est tantôt un père de famille après son travail le soir
+<Sync time="2263.931"/>
+c'est une maman euh dans la journée quand ce sont des plus petits
+<Sync time="2267.484"/>
+
+<Sync time="2268.265"/>
+euh
+<Sync time="2268.939"/>
+c'est un peu toutes les catégories sociales il y a des ouvriers des professions libérales
+<Sync time="2274.6"/>
+il y a de tout
+<Sync time="2275.429"/>
+
+<Sync time="2276.099"/>
+et euh
+<Sync time="2277.253"/>
+
+<Sync time="2277.94"/>
+nous essayons si vous voulez
+<Sync time="2279.824"/>
+
+<Sync time="2280.777"/>
+de faire en sorte que toute la communauté chrétienne soit associée au rôle de de l'Eglise
+<Sync time="2286.43"/>
+parce que l'Eglise ce n'est pas simplement
+<Sync time="2288.586"/>
+la hiérarchie ce n'est pas simplement l'évêque et les prêtres
+<Sync time="2291.452"/>
+l'Eglise c'est tous les chrétiens
+<Sync time="2293.233"/>
+
+<Sync time="2294.457"/>
+le peuple de Dieu
+</Turn>
+<Turn speaker="spk2" startTime="2295.578" endTime="2309.001">
+<Sync time="2295.578"/>
+cette idée euh
+<Sync time="2297.39"/>
+évidemment est euh
+<Sync time="2298.917"/>
+
+<Sync time="2299.714"/>
+est d'origine si l'on peut dire
+<Sync time="2302.008"/>
+mais euh
+<Sync time="2303.272"/>
+est-ce que c'est une idée qui ne reprend pas justement aujourd'hui euh
+<Sync time="2307.398"/>
+un renouveau de force ?
+</Turn>
+<Turn speaker="spk1" startTime="2309.001" endTime="2309.864">
+<Sync time="2309.001"/>
+ah si
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2309.864" endTime="2310.341">
+<Sync time="2309.864"/>
+<Who nb="1"/>
+partout
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2310.341" endTime="2336.414">
+<Sync time="2310.341"/>
+oui
+<Sync time="2310.973"/>
+
+<Sync time="2312.535"/>
+je crois qu'il y a 
+<Event desc="pf" type="noise" extent="instantaneous"/>
+
+<Sync time="2314.321"/>
+
+<Sync time="2315.02"/>
+il y a certainement une orientation très nette de l'Eglise d'aujourd'hui sous le souffle de l'Esprit saint parce que
+<Sync time="2321.308"/>
+le concile a fait reprendre conscience davantage à tout le monde que l'affaire de l'Eglise que l'affaire de la foi
+<Sync time="2327.68"/>
+ce n'est pas l'affaire simplement euh de l'évêque du pape ou des ou ou des prêtres mais que c'est l'affaire de tout le peuple chrétien
+<Sync time="2334.742"/>
+
+<Sync time="2335.383"/>
+cela est certain
+</Turn>
+<Turn speaker="spk2" startTime="2336.414" endTime="2337.253">
+<Sync time="2336.414"/>
+oui oui
+<Event desc="ch" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2337.253" endTime="2428.395">
+<Sync time="2337.253"/>
+euh
+<Sync time="2337.83"/>
+maintenant l'Esprit saint se ch- se se sert de de tout ce qui est humain pour faire passer des courants d'esprit dans le monde
+<Sync time="2345.595"/>
+
+<Sync time="2346.224"/>
+et le fait
+<Sync time="2347.774"/>
+qu'il n'y ait plus beaucoup de prêtres
+<Sync time="2349.611"/>
+
+<Sync time="2350.188"/>
+et qu'il y ait beaucoup 
+<Sync time="2351.857"/>
+de jeunes
+<Sync time="2352.883"/>
+
+<Sync time="2353.365"/>
+puisque il y a partout un mouvement démographique important
+<Sync time="2356.921"/>
+le fait qu'il y ait moins de vocations
+<Sync time="2359.0"/>
+et qu'il y ait de plus en plus de jeunes
+<Sync time="2360.884"/>
+amène automatiquement à tirer cette conclusion
+<Sync time="2363.868"/>
+que pour que tous les jeunes soient évangélisés
+<Sync time="2366.274"/>
+il faut s'y prendre par un autre moyen que par le moyen seulement des prêtres
+<Sync time="2369.808"/>
+
+<Sync time="2370.929"/>
+car s'il fallait continuer à prendre les méthodes d'autrefois pour évangéliser tous les jeunes
+<Sync time="2377.169"/>
+et bien cela voudrait dire qu'il ne faut pas évangéliser les trois quarts des jeunes parce qu'on ne pourrait pas
+<Sync time="2382.086"/>
+
+<Sync time="2382.82"/>
+alors cela amène à chercher des moyens
+<Sync time="2385.02"/>
+et le moyen eh ben c'est de revenir à la chose d'origine
+<Sync time="2388.207"/>
+c'est de comprendre que c'est la cellule familiale qui est la première des cellules éducat- d'éducation
+<Sync time="2394.378"/>
+
+<Sync time="2395.175"/>
+et que euh lorsque il y a des familles
+<Sync time="2398.575"/>
+qui ne peuvent pas faire cette éducation chrétienne des enfants
+<Sync time="2402.152"/>
+et bien le mieux c'est que la famille d'à côté accepte de s'en occuper
+<Sync time="2406.76"/>
+et quand il y a trois quatre cinq familles
+<Sync time="2410.037"/>
+qui ne s'en occupent pas suffisamment on essaye de trouver un une famille qui veut bien prendre en charge le coin
+<Sync time="2416.738"/>
+c'est une affaire de stratégie 
+<Sync time="2419.214"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="2420.125"/>
+
+<Sync time="2420.774"/>
+je crois que le saint esprit parle n'est-ce pas
+<Sync time="2423.569"/>
+
+<Sync time="2424.288"/>
+par tous les éléments qu'il peut y avoir dans le monde et en particulier par l'intelligence humaine
+</Turn>
+<Turn speaker="spk2" startTime="2428.395" endTime="2428.972">
+<Sync time="2428.395"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="2428.972" endTime="2498.15">
+<Sync time="2428.972"/>
+qui fait qui fait trouver des moyens
+<Sync time="2430.904"/>
+et qui fait revenir comme vous le disiez
+<Sync time="2433.031"/>
+à à l'origine
+<Sync time="2435.421"/>
+
+<Sync time="2436.189"/>
+c'est la cellule de base qui est la famille et puis le groupement dans le quartier
+<Sync time="2440.945"/>
+
+<Sync time="2442.238"/>
+qui fait la prise en charge des jeunes du quartier
+<Sync time="2446.321"/>
+
+<Sync time="2447.447"/>
+et voyez vous dans les sacrements de confirmation autrefois
+<Sync time="2450.743"/>
+euh l'on cherchait des parrains de confirmation euh plus ou moins au dernier moment euh
+<Sync time="2456.996"/>
+
+<Sync time="2457.454"/>
+pour essayer d'avoir quelqu'un qui soit là
+<Sync time="2459.677"/>
+pour que le jour de la confirmation à côté de l'enfant qui
+<Sync time="2462.973"/>
+qui est confirmé il puisse y avoir l'adulte qui mette la main sur l'épaule en signe de protection et de parrainage
+<Sync time="2469.798"/>
+on le cherchait la veille ou l'avant-veille peut-être quand on était en avance quinze jours avant
+<Sync time="2474.929"/>
+
+<Sync time="2475.523"/>
+mais euh on cherchait
+<Sync time="2477.869"/>
+à ce qu'il y ait le jour de la cérémonie une personne qui soit là visiblement pour faire le geste
+<Sync time="2482.734"/>
+
+<Sync time="2483.426"/>
+bon
+<Sync time="2483.926"/>
+mais cette personne après euh dès le lendemain elle s'en allait
+<Sync time="2487.943"/>
+
+<Sync time="2488.615"/>
+elle ne se souvenait plus du tout qu'elle avait été choisie pour être parrain de confirmation
+<Sync time="2493.07"/>
+c'est-à-dire que le rôle de protecteur et d'éducateur de la foi du jeune était complètement oublié
+</Turn>
+<Turn speaker="spk2" startTime="2498.15" endTime="2498.931">
+<Sync time="2498.15"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="2498.931" endTime="2528.713">
+<Sync time="2498.931"/>
+on cherche maintenant beaucoup plus
+<Sync time="2500.772"/>
+à prendre comme parrain de confirmation les gens du coin
+<Sync time="2505.194"/>
+même s'ils ne sont pas de la même famille
+<Sync time="2507.512"/>
+c'est tel chrétien de tel endroit
+<Sync time="2509.735"/>
+qui accepte d'être parrain de confirmation du du petit garçon du voisin
+<Sync time="2514.651"/>
+et cela ne
+<Sync time="2516.947"/>
+c'est beaucoup mieux parce que le petit garçon qui grandit
+<Sync time="2519.909"/>
+il voit vivre le monsieur qui est à côté
+<Sync time="2522.775"/>
+et pour lui c'est un parrain c'est c'est un parrain qu'il voit ce n'est pas un parrain qui s'en va
+</Turn>
+<Turn speaker="spk2" startTime="2528.713" endTime="2529.628">
+<Sync time="2528.713"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="2529.628" endTime="2546.079">
+<Sync time="2529.628"/>
+et c'est une responsabilité aussi que l'adulte sent davantage
+<Sync time="2533.706"/>
+il se sent plus responsable de son secteur
+<Sync time="2536.345"/>
+
+<Sync time="2540.952"/>
+ce ne sont pas des
+<Sync time="2542.025"/>
+ce ne sont pas des
+<Sync time="2543.122"/>
+
+<Sync time="2543.763"/>
+des points de vue orléanais que je vous donne là
+</Turn>
+<Turn speaker="spk2" startTime="2546.079" endTime="2546.437">
+<Sync time="2546.079"/>
+non
+</Turn>
+<Turn speaker="spk1" startTime="2546.437" endTime="2551.183">
+<Sync time="2546.437"/>
+ça euh
+<Sync time="2547.2"/>
+c'est se-
+<Sync time="2548.464"/>
+ce n'est pas très commode de vous donnez des choses purement orléanaises
+</Turn>
+<Turn speaker="spk2" startTime="2551.183" endTime="2551.683">
+<Sync time="2551.183"/>
+oui bien sûr
+</Turn>
+<Turn speaker="spk1" startTime="2551.683" endTime="2555.361">
+<Sync time="2551.683"/>
+je vous donne un aspect n'est-ce pas de l'Eglise d'Orléans mais au milieu de l'Eglise de France
+</Turn>
+<Turn speaker="spk2" startTime="2555.361" endTime="2556.458">
+<Sync time="2555.361"/>
+oui oui
+</Turn>
+<Turn speaker="spk3" startTime="2556.458" endTime="2607.38">
+<Sync time="2556.458"/>
+hm hm
+<Sync time="2556.995"/>
+
+<Sync time="2559.606"/>
+justement euh dans tous ces changements
+<Sync time="2563.522"/>
+une des choses qu'on qu'on teste puisque c'est le mot à la mode
+<Sync time="2567.867"/>
+
+<Sync time="2568.659"/>
+euh dans tous les domaines
+<Sync time="2570.572"/>
+et quelques fois il me semble peut-être justement
+<Sync time="2574.421"/>
+euh ce sont d'anciennes conceptions de l'autorité
+<Sync time="2577.736"/>
+
+<Sync time="2578.658"/>
+eh bien évidemment euh l'Eglise est une organisation
+<Sync time="2583.667"/>
+
+<Sync time="2584.626"/>
+qui doit tout à son autorité
+<Sync time="2586.515"/>
+
+<Sync time="2587.331"/>
+euh
+<Sync time="2588.147"/>
+est-ce que
+<Sync time="2589.487"/>
+
+<Sync time="2590.68"/>
+cette conception enfin euh change beaucoup euh est-ce que
+<Sync time="2595.12"/>
+nous on est
+<Sync time="2595.708"/>
+
+<Sync time="2596.5"/>
+enfin quels sont si si l'on veut euh
+<Sync time="2599.378"/>
+
+<Sync time="2600.201"/>
+quel est le poids spécifique disons du traditionnel et du nouveau dans
+<Sync time="2604.771"/>
+
+<Sync time="2605.229"/>
+les conceptions actuelles de l'autorité ?
+</Turn>
+<Turn speaker="spk1" startTime="2607.38" endTime="2616.056">
+<Sync time="2607.38"/>
+hm hm
+<Sync time="2607.833"/>
+
+<Sync time="2608.596"/>
+c'est-à-dire que
+<Sync time="2609.507"/>
+dans l'Eglise le principe de l'autorité il n'est pas contesté n'est-ce pas ?
+<Sync time="2613.28"/>
+c'est ou tout au moins il n'est pas contestable
+</Turn>
+<Turn speaker="spk2" startTime="2616.056" endTime="2616.771">
+<Sync time="2616.056"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="2616.771" endTime="2631.114">
+<Sync time="2616.771"/>
+euh le principe de l'autorité
+<Sync time="2618.465"/>
+ce qui est contestable c'est la manière dont l'autorité est exercée
+<Sync time="2621.832"/>
+
+<Sync time="2622.379"/>
+mais à partir du moment où on dirait que l'autorité est contestable par principe
+<Sync time="2627.269"/>
+
+<Sync time="2628.295"/>
+euh
+<Sync time="2629.039"/>
+nous estimons qu'on ne fait plus partie de l'Eglise catholique
+</Turn>
+<Turn speaker="spk2" startTime="2631.114" endTime="2631.771">
+<Sync time="2631.114"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2631.771" endTime="2710.024">
+<Sync time="2631.771"/>
+puisque c'est s- c'est
+<Sync time="2634.6"/>
+l'ég- l'Eglise a été constituée sous une forme de hiérarchie
+<Sync time="2638.416"/>
+euh de par l'évangile au moins c'est notre conception catholique n'est-ce pas de de de l'Eglise n'est-ce pas qui a été constituée avec un chef
+<Sync time="2646.935"/>
+et s'il y avait le collège des apôtres il y a toujours eu dans l'Eglise le chef qui
+<Sync time="2651.733"/>
+à qui est revenu euh le privilège de de l'autorité 
+<Event desc="pif" type="pronounce" extent="instantaneous"/>
+
+<Sync time="2656.722"/>
+
+<Sync time="2657.16"/>
+donc euh si vraiment quelqu'un disait en pleine conscience et en pleine volonté
+<Sync time="2663.501"/>
+et après avoir mûrement réfléchi et non par boutade
+<Sync time="2666.868"/>
+que il nie le principe de l'autorité dans l'Eglise
+<Sync time="2670.827"/>
+il peut toujours le nier mais alors à ce moment-là qu'il ne le nie pas au nom de l'Eglise
+<Sync time="2676.012"/>
+qu'il le nie au nom de sa position personnelle
+<Sync time="2679.188"/>
+n'est-ce pas de sa conception personnelle
+<Sync time="2681.192"/>
+
+<Sync time="2681.832"/>
+donc le principe de l'autorité dans l'Eglise nous l'admettons
+<Sync time="2685.656"/>
+seulement ce qui est certainement très modifié c'est la manière d'exercer cette autorité
+<Sync time="2691.358"/>
+
+<Sync time="2692.906"/>
+certainement
+<Sync time="2694.125"/>
+cela vient de très haut puisque le pape lui-même a donné l'exemple
+<Sync time="2697.513"/>
+avec toute cette collégialité et puis tout ce qu'il a dit dans le concile enfin comment il a voulu s'entourer euh
+<Sync time="2704.005"/>
+nos conciles non seulement des des évêques catholiques mais même des observateurs protestants orthodoxes
+</Turn>
+<Turn speaker="spk2" startTime="2710.024" endTime="2710.811">
+<Sync time="2710.024"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="2710.811" endTime="2779.19">
+<Sync time="2710.811"/>
+euh il y a donc un mouvement très large si vous voulez de consultations
+<Sync time="2714.531"/>
+c'est un mouvement en même temps
+<Sync time="2716.224"/>
+de compréhension envers tout le monde
+<Sync time="2718.657"/>
+et puis il est bien dit que l'être humain étant essentiellement fait de liberté
+<Sync time="2724.433"/>
+
+<Sync time="2725.902"/>
+le commander de telle manière qu'on soit sûr qu'il s'insurge
+<Sync time="2729.947"/>
+
+<Sync time="2730.667"/>
+euh ce n'est certainement pas une bonne manière de le commander
+<Sync time="2734.292"/>
+alors il faut mettre beaucoup de psychologie
+<Sync time="2736.705"/>
+
+<Sync time="2737.421"/>
+et il est certain que lorsqu'une décision lorsqu'une euh
+<Sync time="2741.647"/>
+une décision a été davantage euh
+<Sync time="2744.704"/>
+euh
+<Sync time="2745.423"/>
+partagée si vous voulez lorsqu'elle a été préparée il est certain que plus nombreux sont les perso-
+<Sync time="2751.824"/>
+plus nombreuses sont les personnes
+<Sync time="2754.166"/>
+qui ont étudié la chose
+<Sync time="2756.889"/>
+plus évidemment on on est prêt
+<Sync time="2758.916"/>
+à accueillir 
+<Sync time="2760.443"/>
+euh la décision
+<Sync time="2762.141"/>
+
+<Sync time="2762.953"/>
+je crois que c'est un effort de psychologie que nous avons à faire dans l'Eglise
+<Sync time="2767.5"/>
+et que s'il y a une réforme à faire c'est dans ce domaine du respect si vous voulez des personnes qui doivent être euh
+<Sync time="2773.896"/>
+commandées
+<Sync time="2775.189"/>
+
+<Sync time="2775.695"/>
+afin qu'elles soient elles-mêmes associées à la décision qui sera prise
+</Turn>
+<Turn speaker="spk2" startTime="2779.19" endTime="2779.968">
+<Sync time="2779.19"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="2779.968" endTime="2791.577">
+<Sync time="2779.968"/>
+c'est un effort de psychologie c'est toute une pastorale nouvelle
+<Sync time="2784.508"/>
+mais euh
+<Sync time="2786.397"/>
+c'est dans le domaine de l'adaptation c'est dans le domaine de
+<Sync time="2789.573"/>
+
+<Sync time="2790.354"/>
+des méthodes
+<Sync time="2791.147"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2791.577" endTime="2791.987">
+<Sync time="2791.577"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="2791.987" endTime="2801.87">
+<Sync time="2791.987"/>
+on ne concevrait plus maintenant un
+<Sync time="2794.42"/>
+
+<Sync time="2794.998"/>
+un évêque qui avec sa crosse n'est-ce pas à la main dirait ce sera comme ça parce que je 
+<Sync time="2801.174"/>
+je le veux
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2801.87" endTime="2804.112">
+<Sync time="2801.87"/>
+<Who nb="1"/>
+oui oui oui oui
+<Who nb="2"/>
+n'est-ce pas ? 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2804.112" endTime="2815.044">
+<Sync time="2804.112"/>
+euh
+<Sync time="2804.975"/>
+notre évêque certainement est à l'opposé de cette méthode 
+<Sync time="2808.412"/>
+c'est un homme de dialogue euh
+<Sync time="2810.417"/>
+mais euh il ne dira jamais le contraire de ce qu'il désire dire
+</Turn>
+<Turn speaker="spk2" startTime="2815.044" endTime="2816.122">
+<Sync time="2815.044"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="2816.122" endTime="2843.611">
+<Sync time="2816.122"/>
+euh parce que il sait très bien que euh
+<Sync time="2819.585"/>
+la vérité vient d'en haut et que la vérité elle est dans l'évangile
+<Sync time="2824.359"/>
+et que l'adaptation de la dévi- la vérité à notre monde d'aujourd'hui
+<Sync time="2828.413"/>
+ne doit pas faire en sorte que euh la vérité puisse changer
+<Sync time="2832.587"/>
+
+<Sync time="2834.786"/>
+c'est
+<Sync time="2835.721"/>
+
+<Sync time="2836.299"/>
+c'est la foi qui juge le monde
+<Sync time="2838.116"/>
+
+<Sync time="2839.428"/>
+et et et non pas pas le monde qui doit juger la foi
+</Turn>
+<Turn speaker="spk2" startTime="2843.611" endTime="2844.398">
+<Sync time="2843.611"/>
+hm hm hm hm
+</Turn>
+<Turn speaker="spk1" startTime="2844.398" endTime="2853.618">
+<Sync time="2844.398"/>
+il faut rentrer dans les conceptions de la foi plutôt que la foi rentrer dans les conceptions du monde
+<Sync time="2850.15"/>
+
+<Sync time="2850.894"/>
+enfin voilà la
+<Sync time="2851.896"/>
+
+<Sync time="2852.287"/>
+la position de l'Eglise
+</Turn>
+<Turn speaker="spk2" startTime="2853.618" endTime="2854.434">
+<Sync time="2853.618"/>
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="2854.434" endTime="2872.693">
+<Sync time="2854.434"/>
+mais il est certain que nous avons un effort considérable à faire
+<Sync time="2858.374"/>
+
+<Sync time="2859.342"/>
+pour euh
+<Sync time="2860.921"/>
+
+<Sync time="2861.671"/>
+pour faire en sorte que
+<Sync time="2863.621"/>
+l'exercice de l'autorité
+<Sync time="2865.98"/>
+soit
+<Sync time="2867.089"/>
+soit modifié que la manière
+<Sync time="2869.731"/>
+d'exercer l'autorité soit soit modifiée
+</Turn>
+<Turn speaker="spk2" startTime="2872.693" endTime="2874.009">
+<Sync time="2872.693"/>
+hm hm
+<Sync time="2873.183"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="2874.009" endTime="2882.486">
+<Sync time="2874.009"/>
+
+<Sync time="2874.439"/>
+mais alors il ne faut pas tomber dans l'excès opposé
+<Sync time="2876.829"/>
+
+<Sync time="2877.298"/>
+qui sous prétexte
+<Sync time="2878.813"/>
+que autrefois il y a eu n'est-ce pas une autorité trop 
+<Event desc="pi" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn startTime="2882.486" endTime="2884.421">
+<Sync time="2882.486"/>
+
+<Comment desc="coupure bande"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2884.421" endTime="2887.666">
+<Sync time="2884.421"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ pour qu'on ne puisse pas faire le tour de la civilisation française sans
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2887.666" endTime="2889.221">
+<Sync time="2887.666"/>
+<Who nb="1"/>
+oui sans sans avoir
+<Who nb="2"/>
+sans sans avoir
+</Turn>
+<Turn speaker="spk2" startTime="2889.221" endTime="2891.186">
+<Sync time="2889.221"/>
+des des vues catholiques
+</Turn>
+<Turn speaker="spk1" startTime="2891.186" endTime="2891.735">
+<Sync time="2891.186"/>
+oui d'accord
+</Turn>
+<Turn speaker="spk2" startTime="2891.735" endTime="2896.708">
+<Sync time="2891.735"/>
+n'est-ce pas ?
+<Sync time="2892.264"/>
+
+<Sync time="2895.269"/>
+euh John vous avez peut-être des
+</Turn>
+<Turn speaker="spk2 spk3" startTime="2896.708" endTime="2897.487">
+<Sync time="2896.708"/>
+<Who nb="1"/>
+des
+<Who nb="2"/>
+euh oui
+</Turn>
+<Turn speaker="spk3" startTime="2897.487" endTime="2940.592">
+<Sync time="2897.487"/>
+euh
+<Sync time="2898.003"/>
+
+<Sync time="2900.067"/>
+enfin je regrette de rompre la continuité de ce qui a précédé
+<Sync time="2903.764"/>
+
+<Sync time="2904.603"/>
+c'était fatal
+<Sync time="2905.653"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="2906.636"/>
+enfin nous avons parlé surtout des problèmes et dans un certain sens du côté négatif de l'époque actuelle
+<Sync time="2913.633"/>
+
+<Sync time="2914.353"/>
+si nous regardions les choses d'une façon plus positive
+<Sync time="2917.239"/>
+
+<Sync time="2917.983"/>
+l'Eglise au Moyen-Age nous a laissé ce ce fantastique réseau de cathédrales
+<Sync time="2923.211"/>
+est-ce que vous voyez un héritage possible laissé par l'Eglise de notre époque ?
+<Sync time="2928.749"/>
+
+<Sync time="2930.375"/>
+un héritage comparable aux cathédrales
+<Sync time="2932.331"/>
+
+<Sync time="2933.167"/>
+qu'a laissé l'Eglise au Moyen-Age
+<Sync time="2934.53"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2940.592" endTime="3000.464">
+<Sync time="2940.592"/>
+oui
+<Sync time="2941.389"/>
+
+<Event desc="tx" type="noise" extent="instantaneous"/>
+
+<Sync time="2942.061"/>
+
+<Sync time="2943.43"/>
+oui vous voulez dire à cela que
+<Sync time="2945.724"/>
+euh il y avait n'est-ce pas au Moyen-Age une vie chrétienne intense
+<Sync time="2949.972"/>
+
+<Sync time="2950.947"/>
+bon cette vie chrétienne intense nous ne la voyons plus
+<Sync time="2954.479"/>
+parce que les hommes sont morts
+<Sync time="2956.604"/>
+mais nous voyons leur oeuvre
+<Sync time="2957.966"/>
+
+<Sync time="2958.445"/>
+n'est-ce pas et nous disons euh une population qui a été capable de construire ces chefs-d'oeuvre
+<Sync time="2964.316"/>
+avec tout ce que cela représente euh
+<Sync time="2966.742"/>
+d'énergie de dépense de de force de bras
+<Sync time="2970.397"/>
+euh de collaboration de tout le monde c'est la manifestation d'un idéal euh extraordinaire
+<Sync time="2976.969"/>
+
+<Sync time="2977.685"/>
+et nous nous ne voyons plus que cela
+<Sync time="2980.466"/>
+et nous en tirons la conclusion
+<Sync time="2982.445"/>
+ils étaient donc profondément chrétiens
+<Sync time="2984.639"/>
+
+<Sync time="2985.76"/>
+alors euh nous
+<Sync time="2987.382"/>
+la question que vous me posez est celle-ci est-ce qu'il restera dans l'avenir
+<Sync time="2991.417"/>
+des signes euh tangibles matériels de notre christianisme d'aujourd'hui
+<Sync time="2998.48"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="3000.464" endTime="3010.151">
+<Sync time="3000.464"/>
+peut-être pas même tangibles
+<Sync time="3002.014"/>
+
+<Sync time="3003.183"/>
+pas forcément matériels
+<Sync time="3004.714"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3010.151" endTime="3317.198">
+<Sync time="3010.151"/>
+parce que c'est extrêmement difficile
+<Sync time="3012.584"/>
+de
+<Sync time="3013.805"/>
+
+<Sync time="3015.217"/>
+c'est extrêmement difficile de
+<Sync time="3017.917"/>
+de définir ce qu'est ce que peut avoir de tangible u- une vie chrétienne
+<Sync time="3024.199"/>
+nous disons n'est-ce pas euh au Moyen-Age la cathédrale
+<Sync time="3027.519"/>
+le fait d'avoir construit des cathédrales c'est un signe tangible
+<Sync time="3031.053"/>
+d'une foi de de tout un peuple
+<Sync time="3033.413"/>
+
+<Sync time="3035.132"/>
+alors euh cette foi elle s'est manifestée par les cathédrales mais elle se manifestait aussi par le
+<Sync time="3040.735"/>
+toutes les oeuvres de charité multiples
+<Sync time="3043.096"/>
+qu'il pouvait y avoir puisque le service euh
+<Sync time="3045.91"/>
+
+<Sync time="3046.597"/>
+le service social le service charitable était euh était exécuté si vous voulez
+<Sync time="3051.395"/>
+par des ordres religieux
+<Sync time="3053.331"/>
+à l'abri de l'Eglise
+<Sync time="3054.596"/>
+
+<Sync time="3055.263"/>
+euh vous aviez euh tout le service scolaire de l'enseignement qui se faisait aussi à l'abri de l'Eglise
+<Sync time="3060.876"/>
+
+<Sync time="3061.463"/>
+et nous disions il y avait une euh
+<Sync time="3063.991"/>
+une chrétienté
+<Sync time="3065.207"/>
+profonde
+<Sync time="3066.233"/>
+bien
+<Sync time="3067.049"/>
+bien consciente de sa foi
+<Sync time="3069.033"/>
+parce que la preuve en est que il y avait toutes ces oeuvres extérieures
+<Sync time="3074.576"/>
+d'éducation
+<Sync time="3076.226"/>
+de service social
+<Sync time="3078.683"/>
+et puis d'aide aux malheureux
+<Sync time="3081.287"/>
+et enfin de de lieux de cultes
+<Sync time="3083.395"/>
+
+<Sync time="3084.942"/>
+alors si on veut raisonner n'est-ce pas de la même manière en ce moment
+<Sync time="3089.802"/>
+
+<Sync time="3090.396"/>
+euh nous sommes très mal placés parce que il y a eu une évolution considérable
+<Sync time="3096.751"/>
+euh qui a fait que les services que l'Eglise avait pris en main au Moyen-Age
+<Sync time="3101.425"/>
+sont des services qui sont pris maintenant en main par l'ensemble de l'Etat
+<Sync time="3105.074"/>
+
+<Sync time="3105.556"/>
+le service scolaire le service charitable 
+<Sync time="3109.062"/>
+le service social
+<Sync time="3110.998"/>
+toutes les oeuvres qui peuvent qui pouvaient exister
+<Sync time="3114.079"/>
+et qui ont amené si vous voulez les hommes à prendre conscience de du devoir de solidarité entre eux
+<Sync time="3119.636"/>
+tout cela est coordonné maintenant par l'Etat
+<Sync time="3122.383"/>
+beaucoup d'entreprises privées encore beaucoup d'oeuvres privées encore assurent
+<Sync time="3127.105"/>
+ce service des hommes
+<Sync time="3129.018"/>
+grâce à l'aide de l'Etat c'est un véritable service national
+<Sync time="3132.528"/>
+
+<Sync time="3133.22"/>
+mais on ne peut pas dire
+<Sync time="3134.727"/>
+
+<Sync time="3135.395"/>
+que des monuments
+<Sync time="3137.57"/>
+
+<Sync time="3138.195"/>
+ne devant plus rester comme étant des monuments d'Eglise
+<Sync time="3141.538"/>
+comme ceux du Moyen-Age
+<Sync time="3143.351"/>
+
+<Sync time="3145.054"/>
+la présence d'Eglises n'existent plus
+<Sync time="3147.357"/>
+
+<Sync time="3148.168"/>
+la présence d'Eglises au Moyen-Age se manifestait par des bâtiments
+<Sync time="3152.155"/>
+la présence d'Eglises en ce moment se manifeste par la présence des chrétiens partout
+<Sync time="3157.311"/>
+dans les services qui existent
+<Sync time="3158.961"/>
+et qui sont des services euh
+<Sync time="3161.799"/>
+plus ou moins rattachés à la notion de l'Etat de la cité de la ville
+<Sync time="3166.759"/>
+mais où travaillent les chrétiens
+<Sync time="3169.864"/>
+
+<Sync time="3170.274"/>
+en en tant que citoyens
+<Sync time="3172.039"/>
+
+<Sync time="3172.758"/>
+et avec une âme de chrétien
+<Sync time="3174.667"/>
+ils y travaillent en tant que citoyen et sur les registres de euh du personnel
+<Sync time="3180.037"/>
+ou sur les registres d'état civil ils figurent sous leur nom
+<Sync time="3183.567"/>
+de citoyen
+<Sync time="3185.021"/>
+mais euh l'esprit qu'ils y mettent
+<Sync time="3187.888"/>
+euh l'ardeur dans le service la la conviction du du devoir rempli 
+<Sync time="3193.497"/>
+le désir de d'être aimable et charitable dans le
+<Sync time="3198.291"/>
+le travail que l'on accomplit en même temps pour gagner sa vie et faire vivre sa famille
+<Sync time="3203.023"/>
+tout cela c'est du christianisme profondément vécu
+<Sync time="3206.343"/>
+mais c'est un christianisme qui ne se marquera dans aucune construction
+<Sync time="3210.831"/>
+euh dans l'avenir
+<Sync time="3211.904"/>
+
+<Sync time="3212.545"/>
+on l'aura pas l'idée dans l'avenir lorsque l'on verra d'immenses hôpitaux
+<Sync time="3216.842"/>
+d'immenses saunas
+<Sync time="3218.202"/>
+euh de dire c'est un c'est un signe de l'Eglise
+<Sync time="3221.999"/>
+on dira c'est un signe d'une période
+<Sync time="3224.889"/>
+pendant laquelle on s'est soucié de la santé des citoyens
+<Sync time="3228.013"/>
+pendant laquelle il y a eu une solidarité
+<Sync time="3230.35"/>
+quand on verra euh plus tard un immense édifice et qu'on dira c'est le l'édifice de la sécurité sociale
+<Sync time="3236.67"/>
+on aura pas l'idée de dire c'est un édifice d'Eglise
+<Sync time="3239.727"/>
+mais en fait euh les citoyens qui ont vécu là
+<Sync time="3243.614"/>
+quand ils sont chrétiens ils ont une euh
+<Sync time="3246.881"/>
+une certitude de remplir une mission d'Eglise à l'intérieur de ce service social
+<Sync time="3251.222"/>
+même s'ils ne font toute la journée que des cartes perforées
+<Sync time="3254.136"/>
+parce que en définitive cela aboutit toujours à un service de de l'homme un s-
+<Sync time="3259.017"/>
+
+<Sync time="3260.103"/>
+alors c'est difficile de répondre à votre question
+<Sync time="3262.931"/>
+euh
+<Sync time="3264.281"/>
+est-ce que les bâtiments de l'avenir
+<Sync time="3266.618"/>
+témoigneront de la vitalité de l'Eglise ?
+<Sync time="3269.289"/>
+je crois que les bâtiments de l'avenir témoigneront
+<Sync time="3272.098"/>
+
+<Sync time="3272.676"/>
+de l'esprit de charité de solidarité d'une période
+<Sync time="3277.998"/>
+
+<Sync time="3278.594"/>
+et que c'est un des aspects et là un des aspects primordiaux
+<Sync time="3284.602"/>
+de l'Eglise
+<Sync time="3286.348"/>
+que de permettre à des citoyens
+<Sync time="3289.691"/>
+de développer en eux l'esprit de solidarité et de charité
+<Sync time="3293.245"/>
+
+<Sync time="3293.917"/>
+parce que justement ils considèrent les hommes
+<Sync time="3296.946"/>
+non pas comme des numéros qui travaillent dans une usine
+<Sync time="3300.309"/>
+non pas comme des automates
+<Sync time="3301.912"/>
+mais vraiment comme des frères
+<Sync time="3303.396"/>
+
+<Sync time="3304.005"/>
+et une civilisation qui met sur pied
+<Sync time="3306.18"/>
+un un véritable service social éducatif
+<Sync time="3309.595"/>
+
+<Sync time="3310.407"/>
+comme notre monde d'aujourd'hui
+<Sync time="3312.128"/>
+
+<Sync time="3312.753"/>
+euh ne peut pas le faire sans une conception chrétienne de l'homme
+</Turn>
+<Turn speaker="spk3" startTime="3317.198" endTime="3329.647">
+<Sync time="3317.198"/>
+et pourtant
+<Sync time="3318.653"/>
+beaucoup d'initiatives dans ce domaine-là viennent non seulement
+<Sync time="3322.206"/>
+ne- non seulement ne viennent pas de l'Eglise 
+<Sync time="3324.4"/>
+mais viennent de milieux qui du point de vue idéologique souvent
+<Sync time="3327.381"/>
+
+<Sync time="3327.834"/>
+sont assez éloignés de l'Eglise
+</Turn>
+<Turn speaker="spk1" startTime="3329.647" endTime="3330.116">
+<Sync time="3329.647"/>
+oui
+</Turn>
+<Turn speaker="spk3" startTime="3330.116" endTime="3330.773">
+<Sync time="3330.116"/>
+n'est-ce pas ?
+</Turn>
+<Turn speaker="spk1" startTime="3330.773" endTime="3415.253">
+<Sync time="3330.773"/>
+oui
+<Sync time="3331.183"/>
+
+<Sync time="3332.183"/>
+mais je crois
+<Sync time="3333.308"/>
+
+<Sync time="3334.286"/>
+euh je sais pas et je crois
+<Sync time="3336.004"/>
+je suis même persuadé
+<Sync time="3337.238"/>
+qu'il ne faut pas s'en tenir
+<Sync time="3339.458"/>
+
+<Sync time="3340.083"/>
+si vous voulez à des étiquettes
+<Sync time="3342.663"/>
+
+<Sync time="3344.643"/>
+milieu éloigné de l'Eglise ou milieu non éloigné de l'Eglise
+<Sync time="3348.63"/>
+
+<Sync time="3349.489"/>
+il faut se dire n'est-ce pas qu'on est dans
+<Sync time="3351.871"/>
+dans un monde
+<Sync time="3353.357"/>
+qui a été forgé par vingt siècles de christianisme
+<Sync time="3356.195"/>
+
+<Sync time="3357.163"/>
+et que les les gens qui vous disent 
+<Sync time="3360.218"/>
+
+<Sync time="3360.703"/>
+qu'ils ne sont pas de l'Eglise
+<Sync time="3362.258"/>
+parce qu'ils sont ou marxistes
+<Sync time="3364.876"/>
+ou athées
+<Sync time="3365.859"/>
+ils ne peuvent pas ne pas nous dire qu'ils ont leur grand-père leur arrière-grand-père
+<Sync time="3369.775"/>
+qui a eu son grand-père et son arrière-grand-père
+<Sync time="3372.069"/>
+et depuis des siècles et des siècles et des siècles marqués par l'idée de charité
+<Sync time="3376.08"/>
+
+<Sync time="3377.697"/>
+et de marqués par l'idée de dévouement
+<Sync time="3379.676"/>
+
+<Sync time="3380.332"/>
+et marqués par l'idée de sacrifice
+<Sync time="3382.054"/>
+
+<Sync time="3382.694"/>
+et que tout cela
+<Sync time="3384.058"/>
+c'est dans l'évangile
+<Sync time="3385.322"/>
+
+<Sync time="3386.042"/>
+et que même quand on ne veut plus faire le rattachement
+<Sync time="3389.81"/>
+avec euh la religion ou avec la foi
+<Sync time="3394.216"/>
+
+<Sync time="3394.857"/>
+et qu'on est persuadé
+<Sync time="3396.44"/>
+que c'est la gloire de la nature humaine
+<Sync time="3398.596"/>
+
+<Sync time="3400.034"/>
+que de pouvoir revendiquer l'origine
+<Sync time="3402.638"/>
+de ces idées de charité et de solidarité
+<Sync time="3405.714"/>
+il n'empêche que
+<Sync time="3407.336"/>
+
+<Sync time="3407.773"/>
+inévitablement parce qu'on est bâti comme on est bâti parce qu'on a une hérité- une hérédité
+<Sync time="3412.463"/>
+on porte en soi le sens du christianisme
+<Sync time="3414.776"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="3415.253" endTime="3416.081">
+<Sync time="3415.253"/>
+hm
+<Sync time="3415.784"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3416.081" endTime="3417.922">
+<Sync time="3416.081"/>
+<Who nb="1"/>
+on porte en soi cela
+<Who nb="2"/>
+que diriez-vous à ce point de vue
+</Turn>
+<Turn speaker="spk2" startTime="3417.922" endTime="3431.005">
+<Sync time="3417.922"/>
+euh de quelqu'un disons dont
+<Sync time="3420.331"/>
+la tradition aurait été
+<Sync time="3421.957"/>
+juive et non pas chrétienne
+<Sync time="3423.77"/>
+ou musulmane ?
+<Sync time="3424.789"/>
+
+<Sync time="3426.565"/>
+musulmane moins parce que c'est ça c'est c'est c'est c'est moins ancien mais euh
+</Turn>
+<Turn speaker="spk1" startTime="3431.005" endTime="3441.526">
+<Sync time="3431.005"/>
+mais ne croyez-vous pas que dans la religion musulmane 
+<Sync time="3434.348"/>
+on retrouve
+<Sync time="3436.065"/>
+dans toutes les idées de dévouement de sacrifice de
+<Sync time="3439.189"/>
+on retrouve tout s- tout l'essentiel de l'évangile
+</Turn>
+<Turn speaker="spk2" startTime="3441.526" endTime="3446.468">
+<Sync time="3441.526"/>
+oh je serais
+<Sync time="3442.552"/>
+moi je oui je crois que je serais d'accord avec vous
+<Sync time="3444.703"/>
+mais à ce moment-là euh
+</Turn>
+<Turn speaker="spk1" startTime="3446.468" endTime="3450.551">
+<Sync time="3446.468"/>
+que dans l'évangile on retrouve
+<Sync time="3447.994"/>
+
+<Sync time="3449.239"/>
+beaucoup de choses
+</Turn>
+<Turn speaker="spk2" startTime="3450.551" endTime="3451.7">
+<Sync time="3450.551"/>
+oui oui oui
+</Turn>
+<Turn speaker="spk1" startTime="3451.7" endTime="3452.917">
+<Sync time="3451.7"/>
+de la religion juive
+</Turn>
+<Turn speaker="spk2" startTime="3452.917" endTime="3453.292">
+<Sync time="3452.917"/>
+certainement
+</Turn>
+<Turn speaker="spk1" startTime="3453.292" endTime="3467.191">
+<Sync time="3453.292"/>
+pour ne pas dire tout m'enfin revu à la manière du Christ
+<Sync time="3456.618"/>
+
+<Sync time="3457.167"/>
+si bien que en définitive
+<Sync time="3459.366"/>
+euh on
+<Sync time="3460.277"/>
+
+<Sync time="3460.808"/>
+on se sépare euh avec des étiquettes
+<Sync time="3463.818"/>
+
+<Sync time="3464.396"/>
+mais dans ce que l'on est dans notre nature
+<Sync time="3466.675"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3467.191" endTime="3484.5">
+<Sync time="3467.191"/>
+mais où je voudrais en venir si vous voulez euh
+<Sync time="3470.582"/>
+
+<Sync time="3472.061"/>
+si tout cela est vrai si dans la religion juive
+<Sync time="3474.403"/>
+si tout en dans dans toutes les religions et 
+<Sync time="3477.007"/>
+
+<Sync time="3477.603"/>
+mais est-ce qu'on ne pourrait pas dire
+<Sync time="3479.01"/>
+dans dans toutes les grandes philosophies ?
+<Sync time="3480.942"/>
+
+<Sync time="3481.996"/>
+dans la mesure où ces philosophies traitent de l'homme
+</Turn>
+<Turn speaker="spk1" startTime="3484.5" endTime="3485.263">
+<Sync time="3484.5"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="3485.263" endTime="3489.055">
+<Sync time="3485.263"/>
+on retrouve euh
+<Sync time="3486.805"/>
+
+<Sync time="3487.624"/>
+constamment les mêmes thèmes
+</Turn>
+<Turn speaker="spk1" startTime="3489.055" endTime="3489.883">
+<Sync time="3489.055"/>
+hm
+</Turn>
+<Turn speaker="spk2" startTime="3489.883" endTime="3512.32">
+<Sync time="3489.883"/>
+est-ce qu'à ce moment-là même les marxistes
+<Sync time="3493.281"/>
+qui puisent dans une tradition euh
+<Sync time="3497.369"/>
+
+<Sync time="3498.65"/>
+de l'unité humaine n'est-ce pas à leur façon
+<Sync time="3501.332"/>
+est-ce que même eux
+<Sync time="3502.716"/>
+ils 
+<Sync time="3504.819"/>
+
+<Sync time="3505.319"/>
+ils ne pourraient pas trouver une certaine justification dans
+<Sync time="3508.325"/>
+dans cette tradition
+<Sync time="3509.689"/>
+sur laquelle ils 
+<Sync time="3511.554"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3512.32" endTime="3524.985">
+<Sync time="3512.32"/>
+ben dans la mesure où dans le marxisme nous nous arrêtons à toutes les idées nobles qui sont le service de l'homme et la volonté de paix et 
+<Sync time="3520.02"/>
+et la volonté de solidarité je crois que
+<Sync time="3522.767"/>
+on aurait bien tort de vouloir se séparer
+</Turn>
+<Turn speaker="spk2" startTime="3524.985" endTime="3526.15">
+<Sync time="3524.985"/>
+oui
+<Sync time="3525.462"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3526.15" endTime="3529.398">
+<Sync time="3526.15"/>
+<Who nb="1"/>
+c'est ce ce ce qui ce qui fait
+<Who nb="2"/>
+c'est-à-dire que vous croyez que même avec les marxistes un dialogue est possible
+</Turn>
+<Turn speaker="spk1" startTime="3529.398" endTime="3544.805">
+<Sync time="3529.398"/>
+y a toujours le dialogue possible jusqu'au jour n'est-ce pas
+<Sync time="3531.95"/>
+où où on va en arriver à la pro- la philosophie profonde du marxisme
+<Sync time="3535.742"/>
+qui elle ne peut plus du tout euh s'allier avec la foi
+<Sync time="3539.062"/>
+étant donné qu'à la base du marxisme il y a une négation profonde de toute foi
+</Turn>
+<Turn speaker="spk2" startTime="3544.805" endTime="3545.873">
+<Sync time="3544.805"/>
+oui
+<Sync time="3545.32"/>
+mais qui
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3545.873" endTime="3546.326">
+<Sync time="3545.873"/>
+<Who nb="1"/>
+n'est pas
+<Who nb="2"/>
+c'est ce-
+</Turn>
+<Turn speaker="spk2" startTime="3546.326" endTime="3548.453">
+<Sync time="3546.326"/>
+le fait du seul marxisme d'ailleurs
+</Turn>
+<Turn speaker="spk1" startTime="3548.453" endTime="3592.518">
+<Sync time="3548.453"/>
+qui n'est pas le fait du seul marxisme c'est un matérialisme de base
+<Sync time="3551.41"/>
+n'est-ce pas ?
+<Sync time="3552.175"/>
+mais euh
+<Sync time="3553.461"/>
+on ne voit pas très bien
+<Sync time="3555.154"/>
+comment en dehors
+<Sync time="3556.466"/>
+si vous voulez de cet aspect qui peut nous relier
+<Sync time="3560.0"/>
+et qui est dans dans l'action dans la solidarité
+<Sync time="3563.792"/>
+on ne voit pas très bien comment nous pourrions franchir le pas qui consisterait à dire nous sommes d'accord sur la civilisation de base
+<Sync time="3569.735"/>
+quand on sait n'est-ce pas comment pour le la philosophie marxiste
+<Sync time="3573.174"/>
+la religion est à
+<Sync time="3574.8"/>
+est est le premier obstacle si vous voulez à à tout développement humain
+<Sync time="3580.238"/>
+
+<Sync time="3581.176"/>
+parce que c'est le renoncement à ce qu'il y a de plus digne
+<Sync time="3584.233"/>
+dans dans la vocation humaine
+<Sync time="3586.618"/>
+et dans l'aliénation de l'homme pour reporter sur un être imaginaire
+<Sync time="3590.51"/>
+tout le dynamisme qu'il y a dans l'homme
+</Turn>
+<Turn speaker="spk2" startTime="3592.518" endTime="3592.722">
+<Sync time="3592.518"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="3592.722" endTime="3604.686">
+<Sync time="3592.722"/>
+au fond c'est ça le m- le marxisme vis-à-vis de la religion
+<Sync time="3595.218"/>
+s- c'est c'est l'aliénation c'est dire au fond
+<Sync time="3597.827"/>
+tout ce qu'il y a de noble chez nous comme aspiration vous le faites venir de Dieu
+<Sync time="3600.842"/>
+
+<Sync time="3601.467"/>
+et a- alors qu'en fait ça nous est propre
+</Turn>
+<Turn speaker="spk2" startTime="3604.686" endTime="3606.163">
+<Sync time="3604.686"/>
+hm hm
+<Sync time="3605.569"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3606.163" endTime="3637.231">
+<Sync time="3606.163"/>
+et
+<Sync time="3607.335"/>
+
+<Sync time="3607.835"/>
+et alors comme les les apparences de religion
+<Sync time="3611.208"/>
+euh disons bien souvent de religiosité
+<Sync time="3614.356"/>
+ou de superstition prêtent flanc à la critique du marxiste
+<Sync time="3617.318"/>
+
+<Sync time="3617.99"/>
+parce que il est réel
+<Sync time="3619.664"/>
+que l'on attend tout bonnement qu'il nous tombe du ciel
+<Sync time="3622.168"/>
+ce que l'on pourrait simplement conquérir par nos forces humaines
+<Sync time="3625.626"/>
+alors le marxisme a très beau jeu de dire le sens de la prière
+<Sync time="3629.69"/>
+euh chez vous c'est simplement euh une des marques de l'aliénation
+<Sync time="3634.011"/>
+
+<Sync time="3635.214"/>
+vous attendez que vienne d'un autre
+</Turn>
+<Turn speaker="spk2" startTime="3637.231" endTime="3638.214">
+<Sync time="3637.231"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="3638.214" endTime="3646.225">
+<Sync time="3638.214"/>
+ce que vous pourriez obtenir vous-même
+<Sync time="3640.103"/>
+alors évidemment considéré sous ce jour-là euh que voulez-vous le marxisme a beau jeu
+<Sync time="3645.219"/>
+c'est très facile
+</Turn>
+<Turn speaker="spk2" startTime="3646.225" endTime="3647.585">
+<Sync time="3646.225"/>
+oui mais enfin je ne crois pas que
+</Turn>
+<Turn speaker="spk1 spk3" startTime="3647.585" endTime="3648.949">
+<Sync time="3647.585"/>
+<Who nb="1"/>
+c'est trop facile
+<Who nb="2"/>
+pour pour pour un
+</Turn>
+<Turn speaker="spk2" startTime="3648.949" endTime="3649.855">
+<Sync time="3648.949"/>
+un catholique
+</Turn>
+<Turn speaker="spk1" startTime="3649.855" endTime="3653.504">
+<Sync time="3649.855"/>
+pour un catholique convaincu
+<Sync time="3651.262"/>
+le marxisme n'aura pas de prise attention
+</Turn>
+<Turn speaker="spk2" startTime="3653.504" endTime="3654.582">
+<Sync time="3653.504"/>
+non non mais je crois pas
+</Turn>
+<Turn speaker="spk1" startTime="3654.582" endTime="3661.192">
+<Sync time="3654.582"/>
+mais je crois qu'il a d- énormément de prises
+<Sync time="3658.259"/>
+parce que euh nous avons énormément de défauts
+</Turn>
+<Turn speaker="spk2" startTime="3661.192" endTime="3662.671">
+<Sync time="3661.192"/>
+oui
+<Sync time="3661.786"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3662.671" endTime="3664.46">
+<Sync time="3662.671"/>
+je je crois que c'est il faut bien le reconnaître
+</Turn>
+<Turn speaker="spk2" startTime="3664.46" endTime="3672.897">
+<Sync time="3664.46"/>
+moi ce que j'allais dire c'est que pour un catholique euh
+<Sync time="3667.35"/>
+enfin
+<Sync time="3668.066"/>
+
+<Sync time="3668.91"/>
+profondément catholique
+<Sync time="3670.059"/>
+je ne suppose pas que la prière consiste non plus à demander quelque chose
+</Turn>
+<Turn speaker="spk1" startTime="3672.897" endTime="3673.147">
+<Sync time="3672.897"/>
+voilà
+</Turn>
+<Turn speaker="spk2" startTime="3673.147" endTime="3674.471">
+<Sync time="3673.147"/>
+en attendant en attendant que ça vienne
+</Turn>
+<Turn speaker="spk1" startTime="3674.471" endTime="3686.758">
+<Sync time="3674.471"/>
+que ça vienne n'est-ce pas ?
+<Sync time="3675.377"/>
+voilà pourquoi je vous dis pour un catholique convaincu le marxisme n'a certainement pas de prise
+<Sync time="3679.288"/>
+
+<Sync time="3681.339"/>
+mais a- il a une force considérable
+<Sync time="3683.676"/>
+
+<Sync time="3684.285"/>
+parce que euh nous avons beaucoup de défauts
+</Turn>
+<Turn speaker="spk2" startTime="3686.758" endTime="3687.102">
+<Sync time="3686.758"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="3687.102" endTime="3694.561">
+<Sync time="3687.102"/>
+je disais n'est-ce pas il y a beaucoup de d'occasions de critiquer l'attitude l'attitude chrétienne
+<Sync time="3692.009"/>
+on ne peut pas aujourd'hui parler de cela n'est-ce pas c'est trop long
+</Turn>
+<Turn speaker="spk2" startTime="3694.561" endTime="3694.952">
+<Sync time="3694.561"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="3694.952" endTime="3698.648">
+<Sync time="3694.952"/>
+mais euh
+<Sync time="3696.211"/>
+
+<Sync time="3696.879"/>
+cela est très est très vrai
+</Turn>
+<Turn speaker="spk2" startTime="3698.648" endTime="3707.904">
+<Sync time="3698.648"/>
+mais enfin le la question du dialogue euh ne peut pas il me semble ne pas être importante dans un pays comme la France
+<Sync time="3705.002"/>
+qui compte
+<Sync time="3706.104"/>
+
+<Sync time="3706.635"/>
+un si grand nombre de
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3707.904" endTime="3710.15">
+<Sync time="3707.904"/>
+<Who nb="1"/>
+marxistes et puis de chrétiens
+<Who nb="2"/>
+gens qui sont anticléricaux
+</Turn>
+<Turn speaker="spk2" startTime="3710.15" endTime="3711.163">
+<Sync time="3710.15"/>
+qu'ils soient marxistes
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3711.163" endTime="3711.531">
+<Sync time="3711.163"/>
+<Who nb="1"/>
+ou 
+<Who nb="2"/>
+hm
+</Turn>
+<Turn speaker="spk2" startTime="3711.531" endTime="3722.071">
+<Sync time="3711.531"/>
+ou autre
+<Sync time="3712.444"/>
+
+<Sync time="3713.584"/>
+dans quelle mesure d'après vous est-ce que l'Eglise pour créer une certaine responsabilité pour cette euh division qui s'est opérée je crois euh 
+</Turn>
+<Turn speaker="spk1 spk3" startTime="3722.071" endTime="3723.772">
+<Sync time="3722.071"/>
+<Who nb="1"/>
+depuis cent ans cent cinquante ans 
+<Who nb="2"/>
+surtout euh
+</Turn>
+<Turn speaker="spk2" startTime="3723.772" endTime="3724.707">
+<Sync time="3723.772"/>
+au dix-neuvième siècle
+</Turn>
+<Turn speaker="spk1" startTime="3724.707" endTime="3724.903">
+<Sync time="3724.707"/>
+oh oui
+</Turn>
+<Turn speaker="spk2" startTime="3724.903" endTime="3725.361">
+<Sync time="3724.903"/>
+n'est-ce pas ?
+</Turn>
+<Turn speaker="spk1" startTime="3725.361" endTime="3740.03">
+<Sync time="3725.361"/>
+cent ans
+<Sync time="3726.205"/>
+
+<Sync time="3730.803"/>
+oh le problème c'est le problème du monde entier hein
+<Sync time="3733.479"/>
+
+<Sync time="3734.605"/>
+l'Eglise a paru
+<Sync time="3736.324"/>
+et a été
+<Sync time="3737.426"/>
+
+<Sync time="3738.223"/>
+très liée à la classe possédante
+</Turn>
+<Turn startTime="3740.03" endTime="3742.2" speaker="spk2">
+<Sync time="3740.03"/>
+oui
+<Sync time="3740.561"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3742.2" endTime="3748.158">
+<Sync time="3742.2"/>
+alors en partant de là
+<Sync time="3744.537"/>
+vous vous en tirez toutes les conclusions que que que vous voulez
+</Turn>
+<Turn speaker="spk3" startTime="3748.158" endTime="3749.188">
+<Sync time="3748.158"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="3749.188" endTime="3824.084">
+<Sync time="3749.188"/>
+le marxisme en a tiré la première conséquence 
+<Sync time="3752.009"/>
+euh puisqu'ils sont ensemble ce sont les mêmes qui sont en même temps les les les chrétiens et les possédants 
+<Sync time="3759.701"/>
+
+<Sync time="3760.357"/>
+cela veut dire que la force des chrétiens c'est la richesse
+<Sync time="3764.774"/>
+
+<Sync time="3765.508"/>
+et cela veut dire que la richesse pour se développer a besoin de la religion
+<Sync time="3769.413"/>
+
+<Sync time="3772.089"/>
+la religion a besoin de la puissance
+<Sync time="3774.339"/>
+
+<Sync time="3775.261"/>
+et la puissance a besoin de la religion
+<Sync time="3777.484"/>
+alors la religion a besoin de la puissance
+<Sync time="3780.04"/>
+
+<Sync time="3781.259"/>
+pour euh s'imposer et se répandre
+<Sync time="3784.071"/>
+
+<Sync time="3785.227"/>
+et puis la puissance a besoin de la religion
+<Sync time="3788.277"/>
+pour travailler les esprits
+<Sync time="3790.338"/>
+de façon à faire admettre docilement
+<Sync time="3793.152"/>
+que l'on a besoin sur terre d'être exploité pour mériter le paradis
+<Sync time="3796.495"/>
+
+<Sync time="3797.495"/>
+et
+<Sync time="3798.213"/>
+
+<Sync time="3798.573"/>
+quand un
+<Sync time="3799.834"/>
+celui qui a la puissance
+<Sync time="3801.575"/>
+
+<Sync time="3802.09"/>
+a la chance d'avoir sous ses ordres
+<Sync time="3804.214"/>
+
+<Sync time="3804.837"/>
+des ho- des gens qui sont heureux d'être exploités
+<Sync time="3807.389"/>
+
+<Sync time="3807.967"/>
+parce qu'ils vivent dans l'espérance du paradis
+<Sync time="3810.514"/>
+
+<Sync time="3810.999"/>
+eh bien il a pas de gêne
+<Sync time="3812.217"/>
+
+<Sync time="3812.889"/>
+il peut continuer à développer n'est-ce pas son entreprise
+<Sync time="3816.037"/>
+il ne sera gêné par personne
+<Sync time="3818.041"/>
+car plus ils seront exploités plus ils seront heureux
+<Sync time="3821.194"/>
+puisque plus ils seront exploités et plus le paradis sera beau
+</Turn>
+<Turn speaker="spk2" startTime="3824.084" endTime="3825.852">
+<Sync time="3824.084"/>
+hm
+<Sync time="3824.633"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3825.852" endTime="3834.051">
+<Sync time="3825.852"/>
+bien heureux êtes-vous 
+<Sync time="3827.054"/>
+vous qui souffrez
+<Sync time="3828.227"/>
+parce que plus tard n'est-ce pas vous aurez un monde merveilleux
+<Sync time="3831.212"/>
+
+<Sync time="3831.757"/>
+alors vous savez moi je peux faire des sermons là-dessus
+</Turn>
+<Turn speaker="spk2" startTime="3834.051" endTime="3834.409">
+<Sync time="3834.051"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="3834.409" endTime="3843.319">
+<Sync time="3834.409"/>
+et puis et puis 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="3836.035"/>
+puis montrer que l'évangile est est une abomination
+<Sync time="3839.689"/>
+n'est-ce pas au au service de la classe possédante
+<Sync time="3842.336"/>
+pris comme ça
+</Turn>
+<Turn speaker="spk2" startTime="3843.319" endTime="3844.683">
+<Sync time="3843.319"/>
+hm hm hm hm
+</Turn>
+<Turn speaker="spk1" startTime="3844.683" endTime="3892.048">
+<Sync time="3844.683"/>
+or c'est cela c'est l'argument de base a été celui-là
+<Sync time="3847.664"/>
+alors puisque pourquoi est-ce que cet argument a pris ?
+<Sync time="3850.769"/>
+
+<Sync time="3851.409"/>
+ben il a pris parce que en fait les gens n'avaient qu'à ouvrir les yeux pour s'apercevoir que ceux qui fréquentaient l'Eglise c'était en même temps
+<Sync time="3858.649"/>
+la grande majorité de ceux qui euh possédaient euh
+<Sync time="3862.822"/>
+la richesse
+<Sync time="3863.853"/>
+
+<Sync time="3865.197"/>
+alors quand on dit aux gens
+<Sync time="3866.471"/>
+vous vous n'avez pas à faire un long raisonnement
+<Sync time="3868.355"/>
+vous n'avez qu'à ouvrir les yeux regardez
+<Sync time="3870.964"/>
+
+<Sync time="3871.408"/>
+puis vous comprendrez tout de suite
+<Sync time="3872.97"/>
+
+<Sync time="3874.985"/>
+alors euh
+<Sync time="3876.719"/>
+il est facile évidemment de jeter la pierre à ceux qui ont vécu y a cent ans quoi
+<Sync time="3880.73"/>
+cent cinquante ans
+<Sync time="3881.903"/>
+
+<Sync time="3885.337"/>
+euh la manière dont ils exerçaient leur service de de charité
+<Sync time="3889.758"/>
+on l'appelle le paternalisme
+<Sync time="3891.603"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3892.048" endTime="3892.744">
+<Sync time="3892.048"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="3892.744" endTime="3907.779">
+<Sync time="3892.744"/>
+enfin vous connaissez mieux que moi
+<Sync time="3894.318"/>
+vous êtes professeur de philosophie en plus n'est-ce pas ?
+<Sync time="3896.946"/>
+
+<Sync time="3897.943"/>
+
+<Event desc="pi" type="pronounce" extent="previous"/>
+ on appelait ça le paternalisme
+<Sync time="3899.827"/>
+ça n'a rien à voir avec le respect de la dignité humaine
+<Sync time="3902.403"/>
+c'était le moment
+<Sync time="3903.672"/>
+c'était c'était la période c'était la manière de faire la manière de penser à ce moment-là
+</Turn>
+<Turn speaker="spk2" startTime="3907.779" endTime="3909.186">
+<Sync time="3907.779"/>
+hm hm
+<Sync time="3908.451"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3909.186" endTime="3918.93">
+<Sync time="3909.186"/>
+les choses ont complètement changé maintenant
+<Sync time="3911.604"/>
+complètement changé maintenant
+<Sync time="3913.54"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3918.93" endTime="3935.275">
+<Sync time="3918.93"/>
+est-ce que tout est-ce que tout le monde euh
+<Sync time="3921.51"/>
+
+<Sync time="3922.273"/>
+dans en France au sein de l'Eglise est
+<Sync time="3925.731"/>
+
+<Sync time="3926.447"/>
+euh unanime sur la question de la séparation de l'Eglise et de l'Etat ?
+<Sync time="3931.34"/>
+
+<Sync time="3933.224"/>
+ou bien 
+<Sync time="3934.345"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3935.275" endTime="3935.919">
+<Sync time="3935.275"/>
+en France ?
+</Turn>
+<Turn speaker="spk2" startTime="3935.919" endTime="3936.849">
+<Sync time="3935.919"/>
+oui
+<Sync time="3936.325"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3936.849" endTime="3939.353">
+<Sync time="3936.849"/>
+oh en France c'est la quasi unanimité
+</Turn>
+<Turn speaker="spk2" startTime="3939.353" endTime="3944.295">
+<Sync time="3939.353"/>
+oui
+<Sync time="3939.902"/>
+
+<Sync time="3941.981"/>
+de de quel point de vue enfin de quel côté ?
+</Turn>
+<Turn speaker="spk1" startTime="3944.295" endTime="3948.403">
+<Sync time="3944.295"/>
+bah pou- pour dire que c'est un
+<Sync time="3946.184"/>
+ce ça donne ben satisfaction à tout le monde
+</Turn>
+<Turn speaker="spk2" startTime="3948.403" endTime="3951.936">
+<Sync time="3948.403"/>
+oui
+<Sync time="3949.141"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3951.936" endTime="3997.077">
+<Sync time="3951.936"/>
+euh je vous dirais que
+<Sync time="3953.491"/>
+on peut envisager la chose sous bien des jours hein
+<Sync time="3956.429"/>
+on peut
+<Sync time="3957.388"/>
+
+<Sync time="3957.961"/>
+on peut dire euh lorsqu'il y a eu la loi de séparation de l'Eglise et de l'Etat
+<Sync time="3962.115"/>
+
+<Sync time="3962.677"/>
+euh les catholiques ont été profondément opposés
+<Sync time="3965.88"/>
+
+<Sync time="3967.816"/>
+et il y a eu à ce moment-là la spoliation de tout ce que possédait l'Eglise
+<Sync time="3972.238"/>
+les églises
+<Sync time="3973.206"/>
+
+<Sync time="3974.081"/>
+les presbytères
+<Sync time="3975.429"/>
+
+<Sync time="3976.257"/>
+les biens des ordres religieux
+<Sync time="3978.48"/>
+
+<Sync time="3981.728"/>
+vous savez je me demande bien quelle est à l'heure actuelle la paroisse qui voudrait avoir sur les bras
+<Sync time="3986.76"/>
+la charge de l'entretien de son église
+<Sync time="3989.01"/>
+
+<Sync time="3990.08"/>
+c'est c'est un bien fait que d'avoir une église qui est la propriété de la commune
+<Sync time="3994.425"/>
+
+<Sync time="3995.284"/>
+parce que c'est la commune qui l'entretient
+</Turn>
+<Turn speaker="spk2" startTime="3997.077" endTime="3997.348">
+<Sync time="3997.077"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="3997.348" endTime="4031.341">
+<Sync time="3997.348"/>
+c'est la commune qui fait tous les travaux
+<Sync time="3999.427"/>
+et la commune la met à la disposition de l'Eglise catholique
+<Sync time="4003.148"/>
+que voulez-vous de mieux ?
+<Sync time="4004.414"/>
+nous n'avons pas de loyer à payer et nous n'avons pas de réparations de toiture à faire
+<Sync time="4009.282"/>
+et euh je parle je commence là par l'aspect très matériel des choses parce que c'est celui qui est le plus sensible
+<Sync time="4015.034"/>
+
+<Sync time="4015.675"/>
+et comme je suis ici secrétaire général de l'évêché chargé des biens du temporel 
+<Sync time="4020.791"/>
+du diocèse
+<Sync time="4021.912"/>
+c'est-à-dire des églises des presbytères et des constructions des églises neuves
+<Sync time="4026.901"/>
+je vous dirais que maintenant que nous sommes obligés de construire des églises neuves
+</Turn>
+<Turn speaker="spk2" startTime="4031.341" endTime="4031.856">
+<Sync time="4031.341"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="4031.856" endTime="4051.574">
+<Sync time="4031.856"/>
+nous n'aurions qu'un souhait
+<Sync time="4033.44"/>
+c'est que l'Eglise nous prenne celles que nous avons construites depuis dix-neuf cent cinq
+<Sync time="4037.618"/>
+car nous avons été spoliés en dix-neuf cent cinq
+<Sync time="4040.384"/>
+
+<Sync time="4040.915"/>
+mais depuis dix-neuf cent cinq nous avons construit des églises
+<Sync time="4043.866"/>
+et surtout depuis dix-neuf cent quarante-cinq
+<Sync time="4046.418"/>
+
+<Sync time="4046.918"/>
+et toutes les églises que nous construisons elles sont notre propriété et nous devons les entretenir
+</Turn>
+<Turn speaker="spk2" startTime="4051.574" endTime="4051.996">
+<Sync time="4051.574"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="4051.996" endTime="4065.633">
+<Sync time="4051.996"/>
+tandis que toutes celles qui ont été construites par les siècles précédents
+<Sync time="4055.649"/>
+même quand elles ne sont pas des églises très belles
+<Sync time="4058.392"/>
+même quand elles ne sont pas prises en charge par les beaux-arts
+<Sync time="4061.521"/>
+elles sont toujours la propriété des communes
+<Sync time="4063.72"/>
+donc nous n'avons pas d'entretien à faire
+</Turn>
+<Turn speaker="spk2" startTime="4065.633" endTime="4066.883">
+<Sync time="4065.633"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="4066.883" endTime="4073.15">
+<Sync time="4066.883"/>
+et qu'il est infiniment plus agréable de vivre chez les autres
+<Sync time="4070.121"/>
+que de vivre chez soi
+<Sync time="4071.838"/>
+parce que 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="4073.15" endTime="4074.776">
+<Sync time="4073.15"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="4074.776" endTime="4079.24">
+<Sync time="4074.776"/>
+lorsqu'on vit sous le toit des autres ce sont les autres qui font les réparations 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="4079.24" endTime="4080.814">
+<Sync time="4079.24"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="4080.814" endTime="4092.900">
+<Sync time="4080.814"/>
+alors la conséquence la plus grave de la loi de s- de de spoliation
+<Sync time="4085.345"/>
+ça serait si l'égli- si la commune nous disait
+<Sync time="4088.173"/>
+nous mettons les églises à la disposition des bals des théâtres ou des sportifs
+</Turn>
+<Turn speaker="spk2" startTime="4092.900" endTime="4094.259">
+<Sync time="4092.900"/>
+hm hm
+<Sync time="4093.821"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="4094.259" endTime="4104.052">
+<Sync time="4094.259"/>
+mais puisqu'ils nous disent les églises restent à votre disposition nous sommes dedans comme chez nous
+<Sync time="4098.513"/>
+
+<Sync time="4099.338"/>
+personne n'est jamais venu nous faire de difficultés
+<Sync time="4102.191"/>
+
+<Sync time="4102.926"/>
+donc c'est un aspect
+</Turn>
+<Turn speaker="spk2" startTime="4104.052" endTime="4105.368">
+<Sync time="4104.052"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="4105.368" endTime="4252.915">
+<Sync time="4105.368"/>
+bon alors euh s- certainement pour entretenir les biens d'églises
+<Sync time="4109.738"/>
+
+<Sync time="4110.363"/>
+l'Eglise avait autrefois avant la loi de spolas- spoliation
+<Sync time="4114.321"/>
+des des biens de rapport
+<Sync time="4116.015"/>
+elle avait des fermes des cultures elle avait des vignes elle avait des choses comme cela
+<Sync time="4120.166"/>
+
+<Sync time="4121.244"/>
+mais puisque nous n'avons plus à entretenir les églises
+<Sync time="4123.937"/>
+
+<Sync time="4124.5"/>
+nous n'avons pas besoin de chercher des ressources pour faire les frais
+<Sync time="4128.115"/>
+
+<Sync time="4129.084"/>
+alors on nous a pris ce qui dépendait n'est-ce pas des églises
+<Sync time="4132.834"/>
+
+<Sync time="4134.631"/>
+mon Dieu euh on a pris en même temps les charges
+<Sync time="4137.607"/>
+
+<Sync time="4138.59"/>
+alors ça s'équivaut
+<Sync time="4140.027"/>
+
+<Sync time="4140.956"/>
+et ça nous donne moins de soucis
+<Sync time="4143.486"/>
+
+<Sync time="4145.661"/>
+mais euh
+<Sync time="4147.12"/>
+là où il y a un autre aspect matériel plus difficile
+<Sync time="4150.769"/>
+c'est que
+<Sync time="4151.866"/>
+euh avant la loi de spoliation euh l'Etat payait les prêtres
+<Sync time="4156.661"/>
+
+<Sync time="4157.661"/>
+les prêtres étaient des fonda- des des fonctionnaires depuis le concordat
+<Sync time="4161.739"/>
+
+<Sync time="4165.011"/>
+alors euh
+<Sync time="4166.121"/>
+
+<Sync time="4166.903"/>
+du jour au lendemain
+<Sync time="4168.325"/>
+
+<Sync time="4169.637"/>
+les prêtres euh n'ont plus rien eu
+<Sync time="4172.805"/>
+
+<Sync time="4175.946"/>
+alors cela a produit sur le moment même un mouvement d'indignation
+<Sync time="4181.178"/>
+
+<Sync time="4183.069"/>
+parce que on a considéré que l'Etat
+<Sync time="4187.429"/>
+euh rejetait le rôle du prêtre dans la société
+<Sync time="4191.695"/>
+en disant euh l'Eglise au fond ne sert à rien dans la société
+<Sync time="4196.228"/>
+
+<Sync time="4197.994"/>
+or si l'Eglise n'a pas pour but de servir à quelque chose dans la société
+<Sync time="4202.336"/>
+nous disons quand même que c'est toujours un bien pour une société
+<Sync time="4207.524"/>
+
+<Sync time="4208.587"/>
+dans son organisation matérielle
+<Sync time="4211.453"/>
+que d'avoir la présence de citoyens qui ont la foi
+<Sync time="4215.65"/>
+
+<Sync time="4217.463"/>
+et que c'est un bien certainement pour l'ensemble d'une nation 
+<Sync time="4222.28"/>
+
+<Sync time="4223.592"/>
+que d'avoir chez les chez les citoyens
+<Sync time="4227.436"/>
+
+<Sync time="4228.032"/>
+le sens du dévouement du service de la charité
+<Sync time="4231.514"/>
+qui est inévitablement lié avec la véritable foi
+<Sync time="4235.868"/>
+
+<Sync time="4237.274"/>
+mais ce domaine-là mis à part
+<Sync time="4239.665"/>
+
+<Sync time="4240.493"/>
+qui est une une conception
+<Sync time="4242.436"/>
+qui peut être différente chez les citoyens
+<Sync time="4245.637"/>
+
+<Sync time="4246.691"/>
+euh ce domaine-là mis à part
+<Sync time="4249.171"/>
+il est certain que nous nous sommes trouvés devant des difficultés énormes
+</Turn>
+<Turn speaker="spk2" startTime="4252.915" endTime="4253.509">
+<Sync time="4252.915"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="4253.509" endTime="4346.864">
+<Sync time="4253.509"/>
+car du jour au lendemain
+<Sync time="4255.462"/>
+il a fallu faire vivre l'ensemble du clergé
+<Sync time="4260.147"/>
+
+<Sync time="4260.538"/>
+qui jusque-là vivait de par les traitements de l'Etat
+<Sync time="4264.412"/>
+
+<Sync time="4266.834"/>
+cela a eu deux conséquences euh me semble-t-il
+<Sync time="4270.645"/>
+d'abord sur le clergé lui-même
+<Sync time="4272.91"/>
+
+<Sync time="4276.504"/>
+apparemment nous avons peut-être pensé que c'était une conséquence désastreuse
+<Sync time="4282.046"/>
+
+<Sync time="4282.843"/>
+parce que le nombre des prêtres a diminué
+<Sync time="4285.023"/>
+
+<Sync time="4287.766"/>
+mais tout compte fait
+<Sync time="4289.922"/>
+on s'est aperçu que
+<Sync time="4291.954"/>
+
+<Sync time="4292.564"/>
+les prêtres qui rentraient dans le sacerdoce
+<Sync time="4296.822"/>
+
+<Sync time="4297.806"/>
+parce que c'était une situation assurée et tranquille
+<Sync time="4301.52"/>
+car l'Etat assurait le traitement
+<Sync time="4303.865"/>
+
+<Sync time="4304.583"/>
+régulièrement
+<Sync time="4305.849"/>
+jusqu'à la fin de la vie
+<Sync time="4307.239"/>
+
+<Sync time="4308.786"/>
+et que ceux qui rentraient dans l'Eglise dans le sacerdoce avec cet arrière-plan
+<Sync time="4314.343"/>
+
+<Sync time="4315.358"/>
+que c'était quelqu'un
+<Sync time="4317.468"/>
+
+<Sync time="4318.687"/>
+dont l'avenir était assuré
+<Sync time="4320.234"/>
+
+<Sync time="4321.355"/>
+et cette idée n'était pas étrangère à beaucoup de familles qui devaient placer leurs enfants
+<Sync time="4327.246"/>
+
+<Sync time="4328.121"/>
+c'était toujours un très gros avantage que d'en avoir un qui pouvait rentrer dans le sacerdoce
+<Sync time="4332.015"/>
+car ç'en était toujours un qui était assuré d'avoir son gain jusqu'à la fin de sa vie
+<Sync time="4336.151"/>
+
+<Sync time="4336.546"/>
+s'il y a eu n'est-ce pas évidemment un recul dans le nombre des vocations
+<Sync time="4341.912"/>
+
+<Sync time="4342.693"/>
+il y a eu certainement un enrichissement dans la nature
+</Turn>
+<Turn speaker="spk2" startTime="4346.864" endTime="4347.083">
+<Sync time="4346.864"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="4347.083" endTime="4369.966">
+<Sync time="4347.083"/>
+des vocations
+<Sync time="4348.193"/>
+
+<Sync time="4348.88"/>
+car le fait de devenir prêtre
+<Sync time="4351.982"/>
+
+<Sync time="4352.674"/>
+en sachant très bien que il y a tout le risque
+<Sync time="4356.047"/>
+
+<Sync time="4356.786"/>
+qui dirons qui consiste à être à la merci des autres
+<Sync time="4359.962"/>
+
+<Sync time="4361.274"/>
+et euh à
+<Sync time="4362.848"/>
+à la à la charité vis-à-vis des autres
+<Sync time="4365.317"/>
+
+<Sync time="4366.21"/>
+euh cette vocation est évidemment plus réfléchie
+</Turn>
+<Turn speaker="spk2" startTime="4369.966" endTime="4371.336">
+<Sync time="4369.966"/>
+hm hm
+<Sync time="4370.805"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="4371.336" endTime="4400.985">
+<Sync time="4371.336"/>
+et puis alors il y a eu un autre aspect
+<Sync time="4373.452"/>
+ça ce cet aspect-là je dirais c'est vis-à-vis de la
+<Sync time="4376.696"/>
+vis-à-vis de du clergé
+<Sync time="4379.278"/>
+puis alors il y a eu un autre aspect vis-à-vis des fidèles
+<Sync time="4382.21"/>
+c'est que l'Eglise a dit aux fidèles mais que voulez-vous nous ne pouvons plus vivre maintenant avec le traitement de l'Etat
+<Sync time="4388.367"/>
+si vous voulez avoir des prêtres gênez-vous un peu et faites les vivre
+<Sync time="4392.32"/>
+
+<Sync time="4393.617"/>
+et il y a eu si vous voulez un mouvement de solidarité plus fort entre les chrétiens
+<Sync time="4398.619"/>
+pour pouvoir prendre en charge la vie de leurs prêtres
+</Turn>
+<Turn speaker="spk2" startTime="4400.985" endTime="4401.767">
+<Sync time="4400.985"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="4401.767" endTime="4405.306">
+<Sync time="4401.767"/>
+donc je trouve que ce sont deux avantages voyez-vous très nets
+</Turn>
+<Turn speaker="spk2" startTime="4405.306" endTime="4406.604">
+<Sync time="4405.306"/>
+hm
+<Sync time="4405.697"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="4406.604" endTime="4422.41">
+<Sync time="4406.604"/>
+et alors pour en revenir n'est-ce pas à votre question
+<Sync time="4409.241"/>
+est-ce que
+<Sync time="4410.491"/>
+vous êtes euh
+<Sync time="4412.428"/>
+vous êtes désireux de revenir à un régime concordataire ou pas ?
+<Sync time="4417.139"/>
+
+<Sync time="4417.795"/>
+je dirais qu'en ce moment
+<Sync time="4419.342"/>
+
+<Sync time="4420.092"/>
+l'Eglise ne désire pas changer sa position
+</Turn>
+<Turn speaker="spk2" startTime="4422.41" endTime="4424.026">
+<Sync time="4422.41"/>
+hm hm hm hm
+<Sync time="4423.473"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="4424.026" endTime="4443.741">
+<Sync time="4424.026"/>
+euh je vous ai parlé du côté matériel
+<Sync time="4426.479"/>
+
+<Sync time="4427.072"/>
+je vous parle du côté spirituel
+<Sync time="4429.415"/>
+l'Eglise aime beaucoup la liberté
+<Sync time="4431.869"/>
+
+<Sync time="4432.963"/>
+et le fait d'être en concordat
+<Sync time="4436.072"/>
+
+<Sync time="4437.023"/>
+euh lie certainement davantage
+<Sync time="4440.538"/>
+euh l'Eglise et le pouvoir
+</Turn>
+<Turn speaker="spk2" startTime="4443.741" endTime="4444.179">
+<Sync time="4443.741"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="4444.179" endTime="4507.833">
+<Sync time="4444.179"/>
+en soi
+<Sync time="4445.335"/>
+
+<Sync time="4445.96"/>
+dans l'abstrait
+<Sync time="4446.998"/>
+
+<Sync time="4447.577"/>
+il ne devrait pas y avoir de difficultés
+<Sync time="4450.0"/>
+
+<Sync time="4451.047"/>
+parce que euh l'Eglise est tout à fait
+<Sync time="4454.828"/>
+
+<Sync time="4455.326"/>
+pour une organisation de la nation elle n'est pas du tout pour l'anarchie
+<Sync time="4459.123"/>
+l'Eglise dira toujours il est normal qu'une nation soit organisée
+<Sync time="4462.779"/>
+
+<Sync time="4463.189"/>
+et l'Eglise euh raisonnablement devrait dire
+<Sync time="4466.933"/>
+que euh des prêtres dans une nation rendent un service au moins aussi évident qu'un cantonnier
+<Sync time="4473.781"/>
+
+<Sync time="4474.937"/>
+n'est-ce pas ? 
+<Sync time="4475.489"/>
+or le cantonnier il a sa vie assurée
+<Sync time="4478.137"/>
+parce que il euh nettoie les caniveaux
+<Sync time="4481.428"/>
+
+<Sync time="4482.162"/>
+un prêtre a une influence sur l'éducation générale des jeunes
+<Sync time="4486.889"/>
+autrement plus in- plus importante que le travail d'un cantonnier
+<Sync time="4490.896"/>
+et il serait donc normal normal en soi que que le prêtre reçoive 
+<Sync time="4494.764"/>
+un traitement de de la nation
+<Sync time="4496.624"/>
+
+<Sync time="4497.515"/>
+en soi il est normal que le prêtre euh euh
+<Sync time="4500.821"/>
+puisse recevoir ce traitement sans être lié au gouvernement de telle ou telle période dans la vie de la nation
+</Turn>
+<Turn speaker="spk2" startTime="4507.833" endTime="4508.382">
+<Sync time="4507.833"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="4508.382" endTime="4567.509">
+<Sync time="4508.382"/>
+le traitement il devrait venir du service qui est accompli
+<Sync time="4513.008"/>
+
+<Sync time="4513.601"/>
+et non pas de l'obéissance à tel pouvoir donné dans telle période
+<Sync time="4518.441"/>
+en soi
+<Sync time="4519.644"/>
+
+<Sync time="4521.07"/>
+mais ça c'est de la théorie
+<Sync time="4522.961"/>
+
+<Sync time="4523.726"/>
+et comme ce qui vient de la nation
+<Sync time="4526.351"/>
+
+<Sync time="4527.289"/>
+vient toujours par l'intermédiaire de l'Etat
+<Sync time="4529.687"/>
+
+<Sync time="4530.453"/>
+car la nation n'a de pouvoir exécutif
+<Sync time="4534.933"/>
+
+<Sync time="4536.214"/>
+que par l'Etat qui la gère
+<Sync time="4538.261"/>
+
+<Sync time="4539.277"/>
+recevoir un traitement de la nation
+<Sync time="4542.324"/>
+implique automatiquement
+<Sync time="4544.887"/>
+une certaine subordination
+<Sync time="4547.668"/>
+à l'Etat qui régit la nation
+<Sync time="4549.731"/>
+
+<Sync time="4551.465"/>
+et
+<Sync time="4552.266"/>
+
+<Sync time="4553.766"/>
+l'Eglise euh qui aime beaucoup la liberté
+<Sync time="4557.016"/>
+ne voudrait pas
+<Sync time="4558.203"/>
+que le fait de recevoir de la nation
+<Sync time="4560.828"/>
+
+<Sync time="4561.453"/>
+euh des subventions ou des traitements
+<Sync time="4564.235"/>
+oblige à dire oui à tout ce que commande l'Etat
+</Turn>
+<Turn speaker="spk2" startTime="4567.509" endTime="4569.54">
+<Sync time="4567.509"/>
+hm
+<Sync time="4567.931"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="4569.54" endTime="4595.449">
+<Sync time="4569.54"/>
+vous voyez tout ce que cela peut avoir euh d'im- d'imbrication politique et Eglise Eglise et pouvoir civil
+<Sync time="4576.164"/>
+
+<Sync time="4577.492"/>
+et comme euh le pouvoir civil l'Etat c'est le pendule
+<Sync time="4581.417"/>
+
+<Sync time="4582.401"/>
+euh si l'Eglise est app- apparaît comme liée
+<Sync time="4586.115"/>
+avec le men- le mouvement du pendule lorsqu'il est à gauche
+<Sync time="4589.812"/>
+
+<Sync time="4590.437"/>
+le jour où le pendule ira à droite
+<Sync time="4592.512"/>
+il faudra que l'Eglise suive le pendule à droite
+</Turn>
+<Turn speaker="spk2" startTime="4595.449" endTime="4595.808">
+<Sync time="4595.449"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="4595.808" endTime="4616.501">
+<Sync time="4595.808"/>
+alors l'Eglise désire être indépendante du pendule
+<Sync time="4599.542"/>
+
+<Sync time="4601.151"/>
+et si recevoir les subventions de la nation
+<Sync time="4604.733"/>
+
+<Sync time="4605.217"/>
+l'oblige à suivre le pendule de l'Etat
+<Sync time="4608.28"/>
+elle aime mieux n'avoir pas les subsides de la nation
+<Sync time="4611.385"/>
+plutôt que de se sentir liée
+<Sync time="4613.56"/>
+
+<Sync time="4614.326"/>
+à la politique du du moment
+</Turn>
+<Turn speaker="spk2" startTime="4616.501" endTime="4621.609">
+<Sync time="4616.501"/>
+hm hm
+<Sync time="4617.063"/>
+
+<Event desc="tx" type="noise" extent="instantaneous"/>
+
+<Sync time="4619.801"/>
+
+<Event desc="tx" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="4621.609" endTime="4626.25">
+<Sync time="4621.609"/>
+je ne présente pas
+<Sync time="4623.406"/>
+
+<Sync time="4623.843"/>
+nécessairement l'opinion de l'Eglise française
+</Turn>
+<Turn speaker="spk2 spk1" startTime="4626.25" endTime="4626.871">
+<Sync time="4626.25"/>
+<Who nb="1"/>
+non non mais
+<Who nb="2"/>
+je vous dis 
+</Turn>
+<Turn speaker="spk1" startTime="4626.871" endTime="4633.647">
+<Sync time="4626.871"/>
+n'est-ce pas euh
+<Sync time="4628.152"/>
+je vous donne euh certainement l'opinion de l'ensemble des prêtres de France et de beaucoup d'évêques
+</Turn>
+<Turn speaker="spk2" startTime="4633.647" endTime="4634.168">
+<Sync time="4633.647"/>
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="4634.168" endTime="4640.62">
+<Sync time="4634.168"/>
+et je crois je crois oui
+<Sync time="4635.612"/>
+
+<Sync time="4636.268"/>
+un très grand nombre d'évêques
+<Sync time="4637.768"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="4640.62" endTime="4642.075">
+<Sync time="4640.62"/>
+est-ce que tu n'avais pas des
+</Turn>
+<Turn speaker="spk3 spk2" startTime="4642.075" endTime="4643.029">
+<Sync time="4642.075"/>
+<Who nb="1"/>
+j'aurais simplement 
+<Who nb="2"/>
+questions à poser 
+<Event desc="pif" type="pronounce" extent="previous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="4643.029" endTime="4644.417">
+<Sync time="4643.029"/>
+une autre question à vous
+</Turn>
+<Turn speaker="spk2" startTime="4644.417" endTime="4644.855">
+<Sync time="4644.417"/>
+hm
+</Turn>
+<Turn speaker="spk3" startTime="4644.855" endTime="4646.624">
+<Sync time="4644.855"/>
+où il faut sauter évidemment
+</Turn>
+<Turn speaker="spk1" startTime="4646.624" endTime="4646.984">
+<Sync time="4646.624"/>
+oui 
+</Turn>
+<Turn speaker="spk3" startTime="4646.984" endTime="4676.561">
+<Sync time="4646.984"/>
+mais tout à l'heure vous avez parlé
+<Sync time="4649.558"/>
+
+<Sync time="4650.517"/>
+des origines
+<Sync time="4651.735"/>
+
+<Sync time="4652.288"/>
+des services scolaires
+<Sync time="4654.029"/>
+
+<Sync time="4654.864"/>
+et vous avez dit
+<Sync time="4656.085"/>
+excusez-moi de vous citer
+<Sync time="4658.331"/>
+que cette charge a été repris par l'Etat
+<Sync time="4661.67"/>
+
+<Sync time="4663.125"/>
+il me semble tout de même
+<Sync time="4664.561"/>
+qu'il restait une part assez importante euh
+<Sync time="4667.022"/>
+
+<Sync time="4667.537"/>
+du service scolaire
+<Sync time="4669.225"/>
+
+<Sync time="4669.772"/>
+qui est enfin je ne je ne sais pas comment le dire
+<Sync time="4672.459"/>
+sinon contrôlée au moins
+<Sync time="4674.176"/>
+
+<Sync time="4674.486"/>
+sous l'égide de l'Eglise
+</Turn>
+<Turn speaker="spk1" startTime="4676.561" endTime="4676.796">
+<Sync time="4676.561"/>
+hm
+</Turn>
+<Turn speaker="spk3" startTime="4676.796" endTime="4685.41">
+<Sync time="4676.796"/>
+n'est-ce pas
+<Sync time="4677.779"/>
+
+<Sync time="4678.498"/>
+or est-ce que vous accepteriez de nous parler un peu de l'enseignement libre ?
+<Sync time="4682.620"/>
+de son importance de ses rapports avec euh 
+</Turn>
+<Turn speaker="spk3 spk1" startTime="4685.41" endTime="4686.868">
+<Sync time="4685.41"/>
+<Who nb="1"/>
+l'enseignement de l'Etat 
+<Who nb="2"/>
+oui 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="4686.868" endTime="4693.589">
+<Sync time="4686.868"/>
+par exemple euh
+<Sync time="4688.304"/>
+
+<Sync time="4690.67"/>
+peut-être des rapports avec le ministère
+<Sync time="4692.869"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="4693.589" endTime="4751.213">
+<Sync time="4693.589"/>
+hm
+<Sync time="4694.198"/>
+
+<Sync time="4695.573"/>
+oui lorsque je vous ai parlé tout à l'heure de euh
+<Sync time="4699.766"/>
+de de cette question de reprise en main par l'Etat d'un certain nombre de services qui étaient autrefois accomplis par l'Eglise
+<Sync time="4707.602"/>
+euh je vous ai d- fait une petite incise n'est-ce pas ?
+<Sync time="4712.157"/>
+et j'ai bien dit que euh il y avait encore énormément de services privés qui rendaient
+<Sync time="4718.673"/>
+une service d'intérêt national
+<Sync time="4720.846"/>
+
+<Sync time="4721.485"/>
+moyennant quoi
+<Sync time="4723.204"/>
+euh l'Etat se trouvait lié
+<Sync time="4726.188"/>
+
+<Sync time="4727.173"/>
+parce que c'était un service réel de de la nation
+<Sync time="4730.647"/>
+lié à des obligations
+<Sync time="4731.991"/>
+
+<Sync time="4732.788"/>
+alors la question que vous me posez
+<Sync time="4734.987"/>
+elle est évidemment très très nette
+<Sync time="4738.04"/>
+euh je dirais que je la connais plus particulièrement par coeur celle-là parce que
+<Sync time="4741.695"/>
+je je m'occupe de la direction de l'enseignement libre ici à Orléans
+<Sync time="4745.359"/>
+et que si vous me la posez comme ça c'est bien parce que vous savez ce que sans doute que je m'occupe de la question
+<Sync time="4750.569"/>
+mais euh
+</Turn>
+<Turn speaker="spk3" startTime="4751.213" endTime="4752.358">
+<Sync time="4751.213"/>
+je l'aurais posée de toute façon
+</Turn>
+<Turn speaker="spk1 spk2" startTime="4752.358" endTime="4756.341">
+<Sync time="4752.358"/>
+<Who nb="1"/>
+oui mais 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="4756.341" endTime="5329.018">
+<Sync time="4756.341"/>
+
+<Event desc="pi" type="pronounce" extent="previous"/>
+
+<Sync time="4757.228"/>
+notre notre point de vue est celui-ci
+<Sync time="4759.517"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Sync time="4760.137"/>
+
+<Sync time="4761.211"/>
+que euh l'éducation de base c'est essentiellement euh le rôle de la famille
+<Sync time="4766.423"/>
+
+<Sync time="4768.111"/>
+et que euh il est normal que les familles s'entendent entre elles
+<Sync time="4773.449"/>
+
+<Sync time="4774.261"/>
+pour assurer dans un esprit commun l'éducation des enfants dans la ligne même de l'éducation qui est donnée dans la famille
+<Sync time="4782.859"/>
+la formation du jeune c'est en même temps la formation d'un d'un jeune chrétien d'un jeune citoyen et puis d'un jeune en tant que jeune
+<Sync time="4791.186"/>
+n'est-ce pas ?
+<Sync time="4792.249"/>
+et euh c'est à la famille qui a reçu toutes les autres obligations qui sont les siennes d'assumer également cette formation générale du jeune
+<Sync time="4803.454"/>
+
+<Sync time="4804.72"/>
+et que euh
+<Sync time="4806.816"/>
+
+<Sync time="4809.344"/>
+si les familles
+<Sync time="4810.735"/>
+
+<Sync time="4811.813"/>
+ne peuvent pas réussir
+<Sync time="4813.406"/>
+
+<Sync time="4814.156"/>
+à assumer cette éducation de leurs jeunes
+<Sync time="4817.333"/>
+
+<Sync time="4818.536"/>
+pour des raisons multiples
+<Sync time="4820.42"/>
+
+<Sync time="4822.489"/>
+c'est un rôle de l'Etat
+<Sync time="4824.529"/>
+
+<Sync time="4825.56"/>
+de le faire
+<Sync time="4826.779"/>
+
+<Sync time="4828.529"/>
+c'est donc l'Etat
+<Sync time="4830.169"/>
+
+<Sync time="4830.997"/>
+qui remplit une mission de suppléance
+<Sync time="4833.887"/>
+
+<Sync time="4834.841"/>
+par rapport aux familles
+<Sync time="4836.825"/>
+
+<Sync time="4837.638"/>
+lorsqu'il est évident que les familles ne peuvent pas le faire
+<Sync time="4840.591"/>
+
+<Sync time="4842.31"/>
+je dis les choses très net
+<Sync time="4843.998"/>
+c'est très cru
+<Sync time="4845.326"/>
+mais c'est la doctrine de base tout le reste en découle
+<Sync time="4847.996"/>
+
+<Sync time="4849.637"/>
+c'est aussi le principe qui fait que nous sommes si divisés
+<Sync time="4853.73"/>
+
+<Sync time="4854.527"/>
+entre chrétiens en France sur ce domaine
+<Sync time="4857.199"/>
+
+<Sync time="4859.153"/>
+ce principe il a été redit dans la déclaration euh de l'éducation chrétienne au moment du concile
+<Sync time="4864.372"/>
+
+<Sync time="4865.889"/>
+l'Etat assume une mission de suppléance
+<Sync time="4869.038"/>
+
+<Sync time="4869.507"/>
+par rapport aux familles
+<Sync time="4870.554"/>
+
+<Sync time="4872.913"/>
+et les français disent
+<Sync time="4874.803"/>
+
+<Sync time="4875.928"/>
+et dans ces français beaucoup de chrétiens
+<Sync time="4877.941"/>
+
+<Sync time="4878.709"/>
+et de chrétiens convaincus les plus dynamiques
+<Sync time="4880.98"/>
+
+<Sync time="4881.917"/>
+disent 
+<Event desc="tx" type="noise" extent="instantaneous"/>
+
+<Sync time="4883.107"/>
+les familles
+<Sync time="4884.17"/>
+
+<Sync time="4885.514"/>
+assument une mission de suppléance
+<Sync time="4887.967"/>
+
+<Sync time="4889.03"/>
+tant que l'Etat n'a pas réussi à assumer complètement sa mission d'éducation
+<Sync time="4896.108"/>
+
+<Sync time="4897.78"/>
+pendant très longtemps l'Eglise a aidé les familles à faire cette suppléance
+<Sync time="4903.4"/>
+
+<Sync time="4905.98"/>
+euh c'était le cas de la chrétienté d'autrefois
+<Sync time="4908.808"/>
+
+<Sync time="4909.558"/>
+des ordres religieux
+<Sync time="4911.171"/>
+
+<Sync time="4911.953"/>
+mais l'idéal
+<Sync time="4914.0"/>
+
+<Sync time="4914.687"/>
+c'est que l'Etat réussisse à remplir sa mission
+<Sync time="4917.828"/>
+
+<Sync time="4918.425"/>
+et le jour où l'Etat remplira sa mission
+<Sync time="4920.879"/>
+il n'y aura plus besoin de suppléance
+<Sync time="4923.254"/>
+et donc il n'y aura plus besoin d'enseignement privé
+<Sync time="4925.473"/>
+le jour où l'Etat aura rempli sa mission
+<Sync time="4928.851"/>
+il aura rempli sa mission complète
+<Sync time="4930.976"/>
+
+<Sync time="4931.429"/>
+d'éducation
+<Sync time="4932.742"/>
+et d'enseignement
+<Sync time="4934.336"/>
+sa mission complète de service social
+<Sync time="4936.789"/>
+sa mission complète n'est-ce pas de colonies de vacances d'hôpitaux de soins de
+<Sync time="4943.216"/>
+
+<Sync time="4944.03"/>
+euh de
+<Sync time="4946.334"/>
+de culture générale
+<Sync time="4948.271"/>
+d'éducation permanente
+<Sync time="4950.271"/>
+du berceau au cercueil
+<Sync time="4952.584"/>
+l'Etat sera là pour veiller
+<Sync time="4954.836"/>
+sur chacun de ses citoyens
+<Sync time="4957.086"/>
+
+<Sync time="4957.607"/>
+et ce jour-là
+<Sync time="4959.045"/>
+nous serons arrivés dans la situation parfaite
+<Sync time="4961.305"/>
+
+<Sync time="4961.883"/>
+où tout étant fait par l'Etat il n'y aura plus rien à suppléer
+<Sync time="4965.286"/>
+
+<Sync time="4966.895"/>
+toutes nos divergences viennent de ça
+<Sync time="4968.655"/>
+
+<Sync time="4968.994"/>
+qui fait la suppléance et qui fait de droit l'essentiel ?
+<Sync time="4972.702"/>
+
+<Sync time="4974.217"/>
+pour les catholiques que nous sommes
+<Sync time="4976.401"/>
+
+<Sync time="4977.51"/>
+puisque je me mets dans cette catégorie-là
+<Sync time="4979.828"/>
+nous estimons que l'essentiel c'est la mission des familles
+<Sync time="4982.885"/>
+et des familles qui en groupements en fédérations réussissent à faire en sorte que dans l'établissement
+<Sync time="4989.645"/>
+on assure la continuité de l'égl- de de l'éducation de base
+<Sync time="4993.005"/>
+
+<Sync time="4993.988"/>
+dans ce cas-là
+<Sync time="4995.16"/>
+
+<Sync time="4995.499"/>
+l'Etat assume une suppléance
+<Sync time="4997.749"/>
+
+<Sync time="4999.233"/>
+pour les autres
+<Sync time="5000.39"/>
+
+<Sync time="5001.375"/>
+les familles le font et nous devons continuer à le faire
+<Sync time="5004.422"/>
+parce que si on ne le faisait pas pour l'instant l'Etat n'est pas capable de faire tout
+<Sync time="5008.276"/>
+mais c'est nous qui faisons la suppléance et nous sommes appelés à disparaître
+<Sync time="5011.828"/>
+
+<Sync time="5014.282"/>
+voilà les deux positions diamétralement opposées
+<Sync time="5016.358"/>
+
+<Sync time="5018.015"/>
+alors
+<Sync time="5018.718"/>
+entre ces deux dia- deux positions diamétralement opposées
+<Sync time="5021.775"/>
+
+<Sync time="5023.291"/>
+il y a la position très réaliste qui consiste à dire
+<Sync time="5026.887"/>
+que dans un Etat où la divergence d'opinions est telle
+<Sync time="5031.133"/>
+
+<Sync time="5032.274"/>
+que l'on ne peut pas envisager que des établissements confessionnels puissent rallier l'opinion de tous
+<Sync time="5037.813"/>
+
+<Sync time="5038.235"/>
+il est absolument indispensable qu'il y ait les deux
+<Sync time="5040.629"/>
+
+<Sync time="5042.035"/>
+et non pas les deux d'une manière temporaire
+<Sync time="5044.301"/>
+
+<Sync time="5045.02"/>
+mais les dieux 
+<Event desc="lapsus" type="pronounce" extent="previous"/>
+ les deux d'une manière définitive
+<Sync time="5047.551"/>
+
+<Sync time="5048.613"/>
+et qu'il est absolument indispensable
+<Sync time="5051.113"/>
+
+<Sync time="5051.707"/>
+que les familles aient la liberté complète
+<Sync time="5054.785"/>
+
+<Sync time="5055.894"/>
+d'organiser le service de l'enseignement selon leurs convictions profondes pour que l'enfant grandisse dans un milieu
+<Sync time="5062.371"/>
+
+<Sync time="5063.152"/>
+qui est un milieu imprégné de l'esprit chrétien
+<Sync time="5065.835"/>
+
+<Sync time="5066.291"/>
+car ce qui fait l'éducation chrétienne ce ne sera pas les les quelque demi-heures d'enseignement chrétien mais c'est la réaction habituelle de la vie dans un milieu
+<Sync time="5073.78"/>
+c'est comme ça qu'on est éduqué c'est pas c'est pas par de la théorie de l'abstraction
+<Sync time="5077.934"/>
+c'est pas un cours théorique
+<Sync time="5079.365"/>
+
+<Sync time="5079.912"/>
+c'est une réa- réaction de vie dans un milieu comme dans un milieu familial
+<Sync time="5083.777"/>
+
+<Sync time="5084.761"/>
+l'enfant qui prend les habitudes de ses parents sans s'en apercevoir
+<Sync time="5087.914"/>
+et c'est non pas par théorie mais par pratique
+<Sync time="5090.352"/>
+
+<Sync time="5092.008"/>
+alors euh
+<Sync time="5093.43"/>
+nous disons cela
+<Sync time="5094.508"/>
+il y a y a ça
+<Sync time="5095.061"/>
+et puis il est nécessaire
+<Sync time="5096.999"/>
+qu'il y ait aussi un service
+<Sync time="5099.3"/>
+
+<Sync time="5099.879"/>
+euh un service de l'Etat
+<Sync time="5103.053"/>
+neutre
+<Sync time="5103.819"/>
+
+<Sync time="5105.413"/>
+qui répond aux aspirations de ceux qui ne veulent pas d'une ins- de d'un enseignement confessionnel
+<Sync time="5109.939"/>
+
+<Sync time="5111.142"/>
+mais alors
+<Sync time="5112.236"/>
+nous considérons quand même très bien
+<Sync time="5114.252"/>
+
+<Sync time="5115.252"/>
+que cette liberté ne peut pas être une liberté absolue
+<Sync time="5118.810"/>
+
+<Sync time="5119.845"/>
+la liberté des familles qui veulent constituer des des établissements
+<Sync time="5124.633"/>
+
+<Sync time="5125.273"/>
+d'enseignement dans la ligne de la mentalité de la famille ça ne peut pas être une liberté absolue
+<Sync time="5130.375"/>
+car nous sommes intégrés dans une nation et il y a les problèmes de la nation et c'est l'Etat qui est chargé de régler les problèmes de la nation
+<Sync time="5135.789"/>
+
+<Sync time="5136.854"/>
+et nous pensons que
+<Sync time="5137.82"/>
+l'Etat a un rôle de planification un rôle d'orientation
+<Sync time="5140.825"/>
+n'est-ce pas ? 
+<Sync time="5141.331"/>
+un rôle de prévision de l'avenir de son organisation
+<Sync time="5144.545"/>
+qui fait que le collège de l'enseignement privé ne peut pas être en dehors
+<Sync time="5148.65"/>
+
+<Sync time="5149.588"/>
+des problèmes nationaux
+<Sync time="5150.948"/>
+
+<Sync time="5152.433"/>
+car la meilleure manière de former le jeune n'est pas simplement de lui donner une formation et un enseignement euh de de sa foi
+<Sync time="5161.574"/>
+mais c'est en même temps de l'intégrer dans le problème de la nation
+<Sync time="5164.233"/>
+et on ne va pas dire quand même n'est-ce pas que l'on forme un jeune en vase clos
+<Sync time="5168.022"/>
+
+<Sync time="5168.694"/>
+alors que son avenir c'est de s'intégrer profondément dans la vie d'une nation où les problèmes sont réglés à l'échelon euh de l'Etat
+<Sync time="5175.257"/>
+
+<Sync time="5176.725"/>
+alors nous reconnaissons donc qu'il est indispensable que les services d'enseignement privé
+<Sync time="5180.495"/>
+
+<Sync time="5180.928"/>
+soient profondément si vous voulez insérés dans un dans une éducation nationale générale
+<Sync time="5186.977"/>
+où l'Etat a un droit de contrôle un droit d'organisation
+<Sync time="5190.524"/>
+il a un droit de planification il a un droit aux centralisations quand c'est nécessaire ou de régionalisation
+<Sync time="5196.568"/>
+quand c'est nécessaire
+<Sync time="5197.724"/>
+et ça ne sert à rien de vouloir préparer des jeunes dans des collèges pour faire tel métier
+<Sync time="5201.886"/>
+si dans l'avenir y a pas de débouchés
+<Sync time="5203.808"/>
+il faut donc rentrer dans une perspective générale
+<Sync time="5206.48"/>
+et autant les parents réclament leur liberté pour pouvoir donner une éducation chrétienne
+<Sync time="5211.433"/>
+autant ils sont d'accord pour collaborer de très près avec les orientations de l'Etat
+<Sync time="5215.684"/>
+parce que les spécialistes qui sont dans l'Etat pour prévoir si vous voulez l'avenir sont vraiment des gens extrêmement compétents et très intelligents
+<Sync time="5222.207"/>
+
+<Sync time="5222.876"/>
+et que ça serait vraiment ridicule de vouloir passer en dehors de tout cela
+<Sync time="5225.285"/>
+
+<Sync time="5225.952"/>
+nous concevons donc la liberté si vous voulez comme tout un service d'enseignement
+<Sync time="5229.875"/>
+
+<Sync time="5230.766"/>
+dirigé par des familles
+<Sync time="5232.396"/>
+
+<Sync time="5233.177"/>
+mais
+<Sync time="5234.302"/>
+en même temps au service d'une nation
+<Sync time="5236.243"/>
+
+<Sync time="5236.962"/>
+et ce service de la nation doit s'intégrer dans la politique générale d'un Etat
+<Sync time="5240.696"/>
+
+<Sync time="5241.931"/>
+mais alors
+<Sync time="5242.994"/>
+moyennant ce service que nous apportons
+<Sync time="5245.243"/>
+
+<Sync time="5246.072"/>
+dans une nation
+<Sync time="5247.663"/>
+nous disons qu'il est normal que l'Etat qui gère le budget de la nation réserve une partie de son budget à faire vivre ce service qui est un service d'intérêt national
+<Sync time="5257.059"/>
+voilà notre position de base
+<Sync time="5258.655"/>
+
+<Sync time="5260.591"/>
+alors tout l- tout le reste en découle
+<Sync time="5262.687"/>
+tout le reste en découle
+<Sync time="5263.906"/>
+alors nos relations vis-à-vis de le ministère
+<Sync time="5266.063"/>
+ça consiste à dire au ministère
+<Sync time="5267.907"/>
+nous avons des établissements qui répondent à un besoin scolaire
+<Sync time="5270.917"/>
+la preuve c'est qu'ils ont des effectifs qui sont suffisants
+<Sync time="5274.011"/>
+nous avons des établissements qui sont susceptibles de répondre à vos exigences
+<Sync time="5277.664"/>
+la preuve c'est que nos professeurs ont les diplômes qui sont donnés par vous Etat
+<Sync time="5281.902"/>
+nous avons des réussites aux examens qui prouvent que les études sont solides
+<Sync time="5286.667"/>
+nous sommes dans des locaux qui sont des locaux qui sont valables où il y a l'hygiène où il y a le tout ce que vous voudrez
+<Sync time="5293.26"/>
+euh nous avons besoin pour développer ces locaux d'avoir des emprunts
+<Sync time="5297.932"/>
+euh d'avoir des garanties
+<Sync time="5299.558"/>
+d'aller voir une ville
+<Sync time="5300.683"/>
+pour demander est-ce que la ville veuille bien donner sa garantie pour permettre des emprunts à long terme
+<Sync time="5305.655"/>
+n'est-ce pas nous offrons toutes les garanties que demande l'Etat
+<Sync time="5308.764"/>
+moyennant quoi 
+<Sync time="5309.622"/>
+nous demandons à l'Etat de bien vouloir payer les maîtres
+<Sync time="5312.822"/>
+et donner des subventions pour permettre le fonctionnement de l'administration d'un collège
+<Sync time="5317.541"/>
+
+<Sync time="5318.26"/>
+nous sommes très loin d'avoir obtenu tout ce que nous désirons
+<Sync time="5321.119"/>
+
+<Sync time="5321.813"/>
+il y a beaucoup de de points qui sont restés en litige je les aborde pas là
+<Sync time="5326.295"/>
+mais l'essentiel pour vous c'est de connaître notre philosophie de base
+</Turn>
+<Turn speaker="spk3" startTime="5329.018" endTime="5331.826">
+<Sync time="5329.018"/>
+hm 
+<Sync time="5329.596"/>
+en effet je vous remercie de l'avoir exposée
+</Turn>
+<Turn speaker="spk1 spk3" startTime="5331.826" endTime="5333.472">
+<Sync time="5331.826"/>
+<Who nb="1"/>
+d'une façon si inattendue
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="5333.472" endTime="5334.828">
+<Sync time="5333.472"/>
+et si euh saisissante
+</Turn>
+<Turn speaker="spk1" startTime="5334.828" endTime="5338.0">
+<Sync time="5334.828"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ voilà la philosophie de base
+<Sync time="5336.855"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="5338.0" endTime="5340.123">
+<Sync time="5338.0"/>
+qui est d'ailleurs la partie la plus intéressante
+</Turn>
+<Turn speaker="spk1" startTime="5340.123" endTime="5385.406">
+<Sync time="5340.123"/>
+que voulez-vous on assure un service
+<Sync time="5342.186"/>
+qui est un service réel
+<Sync time="5343.843"/>
+
+<Sync time="5344.514"/>
+l'Etat n'est pas chargé de dire
+<Sync time="5346.746"/>
+je veux que les jeunes soient formés comme ça
+<Sync time="5348.992"/>
+l'Etat dit j'ai des citoyens qui sont intelligents et libres
+<Sync time="5353.023"/>
+si ces tou- citoyens qui sont intelligents et libres veulent former leurs jeunes de telle ou telle manière
+<Sync time="5358.465"/>
+moi je ne leur demande simplement une chose
+<Sync time="5361.028"/>
+c'est que toutes les garanties soient prises pour que ce qui est fait soit bon
+<Sync time="5365.387"/>
+
+<Sync time="5366.184"/>
+s'il se produit qu'une alliance de la foi
+<Sync time="5368.45"/>
+
+<Sync time="5369.075"/>
+et de l'intelligence
+<Sync time="5370.466"/>
+
+<Sync time="5371.232"/>
+donne de bons résultats
+<Sync time="5373.013"/>
+et que l'Etat s'aperçoive que ce sont des citoyens qui sont valables
+<Sync time="5376.579"/>
+y a pas de raisons que l'Etat dise sous prétexte que l'on a mêlé l'intelligence et la foi
+<Sync time="5381.371"/>
+euh je ne veux plus de ce qui en sort
+<Sync time="5383.032"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="5385.406" endTime="5386.889">
+<Sync time="5385.406"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ ah non
+</Turn>
+<Turn speaker="spk1" startTime="5386.889" endTime="5399.528">
+<Sync time="5386.889"/>
+mais
+<Sync time="5387.7"/>
+vous abordez des sujets le plus dur qui soit dans l'Eglise de France
+<Sync time="5391.401"/>
+
+<Sync time="5392.542"/>
+le plus dur car si les chrétiens sont divisés en ce moment dans l'Eglise de France
+<Sync time="5396.905"/>
+c'est parce qu'ils ne sont pas d'accord sur ce rôle des institutions
+</Turn>
+<Turn speaker="spk3" startTime="5399.528" endTime="5400.106">
+<Sync time="5399.528"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="5400.106" endTime="5486.859">
+<Sync time="5400.106"/>
+en particulier sur ce rôle scolaire
+<Sync time="5402.843"/>
+mais aussi beaucoup
+<Sync time="5404.233"/>
+sur le rôle des cliniques des hôpitaux
+<Sync time="5406.723"/>
+des oeuvres d'enfants inadaptés
+<Sync time="5409.06"/>
+euh des
+<Sync time="5410.388"/>
+dès lors qu'on voit
+<Sync time="5412.321"/>
+n'est-ce pas un un institut quelconque
+<Sync time="5416.091"/>
+se monter dans l'Eglise de France
+<Sync time="5418.359"/>
+ayant pour but
+<Sync time="5419.718"/>
+
+<Sync time="5420.343"/>
+le monde scolaire
+<Sync time="5421.865"/>
+la charité
+<Sync time="5423.209"/>
+
+<Sync time="5423.678"/>
+immédiatement
+<Sync time="5425.147"/>
+vous avez beaucoup de chrétiens dont le poil se hérisse
+<Sync time="5428.833"/>
+
+<Sync time="5429.614"/>
+et ils disent c'est une abomination
+<Sync time="5431.476"/>
+
+<Sync time="5432.226"/>
+car au lieu d'être dans la ligne de la disparition de la chrétienté du Moyen-Age pour une insertion dans l'Etat de demain
+<Sync time="5439.598"/>
+nous essayons toujours de vouloir reconstituer notre chrétienté du Moyen-Age qui était la chrétienté du Moyen-Age mais qui ne doit plus être la chrétienté de demain
+<Sync time="5449.832"/>
+car demain
+<Sync time="5451.145"/>
+
+<Sync time="5451.832"/>
+car s'il est vrai qu'au Moyen-Age
+<Sync time="5454.541"/>
+l'Eglise
+<Sync time="5455.697"/>
+
+<Sync time="5456.267"/>
+était visible
+<Sync time="5458.095"/>
+
+<Sync time="5458.938"/>
+il est certain que demain l'Eglise doit être invisible
+<Sync time="5462.235"/>
+
+<Sync time="5463.548"/>
+et leur raisonnement
+<Sync time="5464.959"/>
+c'est moi qui schématise
+<Sync time="5466.156"/>
+
+<Sync time="5467.156"/>
+mais
+<Sync time="5468.047"/>
+
+<Sync time="5469.781"/>
+serait à peu près celui-ci
+<Sync time="5471.735"/>
+
+<Sync time="5472.439"/>
+quand on est visible quelque part
+<Sync time="5474.845"/>
+
+<Sync time="5475.548"/>
+on n'est pas visible à côté
+<Sync time="5477.329"/>
+
+<Sync time="5478.423"/>
+pour être présent partout
+<Sync time="5482.001"/>
+
+<Sync time="5482.455"/>
+il faudrait être visible nulle part
+<Sync time="5485.096"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="5486.859" endTime="5491.539">
+<Sync time="5486.859"/>
+hm hm
+<Sync time="5488.234"/>
+
+<Sync time="5489.626"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="5491.539" endTime="5492.45">
+<Sync time="5491.539"/>
+oui en effet
+</Turn>
+<Turn speaker="spk1 spk3" startTime="5492.45" endTime="5494.911">
+<Sync time="5492.45"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="5494.911" endTime="5542.847">
+<Sync time="5494.911"/>
+dès lors qu'ils voient que les chrétiens 
+<Event desc="rire en fond" type="noise" extent="previous"/>
+
+<Sync time="5498.016"/>
+sont visibles quelque part
+<Sync time="5500.454"/>
+
+<Sync time="5501.282"/>
+ils en tirent tout de suite la conclusion
+<Sync time="5503.845"/>
+que puisqu'ils sont visibles là en communauté dans une école
+<Sync time="5507.26"/>
+ou dans un hôpital
+<Sync time="5508.775"/>
+ou dans une oeuvre d'enfants handicapés n'est-ce pas 
+<Sync time="5511.82"/>
+ou d'a- d'enfants anormaux
+<Sync time="5513.407"/>
+
+<Sync time="5514.173"/>
+puisque les chrétiens sont là visibles et réunis dans cette communauté
+<Sync time="5518.329"/>
+cela cela veut dire qu'ils ne sont pas présents dans les établissements organisés par l'Etat
+<Sync time="5523.978"/>
+ce n'est pas vrai
+<Sync time="5525.337"/>
+ce n'est pas parce que ils sont visibles à un endroit en communauté qu'ils se désintéressent de ce que fait l'Etat dans un autre service
+<Sync time="5532.9"/>
+et il y a bien des chrétiens qui travaillent dans un autre service avec le même dévouement
+<Sync time="5537.306"/>
+où il n'y a aucune étiquette
+<Sync time="5538.743"/>
+
+<Sync time="5539.196"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ la liberté c'est
+<Sync time="5541.315"/>
+
+<Sync time="5541.734"/>
+c'est la liberté
+</Turn>
+<Turn speaker="spk3 spk1" startTime="5542.847" endTime="5545.399">
+<Sync time="5542.847"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="5545.399" endTime="5577.32">
+<Sync time="5545.399"/>
+mais
+<Sync time="5546.289"/>
+mais c'est déchirant pour le clergé de France
+<Sync time="5548.544"/>
+c'est déchirant
+<Sync time="5549.465"/>
+
+<Sync time="5550.168"/>
+je ne sais pas combien de temps durera cette déchirure
+<Sync time="5554.133"/>
+
+<Sync time="5555.711"/>
+et pourtant elle ne devrait pas se se réparer par l'abandon
+<Sync time="5560.884"/>
+
+<Sync time="5561.602"/>
+soit d'une option soit d'une autre
+<Sync time="5563.618"/>
+
+<Sync time="5564.063"/>
+et i- il faudrait qu'elle se répare avec une compréhension
+<Sync time="5569.044"/>
+que dans un monde où il y a de la liberté la liberté elle est non seulement la liberté des personnes mais la liberté des institutions
+<Sync time="5576.413"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="5577.32" endTime="5594.161">
+<Sync time="5577.32"/>
+cette attitude ne correspond-elle pas à
+<Sync time="5580.186"/>
+
+<Sync time="5580.873"/>
+une attitude française euh enfin c- qu'on voit dans d'autres domaines
+<Sync time="5586.2"/>
+
+<Sync time="5587.13"/>
+euh qui euh tend en quelque sorte tendance vers le monolithique
+<Sync time="5591.658"/>
+euh dans euh l'organisation de l'Etat
+</Turn>
+<Turn speaker="spk1" startTime="5594.161" endTime="5594.5">
+<Sync time="5594.161"/>
+hm hm
+</Turn>
+<Turn speaker="spk3" startTime="5594.5" endTime="5596.436">
+<Sync time="5594.5"/>
+du moins vu avec un oeil d'anglais
+</Turn>
+<Turn speaker="spk1" startTime="5596.436" endTime="5597.438">
+<Sync time="5596.436"/>
+c'est vrai c'est vrai
+</Turn>
+<Turn speaker="spk3" startTime="5597.438" endTime="5608.643">
+<Sync time="5597.438"/>
+on a cette impression de d'une tendance vers la centralisation qui nous choque très souvent
+<Sync time="5603.511"/>
+
+<Sync time="5605.152"/>
+nous admettons plus volontiers peut-être euh
+<Sync time="5607.721"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="5608.643" endTime="5630.502">
+<Sync time="5608.643"/>
+moi je ne voudrais pas entrer dans un procès parce que vous sentez très bien que à partir du moment où je parle de ce sujet
+<Sync time="5614.583"/>
+euh je j'en parle avec le maximum de modération
+<Sync time="5617.449"/>
+mais vous sentez très bien que je j'ai une option personnelle qui est quand même très marquée
+<Sync time="5622.057"/>
+n'est-ce pas étant donné tout ce que nous faisons dans l'enseignement libre euh
+<Sync time="5626.145"/>
+je ne peux pas dire que je n'y sois pas profondément attaché
+<Sync time="5629.615"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="5630.502" endTime="5630.937">
+<Sync time="5630.502"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="5630.937" endTime="5651.618">
+<Sync time="5630.937"/>
+seulement é- évidemment
+<Sync time="5633.779"/>
+l'option si vous voulez de mes confrères qui parlent de ce problème-là serait assez bien celle-ci
+<Sync time="5639.878"/>
+
+<Sync time="5641.731"/>
+il est inévitable
+<Sync time="5643.668"/>
+
+<Sync time="5645.699"/>
+ou souhaitable
+<Sync time="5647.789"/>
+
+<Sync time="5649.118"/>
+que demain tout soit nationalisé
+</Turn>
+<Turn speaker="spk3" startTime="5651.618" endTime="5652.027">
+<Sync time="5651.618"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="5652.027" endTime="5703.142">
+<Sync time="5652.027"/>
+voilà l'optique fondamentale
+<Sync time="5653.723"/>
+cela est inévitable
+<Sync time="5655.394"/>
+
+<Sync time="5656.722"/>
+ou cela est tellement tellement souhaitable
+<Sync time="5659.863"/>
+
+<Sync time="5660.52"/>
+que l'ensemble des Français ne peut pas le désirer et le réaliser
+<Sync time="5664.277"/>
+
+<Sync time="5665.105"/>
+que tout soit nationalisé
+<Sync time="5667.011"/>
+
+<Sync time="5668.145"/>
+puisque l'Eglise doit être présente au monde d'aujourd'hui et au monde de demain
+<Sync time="5672.647"/>
+
+<Sync time="5673.553"/>
+et puisque le monde c'est la nationalisation en en voie de réalisation
+<Sync time="5679.889"/>
+
+<Sync time="5680.639"/>
+il est donc nécessaire que dès aujourd'hui
+<Sync time="5683.161"/>
+l'Eglise s'adapte à ce monde et y rentre de plein coeur
+<Sync time="5687.646"/>
+et au lieu de maintenir des institutions d'éducation de service de soin ou social de toute sorte
+<Sync time="5694.832"/>
+qu'elle supprime tout cela et que les chrétiens soient libérés de tout cela et qu'ils soient présents dans les institutions qui demain seront les seules
+</Turn>
+<Turn speaker="spk3" startTime="5703.142" endTime="5706.158">
+<Sync time="5703.142"/>
+hm hm hm hm
+<Sync time="5704.205"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="5706.158" endTime="5727.596">
+<Sync time="5706.158"/>
+l'Eglise n'a pas à être présente au monde d'hier
+<Sync time="5708.924"/>
+elle a à être présente au monde d'aujourd'hui qui prépare celui de demain
+<Sync time="5712.757"/>
+donc qu'aujourd'hui elle prenne d'elle-même avec beaucoup de coeur et de spontanéité
+<Sync time="5717.208"/>
+
+<Sync time="5717.814"/>
+l'orientation qui demain lui sera imposée
+<Sync time="5720.173"/>
+
+<Sync time="5721.532"/>
+et puisque l'Eglise d'aujourd'hui reconnaît que le plus grand des bienfaits du début du siècle a été la spoliation
+<Sync time="5726.924"/>
+
+</Turn>
+<Turn speaker="spk3" startTime="5727.596" endTime="5728.033">
+<Sync time="5727.596"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="5728.033" endTime="5769.713">
+<Sync time="5728.033"/>
+et la loi de séparation
+<Sync time="5729.455"/>
+
+<Sync time="5730.236"/>
+et que de la loi de séparation elle a trouvé une vigueur nouvelle
+<Sync time="5734.127"/>
+
+<Sync time="5735.002"/>
+qu'elle continue à faire d'elle-même
+<Sync time="5737.263"/>
+ce que l'Etat a voulu faire au début du siècle
+<Sync time="5739.622"/>
+et qu'elle abandonne d'elle-même qu'elle se débarrasse d'elle-même de tout ce qu'elle a
+<Sync time="5743.598"/>
+afin d'être présente dans les institutions des hommes
+<Sync time="5746.41"/>
+
+<Sync time="5748.457"/>
+et quand n'est-ce pas cet argument s'appuie sur l'esprit du concile
+<Sync time="5751.686"/>
+
+<Sync time="5752.168"/>
+en disant c'est l'esprit du concile que d'être présent dans les oeuvres des hommes
+<Sync time="5755.89"/>
+
+<Sync time="5756.812"/>
+alors
+<Sync time="5757.891"/>
+nos confrères nous disent nous ne voyons pas pourquoi vous voulez vous obstiner à continuer à maintenir des structures qui sont faites pour des chrétiens
+<Sync time="5766.006"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="5769.713" endTime="5773.1">
+<Sync time="5769.713"/>
+donc vous n'avez pas moins de débat que dans tous les autres domaines euh
+</Turn>
+<Turn speaker="spk1" startTime="5773.1" endTime="5773.663">
+<Sync time="5773.1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk4" startTime="5773.663" endTime="5778.437">
+<Sync time="5773.663"/>
+de la vie nationale et locale et familiale
+<Sync time="5777.129"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="5778.437" endTime="5783.302">
+<Sync time="5778.437"/>
+je dirais même
+<Sync time="5779.749"/>
+je dirais même que oh non parce que c'est fini votre 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk3 spk1" startTime="5783.302" endTime="5784.924">
+<Sync time="5783.302"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+je dirais même
+</Turn>
+<Turn speaker="spk3 spk2" startTime="5784.924" endTime="5786.383">
+<Sync time="5784.924"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="5786.383" endTime="5793.158">
+<Sync time="5786.383"/>
+que
+<Sync time="5787.165"/>
+
+<Sync time="5787.862"/>
+les évènements de mai que nous avons passés
+<Sync time="5790.658"/>
+
+<Sync time="5791.94"/>
+euh nous donnent raison
+</Turn>
+<Turn speaker="spk4" startTime="5793.158" endTime="5794.524">
+<Sync time="5793.158"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="5794.524" endTime="5809.394">
+<Sync time="5794.524"/>
+car
+<Sync time="5795.142"/>
+
+<Sync time="5795.907"/>
+il n'y a jamais eu
+<Sync time="5797.47"/>
+un tel tollé contre la centralisation administrative de l'Etat français
+<Sync time="5802.487"/>
+
+<Sync time="5803.347"/>
+pour que nous revenions à des structures plus régionales plus locales et plus autonomes
+</Turn>
+<Turn speaker="spk4" startTime="5809.394" endTime="5811.019">
+<Sync time="5809.394"/>
+hm hm hm
+</Turn>
+<Turn speaker="spk1" startTime="5811.019" endTime="5819.419">
+<Sync time="5811.019"/>
+nous n'avons jamais eu à la chambre des députés
+<Sync time="5813.552"/>
+
+<Sync time="5814.093"/>
+autant de discours
+<Sync time="5815.484"/>
+
+<Sync time="5816.187"/>
+pour expliquer qu'il fallait quitter la centralisation
+</Turn>
+</Section>
+</Episode>
+</Trans>

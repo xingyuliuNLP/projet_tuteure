@@ -1,0 +1,2860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="ophélie" audio_filename="ESLO1_INTPERS_420" version="14" version_date="140113" xml:lang="fr">
+<Speakers>
+<Speaker id="spk1" name="PB" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="420PERS" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode program="" air_date="">
+<Section type="report" startTime="0" endTime="2288.942">
+<Turn startTime="0" endTime="3.003">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3.003" endTime="3.784">
+<Sync time="3.003"/>
+-ance
+</Turn>
+<Turn speaker="spk2" startTime="3.784" endTime="5.018">
+<Sync time="3.784"/>
+avec des machines allemandes
+</Turn>
+<Turn speaker="spk2 spk1" startTime="5.018" endTime="6.785">
+<Sync time="5.018"/>
+<Who nb="1"/>
+parce qu'elles sont pratiques peut-être non ?
+<Who nb="2"/>
+avec des machines allemandes oui
+</Turn>
+<Turn speaker="spk1" startTime="6.785" endTime="10.739">
+<Sync time="6.785"/>
+
+<Sync time="7.332"/>
+euh elles sont surtout euh au prix qu'il nous
+</Turn>
+<Turn speaker="spk1 spk2" startTime="10.739" endTime="12.409">
+<Sync time="10.739"/>
+<Who nb="1"/>
+que nous pouvons nous permettre
+<Who nb="2"/>
+c'est ça oui elles sont bon marché oui
+</Turn>
+<Turn speaker="spk2" startTime="12.409" endTime="12.846">
+<Sync time="12.409"/>
+oui bien sûr
+</Turn>
+<Turn speaker="spk1" startTime="12.846" endTime="18.518">
+<Sync time="12.846"/>
+oui
+<Sync time="13.191"/>
+c'est
+<Event desc="*c'est st-" type="pronounce" extent="previous"/>
+ euh
+<Sync time="14.425"/>
+
+<Sync time="15.191"/>
+semi-professionnel
+<Sync time="16.519"/>
+
+<Sync time="17.784"/>
+et euh à s-
+</Turn>
+<Turn speaker="spk2" startTime="18.518" endTime="21.3">
+<Sync time="18.518"/>
+c'est un
+<Sync time="18.909"/>
+un bon commencement pour le marché commun
+<Sync time="20.581"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="21.3" endTime="22.706">
+<Sync time="21.3"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+peut-être oui peut-être
+</Turn>
+<Turn speaker="spk1" startTime="22.706" endTime="33.597">
+<Sync time="22.706"/>
+
+<Sync time="23.659"/>
+
+<Event desc="tx" type="noise" extent="instantaneous"/>
+
+<Sync time="24.066"/>
+
+<Sync time="24.847"/>
+et nous trouvons pas que
+<Sync time="26.706"/>
+la compétition allemande est très euh
+<Sync time="29.754"/>
+
+<Sync time="30.488"/>
+enfin nous craignons un petit peu com- quand même la compétition
+</Turn>
+<Turn speaker="spk1 spk2" startTime="33.597" endTime="34.488">
+<Sync time="33.597"/>
+<Who nb="1"/>
+allemande
+<Who nb="2"/>
+oui elle
+</Turn>
+<Turn speaker="spk2" startTime="34.488" endTime="46.1">
+<Sync time="34.488"/>
+est
+<Sync time="35.301"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="35.707"/>
+elle peut paraître évidemment assez assez dangereuse mais je pense que
+<Sync time="40.535"/>
+
+<Sync time="41.55"/>
+nous pouvons lutter les uns et les autres et que la concurrence n'est pas tellement mauvaise après tout
+</Turn>
+<Turn speaker="spk1" startTime="46.1" endTime="46.709">
+<Sync time="46.1"/>
+non
+</Turn>
+<Turn speaker="spk2" startTime="46.709" endTime="48.225">
+<Sync time="46.709"/>
+je crois qu'il y a des possibilités quand même
+</Turn>
+<Turn speaker="spk2 spk1" startTime="48.225" endTime="48.491">
+<Sync time="48.225"/>
+<Who nb="1"/>
+ils sont
+<Who nb="2"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="48.491" endTime="55.132">
+<Sync time="48.491"/>
+ils sont très forts mais enfin euh
+<Sync time="50.24"/>
+
+<Sync time="50.912"/>
+faut pas en avoir peur
+<Sync time="51.803"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="52.725"/>
+
+<Sync time="54.585"/>
+bien
+</Turn>
+<Turn speaker="spk1" startTime="55.132" endTime="58.664">
+<Sync time="55.132"/>
+eh bien je voudrais vous demander en premier monsieur depuis quand vous êtes à Orléans ?
+</Turn>
+<Turn speaker="spk2" startTime="58.664" endTime="66.68">
+<Sync time="58.664"/>
+eh bien nous nous sommes installés euh
+<Sync time="61.616"/>
+à Orléans fin mille neuf cent soixante et un c'est-à-dire en fait depuis l'année mille neuf cent soixante-deux
+<Sync time="65.883"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="66.68" endTime="68.665">
+<Sync time="66.68"/>
+oui et qu'est-ce qui vous a fait venir ici ?
+</Turn>
+<Turn speaker="spk2" startTime="68.665" endTime="103.197">
+<Sync time="68.665"/>
+
+<Sync time="69.086"/>
+eh bien
+<Sync time="70.524"/>
+la proximité de Paris où vous savez qu'il est très difficile de trouver des locaux industriels
+<Sync time="75.508"/>
+
+<Sync time="76.148"/>
+et également où la la réserve de main d'oeuvre était à l'époque beaucoup moins grande
+<Sync time="81.491"/>
+
+<Sync time="82.023"/>
+y avait ici la possibilité d'avoir une euh
+<Sync time="84.367"/>
+
+<Sync time="84.867"/>
+certaine facilité pour l'embauche de personnel
+<Sync time="87.148"/>
+euh
+<Sync time="88.226"/>
+valable
+<Sync time="88.883"/>
+
+<Sync time="90.149"/>
+en même temps que certaines facilités d'installation s- tant sur le plan de la surface des locaux que de la la facilité
+<Sync time="96.774"/>
+
+<Sync time="97.399"/>
+de euh d'intégration
+<Sync time="99.383"/>
+à une ville ind- qui se développait sur le plan industriel
+<Sync time="102.087"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="103.197" endTime="106.338">
+<Sync time="103.197"/>
+c'est une entreprise euh donc qui existait ailleurs au-
+</Turn>
+<Turn speaker="spk1 spk2" startTime="106.338" endTime="106.978">
+<Sync time="106.338"/>
+<Who nb="1"/>
+auparavant ?
+<Who nb="2"/>
+non non
+</Turn>
+<Turn speaker="spk2" startTime="106.978" endTime="111.525">
+<Sync time="106.978"/>
+elle euh elle a repris une entreprise qui existait elle se créait
+<Sync time="109.994"/>
+euh
+<Sync time="110.51"/>
+nouvellement ici
+</Turn>
+<Turn speaker="spk1" startTime="111.525" endTime="112.04">
+<Sync time="111.525"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="112.04" endTime="117.587">
+<Sync time="112.04"/>
+elle avait juste un noyau de clientèle qui euh qui venait d'une société que nous avons rachetée quand nous sommes venus nous installer ici
+</Turn>
+<Turn speaker="spk1" startTime="117.587" endTime="122.816">
+<Sync time="117.587"/>
+hm hm
+<Sync time="118.269"/>
+
+<Sync time="119.332"/>
+et est-ce que Orléans vous semble satisfaisante maintenant comme emplacement ?
+</Turn>
+<Turn speaker="spk2" startTime="122.816" endTime="148.562">
+<Sync time="122.816"/>
+
+<Sync time="123.27"/>
+Orléans a beaucoup d'avantages sur le le plan de la situation géographique parce que euh
+<Sync time="129.237"/>
+c'est évidemment une ville de province avec les avantages que cela représente
+<Sync time="133.255"/>
+
+<Sync time="133.927"/>
+euh du point de vue euh
+<Sync time="135.474"/>
+
+<Sync time="136.489"/>
+confort de travail on est un petit moins sur les nerfs qu'à Paris
+<Sync time="139.552"/>
+
+<Sync time="139.927"/>
+tout en étant
+<Sync time="140.849"/>
+
+<Sync time="141.177"/>
+très près de Paris puisque on en est à une heure
+<Sync time="144.709"/>
+
+<Sync time="145.084"/>
+ou un petit plus d'une heure par chemin de fer et également un petit plus d'une heure par la route
+</Turn>
+<Turn speaker="spk1" startTime="148.562" endTime="149.071">
+<Sync time="148.562"/>
+hm
+</Turn>
+<Turn speaker="spk2" startTime="149.071" endTime="187.65">
+<Sync time="149.071"/>
+on ne peut pas dire que les liaisons euh routières soient parfaites
+<Sync time="152.457"/>
+comme euh partout il faudrait que les autoroutes se construisent plus vite mais enfin malgré tout
+<Sync time="156.851"/>
+
+<Sync time="157.476"/>
+la liaison avec Paris est assez facile
+<Sync time="159.550"/>
+maintenant
+<Sync time="160.388"/>
+évidemment comme partout en France on se plaint un peu du téléphone qui ne fonctionne pas toujours très bien et
+<Sync time="165.603"/>
+
+<Sync time="166.088"/>
+des des de certaines euh télécommunications qui sont pas toujours parfaites
+<Sync time="170.416"/>
+mais malgré tout disons que nous avons à peu près les avantages de la région parisienne
+<Sync time="174.541"/>
+avec un certain nombre d'inconvénients en moins
+<Sync time="176.884"/>
+comme par exemple une circulation plus facile en ville
+<Sync time="179.79"/>
+
+<Sync time="180.306"/>
+et également euh le fait de vivre
+<Sync time="182.431"/>
+peut-être
+<Sync time="183.15"/>
+une vie industrielle un petit peu moins euh nerveuse que dans les grands centres comme Paris
+</Turn>
+<Turn speaker="spk1" startTime="187.65" endTime="193.791">
+<Sync time="187.65"/>
+hm hm
+<Sync time="188.275"/>
+mais vous trouvez toujours que Paris vous est essentiel comme euh centre de votre euh
+</Turn>
+<Turn speaker="spk2" startTime="193.791" endTime="194.697">
+<Sync time="193.791"/>
+en ce qui nous concerne
+</Turn>
+<Turn speaker="spk1 spk2" startTime="194.697" endTime="195.181">
+<Sync time="194.697"/>
+<Who nb="1"/>
+attention ?
+<Who nb="2"/>
+Paris
+</Turn>
+<Turn speaker="spk2" startTime="195.181" endTime="267.266">
+<Sync time="195.181"/>
+nous est essentiel parce que
+<Sync time="196.947"/>
+une grande partie de notre clientèle s'y trouve au moins les sièges sociaux des entreprises avec lesquelles nous travaillons
+<Sync time="202.057"/>
+
+<Sync time="202.717"/>
+en réalité nous travaillons très très peu avec la ville-même d'Orléans puisque nous avons
+<Sync time="206.786"/>
+
+<Sync time="207.358"/>
+euh étant donné notre fabrication le le genre de notre fabrication qui est une euh
+<Sync time="211.375"/>
+
+<Sync time="211.983"/>
+euh une spécialité
+<Sync time="213.522"/>
+de qui se rattache à l'électronique aux composants électroniques nous fabriquons des relais
+<Sync time="217.936"/>
+
+<Sync time="218.546"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ principalement et certains petits composants miniatures pour l'électronique
+<Sync time="221.734"/>
+
+<Sync time="222.953"/>
+nous les expédions évidemment dans tous les coins de France et nous en nous exportons pas mal puisque euh pour le premier semestre euh de mille neuf cent soixante-dix
+<Sync time="231.688"/>
+
+<Sync time="232.267"/>
+notre exportation a représenté environ trente-cinq pourcents de notre chiffre d'affaire
+<Sync time="235.486"/>
+
+<Sync time="236.283"/>
+euh
+<Sync time="237.189"/>
+
+<Sync time="237.923"/>
+la proximité de Paris
+<Sync time="239.421"/>
+a donc un avantage c'est que nous nous trouvons
+<Sync time="241.391"/>
+
+<Sync time="242.016"/>
+malgré tout
+<Sync time="242.829"/>
+
+<Sync time="243.892"/>
+en
+<Sync time="244.486"/>
+
+<Sync time="245.032"/>
+avec des liaisons beaucoup plus faciles avec nos fournisseurs et nos principaux clients
+<Sync time="248.267"/>
+français
+<Sync time="249.032"/>
+
+<Sync time="249.782"/>
+euh ce qui ne veut pas dire que nous ne
+<Sync time="252.657"/>
+nous n'avons nous avons un besoin absolu de Paris nous pourrions être plus loin
+<Sync time="256.797"/>
+malgré tout ça poserait des problèmes parce que euh un certain nombre encore une fois de nos clients et de fournisseurs
+<Sync time="262.125"/>
+euh sont plus faciles à joindre à Paris leur siège euh administratif ou leur siège technique s'y trouvant
+</Turn>
+<Turn speaker="spk1" startTime="267.266" endTime="267.896">
+<Sync time="267.266"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="267.896" endTime="271.89">
+<Sync time="267.896"/>
+c'est la raison pour laquelle nous avons quand même choisi une proximité de de de Paris
+</Turn>
+<Turn speaker="spk1" startTime="271.89" endTime="276.481">
+<Sync time="271.89"/>
+
+<Sync time="273.546"/>
+vous produisez donc des relais électroniques ?
+</Turn>
+<Turn speaker="spk2" startTime="276.481" endTime="396.782">
+<Sync time="276.481"/>
+nous fabriquons des relais électromagnétiques et électroniques
+<Sync time="279.56"/>
+et euh nous avons étendu notre gamme depuis
+<Sync time="283.028"/>
+
+<Sync time="284.434"/>
+un an environ vers des composants annexes
+<Sync time="286.871"/>
+
+<Sync time="287.34"/>
+euh pour l'informatique et pour euh des des applications euh plus spécifiquement électroniques et
+<Sync time="293.84"/>
+
+<Sync time="294.527"/>
+d'une technicité un peu plus évoluée
+<Sync time="296.426"/>
+comme par exemple des microtransformateurs des alimentations stabilisées
+<Sync time="299.869"/>
+
+<Sync time="300.433"/>
+et euh en ce qui concerne euh je faisais allusion à l'informatique des
+<Sync time="304.808"/>
+des éléments de clavier de pour ordinateur ou commande euh numérique enfin
+<Sync time="308.948"/>
+
+<Sync time="309.385"/>
+euh qui sont
+<Sync time="310.213"/>
+
+<Sync time="310.604"/>
+des appareils un petit plus évolués que les relais
+<Sync time="312.933"/>
+qui constituent malgré tout la base de notre activité à l'heure actuelle
+<Sync time="315.917"/>
+
+<Sync time="316.652"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="317.277"/>
+les relais que nous fabriquons étant vendus aussi bien
+<Sync time="321.839"/>
+pour des applications très techniques comme par exemple au centre d'énergie atomique euh ou à l'armée
+<Sync time="327.011"/>
+
+<Sync time="327.792"/>
+euh les laboratoires les facultés les laboratoires de recherches euh sont nos clients les universités
+<Sync time="335.252"/>
+également les centres de hospitaliers ou médicaux
+<Sync time="340.041"/>
+
+<Sync time="340.713"/>
+mais nous avons également une clientèle
+<Sync time="342.604"/>
+
+<Sync time="343.838"/>
+dans les applications beaucoup plus ordinaires beaucoup plus prosaïques comme les fabricants de machines à laver de
+<Sync time="350.687"/>
+euh d'aspirateurs euh ou même de des jouets enfin nous avons une clientèle très étendue
+<Sync time="356.468"/>
+
+<Sync time="357.75"/>
+donc euh notre principale activité reste le relais
+<Sync time="360.797"/>
+
+<Sync time="361.75"/>
+avec une euh une orientation vers des applications un peu plus techniques
+<Sync time="365.891"/>
+
+<Sync time="366.672"/>
+toujours en cherchant des fabrications de séries du reste nous faisons très peu de spécial
+<Sync time="370.282"/>
+
+<Sync time="370.907"/>
+euh
+<Sync time="371.856"/>
+là on rejoint un petit peu votre première question qui concernait
+<Sync time="374.829"/>
+
+<Sync time="375.329"/>
+le l'éloignement ou la proximité de Paris c'est que
+<Sync time="377.969"/>
+
+<Sync time="378.75"/>
+le personnel dont nous pouvons disposer ici
+<Sync time="380.984"/>
+
+<Sync time="381.547"/>
+euh
+<Sync time="381.984"/>
+est malgré tout plus difficile à recruter dès que l'on cherche une euh technicité élevée
+<Sync time="388.048"/>
+
+<Sync time="388.688"/>
+et par conséquent notre vocation est plus de fabriquer de la série que de faire des études spéciales qui chaque fois demandent un gros apport de recherches ou d'études
+</Turn>
+<Turn speaker="spk1" startTime="396.782" endTime="401.376">
+<Sync time="396.782"/>
+hm hm
+<Sync time="397.532"/>
+oui j'allais vous demander si vous dessinez vous-mêmes vos euh
+<Sync time="400.626"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="401.376" endTime="402.111">
+<Sync time="401.376"/>
+ah nous sommes
+</Turn>
+<Turn speaker="spk1 spk2" startTime="402.111" endTime="402.611">
+<Sync time="402.111"/>
+<Who nb="1"/>
+produits ?
+<Who nb="2"/>
+nous-mêmes
+</Turn>
+<Turn speaker="spk2" startTime="402.611" endTime="443.9">
+<Sync time="402.611"/>
+euh l'organisation de de notre entreprise est de est la suivante
+<Sync time="407.611"/>
+
+<Sync time="408.142"/>
+je suis moi-même technicien et je travaille avec euh
+<Sync time="410.97"/>
+
+<Sync time="412.064"/>
+deux enfin un ingénieur et un agent technique qui s'occupent
+<Sync time="415.235"/>
+
+<Sync time="415.642"/>
+de mettre au point les les appareils que nous créons
+<Sync time="418.924"/>
+
+<Sync time="419.58"/>
+à partir d'une idée qui vient des uns ou des autres euh
+<Sync time="422.002"/>
+
+<Sync time="422.44"/>
+assez euh
+<Sync time="423.814"/>
+j'en ai un certain nombre mais enfin je ne suis pas le seul tout le monde collabore
+<Sync time="426.986"/>
+
+<Sync time="427.704"/>
+et euh cette mise au point passe ensuite par euh le laboratoire où l'appareil est fait déterminé d'une façon euh
+<Sync time="433.954"/>
+
+<Sync time="434.563"/>
+définitive
+<Sync time="435.36"/>
+
+<Sync time="435.797"/>
+puis ensuite passe en fabrication
+<Sync time="437.22"/>
+
+<Sync time="437.876"/>
+nous faisons nous-mêmes nos outillages et nous fabriquons nous-mêmes toutes nos pièces détachées nous avons donc une intégration assez
+<Sync time="442.791"/>
+
+<Sync time="443.119"/>
+assez complète
+</Turn>
+<Turn speaker="spk1" startTime="443.9" endTime="444.369">
+<Sync time="443.9"/>
+hm
+</Turn>
+<Turn speaker="spk2" startTime="444.369" endTime="476.743">
+<Sync time="444.369"/>
+
+<Sync time="444.806"/>
+pour des questions de prix de revient puisque euh
+<Sync time="446.666"/>
+
+<Sync time="447.245"/>
+dans un relais qui est une pièce qui est vendue bon marché il y a un grand nombre de petits composants
+<Sync time="451.791"/>
+
+<Sync time="452.213"/>
+mécaniques qui demandent une certaine précision
+<Sync time="454.447"/>
+
+<Sync time="455.056"/>
+et euh la sous-traitance
+<Sync time="457.321"/>
+
+<Sync time="458.446"/>
+présenterait pour nous l'inconvénient
+<Sync time="460.103"/>
+
+<Sync time="460.775"/>
+de faire appel à un très grand nombre de fournisseurs
+<Sync time="463.383"/>
+
+<Sync time="464.008"/>
+et pour une fabrication de série évidemment de risquer d'avoir
+<Sync time="467.695"/>
+euh
+<Sync time="468.648"/>
+
+<Sync time="469.711"/>
+des retards de livraisons des uns ou des autres
+<Sync time="472.086"/>
+et par là d'arrêter toute la production si nous n'étions pas livrés à temps
+<Sync time="474.977"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="476.743" endTime="482.524">
+<Sync time="476.743"/>
+et est-ce que vous produisez sur euh comment est-ce qu'on dit ? sur catalogue ou est-ce ou sur commande euh
+</Turn>
+<Turn speaker="spk2" startTime="482.524" endTime="483.164">
+<Sync time="482.524"/>
+sur
+</Turn>
+<Turn speaker="spk1 spk2" startTime="483.164" endTime="484.102">
+<Sync time="483.164"/>
+<Who nb="1"/>
+des ?
+<Who nb="2"/>
+catalogue
+</Turn>
+<Turn speaker="spk2" startTime="484.102" endTime="524.269">
+<Sync time="484.102"/>
+
+<Sync time="484.68"/>
+et euh nous ne faisons des des modèles
+<Sync time="486.68"/>
+
+<Sync time="487.195"/>
+spéciaux qui ne sont en réalité que des adaptations de nos modèles standard
+<Sync time="490.382"/>
+
+<Sync time="490.804"/>
+que pour des quantités importantes
+<Sync time="492.273"/>
+il est évident que nous avons un catalogue pour les fabrications les plus courantes pour les fabrications les plus euh normalisées
+<Sync time="498.289"/>
+
+<Sync time="499.18"/>
+et euh c'est euh ces modèles-là que nous livrons pour les clients euh
+<Sync time="505.103"/>
+petits euh ou moyens
+<Sync time="507.635"/>
+
+<Sync time="509.354"/>
+nous arrivons à faire des adaptations spéciales dès qu'un client
+<Sync time="511.995"/>
+passe des quantités importantes euh de l'ordre de dix vingt trente mille ou quarante mille pièces par an évidemment
+<Sync time="518.487"/>
+
+<Sync time="518.831"/>
+on accepte à ce moment-là de modifier certaines euh constantes certaines pièces pour f- lui faire une pièce spéciale
+<Sync time="523.816"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="524.269" endTime="524.691">
+<Sync time="524.269"/>
+hm
+</Turn>
+<Turn speaker="spk2" startTime="524.691" endTime="556.332">
+<Sync time="524.691"/>
+
+<Sync time="525.176"/>
+mais euh
+<Sync time="526.051"/>
+
+<Sync time="526.332"/>
+en principe nous ne faisons pas absolument du sur mesure nous nous essayons
+<Sync time="530.488"/>
+
+<Sync time="531.051"/>
+euh toujours d'avoir nos modèles à nous c'est-à-dire nous en fait nous ne sommes pas ce qu'on appelle le sous-traitant
+<Sync time="536.269"/>
+
+<Sync time="536.706"/>
+qui exécute sur les plans d'un des clients nous fabriquons nos propres modèles
+<Sync time="540.128"/>
+quelquefois en les adaptant
+<Sync time="541.722"/>
+
+<Sync time="542.284"/>
+et quelquefois à la demande d'un client mais en en gardant la propriété pour nous c'est-à-dire en nous réservant de pouvoir le vendre à d'autres
+<Sync time="548.8"/>
+
+<Sync time="549.769"/>
+dans la mesure où il n'est pas protégé par des brevets ou par des des des modèles
+<Sync time="553.566"/>
+
+<Sync time="553.941"/>
+euh qui intéresse particulièrement le client en question
+</Turn>
+<Turn speaker="spk1" startTime="556.332" endTime="560.159">
+<Sync time="556.332"/>
+
+<Sync time="558.347"/>
+d'où viennent vos matières premières ?
+</Turn>
+<Turn speaker="spk2" startTime="560.159" endTime="569.127">
+<Sync time="560.159"/>
+
+<Sync time="561.299"/>
+les matières premières sont de d'origines diverses vous voulez
+<Sync time="564.518"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="565.143"/>
+savoir si elles viennent si elles sont d'importation ou si elles sont de la région ?
+</Turn>
+<Turn speaker="spk1" startTime="569.127" endTime="569.939">
+<Sync time="569.127"/>
+oui
+</Turn>
+<Turn speaker="spk2 spk1" startTime="569.939" endTime="570.534">
+<Sync time="569.939"/>
+<Who nb="1"/>
+euh
+<Who nb="2"/>
+c'est ça
+</Turn>
+<Turn speaker="spk2" startTime="570.534" endTime="700.883">
+<Sync time="570.534"/>
+très peu
+<Sync time="571.143"/>
+
+<Sync time="571.548"/>
+nous avons très peu de fournisseurs sur place puisque
+<Sync time="574.034"/>
+
+<Sync time="574.581"/>
+nous faisons en fait appel à des
+<Sync time="576.816"/>
+je vous l'ai dit à des des produits très évolués très techniques
+<Sync time="580.411"/>
+
+<Sync time="581.083"/>
+et par exemple nos nos aciers magnétiques viennent des Etats-Unis puisque ce sont les ce sont les seuls qui fabriquent les ét- les
+<Sync time="587.208"/>
+les les fers spéciaux dont enfin les aciers spéciaux que nous utilisons
+<Sync time="590.645"/>
+
+<Sync time="591.723"/>
+tout au moins en série et à des prix euh convenables
+<Sync time="594.442"/>
+
+<Sync time="596.982"/>
+sur place nous avons certains sous-traitants comme du traitement de surface ou
+<Sync time="601.044"/>
+
+<Sync time="601.747"/>
+des pièces tout à fait accessoires comme les cartonnages les emballages parce que nous avons pu trouver sur place des fournisseurs qui
+<Sync time="606.435"/>
+
+<Sync time="606.935"/>
+euh répondent à nos besoins
+<Sync time="608.326"/>
+
+<Sync time="609.42"/>
+mais il faut dire que pour la plupart malheureusement du reste pour la plupart de nos fournisseurs ils sont ou sur Paris
+<Sync time="615.139"/>
+
+<Sync time="615.827"/>
+ou euh en France ou même à l'étranger nous sommes obligés d'importer quand même
+<Sync time="619.467"/>
+
+<Sync time="619.92"/>
+dans notre métier ce n'est pas étonnant puisque
+<Sync time="621.905"/>
+
+<Sync time="622.546"/>
+il est évident qu'on a besoin
+<Sync time="624.591"/>
+de certaines choses très spécifiques qu'on ne trouve quelquefois que chez un seul fournisseur
+<Sync time="628.826"/>
+
+<Sync time="629.81"/>
+ou chez deux fournisseurs dans le monde qui sont très spécialisés
+<Sync time="632.7"/>
+
+<Sync time="633.169"/>
+au moins pour les caractéristiques
+<Sync time="634.481"/>
+
+<Sync time="634.966"/>
+et euh à un prix qui nous convienne
+<Sync time="636.903"/>
+
+<Sync time="637.621"/>
+et et on est bien obligé de s'adresser à eux
+<Sync time="639.511"/>
+
+<Sync time="640.058"/>
+t- ainsi par exemple certaines matières plastiques viennent d'Allemagne parce que
+<Sync time="642.573"/>
+
+<Sync time="643.011"/>
+il n'y a que les Allemands qui jusqu'à présent fabriquent euh un produit qui s'appelle le Macrolong
+<Sync time="647.542"/>
+qui est fabriqué par Bayer
+<Sync time="648.792"/>
+
+<Sync time="649.339"/>
+qui est un
+<Sync time="650.417"/>
+
+<Sync time="650.807"/>
+matière plastique que nous injectons
+<Sync time="652.417"/>
+
+<Sync time="653.214"/>
+pour les boîtiers et les embases de relais
+<Sync time="655.729"/>
+
+<Sync time="656.339"/>
+bien euh il n'y a pas d'autres fabricants dans le monde sinon à General Eletric aux Etats-Unis
+<Sync time="660.448"/>
+
+<Sync time="661.088"/>
+mais euh une histoire de brevet entre les deux fait que General Eletric ne peut pas en vendre en France et qu'on est obligé d'acheter chez Bayer
+<Sync time="667.574"/>
+
+<Sync time="667.934"/>
+donc c'est une
+<Sync time="668.809"/>
+
+<Sync time="669.184"/>
+euh c'est c'est une obligation pour nous
+<Sync time="671.371"/>
+
+<Sync time="672.09"/>
+de nous adresser
+<Sync time="673.293"/>
+
+<Sync time="674.512"/>
+à la fois euh dans d'autres régions de France et également à l'étranger
+<Sync time="677.918"/>
+
+<Sync time="678.871"/>
+notre décolletage vient beaucoup de Savoie par exemple qui en France est une région spécialisée dans cette euh
+<Sync time="683.512"/>
+
+<Sync time="684.043"/>
+euh dans cette industrie
+<Sync time="685.949"/>
+
+<Sync time="687.73"/>
+beaucoup de choses viennent de Paris également au point de vue de des composants
+<Sync time="691.542"/>
+qui ne sont pas nécessairement fabriqués à Paris mais qui repassent par Paris pour la distribution le siè- les sièges commerciaux ou les magasins ou les
+<Sync time="698.309"/>
+entrepôts étant sur Paris
+<Sync time="699.778"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="700.883" endTime="701.2">
+<Sync time="700.883"/>
+hm
+</Turn>
+<Turn speaker="spk2" startTime="701.2" endTime="744.798">
+<Sync time="701.2"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ je dois dire que pour nous c'est un problème
+<Sync time="703.137"/>
+
+<Sync time="703.684"/>
+relativement mineur étant donné que nous fabriquons un matériel très petit
+<Sync time="707.044"/>
+
+<Sync time="708.262"/>
+et que par conséquent le prix du transport joue très peu
+<Sync time="711.401"/>
+il joue très peu à l'achat des matières premières et il joue très peu à l'expédition pour nos clients puisqu'en fait
+<Sync time="716.579"/>
+
+<Sync time="717.063"/>
+nous vendons des pièces qui dépassent rarement cent grammes
+<Sync time="719.64"/>
+
+<Sync time="720.155"/>
+et dont le
+<Sync time="721.499"/>
+
+<Sync time="723.046"/>
+même même certaines nous avons des des certains modèles de relais qui pèsent moins d'un gramme
+<Sync time="726.984"/>
+
+<Sync time="727.921"/>
+et ce qui amène leur prix euh leur prix au kilo à un chiffre énorme puisque ce sont des appareils qui valent a- environ vingt-cinq à trente francs pièce
+<Sync time="734.781"/>
+
+<Sync time="735.359"/>
+c'est-à-dire que on a à peu près euh
+<Sync time="738.594"/>
+la la valeur de trente millions anciens au kilo de pièces expédiées
+<Sync time="742.252"/>
+
+<Sync time="742.799"/>
+c'est-à-dire que le prix du transport joue très peu en fait
+</Turn>
+<Turn speaker="spk1" startTime="744.798" endTime="749.672">
+<Sync time="744.798"/>
+
+<Sync time="745.548"/>
+hm
+<Sync time="745.954"/>
+et vos débouchés vous dites se trouvent partout dans le monde ?
+</Turn>
+<Turn speaker="spk2" startTime="749.672" endTime="950.274">
+<Sync time="749.672"/>
+eh bien les débouchés euh nous nous travaillons à environ je vais arrondir les chiffres à soixante-dix pourcents en France
+<Sync time="756.204"/>
+
+<Sync time="756.844"/>
+trente pourcents en exportation
+<Sync time="758.407"/>
+
+<Sync time="759.172"/>
+nous les dépassons un peu maintenant
+<Sync time="760.582"/>
+
+<Sync time="760.983"/>
+cette exportation se fait
+<Sync time="762.53"/>
+
+<Sync time="763.327"/>
+évidemment principalement sur le marché commun
+<Sync time="765.592"/>
+
+<Sync time="766.935"/>
+euh
+<Sync time="768.227"/>
+
+<Sync time="768.653"/>
+nous ex- nous vendons en Allemagne nous avons un bureau commercial qui euh que nous avons en association avec un ingénieur allemand
+<Sync time="775.09"/>
+
+<Sync time="775.934"/>
+qui s'occupe de nos intérêts en Allemagne à Manheim
+<Sync time="778.372"/>
+
+<Sync time="779.84"/>
+et nous avons
+<Sync time="780.777"/>
+
+<Sync time="781.277"/>
+une filiale en Espagne à Barcelone qui fabrique qui fabrique sous licence
+<Sync time="785.465"/>
+
+<Sync time="786.106"/>
+soit à partir de pièces
+<Sync time="787.714"/>
+
+<Sync time="788.339"/>
+euh qu'elle fabrique elle-même là-bas qui sont exactement les mêmes qui sont interchangeables avec nos propres pièces fabriquées chez nous
+<Sync time="794.183"/>
+
+<Sync time="794.793"/>
+soit à partir des pièces détachées que nous envoyons
+<Sync time="796.808"/>
+
+<Sync time="797.527"/>
+pour l'instant avec euh dans l'idée la euh la fa- une fabrication sur deux usines l'une en Espagne une en France
+<Sync time="803.606"/>
+
+<Sync time="804.215"/>
+euh en Espagne nous l'avons fait surtout pour des questions de de régimes douaniers puisque le les taxes douanières espagnoles sont très élevées
+<Sync time="810.511"/>
+
+<Sync time="810.918"/>
+et évidemment le fait de fabriquer sur place permet d'être beaucoup plus compétitif sur le marché espagnol
+<Sync time="815.652"/>
+
+<Sync time="816.684"/>
+les autres pays du de l'Europe
+<Sync time="818.474"/>
+
+<Sync time="819.575"/>
+sont évidemment ceux du marché commun
+<Sync time="821.294"/>
+
+<Sync time="821.966"/>
+plus la Suisse
+<Sync time="823.45"/>
+et la Scandinavie qui en ce moment représente des débouchés assez intéressants
+<Sync time="827.527"/>
+
+<Sync time="828.105"/>
+euh Danemark Suède et Norvège qui euh
+<Sync time="831.277"/>
+
+<Sync time="831.808"/>
+sont en train de s- de de de voir les les ventes se développer pas mal
+<Sync time="836.276"/>
+
+<Sync time="837.026"/>
+nous avions
+<Sync time="837.886"/>
+
+<Sync time="838.339"/>
+une euh
+<Sync time="839.089"/>
+
+<Sync time="839.386"/>
+assez bonne clientèle au en Angleterre
+<Sync time="841.73"/>
+
+<Sync time="842.48"/>
+euh
+<Sync time="843.245"/>
+
+<Sync time="843.792"/>
+je le mets ça au passé parce que euh depuis le le régime des importations anglaises qui a été très durci euh évidemment ça a rendu les choses plus difficiles
+<Sync time="851.182"/>
+
+<Sync time="851.979"/>
+et euh
+<Sync time="852.979"/>
+nos ventes en Angleterre ont baissé
+<Sync time="855.213"/>
+
+<Sync time="855.697"/>
+je le déplore parce que euh
+<Sync time="857.666"/>
+
+<Sync time="858.4"/>
+je pense que c'est un marché qui est
+<Sync time="860.134"/>
+
+<Sync time="860.868"/>
+très bon d'abord parce qu'il est proche
+<Sync time="862.29"/>
+
+<Sync time="863.243"/>
+que euh en plus il y a certainement de de
+<Sync time="865.508"/>
+
+<Sync time="865.82"/>
+très bons débouchés
+<Sync time="866.945"/>
+
+<Sync time="867.711"/>
+et euh je me propose du reste de reprendre le le problème euh c'est une question de voyage de ça n'est pourtant pas loin mais il faut
+<Sync time="874.711"/>
+
+<Sync time="875.211"/>
+avoir le temps d'aller passer euh un certain nombre de journées en Angleterre pour euh remettre un
+<Sync time="879.899"/>
+
+<Sync time="880.665"/>
+un système commercial en place peut-être du reste par l'intermédiaire d'un bureau comme en nous l'avons fait en Allemagne trouver un
+<Sync time="886.118"/>
+
+<Sync time="886.915"/>
+un un associé qui accepte de d'avoir un bureau commercial sur place
+<Sync time="891.727"/>
+
+<Sync time="893.477"/>
+nous avions nous avions de bons débouchés en Angleterre et
+<Sync time="897.915"/>
+nous en avons encore mais enfin ils ont ils sont tout de même en baisse
+<Sync time="900.368"/>
+
+<Sync time="901.806"/>
+nos autres euh nos autres débouchés sont
+<Sync time="904.414"/>
+plus lointains nous exportons un petit peu vers l'Europe de l'Est c'est un c'est un début
+<Sync time="909.525"/>
+
+<Sync time="910.009"/>
+on ne peut pas dire que ce soit encore très important
+<Sync time="912.01"/>
+
+<Sync time="912.76"/>
+nous avons l'Afrique du Sud nous exportons jusqu'en Australie au Canada
+<Sync time="916.213"/>
+
+<Sync time="916.916"/>
+et nous commençons à attaquer le marché américain dans des conditions euh assez bonnes
+<Sync time="920.837"/>
+
+<Sync time="921.353"/>
+après une période d'essai qui a évidemment été longue puisqu'il fallait qu'on passe par les homologations américaines
+<Sync time="926.337"/>
+
+<Sync time="926.712"/>
+que nous obtenons en ce moment euh pour la plupart d'une façon assez facile
+<Sync time="930.384"/>
+
+<Sync time="931.230"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="931.679"/>
+voici en ce qui concerne l'exportation donc on peut pas dire que ce soit le monde entier enfin c'est te- tout de même un certain nombre de pays assez bien répartis
+<Sync time="937.446"/>
+
+<Sync time="938.087"/>
+avec euh dans notre esprit l'idée de d'étendre notre champ d'action au-delà du marché commun qui euh
+<Sync time="945.196"/>
+qu'on peut considérer comme n'étant plus de l'exportation
+<Sync time="947.368"/>
+
+<Sync time="947.821"/>
+puisque c'est une communauté euh douanière
+<Sync time="949.774"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="950.274" endTime="957.321">
+<Sync time="950.274"/>
+hm
+<Sync time="950.602"/>
+
+<Sync time="951.118"/>
+et ce sont vos efforts personnels qui vous ont
+<Sync time="953.18"/>
+
+<Sync time="953.695"/>
+qui qui ont qui ont créé
+<Sync time="954.977"/>
+
+<Sync time="955.68"/>
+ces marchés
+<Sync time="956.727"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="957.321" endTime="957.743">
+<Sync time="957.321"/>
+oui
+</Turn>
+<Turn speaker="spk1 spk2" startTime="957.743" endTime="958.477">
+<Sync time="957.743"/>
+<Who nb="1"/>
+extérieurs
+<Who nb="2"/>
+nous avons
+</Turn>
+<Turn speaker="spk2" startTime="958.477" endTime="1065.552">
+<Sync time="958.477"/>
+nous avons euh
+<Sync time="960.289"/>
+
+<Sync time="961.149"/>
+obtenu les contacts avec l'étranger surtout
+<Sync time="963.727"/>
+
+<Sync time="964.368"/>
+par l'intermédiaire des s- du des salons spécialisés particulièrement du salon des composants électroniques à Paris qui est une
+<Sync time="969.868"/>
+
+<Sync time="970.462"/>
+
+<Event desc="liaison" type="pronounce" extent="instantaneous"/>
+ excellente manifestation pour nous parce qu'on y voit beaucoup de visiteurs
+<Sync time="974.649"/>
+
+<Sync time="975.384"/>
+qui euh le matériel euh leur plaisant et nos prix étant euh je pense compétitifs
+<Sync time="981.525"/>
+
+<Sync time="982.213"/>
+euh se sont adressés à nous sont devenus d'abord des clients et pour beaucoup des amis du reste je dois dire que nos agents euh tous nos agents étrangers sont devenus des amis euh
+<Sync time="989.37"/>
+
+<Sync time="990.214"/>
+euh très agréables et euh avec qui nous avons des les meilleurs contacts possibles
+<Sync time="994.323"/>
+
+<Sync time="995.808"/>
+nous faisons également un peu de prospection directe mais enfin euh
+<Sync time="999.605"/>
+
+<Sync time="1000.667"/>
+relativement peu euh sinon sur des sur des demandes spéciales
+<Sync time="1005.605"/>
+
+<Sync time="1006.37"/>
+et nous laissons à nos agents le soin de faire la publicité sur les pays euh
+<Sync time="1009.855"/>
+
+<Sync time="1010.261"/>
+sur les sur l- dans leur propre pays
+<Sync time="1011.934"/>
+
+<Sync time="1012.793"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="1013.278"/>
+
+<Sync time="1014.825"/>
+il fallait que dans le cadre d'une affaire en s- je vous ai dit tout à l'heure que nous étions installés en soixante-deux donc euh ça ne fait guère que huit ans
+<Sync time="1020.856"/>
+
+<Sync time="1021.459"/>
+notre développement a été tout de même très rapide
+<Sync time="1024.788"/>
+et euh il fallait que nous sachions accorder la demande avec nos possibilités de fabrication
+<Sync time="1030.523"/>
+
+<Sync time="1031.242"/>
+et euh s-
+<Sync time="1033.132"/>
+il y a encore de
+<Sync time="1034.163"/>
+
+<Sync time="1035.163"/>
+très é- très très importants euh très importantes possibilités de développement
+<Sync time="1040.132"/>
+
+<Sync time="1040.709"/>
+évidemment il faut savoir se limiter ne pas vouloir tout faire à la fois et c'est la raison pour laquelle
+<Sync time="1044.755"/>
+
+<Sync time="1045.551"/>
+nous ne
+<Sync time="1046.52"/>
+nous ne
+<Sync time="1048.379"/>
+nous n'allons que lentement vers le l'exportation de peur q-
+<Sync time="1051.692"/>
+on considère que
+<Sync time="1053.207"/>
+dans sur ces marchés-là il est très certainement nécessaire d'être très ponctuel au point de vue livraison et
+<Sync time="1058.631"/>
+
+<Sync time="1058.959"/>
+de pouvoir satisfaire la demande
+<Sync time="1060.146"/>
+
+<Sync time="1060.724"/>
+faut donc savoir ne pas la la solliciter de trop parce que après on ne peut plus répondre
+<Sync time="1064.614"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1065.552" endTime="1067.818">
+<Sync time="1065.552"/>
+votre production don- a donc beaucoup augmenté
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1067.818" endTime="1068.303">
+<Sync time="1067.818"/>
+<Who nb="1"/>
+depuis
+<Who nb="2"/>
+
+<Event desc="tx" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1068.303" endTime="1069.131">
+<Sync time="1068.303"/>
+huit ans ?
+</Turn>
+<Turn speaker="spk2" startTime="1069.131" endTime="1069.987">
+<Sync time="1069.131"/>
+nous avons augmenté de quarante
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1069.987" endTime="1070.508">
+<Sync time="1069.987"/>
+<Who nb="1"/>
+pourcents
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="1070.508" endTime="1093.288">
+<Sync time="1070.508"/>
+l'année en 
+<Sync time="1071.509"/>
+nous avons une progression moyenne de
+<Sync time="1073.943"/>
+
+<Sync time="1074.662"/>
+disons de l'ordre de vingt-cinq pourcents par an
+<Sync time="1076.396"/>
+
+<Sync time="1076.928"/>
+à peu près l'année dernière entre soixante euh huit et soixante-neuf de quarante virgule deux pourcents
+<Sync time="1081.412"/>
+
+<Sync time="1083.303"/>
+soixante-dix sera
+<Sync time="1084.772"/>
+
+<Sync time="1085.631"/>
+sans doute un peu inférieur volontairement du reste
+<Sync time="1087.912"/>
+
+<Sync time="1088.631"/>
+m'enfin elle sera de l'ordre de trente pourcents environ c'est ce que nous expé-
+<Sync time="1091.272"/>
+
+<Sync time="1091.679"/>
+nous espérons
+<Sync time="1092.429"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1093.288" endTime="1102.365">
+<Sync time="1093.288"/>
+est-ce que vous souhaitez
+<Sync time="1094.538"/>
+
+<Sync time="1094.929"/>
+euh augmenter
+<Sync time="1096.241"/>
+
+<Sync time="1096.945"/>
+beaucoup
+<Sync time="1097.695"/>
+
+<Sync time="1098.742"/>
+euh à l'avenir
+<Sync time="1099.648"/>
+
+<Sync time="1100.241"/>
+devenir une grande
+<Event desc="*grandre" type="pronounce" extent="previous"/>
+ entreprise ?
+</Turn>
+<Turn speaker="spk2" startTime="1102.365" endTime="1167.995">
+<Sync time="1102.365"/>
+une grande entreprise euh
+<Sync time="1104.037"/>
+non parce que je pense que dans notre métier
+<Sync time="1107.006"/>
+
+<Sync time="1108.462"/>
+qui est qui est une spécialité c'est-à-dire que euh voyez-vous une a- une affaire comme la nôtre ne pouvait
+<Sync time="1113.461"/>
+
+<Sync time="1114.118"/>
+sur le plan des des débouchés
+<Sync time="1116.587"/>
+
+<Sync time="1117.4"/>
+que se situer dans un créneau
+<Sync time="1118.868"/>
+où il y a relativement peu de 
+<Sync time="1121.166"/>
+concurrence il y en a mais enfin où il y a en relativement peu et c'est-à-dire que le nombre de concurrents est restreint
+<Sync time="1126.228"/>
+
+<Sync time="1127.229"/>
+certains sont extrêmement puissants nous avons par exemple euh Siemens qui est un
+<Sync time="1131.042"/>
+
+<Sync time="1131.76"/>
+on peut on peut même plus appelé ça un concurrent qui est également un que nous trouvons si vous voulez devant nous
+<Sync time="1136.417"/>
+
+<Sync time="1137.464"/>
+mais
+<Sync time="1137.932"/>
+
+<Sync time="1138.448"/>
+nous avons justement essayé de nous placer dans un créneau en fabriquant ce que
+<Sync time="1141.589"/>
+
+<Sync time="1142.074"/>
+les grosses entreprises ne veulent pas fabriquer
+<Sync time="1144.48"/>
+
+<Sync time="1145.527"/>
+ou en
+<Sync time="1146.34"/>
+
+<Sync time="1146.887"/>
+essayant de trouver un marché
+<Sync time="1148.401"/>
+pour des séries qui n'intéressent pas les très grandes entreprises
+<Sync time="1151.665"/>
+donc nous en- nous n'envisageons pas de devenir une très importante affaire
+<Sync time="1155.647"/>
+nous pensons continuer encore de nous développer sur cette base-là euh pendant un pendant un certain temps
+<Sync time="1160.946"/>
+espérant qu'une stabilisation interviendra euh
+<Sync time="1164.433"/>
+qui nous permette de travailler dans des meilleures conditions avec la meilleure rentabilité possible
+</Turn>
+<Turn speaker="spk1" startTime="1167.995" endTime="1173.619">
+<Sync time="1167.995"/>
+hm
+<Sync time="1168.526"/>
+
+<Sync time="1168.932"/>
+y a donc des avantages à rester
+<Sync time="1170.729"/>
+
+<Sync time="1171.589"/>
+hum moyenne
+<Sync time="1172.792"/>
+ou petite ?
+</Turn>
+<Turn speaker="spk2" startTime="1173.619" endTime="1174.072">
+<Sync time="1173.619"/>
+il y a
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1174.072" endTime="1174.775">
+<Sync time="1174.072"/>
+<Who nb="1"/>
+comment est-ce
+<Who nb="2"/>
+je pense
+</Turn>
+<Turn speaker="spk2" startTime="1174.775" endTime="1307.931">
+<Sync time="1174.775"/>
+dans notre métier des avantages à rester moyens
+<Sync time="1177.165"/>
+
+<Sync time="1177.993"/>
+le
+<Sync time="1179.227"/>
+
+<Sync time="1179.696"/>
+des avantages sur d- sur divers plans c'est d'abord que
+<Sync time="1183.242"/>
+
+<Sync time="1185.606"/>
+l'affaire euh
+<Sync time="1186.621"/>
+
+<Sync time="1187.199"/>
+une affaire de de
+<Sync time="1188.652"/>
+
+<Sync time="1189.824"/>
+telle que telle que la nôtre
+<Sync time="1191.7"/>
+
+<Sync time="1192.012"/>
+
+<Event desc="tx" type="noise" extent="instantaneous"/>
+
+<Sync time="1192.543"/>
+est en même temps un fabricant
+<Sync time="1194.497"/>
+
+<Sync time="1195.559"/>
+et très souvent un conseiller technique pour le client c'est-à-dire que
+<Sync time="1198.699"/>
+
+<Sync time="1201.23"/>
+quand un client a besoin d'acheter des relais
+<Sync time="1203.073"/>
+
+<Sync time="1204.338"/>
+très souvent il ne veut pas les déterminer lui-même et il veut faire confiance à un spécialiste
+<Sync time="1209.65"/>
+
+<Sync time="1210.697"/>
+ce qui fait que même les grosses entreprises et même les grandes administrations nous consultent
+<Sync time="1215.602"/>
+
+<Sync time="1216.571"/>
+directement nous posant leur problème à la base
+<Sync time="1219.945"/>
+et en nous disant voilà ce que nous voudrions faire
+<Sync time="1222.250"/>
+c'est à vous de nous dire quel type
+<Sync time="1224.23"/>
+
+<Sync time="1225.105"/>
+et euh conviendra quel type de votre fabrication conviendra et quelles caractéristiques il faut lui donner
+<Sync time="1230.777"/>
+
+<Sync time="1232.183"/>
+euh je pense qu'il est beaucoup plus facile d'avoir cette fonction de de de conseiller technique amical auprès des clients
+<Sync time="1238.136"/>
+
+<Sync time="1238.776"/>
+dans une petite entreprise que dans une très grande entreprise
+<Sync time="1241.504"/>
+ça reste possible c'est une question d'organisation enfin c'est tout de même plus facile
+<Sync time="1244.525"/>
+
+<Sync time="1245.182"/>
+d'autre part ça nous donne également une certaine souplesse qui nous permet
+<Sync time="1248.557"/>
+
+<Sync time="1249.057"/>
+à l'heure actuelle de dépanner
+<Sync time="1250.463"/>
+comme pour employer le le terme courant de dépanner un client qui se trouve manquer de pièces
+<Sync time="1255.306"/>
+
+<Sync time="1255.725"/>
+de le dépanner très vite
+<Sync time="1257.132"/>
+nous sommes très souples nous pouvons en quarante-huit heures modifier s'il le faut
+<Sync time="1260.165"/>
+
+<Sync time="1260.704"/>
+une fabrication pour lui donner satisfaction
+<Sync time="1263.040"/>
+
+<Sync time="1263.549"/>
+en espérant qu'il nous en tiendra gré et qu'il nous fera confiance encore plus dans l'avenir
+<Sync time="1266.729"/>
+
+<Sync time="1268.495"/>
+alors donc euh bien sûr on ne refuse pas de se développer mais enfin
+<Sync time="1271.62"/>
+
+<Sync time="1272.182"/>
+euh
+<Sync time="1272.979"/>
+
+<Sync time="1273.62"/>
+je ne pense pas que
+<Sync time="1274.776"/>
+
+<Sync time="1276.136"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+ que la formule
+<Sync time="1277.151"/>
+
+<Sync time="1277.667"/>
+que l'on emploie beaucoup maintenant de la taille européenne c'est un c'est un c'est un grand mot
+<Sync time="1281.464"/>
+
+<Sync time="1282.026"/>
+pour euh l'industrie
+<Sync time="1283.355"/>
+
+<Sync time="1284.886"/>
+je pense pas qu'il y ait une taille européenne pour un fabricant de relais c'est-à-dire qui puisse euh
+<Sync time="1288.415"/>
+
+<Sync time="1288.924"/>
+espérer euh couvrir à lui seul ou
+<Sync time="1293.744"/>
+ou avec un ou deux de ses confrères la totalité du marché
+<Sync time="1296.901"/>
+y aura toujours de la place pour les pour des entreprises moyennes
+<Sync time="1299.433"/>
+
+<Sync time="1299.972"/>
+euh souples
+<Sync time="1300.840"/>
+
+<Sync time="1301.319"/>
+faisant un bon matériel euh facilement adaptable et à des prix qui restent compétitifs
+<Sync time="1305.885"/>
+
+<Sync time="1307.416"/>
+voilà
+</Turn>
+<Turn speaker="spk1" startTime="1307.931" endTime="1312.399">
+<Sync time="1307.931"/>
+
+<Sync time="1308.493"/>
+vous êtes donc euh
+<Sync time="1309.759"/>
+
+<Sync time="1310.712"/>
+une entreprise moyenne vous diriez
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1312.399" endTime="1312.79">
+<Sync time="1312.399"/>
+<Who nb="1"/>
+et non
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1312.79" endTime="1313.571">
+<Sync time="1312.79"/>
+pas petite ?
+</Turn>
+<Turn speaker="spk2" startTime="1313.571" endTime="1314.243">
+<Sync time="1313.571"/>
+hum
+</Turn>
+<Turn speaker="spk1" startTime="1314.243" endTime="1315.025">
+<Sync time="1314.243"/>
+à
+</Turn>
+<Turn speaker="spk2" startTime="1315.025" endTime="1316.041">
+<Sync time="1315.025"/>
+entre petite et moyenne
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1316.041" endTime="1316.503">
+<Sync time="1316.041"/>
+<Who nb="1"/>
+nous employons
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="1316.503" endTime="1317.573">
+<Sync time="1316.503"/>
+environ soixante-dix personnes
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1317.573" endTime="1317.995">
+<Sync time="1317.573"/>
+<Who nb="1"/>
+on ne peut pas dire
+<Who nb="2"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="1317.995" endTime="1324.809">
+<Sync time="1317.995"/>
+que ce soit une entreprise moyenne ça n'est plus non plus une petite entreprise c'est
+<Sync time="1321.028"/>
+
+<Sync time="1321.606"/>
+c'est entre les deux c'est la la la petite entreprise moyenne si l'on veut
+</Turn>
+<Turn speaker="spk1" startTime="1324.809" endTime="1332.075">
+<Sync time="1324.809"/>
+ah oui ?
+<Sync time="1325.418"/>
+oui
+<Sync time="1326.215"/>
+
+<Sync time="1327.2"/>
+combien d'employés est-ce qu'il faudrait pour devenir une entreprise moyenne ou pour rester petite ?
+</Turn>
+<Turn speaker="spk2" startTime="1332.075" endTime="1346.341">
+<Sync time="1332.075"/>
+oh je pense qu'une entreprise euh l'entreprise moyenne dans notre métier commen- enfin se situe euh se situe entre cent cinquante et cinq cents personnes
+<Sync time="1340.497"/>
+
+<Sync time="1341.7"/>
+et
+<Sync time="1342.091"/>
+
+<Sync time="1343.559"/>
+nous nous sommes encore quand même dans les petites entreprises
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1346.341" endTime="1347.107">
+<Sync time="1346.341"/>
+<Who nb="1"/>
+si l'on veut c'est
+<Who nb="2"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="1347.107" endTime="1358.122">
+<Sync time="1347.107"/>
+c'est une entreprise qui peut qui peut rester dirigée par un par un état major petit ou qui reste
+<Sync time="1352.606"/>
+
+<Sync time="1353.105"/>
+euh à la portée de
+<Sync time="1354.887"/>
+
+<Sync time="1355.606"/>
+de d'un homme ou de quelques hommes pour la diriger
+</Turn>
+<Turn speaker="spk1" startTime="1358.122" endTime="1358.637">
+<Sync time="1358.122"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="1358.637" endTime="1360.934">
+<Sync time="1358.637"/>
+c'est relativement plus facile
+<Sync time="1360.418"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1360.934" endTime="1362.215">
+<Sync time="1360.934"/>
+soixante-dix employés donc
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1362.215" endTime="1364.433">
+<Sync time="1362.215"/>
+<Who nb="1"/>
+euh
+<Who nb="2"/>
+soixante-dix
+<Sync time="1362.684"/>
+<Who nb="1"/>
+actuellement
+<Who nb="2"/>
+en tout oui
+<Sync time="1363.84"/>
+<Who nb="1"/>
+et en soixante-
+<Who nb="2"/>
+oui c'est ça
+</Turn>
+<Turn speaker="spk1" startTime="1364.433" endTime="1365.328">
+<Sync time="1364.433"/>
+deux combien
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1365.328" endTime="1366.089">
+<Sync time="1365.328"/>
+<Who nb="1"/>
+est-ce que vous avez ?
+<Who nb="2"/>
+oh en soixante-deux
+</Turn>
+<Turn speaker="spk2" startTime="1366.089" endTime="1367.792">
+<Sync time="1366.089"/>
+nous avons commencé avec six personnes
+</Turn>
+<Turn speaker="spk1" startTime="1367.792" endTime="1368.417">
+<Sync time="1367.792"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="1368.417" endTime="1376.73">
+<Sync time="1368.417"/>
+
+<Sync time="1369.167"/>
+ça nous avons multiplié par dix ce qui représente beaucoup plus de dix en
+<Sync time="1372.339"/>
+
+<Sync time="1372.777"/>
+résultat puisqu'évidemment les techniques ont évolué et la mécanisation est intervenue
+</Turn>
+<Turn speaker="spk1" startTime="1376.73" endTime="1377.574">
+<Sync time="1376.73"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="1377.574" endTime="1381.615">
+<Sync time="1377.574"/>
+
+<Sync time="1378.449"/>
+euh enfin nous étions six quand nous avons emménagé ici
+</Turn>
+<Turn speaker="spk1" startTime="1381.615" endTime="1384.98">
+<Sync time="1381.615"/>
+hm hm
+<Sync time="1382.236"/>
+
+<Sync time="1382.683"/>
+et surtout du personnel très qualifié ?
+</Turn>
+<Turn speaker="spk2" startTime="1384.98" endTime="1386.292">
+<Sync time="1384.98"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1386.292" endTime="1387.557">
+<Sync time="1386.292"/>
+<Who nb="1"/>
+du personnel qualifié
+<Who nb="2"/>
+
+<Event desc="pif" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1387.557" endTime="1444.202">
+<Sync time="1387.557"/>
+par exemple à l'outillage et à la mécanique où on fabrique nous-mêmes nos outils nos moules
+<Sync time="1391.626"/>
+et où on fait nos pièces euh détachées
+<Sync time="1393.885"/>
+
+<Sync time="1394.588"/>
+du qu- personnel qualifié au contrôle
+<Sync time="1397.072"/>
+
+<Sync time="1397.759"/>
+et aux études
+<Sync time="1398.619"/>
+
+<Sync time="1399.103"/>
+du personnel euh spécialisé que nous spécialisons
+<Event desc="*spécialisan-zons" type="pronounce" extent="previous"/>
+ nous-mêmes
+<Sync time="1403.431"/>
+
+<Sync time="1404.134"/>
+à la fabrication proprement dite
+<Sync time="1405.556"/>
+
+<Sync time="1405.821"/>
+nous avons par exemple des femmes qui font du bobinage de fil très fin puisqu'on bobine à partir de
+<Sync time="1409.555"/>
+
+<Sync time="1410.289"/>
+deux centièmes de millimètre
+<Sync time="1411.743"/>
+
+<Sync time="1412.258"/>
+c'est évidemment très fin c'est le le quart d'un cheveu pratiquement
+<Sync time="1415.367"/>
+
+<Sync time="1416.351"/>
+euh c'est un personnel
+<Sync time="1418.475"/>
+
+<Sync time="1419.037"/>
+très spécialisé mais que nous avons du former nous-mêmes puisqu'il était bien évident que sur Orléans euh nous étions les seuls à avoir ce genre de travail
+<Sync time="1425.396"/>
+
+<Sync time="1425.974"/>
+et on ne pouvait pas trouver de de spécialistes l'ayant déjà fait
+<Sync time="1429.114"/>
+il a donc fallu que nous prenions
+<Sync time="1430.791"/>
+des ouvrières qui ét- avaient les doigts euh habiles
+<Sync time="1433.504"/>
+
+<Sync time="1433.863"/>
+que nous commencions à les faire travailler sur une euh
+<Sync time="1436.05"/>
+
+<Sync time="1436.44"/>
+des fils
+<Sync time="1437.018"/>
+
+<Sync time="1437.346"/>
+relativement gros
+<Sync time="1438.456"/>
+puis petit à petit en quelques mois descendre des sections jusqu'à ce qu'elle sachent travailler des fils très fins
+</Turn>
+<Turn speaker="spk1" startTime="1444.202" endTime="1445.222">
+<Sync time="1444.202"/>
+hm
+<Sync time="1444.673"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1445.222" endTime="1457.424">
+<Sync time="1445.222"/>
+donc euh personnel très qualifié au contrôle et à la et à la
+<Sync time="1449.651"/>
+à l'élaboration si on peut dire aussi bien des outillages que des que des études
+<Sync time="1453.222"/>
+
+<Sync time="1454.112"/>
+et euh spécialisé au niveau de la fabrication
+</Turn>
+<Turn speaker="spk1" startTime="1457.424" endTime="1464.126">
+<Sync time="1457.424"/>
+hm
+<Sync time="1457.795"/>
+
+<Sync time="1458.517"/>
+et avec quel certificat est-ce que vous les prenez les ces ouvrières que vous formez ?
+</Turn>
+<Turn speaker="spk2" startTime="1464.126" endTime="1503.716">
+<Sync time="1464.126"/>
+
+<Sync time="1465.079"/>
+oh euh elles viennent nous n- nous ne pouvons pas leur demander de certificat puisque encore une fois nous sommes
+<Sync time="1470.169"/>
+
+<Sync time="1470.903"/>
+les seuls sur Orléans à avoir ce genre de fabrication
+<Sync time="1473.2"/>
+
+<Sync time="1473.841"/>
+nous cherchons surtout euh la fa- une facilité d'adaptation nous leur faisons passer un test assez rapide qui est un test type
+<Sync time="1479.779"/>
+
+<Sync time="1480.592"/>
+et euh nous leur demandons surtout une grande dextérité manuelle
+<Sync time="1484.811"/>
+
+<Sync time="1485.639"/>
+une faculté d'adaptation puisque petite entreprise elles peuvent être appelées
+<Sync time="1489.389"/>
+
+<Sync time="1489.936"/>
+à avoir des postes
+<Sync time="1491.874"/>
+
+<Sync time="1492.467"/>
+et des travaux
+<Sync time="1493.874"/>
+
+<Sync time="1494.374"/>
+légèrement différenciés qui restent toujours dans la même spécialité mais enfin
+<Sync time="1497.733"/>
+
+<Sync time="1498.233"/>
+euh légèrement différents
+<Sync time="1499.389"/>
+
+<Sync time="1500.014"/>
+et surtout euh également une bonne acuité visuelle
+</Turn>
+<Turn speaker="spk1" startTime="1503.716" endTime="1504.239">
+<Sync time="1503.716"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="1504.239" endTime="1536.906">
+<Sync time="1504.239"/>
+
+<Sync time="1505.638"/>
+et ce test permet de déceler euh en
+<Sync time="1508.669"/>
+un premier test en très peu de temps euh si elles si cela mérite qu'elles passent un essai ou pas
+<Sync time="1513.357"/>
+
+<Sync time="1513.716"/>
+et un essai de huit jours permet de savoir si elles sont assez habiles ou
+<Sync time="1516.607"/>
+et si elles ont un rendement convenable ou pas
+<Sync time="1518.785"/>
+de toute façon à partir du moment où on les embauche comme elles n'ont jamais fait ce métier il faut que nous comptions
+<Sync time="1522.561"/>
+
+<Sync time="1523.217"/>
+suivant les postes un délai ent- euh compris entre euh
+<Sync time="1525.889"/>
+
+<Sync time="1526.389"/>
+euh trois semaines et et trois mois pour qu'elles deviennent euh 
+<Sync time="1530.851"/>
+
+<Sync time="1531.733"/>
+habiles et et et rentables enfin qu'elles a- qu'elles assurent un travail rentable
+<Sync time="1535.999"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1536.906" endTime="1539.655">
+<Sync time="1536.906"/>
+quelle est la proportion d'hommes et de femmes ?
+<Sync time="1539.077"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1539.655" endTime="1540.249">
+<Sync time="1539.655"/>
+<Who nb="1"/>
+que vous employez ?
+<Who nb="2"/>
+il y a
+</Turn>
+<Turn speaker="spk2" startTime="1540.249" endTime="1546.811">
+<Sync time="1540.249"/>
+environ quatre-vingt pourcents de femmes et vingt pourcents d'hommes y a environ euh cinquante et cinquante et quelques femmes et le reste d'hommes
+<Sync time="1546.327"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1546.811" endTime="1550.123">
+<Sync time="1546.811"/>
+hm hm
+<Sync time="1547.171"/>
+et le personnel le plus expert c'est masculin plutôt ?
+</Turn>
+<Turn speaker="spk2" startTime="1550.123" endTime="1571.574">
+<Sync time="1550.123"/>
+le personnel le plus expert est masculin oui bien sûr au niveau euh contrôle et au niveau euh outillage ce sont des spécialistes eux qui sont diplômés alors qui ont
+<Sync time="1558.331"/>
+
+<Sync time="1558.722"/>
+il y a un ingénieur il y a un agent technique diplômé
+<Sync time="1561.387"/>
+
+<Sync time="1561.846"/>
+il y a euh des outilleurs qui ont leur euh
+<Sync time="1565.481"/>
+qui sont des spécialistes du petit outillage du petit outil à découper ou du moule de matière plastique
+<Sync time="1570.246"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1571.574" endTime="1577.324">
+<Sync time="1571.574"/>
+et ce personnel-là je crois que vous avez dit vous s- vous trouvez difficile
+<Sync time="1574.731"/>
+hum
+<Sync time="1575.856"/>
+de trouver ici à Orléans ?
+</Turn>
+<Turn speaker="spk2" startTime="1577.324" endTime="1631.069">
+<Sync time="1577.324"/>
+c'est assez difficile de le trouver euh surtout si l'on cherche
+<Sync time="1581.949"/>
+
+<Sync time="1583.246"/>
+en même temps qu'une bonne qualification professionnelle un rendement valable
+<Sync time="1586.636"/>
+
+<Sync time="1587.402"/>
+c'était peut-être un des petits euh reproches qu'on peut faire à la province c'est que la m- la main d'oeuvre n'est pas encore
+<Sync time="1593.761"/>
+
+<Sync time="1594.542"/>
+euh adaptée à l'industrie moderne qui veut que l'on ait tout de même un rendement suffisant
+<Sync time="1600.417"/>
+
+<Sync time="1600.917"/>
+c'est nécessaire c'est une c'est une plaie de notre temps mais enfin
+<Sync time="1604.339"/>
+
+<Sync time="1604.823"/>
+euh une entreprise ne vit que parce qu'elle euh
+<Sync time="1607.511"/>
+
+<Sync time="1607.995"/>
+qu'- qu'à cause de ce qu'elle vend et ce qu'elle vend il faut qu'elle le produise dans de bonnes conditions la concurrence étant là
+<Sync time="1612.667"/>
+
+<Sync time="1613.338"/>
+pour lui rappeler qu'elle ne peut pas le vendre si c'est trop cher
+<Sync time="1615.556"/>
+
+<Sync time="1615.931"/>
+faut donc bien que tout se répercute à à tous les niveaux depuis le
+<Sync time="1619.135"/>
+
+<Sync time="1619.745"/>
+le
+<Sync time="1620.495"/>
+
+<Sync time="1621.417"/>
+l'employé euh
+<Sync time="1622.589"/>
+
+<Sync time="1623.386"/>
+le moins spécialisé jusqu'au au cadre supérieur pour que le rendement soit
+<Sync time="1628.089"/>
+
+<Sync time="1628.573"/>
+au moins suffisant pour permettre à l'entreprise de vivre
+</Turn>
+<Turn speaker="spk1" startTime="1631.069" endTime="1631.526">
+<Sync time="1631.069"/>
+hm
+</Turn>
+<Turn speaker="spk2" startTime="1631.526" endTime="1636.541">
+<Sync time="1631.526"/>
+et si possible d'aller au-delà de façon à ce que tout le monde en profite
+<Sync time="1634.026"/>
+c'est un c'est le problème social de notre époque je crois
+</Turn>
+<Turn speaker="spk1" startTime="1636.541" endTime="1637.323">
+<Sync time="1636.541"/>
+hm
+</Turn>
+<Turn speaker="spk2" startTime="1637.323" endTime="1666.327">
+<Sync time="1637.323"/>
+et en province évidemment on a un petit peu cet inconvénient c'est que
+<Sync time="1641.23"/>
+
+<Sync time="1641.761"/>
+euh il n'y a pas d'atavisme il n'y a pas de
+<Sync time="1644.699"/>
+
+<Sync time="1645.231"/>
+de d'expériences
+<Sync time="1647.168"/>
+
+<Sync time="1647.95"/>
+industrielles dans cette dans notre région dans la région centre
+<Sync time="1651.278"/>
+et euh évidemment la main d'oeuvre est peut-être un peu lente c'est ce qu'on peut lui reprocher
+<Sync time="1655.34"/>
+par contre elle a d'autres avan- d'autres qualités elle est fidèle elle est
+<Sync time="1658.623"/>
+
+<Sync time="1659.216"/>
+elle a elle bouge moins elle ne change pas d'emploi pour un oui pour un non elle préfère une place stable
+<Sync time="1664.905"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1666.327" endTime="1670.436">
+<Sync time="1666.327"/>
+oui justement c'est ce que je suis allée voir monsieur NPERS euh chez 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1670.436" endTime="1670.945">
+<Sync time="1670.436"/>
+<Who nb="1"/>
+Renault
+<Who nb="2"/>
+hm
+</Turn>
+<Turn speaker="spk2" startTime="1670.945" endTime="1671.484">
+<Sync time="1670.945"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1671.484" endTime="1677.186">
+<Sync time="1671.484"/>
+qui m'a dit que
+<Sync time="1672.749"/>
+
+<Sync time="1673.062"/>
+c'est
+<Sync time="1673.874"/>
+
+<Sync time="1674.561"/>
+oui c'est un avantage mais ça peut au- aussi être
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1677.186" endTime="1679.873">
+<Sync time="1677.186"/>
+<Who nb="1"/>
+un léger désavantage
+<Who nb="2"/>
+c'est aussi c'est
+<Sync time="1678.703"/>
+<Who nb="1"/>
+parce que
+<Who nb="2"/>
+aussi un inconvénient
+</Turn>
+<Turn speaker="spk2" startTime="1679.873" endTime="1680.279">
+<Sync time="1679.873"/>
+puisque
+</Turn>
+<Turn speaker="spk1" startTime="1680.279" endTime="1681.357">
+<Sync time="1680.279"/>
+on y est on y reste
+</Turn>
+<Turn speaker="spk2" startTime="1681.357" endTime="1681.732">
+<Sync time="1681.357"/>
+quand on
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1681.732" endTime="1682.436">
+<Sync time="1681.732"/>
+<Who nb="1"/>
+cherche
+<Who nb="2"/>
+voilà
+</Turn>
+<Turn speaker="spk2" startTime="1682.436" endTime="1690.703">
+<Sync time="1682.436"/>
+quand on cherche un nouveau un nouvel employé on a du mal à le trouver étant donné qu'il est
+<Sync time="1686.187"/>
+dans une autre place où il entend rester
+<Sync time="1688.047"/>
+faut vraiment qu'il y ait des conditions spéciales pour qu'il la quitte
+</Turn>
+<Turn speaker="spk1" startTime="1690.703" endTime="1691.546">
+<Sync time="1690.703"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="1691.546" endTime="1725.235">
+<Sync time="1691.546"/>
+enfin il y a une émigration importante beaucoup de
+<Sync time="1694.468"/>
+beaucoup de gens de Paris viennent euh vers la région et d'autres régions de France également
+<Sync time="1698.843"/>
+
+<Sync time="1700.187"/>
+le problème de main d'oeuvre a été très difficile l'année dernière il est
+<Sync time="1703.64"/>
+
+<Sync time="1704.015"/>
+
+<Event desc="liaison t'en train" type="pronounce" extent="next"/>
+ en train je crois de se de s'arranger je crois que
+<Sync time="1707.39"/>
+c'est une question de patience que
+<Sync time="1709.797"/>
+qu'un peu de temps euh 
+<Sync time="1711.235"/>
+
+<Sync time="1711.744"/>
+un peu de temps pour qu'il y ait un un réservoir de main d'oeuvre suffisant
+<Sync time="1714.609"/>
+
+<Sync time="1715.765"/>
+est encore nécessaire
+<Sync time="1717.078"/>
+et encore un peu plus de temps pour que la qualification se dégage de
+<Sync time="1720.469"/>
+
+<Sync time="1721.188"/>
+de la
+<Sync time="1722.0"/>
+
+<Sync time="1722.594"/>
+de l'évolution industrielle de la région
+<Sync time="1724.391"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1725.235" endTime="1725.625">
+<Sync time="1725.235"/>
+hm
+</Turn>
+<Turn speaker="spk2" startTime="1725.625" endTime="1736.907">
+<Sync time="1725.625"/>
+
+<Sync time="1726.141"/>
+il est incontestable que plus il y a d'usines dans une région plus la main d'oeuvre euh
+<Sync time="1730.235"/>
+
+<Sync time="1730.735"/>
+se forme
+<Sync time="1731.626"/>
+
+<Sync time="1732.016"/>
+au fur et à mesure des différentes installations et des différents passages qu'elle peut faire
+<Sync time="1735.61"/>
+dans les différentes usines
+</Turn>
+<Turn speaker="spk1" startTime="1736.907" endTime="1743.237">
+<Sync time="1736.907"/>
+hm
+<Sync time="1737.439"/>
+
+<Sync time="1738.299"/>
+ah oui
+<Sync time="1738.768"/>
+comment est-ce que les salaires sont fixés est-ce que il y a des conventions collectives
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1743.237" endTime="1743.94">
+<Sync time="1743.237"/>
+<Who nb="1"/>
+ou que ?
+<Who nb="2"/>
+nous dépendons de la
+</Turn>
+<Turn speaker="spk2" startTime="1743.94" endTime="1746.706">
+<Sync time="1743.94"/>
+convention collective des métaux que nous suivons évidemment
+<Sync time="1746.409"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1746.706" endTime="1747.08">
+<Sync time="1746.706"/>
+hm
+</Turn>
+<Turn speaker="spk2" startTime="1747.08" endTime="1766.234">
+<Sync time="1747.08"/>
+et puis il y a euh
+<Sync time="1749.315"/>
+les salaires sont fixés par catégorie et par spécialisation
+<Sync time="1753.908"/>
+
+<Sync time="1754.58"/>
+euh une prime étant attribuée euh
+<Sync time="1758.995"/>
+
+<Sync time="1759.445"/>
+proportionnellement
+<Sync time="1760.578"/>
+
+<Sync time="1761.001"/>
+pour certains postes proportionnellement au rendement
+<Sync time="1763.265"/>
+
+<Sync time="1763.843"/>
+de façon à encourager les meilleurs éléments
+<Sync time="1765.359"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1766.234" endTime="1774.014">
+<Sync time="1766.234"/>
+hm hm
+<Sync time="1766.812"/>
+
+<Sync time="1768.843"/>
+et est-ce que
+<Sync time="1770.046"/>
+
+<Sync time="1770.608"/>
+est-ce qu'il y a un syndicat de la maison je crois que certaines ?
+</Turn>
+<Turn speaker="spk2" startTime="1774.014" endTime="1801.392">
+<Sync time="1774.014"/>
+il y a euh une déléguée syndicale dans la maison oui mais enfin nous n'avons pas
+<Sync time="1779.177"/>
+nous n'avons pas de problèmes sociaux nous avons eu des grèves en cinquante-huit en soixante-huit comme tout le monde bien sûr
+<Sync time="1783.624"/>
+
+<Sync time="1784.265"/>
+mais enfin nous n'avons pas de problèmes particuliers ça se passe la maison est encore assez petite également pour que le climat social ne soit pas trop mauvais
+<Sync time="1789.984"/>
+
+<Sync time="1790.468"/>
+tout le monde me connaît je connais tout le monde donc je peux
+<Sync time="1792.843"/>
+
+<Sync time="1793.39"/>
+euh
+<Sync time="1793.937"/>
+quand il y a des quelques difficultés qui surgissent je peux en général euh l'aplanir euh
+<Sync time="1799.234"/>
+
+<Sync time="1799.687"/>
+d'homme à homme ou d'homme à femme puisque
+</Turn>
+<Turn speaker="spk1" startTime="1801.392" endTime="1802.031">
+<Sync time="1801.392"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="1802.031" endTime="1813.922">
+<Sync time="1802.031"/>
+c'est un vou- nous avons beaucoup de personnel féminin
+<Sync time="1804.719"/>
+
+<Sync time="1805.734"/>
+enfin
+<Event desc="*fin" type="pronounce" extent="previous"/>
+ nous n'avons pas de gros problèmes sociaux
+<Sync time="1807.53"/>
+
+<Sync time="1807.921"/>
+il y en a comme partout bien sûr
+<Sync time="1809.64"/>
+
+<Sync time="1810.421"/>
+c'est normal chacun voudrait euh gagner plus
+<Sync time="1813.375"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1813.922" endTime="1814.313">
+<Sync time="1813.922"/>
+hm
+</Turn>
+<Turn speaker="spk2" startTime="1814.313" endTime="1820.765">
+<Sync time="1814.313"/>
+nous ne pouvons pas toujours le faire nous ne pouvons pas toujours donner satisfaction quand on peut le faire on est content de la faire parce que dans le fond c'est normal
+<Sync time="1820.094"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1820.765" endTime="1823.921">
+<Sync time="1820.765"/>
+est-ce que la mensualisation vous affecte déjà ?
+</Turn>
+<Turn speaker="spk2" startTime="1823.921" endTime="1894.034">
+<Sync time="1823.921"/>
+
+<Sync time="1824.734"/>
+elle va je ne sais pas encore nous n'avons pas encore le texte exact de la loi
+<Sync time="1829.67"/>
+
+<Sync time="1830.029"/>
+toute façon euh ça n'est pas extrêmement grave ça représente évidemment une augmentation du prix de revient
+<Sync time="1835.465"/>
+not- de nos prix de revient
+<Sync time="1836.733"/>
+
+<Sync time="1837.358"/>
+nous risquons d'être obligés de la répercuter sur nos clients si ça t- ça dépasse la la possibilité que nous avons de les
+<Sync time="1842.406"/>
+
+<Sync time="1842.952"/>
+de les absorber nous-mêmes
+<Sync time="1845.171"/>
+
+<Sync time="1846.046"/>
+enfin euh disons que encore une fois la taille de l'entreprise fait que ça n'est pas un énorme problème
+<Sync time="1850.906"/>
+
+<Sync time="1851.718"/>
+ça doit pouvoir s'arranger assez bien du reste nous avons
+<Sync time="1853.749"/>
+
+<Sync time="1854.343"/>
+déjà euh une
+<Sync time="1855.702"/>
+
+<Sync time="1856.859"/>
+vingtaine de personnes en dehors des cadres qui sont qui sont mensualisées pour euh certains comme les
+<Sync time="1862.359"/>
+
+<Sync time="1862.968"/>
+les les chefs d'équipe le sont depuis longtemps et
+<Sync time="1867.141"/>
+
+<Sync time="1867.829"/>
+euh on s'arrange même dans le cas où
+<Sync time="1870.954"/>
+
+<Sync time="1872.142"/>
+ils n'ont la mensualisa- enfin ils n'étaient pas payés comme mensuels
+<Sync time="1875.736"/>
+
+<Sync time="1876.157"/>
+nous nous sommes toujours arrangés pour qu'y ait pas de mois creux
+<Sync time="1878.579"/>
+et qu'il n'y ait pas de de gros problèmes
+<Sync time="1880.501"/>
+c'est sur le problème des absences que ce sera le plus difficile surtout avec les femmes mais enfin il faudra qu'on trouve une formule pour que
+<Sync time="1885.251"/>
+
+<Sync time="1885.798"/>
+tout de même celles qui sont pas absentes
+<Sync time="1888.002"/>
+
+<Sync time="1888.549"/>
+ne soient pas perdantes par rapport à celles qui le sont souvent parce qu'y a pas de raison
+<Sync time="1891.455"/>
+
+<Sync time="1892.112"/>
+question de justice à ce moment-là simplement
+</Turn>
+<Turn speaker="spk1" startTime="1894.034" endTime="1906.334">
+<Sync time="1894.034"/>
+hm
+<Sync time="1894.488"/>
+
+<Sync time="1897.91"/>
+euh
+<Sync time="1898.316"/>
+
+<Sync time="1899.441"/>
+on lit souvent dans les journaux
+<Sync time="1901.551"/>
+
+<Sync time="1902.114"/>
+enfin nous qui sommes étrangers nous nous nous remarquons
+<Sync time="1905.146"/>
+
+<Sync time="1905.615"/>
+dans les journaux
+</Turn>
+<Turn speaker="spk2" startTime="1906.334" endTime="1906.677">
+<Sync time="1906.334"/>
+
+<Event desc="tx" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1906.677" endTime="1920.08">
+<Sync time="1906.677"/>
+une espèce de soi-disant
+<Event desc="*zidan" type="pronounce" extent="previous"/>
+ soi-disant lutte
+<Sync time="1910.115"/>
+
+<Sync time="1910.975"/>
+entre les petits et les grands
+<Sync time="1913.851"/>
+
+<Sync time="1914.944"/>
+surtout cette année on rana- on a remarqué des tensions entre les petits magasins
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1920.08" endTime="1920.596">
+<Sync time="1920.08"/>
+<Who nb="1"/>
+ou les
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1920.596" endTime="1923.862">
+<Sync time="1920.596"/>
+petites boutiques et les grandes ce qu'on appelle les grandes surfaces
+</Turn>
+<Turn speaker="spk2" startTime="1923.862" endTime="1924.612">
+<Sync time="1923.862"/>
+alors
+<Sync time="1924.19"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1924.612" endTime="1925.737">
+<Sync time="1924.612"/>
+est-ce que ?
+<Sync time="1925.393"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1925.737" endTime="1928.518">
+<Sync time="1925.737"/>
+c'est très exact pour le commerce je crois
+</Turn>
+<Turn speaker="spk1" startTime="1928.518" endTime="1929.278">
+<Sync time="1928.518"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="1929.278" endTime="1978.519">
+<Sync time="1929.278"/>
+euh
+<Sync time="1930.392"/>
+
+<Sync time="1931.283"/>
+à mon avis du reste c'est un problème qui sort un peu de de du cadre de notre entretien d'aujourd'hui
+<Sync time="1935.736"/>
+
+<Sync time="1936.58"/>
+euh
+<Sync time="1937.283"/>
+
+<Sync time="1937.986"/>
+à mon avis les petits commerçants n'ont pas compris
+<Sync time="1940.658"/>
+
+<Sync time="1941.22"/>
+et n'ont pas voulu admettre l'évolution de la vie euh actuelle qui fait que
+<Sync time="1945.314"/>
+
+<Sync time="1946.064"/>
+euh ils ils cherchent à aller contre une chose inéluctable
+<Sync time="1949.767"/>
+
+<Sync time="1950.595"/>
+euh c'est un petit peu comme si le
+<Sync time="1952.579"/>
+
+<Sync time="1953.095"/>
+fabricant de chandelles ne voulait pas qu'on installe l'électricité parce qu'il ne vendrait plus de chandelles
+<Sync time="1957.251"/>
+
+<Sync time="1957.783"/>
+il est évident que la vie moderne fait que les grandes su- les grands magasins et les grandes surfaces
+<Sync time="1961.018"/>
+
+<Sync time="1961.455"/>
+représentent tellement d'avantages et tellement de
+<Sync time="1963.69"/>
+
+<Sync time="1964.377"/>
+de de confort pour le l'acheteur
+<Sync time="1966.971"/>
+
+<Sync time="1967.627"/>
+que
+<Sync time="1968.233"/>
+elles ne peuvent pas ne pas se développer
+<Sync time="1969.909"/>
+
+<Sync time="1970.738"/>
+par contre les petits commerçants dans la mesure où ils euh
+<Sync time="1973.879"/>
+
+<Sync time="1974.394"/>
+ch- où ils apportent
+<Sync time="1975.815"/>
+une euh
+<Sync time="1977.253"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1978.519" endTime="1987.457">
+<Sync time="1978.519"/>
+euh
+<Sync time="1979.019"/>
+
+<Sync time="1979.582"/>
+j'allais vous demander si cette
+<Sync time="1981.645"/>
+
+<Sync time="1982.379"/>
+cette espèce de tension entre les petits et les grands
+<Sync time="1984.504"/>
+
+<Sync time="1984.895"/>
+vous la sentez vous-même en tant que
+</Turn>
+<Turn speaker="spk2" startTime="1987.457" endTime="2005.394">
+<Sync time="1987.457"/>
+non absolument pas dans notre métier au contraire nous travaillons avec de notre clientèle est presqu'exclusivement composée de très grandes firmes
+<Sync time="1993.647"/>
+nous travaillons avec euh je peux dire des noms la société Thoms- avec Thomson avec euh
+<Sync time="1998.363"/>
+
+<Sync time="1998.832"/>
+euh Electrolux avec des firmes mondialement connues
+<Sync time="2002.754"/>
+
+<Sync time="2003.394"/>
+et nous avons les meilleurs rapports avec nos clients
+</Turn>
+<Turn speaker="spk1" startTime="2005.394" endTime="2005.894">
+<Sync time="2005.394"/>
+hm
+</Turn>
+<Turn speaker="spk2" startTime="2005.894" endTime="2044.468">
+<Sync time="2005.894"/>
+nous pouvons pas dire qu'il y a une euh
+<Sync time="2007.488"/>
+
+<Sync time="2008.003"/>
+un euh une opposition entre nous euh
+<Sync time="2011.549"/>
+
+<Sync time="2013.69"/>
+absolument pas enfin il y a
+<Sync time="2015.205"/>
+il y a les problèmes généraux entre clients et fournisseurs à l'heure actuelle c'est-à-dire
+<Sync time="2018.409"/>
+
+<Sync time="2018.878"/>
+le fait que euh nous avons affaire à de très grosses euh firmes
+<Sync time="2022.863"/>
+
+<Sync time="2023.472"/>
+et qu'il est nécessaire que nous sachions euh manoeuvrer pour joindre les gens
+<Sync time="2028.175"/>
+
+<Sync time="2028.909"/>
+euh ne serait-ce que pour obtenir nos règlements ou d-
+<Sync time="2032.048"/>
+
+<Sync time="2032.611"/>
+des des des choses des problèmes comme ceux-ci
+<Sync time="2034.908"/>
+
+<Sync time="2035.752"/>
+mais euh jamais on ne nous oppose le fait que nous sommes de p- des petits par rapport à des grands
+<Sync time="2040.221"/>
+
+<Sync time="2040.596"/>
+jamais dans not- je crois que ce n'est pas vrai dans l'industrie du reste je crois que ça n'est vrai que dans le commerce
+</Turn>
+<Turn speaker="spk1" startTime="2044.468" endTime="2045.049">
+<Sync time="2044.468"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="2045.049" endTime="2049.063">
+<Sync time="2045.049"/>
+je crois que ça n'est pas vrai dans le commerce parce qu'y a un y a un malentendu à la base
+<Sync time="2047.984"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2049.063" endTime="2058.451">
+<Sync time="2049.063"/>
+hm
+<Sync time="2049.61"/>
+
+<Sync time="2051.593"/>
+donc enfin
+<Sync time="2052.811"/>
+
+<Sync time="2053.171"/>
+euh votre euh
+<Sync time="2054.233"/>
+
+<Sync time="2054.702"/>
+venue ici à Orléans vous a
+<Sync time="2056.796"/>
+
+<Sync time="2057.655"/>
+vous a réussi ?
+</Turn>
+<Turn speaker="spk2" startTime="2058.451" endTime="2115.623">
+<Sync time="2058.451"/>
+
+<Sync time="2060.03"/>
+nous pouvons euh dire que dans l'ensemble euh le le fait d'être venus à Orléans ne nous a pas
+<Sync time="2065.874"/>
+euh le moins du monde handicapé au contraire
+<Sync time="2069.531"/>
+
+<Sync time="2070.219"/>
+on a trouvé une ambiance plutôt sympathique bien qu'Orléans soit une ville assez fermée c'était resté une ville de province
+<Sync time="2076.156"/>
+
+<Sync time="2076.734"/>
+elle est en train de se de se modifier et de se moderniser de
+<Sync time="2080.546"/>
+
+<Sync time="2081.109"/>
+faire sa mutation comme on dit à l'heure actuelle
+<Sync time="2083.125"/>
+
+<Sync time="2084.406"/>
+et il est exact que nous y avons trouvé un certain nombre d'avantages ne serait-ce encore une fois que le confort du travail par le
+<Sync time="2091.328"/>
+
+<Sync time="2091.922"/>
+le le calme relatif
+<Sync time="2094.672"/>
+
+<Sync time="2095.453"/>
+plus grand que l'on y trouve que par rapport à Paris
+<Sync time="2097.797"/>
+
+<Sync time="2098.587"/>
+je veux dire calme relatif parce que dans les affaires industrielles modernes il est bien diffic- difficile d'être au calme le téléphone sonne aussi souvent qu'à Paris
+<Sync time="2105.344"/>
+enfin
+<Sync time="2106.031"/>
+ne serait-ce que le fait de pouvoir traverser la ville sans sans énervement et sans rencontrer deux cents feux rouges
+<Sync time="2111.313"/>
+
+<Sync time="2111.906"/>
+et des embouteillages c'est tout de même déjà quelque chose d'appréciable
+<Sync time="2114.547"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2115.623" endTime="2123.688">
+<Sync time="2115.623"/>
+oui une des choses qui qui nous a intéressée je crois à Orléans c'est justement ce mélange de
+<Sync time="2120.719"/>
+
+<Sync time="2121.547"/>
+euh de traditions
+<Sync time="2123.235"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2123.688" endTime="2124.016">
+<Sync time="2123.688"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2124.016" endTime="2126.407">
+<Sync time="2124.016"/>
+
+<Sync time="2124.407"/>
+et de renouvellements
+</Turn>
+<Turn speaker="spk2" startTime="2126.407" endTime="2126.845">
+<Sync time="2126.407"/>
+c'est ça oui
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2126.845" endTime="2128.345">
+<Sync time="2126.845"/>
+<Who nb="1"/>
+de de 
+<Who nb="2"/>
+je
+<Sync time="2127.439"/>
+<Who nb="1"/>
+marches vers l'avenir
+<Who nb="2"/>
+crois que c'-
+</Turn>
+<Turn speaker="spk2" startTime="2128.345" endTime="2144.767">
+<Sync time="2128.345"/>
+je crois que c'est une une ville qui se modifie
+<Sync time="2130.47"/>
+
+<Sync time="2131.423"/>
+très vite beaucoup plus vite même qu'on ne peut le
+<Sync time="2133.236"/>
+
+<Sync time="2133.908"/>
+le sentir en y travaillant tous les jours je crois que
+<Sync time="2136.892"/>
+
+<Sync time="2137.251"/>
+avec un certain recul il est certain que l'évolution de la ville est très très très rapide
+<Sync time="2142.064"/>
+
+<Sync time="2142.564"/>
+et je crois qu'il va encore aller en accélérant en s'accélérant
+</Turn>
+<Turn speaker="spk1" startTime="2144.767" endTime="2145.423">
+<Sync time="2144.767"/>
+hm
+</Turn>
+<Turn speaker="spk2" startTime="2145.423" endTime="2180.439">
+<Sync time="2145.423"/>
+y a plusieurs raisons à cela c'est une des villes de la ceinture de Paris cette distance de cent kilomètres est
+<Sync time="2149.579"/>
+
+<Sync time="2150.173"/>
+est
+<Sync time="2151.189"/>
+peut-être considérée avec les moyens de transport actuels comme négligeables
+<Sync time="2153.689"/>
+
+<Sync time="2154.829"/>
+lorsque les moy- les l'infrastructure routière et les télécommunications aura été
+<Event desc="*mauvaise liaison aura-t-été" type="noise" extent="previous"/>
+ am- aura été améliorée
+<Sync time="2160.564"/>
+
+<Sync time="2161.001"/>
+euh c'est absolument pas gênant
+<Sync time="2163.001"/>
+
+<Sync time="2163.626"/>
+c'est absolument pas gênant et il faut se dire que
+<Sync time="2165.657"/>
+c'est ce que je réponds quelquefois à des clients qui euh disent ah vous êtes à Orléans
+<Sync time="2170.064"/>
+
+<Sync time="2170.689"/>
+euh étant eux-mêmes parisiens
+<Sync time="2172.502"/>
+
+<Sync time="2172.923"/>
+eh bien on peut leur répondre c'est ce que je fais que ça va beaucoup plus vite pour eux s'ils sont dans le Sud de Paris de venir à Orléans que d'aller
+<Sync time="2179.391"/>
+
+<Sync time="2179.954"/>
+de
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2180.439" endTime="2180.985">
+<Sync time="2180.439"/>
+<Who nb="1"/>
+Montrouge
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="2180.985" endTime="2191.954">
+<Sync time="2180.985"/>
+qui se trouve donc au Sud-Est Sud-Ouest de Paris
+<Sync time="2183.188"/>
+
+<Sync time="2183.547"/>
+pour aller à Pantin qui se trouve au Nord-Est
+<Sync time="2185.063"/>
+
+<Sync time="2185.61"/>
+c'est certainement plus rapide et certainement
+<Event desc="*surtout mon" type="pronounce" extent="previous"/>
+ certainement moins fatiguant et moins
+<Sync time="2188.86"/>
+et moins
+<Sync time="2190.204"/>
+
+<Sync time="2190.688"/>
+et moins pénible
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2191.954" endTime="2193.063">
+<Sync time="2191.954"/>
+<Who nb="1"/>
+que d'être en ville
+<Who nb="2"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="2193.063" endTime="2193.735">
+<Sync time="2193.063"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="2193.735" endTime="2198.875">
+<Sync time="2193.735"/>
+
+<Sync time="2194.266"/>
+évidemment sauf en hiver quand y a du verglas sur la route mais enfin ça n'est pas tous les jours le climat n'est quand même pas tellement dur
+</Turn>
+<Turn speaker="spk1" startTime="2198.875" endTime="2207.08">
+<Sync time="2198.875"/>
+hm hm
+<Sync time="2199.985"/>
+et
+<Sync time="2200.673"/>
+finalement qu'est-ce que vous pensez d'Orléans euh
+<Sync time="2203.47"/>
+du point de vue
+<Sync time="2204.377"/>
+
+<Sync time="2205.393"/>
+en gros je suppose politique ?
+</Turn>
+<Turn speaker="spk2" startTime="2207.08" endTime="2212.69">
+<Sync time="2207.08"/>
+
+<Sync time="2208.721"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="2209.314"/>
+c'est une ville qui au point de vue politique est extrêmement calme à mon avis
+</Turn>
+<Turn speaker="spk1" startTime="2212.69" endTime="2213.221">
+<Sync time="2212.69"/>
+hm
+</Turn>
+<Turn speaker="spk2" startTime="2213.221" endTime="2247.283">
+<Sync time="2213.221"/>
+le maire d'Orléans monsieur Secrétain est
+<Sync time="2215.533"/>
+
+<Sync time="2217.423"/>
+je crois euh tout à fait dans le vrai en en étant aussi neutre que possible et
+<Sync time="2222.782"/>
+
+<Sync time="2223.532"/>
+euh la ville se développe sans hi- à peu près sans histoire on n'entend pas de
+<Sync time="2228.156"/>
+
+<Sync time="2229.079"/>
+et au fond c'est peut-être la meilleure des choses
+<Sync time="2230.907"/>
+
+<Sync time="2232.094"/>
+enfin sur le plan politique c'est une
+<Sync time="2233.938"/>
+il y a un climat social calme il y a
+<Sync time="2236.282"/>
+
+<Sync time="2236.782"/>
+euh on n'-
+<Sync time="2237.454"/>
+
+<Sync time="2238.188"/>
+y a absolument pas de plaintes à ni de ni de reproches à faire de ce côté-là c'est une non ça de ce côté-là la vie y é- y et y serait même plutôt agréable
+<Sync time="2245.876"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2247.283" endTime="2288.942">
+<Sync time="2247.283"/>
+bon
+<Sync time="2247.892"/>
+alors j-
+<Sync time="2248.457"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

@@ -1,0 +1,5784 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Panot" audio_filename="001_anon" version="17" version_date="110103">
+<Topics>
+<Topic id="to1" desc="QP1"/>
+<Topic id="to2" desc="QP2"/>
+<Topic id="to3" desc="QP3"/>
+<Topic id="to4" desc="QHQ"/>
+<Topic id="to5" desc="QP4"/>
+<Topic id="to6" desc="T1"/>
+<Topic id="to7" desc="T2"/>
+<Topic id="to8" desc="T3"/>
+<Topic id="to9" desc="T4"/>
+<Topic id="to10" desc="T5"/>
+<Topic id="to11" desc="L1"/>
+<Topic id="to12" desc="L2"/>
+<Topic id="to13" desc="L3"/>
+<Topic id="to14" desc="L4"/>
+<Topic id="to15" desc="E1"/>
+<Topic id="to16" desc="E2"/>
+<Topic id="to17" desc="E3"/>
+<Topic id="to18" desc="E4"/>
+<Topic id="to19" desc="E5"/>
+<Topic id="to20" desc="E6"/>
+<Topic id="to21" desc="P1"/>
+<Topic id="to22" desc="P2"/>
+<Topic id="to23" desc="P3"/>
+<Topic id="to24" desc="P4"/>
+<Topic id="to25" desc="P9"/>
+<Topic id="to26" desc="P10"/>
+<Topic id="to27" desc="QS1"/>
+<Topic id="to28" desc="QS2"/>
+<Topic id="to29" desc="QS3"/>
+<Topic id="to30" desc="QS"/>
+<Topic id="to31" desc="QS4"/>
+<Topic id="to32" desc="QS5"/>
+<Topic id="to33" desc="QS6"/>
+<Topic id="to34" desc="QS7"/>
+<Topic id="to35" desc="QS8"/>
+<Topic id="to36" desc="QS9"/>
+<Topic id="to37" desc="QS10"/>
+<Topic id="to38" desc="QS11"/>
+<Topic id="to39" desc="QS12"/>
+<Topic id="to40" desc="QS13"/>
+<Topic id="to41" desc="QS14"/>
+<Topic id="to42" desc="QS15"/>
+<Topic id="to43" desc="QS16"/>
+<Topic id="to44" desc="QS17"/>
+<Topic id="to45" desc="QS18"/>
+<Topic id="to46" desc="QS19"/>
+<Topic id="to47" desc="QS20"/>
+<Topic id="to48" desc="QS21"/>
+<Topic id="to49" desc="QS22"/>
+<Topic id="to50" desc="QS23"/>
+<Topic id="to51" desc="QS24"/>
+<Topic id="to52" desc="QS25"/>
+<Topic id="to53" desc="QS26"/>
+<Topic id="to54" desc="QS37"/>
+<Topic id="to55" desc="QS28"/>
+<Topic id="to56" desc="QS29"/>
+<Topic id="to57" desc="QS30"/>
+<Topic id="to58" desc="QS31"/>
+<Topic id="to59" desc="QS32"/>
+<Topic id="to60" desc="QS33"/>
+<Topic id="to61" desc="QS34"/>
+<Topic id="to62" desc="QS35"/>
+<Topic id="to63" desc="QS36"/>
+</Topics>
+<Speakers>
+<Speaker id="spk1" name="BA725" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="OU" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="001LOC1" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="001LOC2" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="85.318">
+<Turn startTime="0" endTime="0.449">
+
+</Turn>
+<Turn speaker="spk1" startTime="0.449" endTime="3.114">
+vous savez euh
+
+enfin 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3.114" endTime="4.246">
+tout le monde euh tout le monde
+
+
+</Turn>
+<Turn speaker="spk1" startTime="4.246" endTime="14.336">
+NPERS par exemple quand vous écoutez ses causeries enfin
+
+hein
+
+maître NPERS ben quand même on a beau dire c'est quand même
+
+des gens qui savent s'exprimer
+
+
+</Turn>
+<Turn speaker="spk2" startTime="14.336" endTime="18.913">
+oui
+
+oui 
+
+
+ah je crois que tout le monde sait s'exprimer hein 
+
+</Turn>
+<Turn speaker="spk1" startTime="18.913" endTime="25.65">
+oui mais enfin je veux dire par là euh
+
+euh
+
+on ressent
+ce qu'ils disent mais on n'est pas capable de l'exprimer soi-même souvent quoi
+</Turn>
+<Turn speaker="spk2" startTime="25.65" endTime="26.997">
+oui
+oui
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="26.997" endTime="27.686">
+moi je crois que
+oui
+</Turn>
+<Turn speaker="spk2" startTime="27.686" endTime="28.913">
+chacun chacun se 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="28.913" endTime="29.691">
+débrouille quand même
+ah oui oui
+</Turn>
+<Turn speaker="spk2" startTime="29.691" endTime="29.811">
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="29.811" endTime="30.859">
+dans la vie 
+
+oui
+</Turn>
+<Turn speaker="spk1" startTime="30.859" endTime="41.189">
+
+non mais enfin euh vous savez
+
+i- justement ce qui est intéressant c'est la variété
+</Turn>
+<Turn speaker="spk2" startTime="41.189" endTime="41.518">
+voilà
+</Turn>
+<Turn speaker="spk1 spk2" startTime="41.518" endTime="42.326">
+oui bien sûr
+n'est-ce pas ?
+</Turn>
+<Turn speaker="spk2" startTime="42.326" endTime="42.686">
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="42.686" endTime="43.075">
+de 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="43.075" endTime="44.928">
+faut pas croire que 
+ quand même
+
+ c'est ça
+</Turn>
+<Turn speaker="spk2" startTime="44.928" endTime="50.826">
+
+parce que le français officiel euh de la radio des discours de des grands occasions
+</Turn>
+<Turn speaker="spk1 spk2" startTime="50.826" endTime="51.962">
+oui ça vous vous 
+n'est-ce pas on a 
+
+</Turn>
+<Turn speaker="spk1" startTime="51.962" endTime="53.969">
+à même de le 
+ quand vous voudrez
+c'est ça évidemment
+</Turn>
+<Turn speaker="spk2" startTime="53.969" endTime="55.586">
+alors que les gens qui parlent spontanément
+</Turn>
+<Turn speaker="spk1" startTime="55.586" endTime="55.915">
+oui c'est 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="55.915" endTime="56.214">
+ça
+comme ils
+</Turn>
+<Turn speaker="spk2" startTime="56.214" endTime="58.191">
+parlent tout le m- tout tous les jours avec leurs 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="58.191" endTime="58.67">
+voilà
+amis
+</Turn>
+<Turn speaker="spk2" startTime="58.67" endTime="60.257">
+et caetera ça c'est ça c'est beaucoup
+</Turn>
+<Turn speaker="spk1 spk2" startTime="60.257" endTime="60.946">
+c'est ça
+plus difficile à
+</Turn>
+<Turn speaker="spk1" startTime="60.946" endTime="61.664">
+oui c'est possible
+</Turn>
+<Turn speaker="spk2" startTime="61.664" endTime="65.605">
+oui
+
+bon alors je je vais d- vous poser des questions d'abord 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="65.605" endTime="66.269">
+sur un 
+oui
+</Turn>
+<Turn speaker="spk2" startTime="66.269" endTime="72.125">
+un questionnaire
+
+qui 
+je vous demanderai de
+enfin de dire ce que vous pensez 
+
+plus ou moins librement
+</Turn>
+<Turn speaker="spk2 spk1" startTime="72.125" endTime="72.724">
+après je 
+oui
+</Turn>
+<Turn speaker="spk2" startTime="72.724" endTime="75.359">
+vous poserai des questions peut-être un peu plus précises et
+</Turn>
+<Turn speaker="spk2 spk1" startTime="75.359" endTime="75.688">
+plus
+hum
+</Turn>
+<Turn speaker="spk2" startTime="75.688" endTime="76.784">
+concises
+
+</Turn>
+<Turn speaker="spk1" startTime="76.784" endTime="77.047">
+oui
+</Turn>
+<Turn speaker="spk2" startTime="77.047" endTime="80.484">
+euh et ensuite je vous demanderai quelques détails n'est-ce pas pour la la
+</Turn>
+<Turn speaker="spk2 spk1" startTime="80.484" endTime="81.742">
+documentation des fiches
+oui bien sûr oui
+</Turn>
+<Turn speaker="spk2" startTime="81.742" endTime="85.318">
+
+eh bien
+
+euh hum
+</Turn>
+</Section>
+<Section type="report" topic="to1" startTime="85.318" endTime="95.36">
+<Turn speaker="spk2" startTime="85.318" endTime="88.599">
+
+alors monsieur NPERS depuis quand habitez-vous à Orléans ?
+</Turn>
+<Turn speaker="spk1" startTime="88.599" endTime="93.324">
+
+eh bien euh depuis l'âge de trois ans depuis ma plus petite enfance
+
+</Turn>
+<Turn speaker="spk2" startTime="93.324" endTime="95.36">
+oui
+
+</Turn>
+</Section>
+<Section type="report" topic="to2" startTime="95.36" endTime="147.402">
+<Turn speaker="spk2" startTime="95.36" endTime="99.162">
+et alors c'est pas la peine peut-être de vous demander ce qui vous a amené à vivre à Orléans ?
+</Turn>
+<Turn speaker="spk1" startTime="99.162" endTime="103.666">
+non 
+
+ah non puisque c'est mes parents que
+
+enfin c'est ma mère mon père a été tué à la guerre de quatorze
+</Turn>
+<Turn speaker="spk2" startTime="103.666" endTime="104.349">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="104.349" endTime="113.158">
+ma mère se trouvant seule elle est venue à la grande ville vous comprenez pour pouvoir euh y travailler
+
+alors que étant je suis natif de Houque-la-Joyeuse
+je sais pas si vous connaissez
+</Turn>
+<Turn speaker="spk2" startTime="113.158" endTime="113.607">
+non
+</Turn>
+<Turn speaker="spk1" startTime="113.607" endTime="116.086">
+euh c'est entre Marchenoire et Beaugency
+
+</Turn>
+<Turn speaker="spk2" startTime="116.086" endTime="116.739">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="116.739" endTime="133.662">
+et alors là y avait pas d'éléments pour pouvoir travailler
+
+elle est donc venue
+puisque j'étais fils unique
+
+elle est donc venue à Orléans pour pouvoir trouver du travail et c'est ce que 
+
+parce que mon père est mort en 
+février quinze
+
+et elle est venue je crois au mois d'août quinze vous voyez par conséquent je suis de douze j'avais trois ans
+
+</Turn>
+<Turn speaker="spk2" startTime="133.662" endTime="134.824">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="134.824" endTime="137.837">
+alors pour moi euh 
+
+Orléans c'est ma ville natale
+
+</Turn>
+<Turn speaker="spk2" startTime="137.837" endTime="138.43">
+oui oui oui oui
+</Turn>
+<Turn speaker="spk1" startTime="138.43" endTime="144.281">
+faut dire que j'ai pas connu d'autres euh
+
+d'autres lieux si vous voulez qu'Orléans pour moi j'ai j'y suis né pour moi
+
+</Turn>
+<Turn speaker="spk2" startTime="144.281" endTime="144.754">
+oui
+oui
+</Turn>
+<Turn speaker="spk1" startTime="144.754" endTime="145.587">
+à trois ans
+
+</Turn>
+<Turn speaker="spk2" startTime="145.587" endTime="147.402">
+oui
+
+oui
+
+</Turn>
+</Section>
+<Section type="report" topic="to3" startTime="147.402" endTime="217.697">
+<Turn speaker="spk2" startTime="147.402" endTime="148.474">
+et vous vous plaisez à Orléans ?
+</Turn>
+<Turn speaker="spk1" startTime="148.474" endTime="150.025">
+ah j'aime ma ville oui bien sûr
+</Turn>
+<Turn speaker="spk1 spk2" startTime="150.025" endTime="150.348">
+oui
+oui
+</Turn>
+<Turn speaker="spk1" startTime="150.348" endTime="153.893">
+
+je l'aime particulièrement même je l'aime et
+
+</Turn>
+<Turn speaker="spk2" startTime="153.893" endTime="154.606">
+oui pourquoi ?
+</Turn>
+<Turn speaker="spk1" startTime="154.606" endTime="165.805">
+
+eh parce que j'ai eu l'occasion de bourlinguer un petit peu du fait euh
+
+que étant commis boucher vous savez
+
+euh à l'époque on faisait un petit peu le
+le tour de France avant la guerre je vous parle de ça
+
+</Turn>
+<Turn speaker="spk2" startTime="165.805" endTime="166.488">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="166.488" endTime="169.411">
+bah alors j'ai donc euh été dans différentes villes de France
+
+</Turn>
+<Turn speaker="spk2" startTime="169.411" endTime="170.213">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="170.213" endTime="178.43">
+et bah je me suis toujours ennuyé de mon clocher ça c'est peut-être euh
+
+euh spécial peut-être
+
+mais enfin j'avais toujours plaisir à retrouver ma ville
+</Turn>
+<Turn speaker="spk1" startTime="178.43" endTime="179.502">
+oui
+oui oui
+</Turn>
+<Turn speaker="spk2" startTime="179.502" endTime="189.011">
+en plus de ça je
+ma mère habitait longtemps
+
+les rives de Loire
+
+j'ai beaucoup d'- j'aime énormément la Loire 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="189.011" endTime="189.544">
+je suis attiré 
+oui
+</Turn>
+<Turn speaker="spk1" startTime="189.544" endTime="191.436">
+par la Loire
+
+comprenez ?
+
+</Turn>
+<Turn speaker="spk2" startTime="191.436" endTime="192.449">
+oui oui
+
+</Turn>
+<Turn speaker="spk1" startTime="192.449" endTime="196.599">
+euh j'ai lu des des des livres de de de Maurice Genevoix
+
+</Turn>
+<Turn speaker="spk2" startTime="196.599" endTime="197.018">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="197.018" endTime="205.276">
+bah 
+
+pour moi Maurice Genevoix
+
+euh j'ai l'impression qu'il a vécu lui aussi au bord de Loire pour pour décrire tout ce qu'il a pu décrire hein
+</Turn>
+<Turn speaker="spk2" startTime="205.276" endTime="205.959">
+oui
+oui
+</Turn>
+<Turn speaker="spk1" startTime="205.959" endTime="208.833">
+j'aime la Loire
+
+autant qu'il peut l'aimer si vous voulez
+</Turn>
+<Turn speaker="spk1 spk2" startTime="208.833" endTime="209.582">
+ça m'attire
+oui oui
+</Turn>
+<Turn speaker="spk2" startTime="209.582" endTime="210.055">
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="210.055" endTime="213.492">
+si j'ai une promenade à faire à pied
+
+ça sera au bord de Loire
+</Turn>
+<Turn speaker="spk2" startTime="213.492" endTime="214.588">
+oui oui oui
+
+oui
+</Turn>
+<Turn speaker="spk1" startTime="214.588" endTime="215.187">
+comprenez ?
+</Turn>
+<Turn speaker="spk2" startTime="215.187" endTime="216.505">
+encore oui maintenant oui
+</Turn>
+<Turn speaker="spk1" startTime="216.505" endTime="217.697">
+encore maintenant oui
+
+</Turn>
+</Section>
+<Section type="report" topic="to4" startTime="217.697" endTime="284.267">
+<Turn speaker="spk2" startTime="217.697" endTime="222.152">
+est-ce que vous pouvez me dire euh en quoi ça consistait le tour de France ?
+</Turn>
+<Turn speaker="spk1" startTime="222.152" endTime="223.913">
+
+eh bien 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="223.913" endTime="224.422">
+euh
+
+
+</Turn>
+<Turn speaker="spk1" startTime="224.422" endTime="227.405">
+à l'époque
+
+vous comprenez on cherchait à s'améliorer
+
+</Turn>
+<Turn speaker="spk2" startTime="227.405" endTime="227.848">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="227.848" endTime="243.975">
+euh 
+
+ici euh alors je parle de mon métier-là que évidemment c'est c'est mon rôle n'est-ce pas
+
+euh 
+
+nous sommes considérés ici comme déjà
+
+au point de vu travail de la boucherie
+
+comme l'un des meilleurs euh ouvriers de France si vous voulez
+</Turn>
+<Turn speaker="spk2" startTime="243.975" endTime="244.185">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="244.185" endTime="259.121">
+pour travailler la viande n'est-ce pas
+
+mais néanmoins euh de monter
+
+travailler à Paris
+
+n'est-ce pas ou aller dans certaines autres provinces
+
+ça permettait d'acquérir des connaissances
+
+euh même des façons de travailler qu'on n'avait pas dans notre région
+
+</Turn>
+<Turn speaker="spk2" startTime="259.121" endTime="259.804">
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="259.804" endTime="271.762">
+alors c'est ce que j'ai fait
+
+pour me rendre compte
+
+et puis j'ai travaillé assez longtemps à Paris
+
+pour finir de me perfectionner alors là pour acquérir si vous voulez la la science euh 
+de la décoration de la présentation des viandes
+</Turn>
+<Turn speaker="spk2" startTime="271.762" endTime="272.265">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="272.265" endTime="272.625">
+comprenez-vous ?
+</Turn>
+<Turn speaker="spk2" startTime="272.625" endTime="273.368">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="273.368" endTime="282.398">
+et 
+j'étais trois ans à peu près absent de chez moi
+
+puis je suis revenu travailler à Orléans euh
+
+parce que Orléans m'attirait et il fallait que je revienne à Orléans
+</Turn>
+<Turn speaker="spk2" startTime="282.398" endTime="282.812">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="282.812" endTime="284.267">
+je m'ennuyais de mon clocher quoi
+
+</Turn>
+</Section>
+<Section type="report" topic="to5" startTime="284.267" endTime="293.005">
+<Turn speaker="spk2" startTime="284.267" endTime="285.585">
+et vous comptez rester à Orléans ?
+</Turn>
+<Turn speaker="spk1 spk2" startTime="285.585" endTime="286.088">
+oh je
+oui
+</Turn>
+<Turn speaker="spk1" startTime="286.088" endTime="287.19">
+oui ça c'est certain
+</Turn>
+<Turn speaker="spk2" startTime="287.19" endTime="287.777">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="287.777" endTime="288.825">
+c'est certain
+
+</Turn>
+<Turn speaker="spk2" startTime="288.825" endTime="290.915">
+je crois que vous avez déjà expliqué pourquoi
+
+</Turn>
+<Turn speaker="spk1" startTime="290.915" endTime="293.005">
+oui 
+
+
+</Turn>
+</Section>
+<Section type="report" topic="to6" startTime="293.005" endTime="377.966">
+<Turn speaker="spk2" startTime="293.005" endTime="295.999">
+et alors qu'est-ce que vous faites exactement comme travail en ce moment ?
+</Turn>
+<Turn speaker="spk1" startTime="295.999" endTime="296.748">
+je suis boucher
+</Turn>
+<Turn speaker="spk2" startTime="296.748" endTime="297.101">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="297.101" endTime="297.491">
+oui
+</Turn>
+<Turn speaker="spk2" startTime="297.491" endTime="301.282">
+oui
+
+et euh
+
+en quoi est-ce que ça consiste exactement ?
+</Turn>
+<Turn speaker="spk1" startTime="301.282" endTime="302.683">
+eh bien je vais vous dire euh 
+</Turn>
+<Turn speaker="spk2" startTime="302.683" endTime="303.581">
+comment vous voyez ça ?
+</Turn>
+<Turn speaker="spk1" startTime="303.581" endTime="330.774">
+pour moi c'est un
+
+mon cas est peut-être un petit peu spécial pas parce que je vais vous expliquer
+
+euh
+
+j'ai une boucherie
+
+bien sûr
+
+euh qui m'appartient en propre
+
+mais en plus de ça depuis une dizaine d'années
+
+euh
+
+on ne peut pas dire le hasard mais enfin les relations
+
+ont fait que 
+
+j'ai un de mes amis qui a ouvert deux supermarchés à Orléans
+
+et alors il m'a donné la gestion
+si vous voulez
+</Turn>
+<Turn speaker="spk2" startTime="330.774" endTime="331.427">
+oui
+oui
+</Turn>
+<Turn speaker="spk1" startTime="331.427" endTime="344.148">
+de ses deux rayons de boucherie de supermarché
+
+et c'est ce qui m'a permis de faire un gros tonnage quoi
+
+et alors si vous voulez je suis un petit peu au-dessus des normes 
+
+officielles 
+ de de la boucherie
+
+</Turn>
+<Turn speaker="spk2" startTime="344.148" endTime="344.891">
+oui
+oui
+</Turn>
+<Turn speaker="spk1" startTime="344.891" endTime="352.568">
+comprenez ?
+
+euh euh supposez que par exemple un boucher moyen j'estime qu'un boucher moyen fait quatre à cinq cent kilos de viande
+
+euh moi je traite deux tonnes deux tonnes deux cent
+</Turn>
+<Turn speaker="spk2" startTime="352.568" endTime="353.52">
+oui
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="353.52" endTime="356.383">
+voyez
+
+c'est c'est vraiment au-dessus de la moyenne 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="356.383" endTime="356.766">
+pour 
+oui
+</Turn>
+<Turn speaker="spk1" startTime="356.766" endTime="359.03">
+cette raison parce que je gère deux supermarchés
+
+</Turn>
+<Turn speaker="spk2" startTime="359.03" endTime="359.623">
+oui
+oui
+</Turn>
+<Turn speaker="spk1" startTime="359.623" endTime="373.282">
+comprenez ?
+
+j'ai été vingt ans
+
+euh oui plus de vingt ans
+
+où où je gérais que ma boucherie propre et je vous dis y a huit ou dix ans où je gère ces supermarchés-là
+
+alors euh
+
+mais c'est un peu spécial si vous voulez mon cas
+
+</Turn>
+<Turn speaker="spk2" startTime="373.282" endTime="373.791">
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="373.791" endTime="377.966">
+ mais enfin 
+si vous voulez que je vous explique la boucherie moi je sais pas
+
+euh 
+
+</Turn>
+</Section>
+<Section type="report" topic="to7" startTime="377.966" endTime="711.647">
+<Turn speaker="spk2" startTime="377.966" endTime="379.307">
+vous pourriez peut-être euh 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="379.307" endTime="380.116">
+me décrire une
+dites-moi
+</Turn>
+<Turn speaker="spk2" startTime="380.116" endTime="381.038">
+journée de travail
+</Turn>
+<Turn speaker="spk1" startTime="381.038" endTime="381.517">
+oui
+</Turn>
+<Turn speaker="spk1 spk2" startTime="381.517" endTime="382.326">
+si vous voulez 
+n'est-ce pas ?
+</Turn>
+<Turn speaker="spk2" startTime="382.326" endTime="383.009">
+normale
+</Turn>
+<Turn speaker="spk1" startTime="383.009" endTime="400.831">
+eh bien 
+je vais vous expliquer ce que je ressens et ce que je pense que tous mes collègues ressentent
+
+n'est-ce pas 
+
+euh c'est
+
+d'arriver le matin
+
+dans la boucherie
+
+n'est-ce pas
+
+et de de parer
+
+et de présenter la viande
+
+en France ça a une très grosse importance
+</Turn>
+<Turn speaker="spk2" startTime="400.831" endTime="401.514">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="401.514" endTime="409.964">
+comprenez-vous ?
+
+c'est--à-dire que nous faisons des 
+
+des plats de présentation des pièces c'est ce que l'on appelle
+
+vous avez vous savez des plats d'entrecôtes des plats de côtes d'agneau 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="409.964" endTime="410.407">
+vous avez
+oui
+</Turn>
+<Turn speaker="spk1" startTime="410.407" endTime="411.779">
+
+voyez ce que je veux dire ?
+</Turn>
+<Turn speaker="spk2" startTime="411.779" endTime="412.282">
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="412.282" endTime="423.654">
+et ça si vous voulez
+
+euh pour le boucher 
+aimant son métier quand même nous sommes une grosse majorité
+
+euh c'est la grosse euh 
+
+euh la grosse attraction si vous voulez
+
+avant la question commerciale
+</Turn>
+<Turn speaker="spk2" startTime="423.654" endTime="424.163">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="424.163" endTime="425.421">
+la présentation de l'étal
+</Turn>
+<Turn speaker="spk2" startTime="425.421" endTime="426.368">
+oui
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="426.368" endTime="426.961">
+comprenez ?
+</Turn>
+<Turn speaker="spk2" startTime="426.961" endTime="427.554">
+oui très bien
+</Turn>
+<Turn speaker="spk1" startTime="427.554" endTime="442.094">
+on a une satisfaction
+
+euh quand arrivent sept heures du matin parce qu'on se lève très tôt dans mon métier quoi 
+
+quand arrivent sept heures du matin
+
+que tout est net tout est bien présenté 
+
+on a une satisfaction
+
+intérieure
+
+euh je sais pas euh de de travail bien fait
+</Turn>
+<Turn speaker="spk2" startTime="442.094" endTime="442.843">
+oui
+oui
+</Turn>
+<Turn speaker="spk1" startTime="442.843" endTime="443.286">
+comprenez ?
+</Turn>
+<Turn speaker="spk2" startTime="443.286" endTime="443.67">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="443.67" endTime="447.191">
+que j'ai communiquée si vous voulez
+
+même dans mes supermarchés
+</Turn>
+<Turn speaker="spk2" startTime="447.191" endTime="447.73">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="447.73" endTime="448.443">
+dans mes rayons
+</Turn>
+<Turn speaker="spk2" startTime="448.443" endTime="449.335">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="449.335" endTime="464.564">
+ce qui fait que
+
+
+ euh sans me donner de gants
+
+dans les dans mon rayon on tourne à un pourcentage beaucoup plus élevé
+
+que dans les normes officielles de la euh des rayons boucheries
+
+en supermarché
+
+parce que j'ai donné cet esprit si vous voulez
+
+à mes gars
+</Turn>
+<Turn speaker="spk1 spk2" startTime="464.564" endTime="465.756">
+à mes commis
+oui oui oui oui
+</Turn>
+<Turn speaker="spk2" startTime="465.756" endTime="466.613">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="466.613" endTime="468.793">
+et j'ai l'impression que la clientèle le ressent ça
+
+</Turn>
+<Turn speaker="spk2" startTime="468.793" endTime="470.308">
+oui
+oui
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="470.308" endTime="479.278">
+comprenez-vous ?
+
+bon alors
+
+après ben évidemment il s'agit de la vente
+
+n'est-ce pas ?
+
+et puis à la clientèle le contact avec la clientèle qui compte énormément aussi pour nous hein
+
+</Turn>
+<Turn speaker="spk2" startTime="479.278" endTime="480.027">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="480.027" endTime="497.525">
+voyez ?
+
+euh la vente sous cellophane malheureusement va s'étendre puisque c'est dans les traditions maintenant
+
+mais enfin euh
+
+moi je sais évidemment j'ai cinquante-sept ans
+
+j'en j'en peinerai énormément d'ailleurs quand j'ai pris ces rayons-là
+
+le le le le patron si vous voulez
+
+hein ?
+</Turn>
+<Turn speaker="spk2" startTime="497.525" endTime="497.795">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="497.795" endTime="506.196">
+m'avait dit bah écoute tu pourrais peut-être faire à ce moment-là du pré-emballé
+
+hein ?
+j'ai dit écoute laisse-moi travailler dans les conditions
+
+euh normales traditionnelles
+</Turn>
+<Turn speaker="spk2" startTime="506.196" endTime="506.705">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="506.705" endTime="511.945">
+s'il s'avère euh 
+
+que ce n'est pas rentable à ce moment-là je ferai du pré-emballé
+</Turn>
+<Turn speaker="spk2" startTime="511.945" endTime="512.179">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="512.179" endTime="516.12">
+mais pour moi le contact avec la clientèle
+
+compte autant que le reste vous 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="516.12" endTime="516.533">
+comprenez ? 
+oui
+</Turn>
+<Turn speaker="spk2" startTime="516.533" endTime="517.222">
+oui oui oui oui
+</Turn>
+<Turn speaker="spk1" startTime="517.222" endTime="519.312">
+le travail le travail par lui-même
+
+</Turn>
+<Turn speaker="spk2" startTime="519.312" endTime="519.839">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="519.839" endTime="532.656">
+oui
+
+qu'est-ce que je pourrais vous expliquer d'autre ?
+
+y a aussi l'attrait
+
+de l'achat
+
+qui se malheureusement aussi s'amenuise de plus en plus
+
+c'est--à-dire que j'achète mes animaux vivants
+
+</Turn>
+<Turn speaker="spk2" startTime="532.656" endTime="533.518">
+hum hum
+
+</Turn>
+<Turn speaker="spk1" startTime="533.518" endTime="540.662">
+comprenez ? 
+tous les mercredis matins nous avons un marché aux bestiaux
+
+ici à Orléans
+
+et alors j'achète mes animaux vivants
+
+</Turn>
+<Turn speaker="spk2" startTime="540.662" endTime="541.74">
+oui oui
+
+</Turn>
+<Turn speaker="spk1" startTime="541.74" endTime="545.662">
+donc il faut que j'estime
+
+la qualité
+
+</Turn>
+<Turn speaker="spk2" startTime="545.662" endTime="546.345">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="546.345" endTime="562.071">
+n'est-ce pas ?
+
+euh l'âge évidemment
+
+n'est-ce pas ?
+
+le poids
+
+et alors après 
+euh l'abattage se fait quoi
+
+alors c'est encore un abattage artisanal qui va se 
+
+lui aussi
+
+évidemment s'éliminer tout doucement puisque on il est question de faire des chaînes d'abattage à Orléans
+</Turn>
+<Turn speaker="spk1 spk2" startTime="562.071" endTime="562.364">
+quoi
+oui
+</Turn>
+<Turn speaker="spk2" startTime="562.364" endTime="562.873">
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="562.873" endTime="572.425">
+alors les commis abattent
+
+et alors après il y a aussi là
+
+un satisfecit de se dire bien
+
+euh c'est tombé
+
+comme j'estimais
+
+</Turn>
+<Turn speaker="spk2" startTime="572.425" endTime="572.839">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="572.839" endTime="575.258">
+que ça devait tomber 
+ou tiens c'est tombé à côté
+</Turn>
+<Turn speaker="spk2" startTime="575.258" endTime="575.558">
+oui 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="575.558" endTime="576.001">
+comprenez ?
+oui
+</Turn>
+<Turn speaker="spk1" startTime="576.001" endTime="588.859">
+
+j'estime par exemple qu'un veau
+
+euh par tel et tel euh 
+
+hum comment dirais-je euh
+
+on appelle ça les approches
+
+</Turn>
+<Turn speaker="spk2" startTime="588.859" endTime="589.302">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="589.302" endTime="602.656">
+n'est-ce pas ça s'appelle les approches
+par euh par les approches
+
+euh par des signes
+
+ce veau-là devait tomber blanc
+il tombe rouge
+
+pourquoi ?
+
+il y a trente ans que j'achète
+
+j'en sais qu- j'en connais pas la raison
+voyez ça aussi c'est un attrait
+</Turn>
+<Turn speaker="spk1 spk2" startTime="602.656" endTime="603.105">
+vous voyez ? 
+oui
+</Turn>
+<Turn speaker="spk1" startTime="603.105" endTime="609.027">
+une déception 
+mais enfin
+quand ça tombe bien et à quatre-vingt pour cent ça tombe
+en fonction des connaissances qu'on a acquises quand même 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="609.027" endTime="609.476">
+comprenez-vous ?
+oui
+</Turn>
+<Turn speaker="spk2" startTime="609.476" endTime="610.045">
+oui oui oui
+</Turn>
+<Turn speaker="spk1" startTime="610.045" endTime="611.743">
+ça aussi c'est un attrait du métier
+
+</Turn>
+<Turn speaker="spk2" startTime="611.743" endTime="613.348">
+oui oui oui
+
+</Turn>
+<Turn speaker="spk1" startTime="613.348" endTime="647.123">
+oui qu'est-ce que je pourrais vous citer d'autre ?
+
+euh ce que je voudrais défendre aussi c'est 
+
+euh l'abattage
+
+n'est-ce pas ?
+
+euh on a l'impression qu'un boucher
+
+euh c'est le sacrificateur c'est le 
+
+comment dirais-je 
+
+hein et 
+euh c-
+il a
+
+un penchant
+
+pour tuer il est
+
+comprenez ?
+
+euh comment je vais expliquer ça 
+je voudrais pourtant bien expliquer ça
+
+euh 
+
+euh le le boucher en somme c'est c'est la brute épaisse
+</Turn>
+<Turn speaker="spk2" startTime="647.123" endTime="647.926">
+hum oui
+oui
+</Turn>
+<Turn speaker="spk1" startTime="647.926" endTime="666.252">
+c'est un peu ça
+
+hein ?
+
+alors qu'il faut qu'il faut bien savoir hein qu'il et croyez-moi c'est vrai ça hein
+
+que le geste de supprimer une vie évidemment
+
+pour nous
+
+euh
+ne compte
+
+pas plus si vous voulez
+
+euh que la dépouille
+
+</Turn>
+<Turn speaker="spk2" startTime="666.252" endTime="668.492">
+oui
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="668.492" endTime="674.354">
+comprenez on prend pas plaisir à abattre on on on
+
+on fait le maximum pour que l'animal ne souffre pas
+</Turn>
+<Turn speaker="spk2" startTime="674.354" endTime="674.947">
+oui
+oui
+</Turn>
+<Turn speaker="spk1" startTime="674.947" endTime="688.938">
+et le geste de supprimer
+
+la vie
+
+c'est un geste
+
+de de couper par exemple une moelle épinière ou d'égorger un animal
+
+n'est-ce pas ? 
+c'est un geste 
+comme de de couper
+
+le membre ou de dépouiller ou d'éviscérer
+
+</Turn>
+<Turn speaker="spk2" startTime="688.938" endTime="690.249">
+oui oui oui oui oui
+
+</Turn>
+<Turn speaker="spk1" startTime="690.249" endTime="693.765">
+c'est c'est c'est pas le le le
+
+la jouissance euh de tuer
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="693.765" endTime="694.514">
+comprenez-vous ?
+oui d'accord
+</Turn>
+<Turn speaker="spk1" startTime="694.514" endTime="701.245">
+c'est ça que je voudrais que que vous fassiez comprendre
+
+auprès de de certaines gens qui prennent le boucher pour un pour un tueur 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="701.245" endTime="701.958">
+quoi si vous voulez
+oui oui oui
+</Turn>
+<Turn speaker="spk2" startTime="701.958" endTime="702.491">
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="702.491" endTime="703.227">
+comprenez ?
+
+</Turn>
+<Turn speaker="spk2" startTime="703.227" endTime="705.233">
+oui je comprends très bien
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="705.233" endTime="705.653">
+oui
+voilà
+</Turn>
+<Turn speaker="spk2" startTime="705.653" endTime="708.725">
+vous avez assez expliqué c-
+
+enfin ce que vous avez 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="708.725" endTime="710.755">
+débouché sur la la
+oui je crois oui
+</Turn>
+<Turn speaker="spk2" startTime="710.755" endTime="711.647">
+prochaine question
+</Turn>
+</Section>
+<Section type="report" topic="to8" startTime="711.647" endTime="730.458">
+<Turn speaker="spk2" startTime="711.647" endTime="714.701">
+qu'est-ce qui vous compte le plus dans le métier je crois que vous l'avez bien bien 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="714.701" endTime="715.06">
+vraiment
+hum
+</Turn>
+<Turn speaker="spk2" startTime="715.06" endTime="715.569">
+expliqué
+</Turn>
+<Turn speaker="spk1" startTime="715.569" endTime="716.133">
+oui
+
+</Turn>
+<Turn speaker="spk2" startTime="716.133" endTime="722.403">
+ce qui vous plaît euh est-ce qu'il y a des choses qui vous déplaisent
+dans le métier
+
+par rapport disons à 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="722.403" endTime="723.116">
+d'autres métiers ?
+oui écoutez
+</Turn>
+<Turn speaker="spk1" startTime="723.116" endTime="728.433">
+que je réfléchisse
+
+non
+
+</Turn>
+<Turn speaker="spk2" startTime="728.433" endTime="728.643">
+non
+</Turn>
+<Turn speaker="spk1" startTime="728.643" endTime="729.721">
+j'aime tout dans mon métier
+</Turn>
+<Turn speaker="spk2" startTime="729.721" endTime="730.218">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="730.218" endTime="730.458">
+oui
+</Turn>
+</Section>
+<Section type="report" topic="to9" startTime="730.458" endTime="819.433">
+<Turn speaker="spk2" startTime="730.458" endTime="734.344">
+et si par hasard euh vous n'aviez pas fait ce métier-là est-ce qu'il y en a un autre 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="734.344" endTime="735.602">
+que vous auriez aimé faire ?
+oui euh 
+</Turn>
+<Turn speaker="spk1" startTime="735.602" endTime="738.375">
+au départ j'aurais
+j'aurais aimé être menuisier voyez-vous
+</Turn>
+<Turn speaker="spk2" startTime="738.375" endTime="739.028">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="739.028" endTime="748.621">
+j'aurais aimé et encore à l'heure actuelle lorsque je vois travailler le bois
+
+euh j'admire euh je parle de l'ébéniste je parle pas de 
+
+euh du charpentier
+</Turn>
+<Turn speaker="spk2" startTime="748.621" endTime="749.041">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="749.041" endTime="752.598">
+hein j'aurais aimé faire des meubles j'aurais aimé 
+j'aurais aimé ce métier
+</Turn>
+<Turn speaker="spk2" startTime="752.598" endTime="753.37">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="753.37" endTime="761.688">
+
+
+
+j'ai pas pu le faire parce que malheureusement étant l'aîné de cinq euh
+
+à l'époque euh on m'a pas demandé mon avis vous savez c'était pas comme maintenant hein
+</Turn>
+<Turn speaker="spk2" startTime="761.688" endTime="762.401">
+oui oui oui oui oui
+</Turn>
+<Turn speaker="spk1" startTime="762.401" endTime="771.875">
+euh étant l'aîné de cinq dans la boucherie où on était nourri on a dit bon bah écoute euh
+
+euh voilà tu vas t'en aller 
+à tel endroit parce qu'il y a une place de boucher et ça fera une bouche de moins à nourrir à la maison
+</Turn>
+<Turn speaker="spk2" startTime="771.875" endTime="772.228">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="772.228" endTime="780.397">
+j'ai fait le métier de boucher
+
+euh
+peut-être pas à contrecoeur mais enfin
+
+j'en avais pas tellement 
+
+et puis après j'ai appris à l'aimer à aimer mon métier
+</Turn>
+<Turn speaker="spk2" startTime="780.397" endTime="781.38">
+oui 
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="781.38" endTime="787.374">
+j'en ai j'en ai fait
+
+euh ce ce que je pense être c'est--à-dire euh
+
+euh non seulement
+
+</Turn>
+<Turn speaker="spk4" startTime="787.374" endTime="790.339">
+bonjour monsieur
+
+</Turn>
+<Turn speaker="spk1" startTime="790.339" endTime="798.544">
+euh est-ce que vous comprenez j'en ai
+
+j'en ai fait ce que ce que je pense être c'est-à-dire
+
+euh un métier même temps artistique mais ça vous paraît peut-être un paradoxe
+
+</Turn>
+<Turn speaker="spk2" startTime="798.544" endTime="799.287">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="799.287" endTime="809.862">
+mais j'aime mon métier je
+
+par son côté artistique j'aime
+
+parer une pièce de viande j'aime
+
+comprenez euh toutes ces choses-là euh
+
+c'est peut-être parce que c'est mon tempérament
+
+</Turn>
+<Turn speaker="spk2" startTime="809.862" endTime="810.365">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="810.365" endTime="810.845">
+comprenez ?
+</Turn>
+<Turn speaker="spk2" startTime="810.845" endTime="811.348">
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="811.348" endTime="817.319">
+euh voilà ce que je peux vous expliquer moi sur euh 
+
+sur ce que je ressens du métier
+
+</Turn>
+<Turn speaker="spk2" startTime="817.319" endTime="817.972">
+très bien oui
+</Turn>
+<Turn speaker="spk1" startTime="817.972" endTime="819.433">
+oui
+
+</Turn>
+</Section>
+<Section type="report" topic="to10" startTime="819.433" endTime="867.18">
+<Turn speaker="spk2" startTime="819.433" endTime="823.295">
+eh bien euh 
+y a de plus en plus de femmes mariées qui travaillent
+</Turn>
+<Turn speaker="spk2 spk1" startTime="823.295" endTime="824.104">
+aujourd'hui euh 
+oui
+</Turn>
+<Turn speaker="spk2" startTime="824.104" endTime="827.266">
+
+personnellement euh êtes-vous pour ou contre ?
+</Turn>
+<Turn speaker="spk1" startTime="827.266" endTime="831.057">
+
+euh non je vous dirais que je suis plutôt contre
+</Turn>
+<Turn speaker="spk2" startTime="831.057" endTime="831.889">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="831.889" endTime="833.65">
+je suis peut-être à contre-courant
+
+</Turn>
+<Turn speaker="spk2" startTime="833.65" endTime="834.123">
+oui mais 
+</Turn>
+<Turn speaker="spk1" startTime="834.123" endTime="854.496">
+euh sans doute mais enfin je suis plutôt contre parce que 
+
+euh j'ai eu l'expérience à la maison parce que 
+
+euh ma femme était avec moi dans 
+
+notre commerce n'est-ce pas
+
+euh on a donné nos enfants à garder
+
+mais dès que je pouvais laisser ma femme à la maison
+
+je le faisais parce que j'estime que quand même le rôle de la mère c'est encore d'élever ses enfants
+
+</Turn>
+<Turn speaker="spk2" startTime="854.496" endTime="854.766">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="854.766" endTime="856.017">
+oh moi je vous donne mon avis
+</Turn>
+<Turn speaker="spk2" startTime="856.017" endTime="856.49">
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="856.49" endTime="857.089">
+bah oui
+
+</Turn>
+<Turn speaker="spk2" startTime="857.089" endTime="862.556">
+hum
+
+euh non c'était une question qui était dans le 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="862.556" endTime="864.323">
+questionnaire 
+ les
+oui oui oui oui allez-y
+</Turn>
+<Turn speaker="spk2" startTime="864.323" endTime="867.18">
+avis n'est-ce pas sur
+
+euh
+
+</Turn>
+</Section>
+<Section type="report" topic="to11" startTime="867.18" endTime="940.961">
+<Turn speaker="spk2" startTime="867.18" endTime="869.539">
+qu'est-ce que vous faites de votre temps libre monsieur NPERS ?
+</Turn>
+<Turn speaker="spk1" startTime="869.539" endTime="873.569">
+
+eh bien j'aime la lecture
+
+</Turn>
+<Turn speaker="spk2" startTime="873.569" endTime="874.552">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="874.552" endTime="886.331">
+j'aime la musique
+
+ça vous paraît drôle peut-être hein pour un boucher mais enfin euh malheureusement j'ai pas assez de culture
+
+comprenez ?
+
+pour aimer la peinture mais
+j'aurais aimé
+
+</Turn>
+<Turn speaker="spk2" startTime="886.331" endTime="887.134">
+oui
+
+oui
+</Turn>
+<Turn speaker="spk1" startTime="887.134" endTime="891.673">
+j'aurais aimé
+
+connaître tous les arts
+
+</Turn>
+<Turn speaker="spk2" startTime="891.673" endTime="892.087">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="892.087" endTime="892.68">
+j'aurais aimé
+</Turn>
+<Turn speaker="spk2" startTime="892.68" endTime="893.243">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="893.243" endTime="905.747">
+malheureusement je vous le dis hein ça fait treize ans que je suis parti de chez moi
+
+et euh voilà 
+
+euh 
+
+si un jour 
+
+je suis à la retraite 
+
+j'aimerais visiter les musées par exemple monter à Paris d'ici maintenant c'est la banlieue
+</Turn>
+<Turn speaker="spk2" startTime="905.747" endTime="906.077">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="906.077" endTime="915.958">
+hein j'aimerais monter à Paris visiter les musées enfin
+
+essayer de de découvrir
+
+euh ce qu'une personne cultivée apprécie que moi malheureusement je connais pas
+
+</Turn>
+<Turn speaker="spk2" startTime="915.958" endTime="916.192">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="916.192" endTime="916.515">
+comprenez ?
+</Turn>
+<Turn speaker="spk2" startTime="916.515" endTime="916.959">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="916.959" endTime="917.672">
+voilà
+
+</Turn>
+<Turn speaker="spk2" startTime="917.672" endTime="918.894">
+et de vos soirées ?
+qu'est-ce que vous 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="918.894" endTime="920.205">
+faites le le soir ? 
+bah la télévision
+</Turn>
+<Turn speaker="spk2" startTime="920.205" endTime="920.768">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="920.768" endTime="922.768">
+télévision
+
+ou la lecture
+</Turn>
+<Turn speaker="spk2" startTime="922.768" endTime="923.097">
+oui
+</Turn>
+<Turn speaker="spk2 spk1" startTime="923.097" endTime="923.876">
+et le samedi et le
+la télévision
+</Turn>
+<Turn speaker="spk2" startTime="923.876" endTime="924.469">
+dimanche ?
+</Turn>
+<Turn speaker="spk1" startTime="924.469" endTime="927.391">
+
+euh bah le samedi oh pas question parce qu'on se lève à quatre heures du 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="927.391" endTime="927.984">
+matin le samedi
+bien sûr
+</Turn>
+<Turn speaker="spk1" startTime="927.984" endTime="933.17">
+soir vous savez
+
+on est fatigué
+
+le dimanche bah on fait un peu de promenade évidemment en voiture comme tout le monde
+</Turn>
+<Turn speaker="spk2" startTime="933.17" endTime="933.583">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="933.583" endTime="934.332">
+on part
+
+</Turn>
+<Turn speaker="spk2" startTime="934.332" endTime="934.865">
+oui oui
+
+</Turn>
+<Turn speaker="spk1" startTime="934.865" endTime="936.326">
+mais on s'éloigne pas tellement
+</Turn>
+<Turn speaker="spk2" startTime="936.326" endTime="938.392">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="938.392" endTime="940.961">
+c'est à peu près tout oui je vois pas d'autres choses à vous dire
+</Turn>
+</Section>
+<Section type="report" topic="to12" startTime="940.961" endTime="992.616">
+<Turn speaker="spk2" startTime="940.961" endTime="943.47">
+qu'est-ce que vous avez fait par exemple euh dimanche dernier ?
+</Turn>
+<Turn speaker="spk1" startTime="943.47" endTime="946.248">
+eh bah nous sommes allés jusqu'à Fontainebleau voyez-vous
+</Turn>
+<Turn speaker="spk2" startTime="946.248" endTime="947.027">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="947.027" endTime="957.351">
+n'est-ce pas euh on est allé jusqu'à Fontainebleau
+
+et puis euh on a fait un tour
+
+dans le parc
+
+et puis on mon dieu on est revenu quoi parce qu'il faisait mauvais d'abord
+
+</Turn>
+<Turn speaker="spk2" startTime="957.351" endTime="957.591">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="957.591" endTime="964.34">
+n'est-ce pas mais ça a fait un bout 
+ euh nous sommes partis à deux heures et demie trois heures
+
+euh à six heures et demie sept heures on est sept heures et demie on était de retour
+</Turn>
+<Turn speaker="spk2" startTime="964.34" endTime="965.166">
+oui oui oui
+
+</Turn>
+<Turn speaker="spk1" startTime="965.166" endTime="967.136">
+voilà à peu près l'emploi de nos dimanches quoi
+
+</Turn>
+<Turn speaker="spk2" startTime="967.136" endTime="967.939">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="967.939" endTime="975.009">
+je ferais un détour pour aller à Chambord je ferais un détour vous voyez ça c'est c'est c'est c'est sans doute dans mon tempérament vous comprenez ça c'est c'est
+
+c'est personnel ça
+</Turn>
+<Turn speaker="spk2" startTime="975.009" endTime="975.716">
+hum
+
+oui
+</Turn>
+<Turn speaker="spk1" startTime="975.716" endTime="985.046">
+c'est faut pas que vous vous savez c'est comme l'Anglais qui descend à Calais
+et qui voit une femme rousse hein 
+faut pas croire parce que je dis ça que tous les bouchers sont
+
+sont dans mon genre vous 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="985.046" endTime="985.759">
+comprenez toutes les 
+
+
+</Turn>
+<Turn speaker="spk1" startTime="985.759" endTime="989.22">
+Françaises sont pas rousses hein
+
+non mais moi je vous dis ce que je ressens personnellement
+</Turn>
+<Turn speaker="spk2" startTime="989.22" endTime="990.927">
+oui oui oui c'est ce qu'on vous demande d'ailleurs
+</Turn>
+<Turn speaker="spk1" startTime="990.927" endTime="991.64">
+oui
+
+</Turn>
+<Turn speaker="spk2" startTime="991.64" endTime="992.616">
+et 
+
+</Turn>
+</Section>
+<Section type="report" topic="to13" startTime="992.616" endTime="1062.658">
+<Turn speaker="spk2" startTime="992.616" endTime="995.341">
+pendant vos prochaines vacances d'été qu'est-ce que vous comptez faire ?
+</Turn>
+<Turn speaker="spk1" startTime="995.341" endTime="999.94">
+
+ah malheureusement c'est que je ne peux pas prendre depuis huit ans depuis que j'ai mes pilotes là je ne 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="999.94" endTime="1000.18">
+peux pas 
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1000.18" endTime="1000.863">
+prendre de vacances
+</Turn>
+<Turn speaker="spk2" startTime="1000.863" endTime="1001.456">
+oui oui oui
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1001.456" endTime="1006.175">
+parce que on a un métier qui se perd
+
+on trouve plus de personnel
+</Turn>
+<Turn speaker="spk2" startTime="1006.175" endTime="1006.977">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="1006.977" endTime="1014.331">
+alors je donne du congé à mes gars moi je ferme
+
+ma boucherie
+
+pendant trois semaines 
+
+et je remplace mes gars pendant les trois semaines
+</Turn>
+<Turn speaker="spk2" startTime="1014.331" endTime="1015.463">
+ah oui
+
+</Turn>
+<Turn speaker="spk1" startTime="1015.463" endTime="1021.889">
+alors pour moi ça c'est un 
+
+euh vraiment ça me ça ça me chagrine ça parce que ça fait huit ans que j'ai pas pris de 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1021.889" endTime="1022.302">
+vacances
+oui
+</Turn>
+<Turn speaker="spk2" startTime="1022.302" endTime="1023.314">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="1023.314" endTime="1030.476">
+et vous savez c'est quand même long hein
+
+et puis je vois pas je peux pas 
+je peux pas
+
+récemment voyez-vous euh on manque de main-d'oeuvre chez nous hein c'est 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1030.476" endTime="1030.919">
+fou hein
+hum
+</Turn>
+<Turn speaker="spk2" startTime="1030.919" endTime="1031.398">
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="1031.398" endTime="1040.967">
+j'ai été un mois sans commis là je il me manquait un commis j'ai été un mois dans avant d'en trouver un
+
+et j'étais forcé à em- d'em- d'embaucher un gars un chevalin hein un gars qui travaillait le cheval
+</Turn>
+<Turn speaker="spk2" startTime="1040.967" endTime="1041.297">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1041.297" endTime="1047.807">
+parce que j'ai pas trouvé de de gars qui travaillaient dans 
+
+vous voyez ça aussi c'est chez nous c'est c'est terrible la main-d'oeuvre
+
+</Turn>
+<Turn speaker="spk2" startTime="1047.807" endTime="1048.07">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1048.07" endTime="1056.616">
+on trouve plus de main-d'oeuvre
+
+les les les les gosses ne veulent plus faire ce métier-là pas plus que boulanger c'est des métiers
+
+trop astreignants trop durs 
+comprenez ?
+</Turn>
+<Turn speaker="spk2" startTime="1056.616" endTime="1057.185">
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="1057.185" endTime="1062.658">
+je n'- vous savez je je suis pessimiste pour l'avenir hein pour mon métier hein je sais pas comment ça va se passer hein
+
+</Turn>
+</Section>
+<Section type="report" topic="to4" startTime="1062.658" endTime="1119.24">
+<Turn speaker="spk2" startTime="1062.658" endTime="1068.766">
+est-ce qu'il y a une grande différence entre le chevalin et le boucher ordinaire euh parce que ça c'est
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1068.766" endTime="1069.545">
+des choses qu'on ne 
+comme travail ?
+</Turn>
+<Turn speaker="spk2" startTime="1069.545" endTime="1070.407">
+connaît peu en Angleterre
+</Turn>
+<Turn speaker="spk1" startTime="1070.407" endTime="1071.479">
+oui bien sûr
+
+</Turn>
+<Turn speaker="spk2" startTime="1071.479" endTime="1072.396">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="1072.396" endTime="1095.29">
+non euh y a beaucoup plus de 
+
+détails si vous voulez de plus petits morceaux dans le cheval il faut
+
+il faut dénerver davantage
+
+euh pratiquement euh
+
+à soixante pour cent soixante-cinq pour cent le cheval est vendu
+
+soit en bifteck soixante-dix pour cent même
+
+en bifteck ou en haché
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1095.29" endTime="1095.763">
+comprenez ?
+oui
+</Turn>
+<Turn speaker="spk2" startTime="1095.763" endTime="1096.122">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1096.122" endTime="1106.275">
+alors que chez nous nous avons quand même une variété nous avons quand même les pot- au-feu nous avons les braisés nous avons les ragoûts
+
+euh qui ne ne sont pas prisés par le Français dans le cheval
+
+</Turn>
+<Turn speaker="spk2" startTime="1106.275" endTime="1107.311">
+oui oui
+
+</Turn>
+<Turn speaker="spk1" startTime="1107.311" endTime="1112.605">
+tous ces morceaux nous de braisé de 
+ de pot au feu sont dégraissés dénervés 
+et passés en bifteck haché
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1112.605" endTime="1114.042">
+enfin pas en bifteck 
+hum hum oui oui
+</Turn>
+<Turn speaker="spk1" startTime="1114.042" endTime="1115.084">
+haché en cheval haché
+</Turn>
+<Turn speaker="spk2" startTime="1115.084" endTime="1115.527">
+oui oui oui oui
+</Turn>
+<Turn speaker="spk1" startTime="1115.527" endTime="1119.24">
+puisque 
+
+c'est du cheval 
+
+</Turn>
+</Section>
+<Section type="report" topic="to14" startTime="1119.24" endTime="1130.295">
+<Turn speaker="spk2" startTime="1119.24" endTime="1124.797">
+si vous aviez deux heures de temps libre supplémentaires par jour
+
+qu'est-ce que vous feriez de ce temps temps libre ?
+</Turn>
+<Turn speaker="spk1" startTime="1124.797" endTime="1126.588">
+
+ah la lecture je crois
+</Turn>
+<Turn speaker="spk2" startTime="1126.588" endTime="1130.295">
+la lecture
+
+</Turn>
+</Section>
+<Section type="report" topic="to15" startTime="1130.295" endTime="1349.943">
+<Turn speaker="spk2" startTime="1130.295" endTime="1135.942">
+euh à votre avis qu'est-ce qu'on devrait apprendre euh aux enfants
+
+euh surtout aux enfants à l'école ?
+</Turn>
+<Turn speaker="spk1" startTime="1135.942" endTime="1141.948">
+
+évidemment c'est mon avis que vous me demandez hein ?
+</Turn>
+<Turn speaker="spk2" startTime="1141.948" endTime="1142.398">
+bien sûr
+</Turn>
+<Turn speaker="spk1" startTime="1142.398" endTime="1185.096">
+bon
+
+eh bien moi j'estime qu'ils ont pas assez de contact avec la vie réelle
+
+comprenez on on souffre à l'heure actuelle de regardez de plus en plus euh
+
+on va vers une technocratie euh
+
+euh les les les tous nos nos grosses têtes tous nos cerveaux sont enfermés dans leur tour d'ivoire n'est-ce pas
+
+et décident de choses qui n- qui arrivent à devenir euh
+
+si vous voulez 
+
+inapplicables dans la vie courante
+
+on a un exemple flagrant avec la TVA à l'heure actuelle chez nous
+
+n'est-ce pas alors 
+vous me parlez de l'enfance n'est-ce pas 
+alors j'estime que si les gosses-là
+
+vont pousser au brevet au bac ainsi de suite et puis essayer de grimper évidemment
+
+n'est-ce pas
+
+mais malheureusement j'estime que le gosse n'a pas assez de contacts si vous vous voulez
+
+avec la société
+
+moi voilà mon avis
+
+</Turn>
+<Turn speaker="spk2" startTime="1185.096" endTime="1185.389">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1185.389" endTime="1185.749">
+n'est-ce pas
+</Turn>
+<Turn speaker="spk2" startTime="1185.749" endTime="1188.138">
+et comment est-ce qu'on pourrait 
+
+enseigner 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1188.138" endTime="1189.066">
+cela 
+ ?
+eh bien mais je crois
+</Turn>
+<Turn speaker="spk1" startTime="1189.066" endTime="1210.014">
+qu'il y aurait quand même euh
+et puis alors le droit civique moi j'ai l'impression que
+
+euh 
+à l'école nous on nous apprenait un peu de droit civique moi je vois mes gosses ils en ont pas tellement appris hein
+
+euh bah je sais pas par des leçons de choses par des
+
+on pourrait faire visiter 
+
+euh et qu- qu'est-ce qui manque dans dans je sais pas dans une ville comme Orléans il manque pas de de choses à voir à visiter
+</Turn>
+<Turn speaker="spk2" startTime="1210.014" endTime="1210.277">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1210.277" endTime="1217.074">
+qui pourraient peut-être même créer des vocations donner des vocation moi j'estime
+
+comprenez c'est purement littéraire presque que je trouve moi enfin à mon avis
+
+</Turn>
+<Turn speaker="spk2" startTime="1217.074" endTime="1217.757">
+oui
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1217.757" endTime="1241.717">
+à mon avis
+
+moi j'ai mes gosses qui ont été à l'école jusqu'à seize ans jusqu'au brevet
+
+et alors à ce moment-là je suis allé voir le le directeur de du lycée
+
+en lui demandant ce que euh mon aîné ce qu'il pourrait faire il m'a dit écoutez c'est un élément
+c'est un bon élément 
+
+c'est un élément moyen 
+en tout
+
+mais valable parce que travailleur
+
+mais quand il aura son bac 
+
+ça sera son bâton de maréchal
+</Turn>
+<Turn speaker="spk2" startTime="1241.717" endTime="1242.519">
+oui
+hum
+</Turn>
+<Turn speaker="spk1" startTime="1242.519" endTime="1247.1">
+alors à ce moment-là j'ai pas commis l'erreur de certains parents de dire bon bah tant pis on va continuer on verra bien
+
+</Turn>
+<Turn speaker="spk2" startTime="1247.1" endTime="1247.669">
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="1247.669" endTime="1256.479">
+à ce moment-là j'ai fait faire un test
+
+euh ici là rue des Grands Champs
+
+n'est-ce pas ?
+
+pour voir à quel métier manuel pourrait lui 
+lui convenir
+</Turn>
+<Turn speaker="spk2" startTime="1256.479" endTime="1256.988">
+oui oui oui
+</Turn>
+<Turn speaker="spk1" startTime="1256.988" endTime="1259.773">
+comprenez-vous ?
+
+je l'ai aiguillé vers un métier manuel il est coiffeur
+</Turn>
+<Turn speaker="spk2" startTime="1259.773" endTime="1260.336">
+ hum hum
+</Turn>
+<Turn speaker="spk1" startTime="1260.336" endTime="1266.587">
+hein parce que il a ce sens artistique que je crois un peu posséder
+
+et alors là il fait un boum terrible dans son métier
+</Turn>
+<Turn speaker="spk2" startTime="1266.587" endTime="1267.48">
+oui
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="1267.48" endTime="1274.295">
+terrible à l'heure actuelle il vient de faire deux concours à Paris là
+
+un concours à 
+ et un à Rouen
+
+il est sorti premier des championnats
+
+</Turn>
+<Turn speaker="spk2" startTime="1274.295" endTime="1274.834">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="1274.834" endTime="1278.96">
+voyez ce qui prouve que même même dans des métiers manuels on 
+on peut faire sa place j'estime
+</Turn>
+<Turn speaker="spk2" startTime="1278.96" endTime="1279.553">
+oui hum
+</Turn>
+<Turn speaker="spk1" startTime="1279.553" endTime="1295.776">
+alors qu'à l'heure actuelle on commet l'erreur de pousser les gosses
+
+trop
+je reconnais
+
+que c'est valable de dire qu'un un qu'un fils d'ouvrier c'est pas faut pas me faire dire ce que je veux pas dire
+
+j'estime qu'un fils d'ouvrier
+qui a les capacités de le faire est aussi valable
+
+que le fils d'un gros industriel c'est pas ça que je veux dire
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1295.776" endTime="1296.195">
+mais je 
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="1296.195" endTime="1307.058">
+trouve qu'à l'heure actuelle
+
+euh si vous voulez dans la classe moyenne on commet trop l'erreur de vouloir pousser les gosses
+
+vers les études
+
+alors que ça va faire des fruits secs d'ici cinq six ans mais enfin moi je vois ça comme ça
+</Turn>
+<Turn speaker="spk2" startTime="1307.058" endTime="1309.98">
+oui oui oui oui oui
+
+</Turn>
+<Turn speaker="spk1" startTime="1309.98" endTime="1310.639">
+moi je vois ça comme 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1310.639" endTime="1311.088">
+ça 
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="1311.088" endTime="1331.653">
+
+je le vois de par mon métier
+
+on n'est plus capable de trouver de
+
+et je vous dis tous ces métiers manuels qui sont des métiers rudes d'accord hein
+
+mais qui sont des métiers rémunérateurs croyez-moi maintenant hein
+
+on a pu dire que avant la guerre on avait vraiment des petits métiers question salaire
+maintenant hein euh un bon chef peut gagner cent cinquante cent quatre vingt mille francs par mois
+
+</Turn>
+<Turn speaker="spk2" startTime="1331.653" endTime="1332.186">
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="1332.186" endTime="1334.246">
+c'est quand même pas mal pour un manuel j'estime
+
+</Turn>
+<Turn speaker="spk2" startTime="1334.246" endTime="1334.983">
+oui oui
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1334.983" endTime="1344.601">
+comprenez-vous ?
+
+et puis quand même les heures sont régentées
+
+on arrive à faire cinquante-quatre heures c'est encore peut-être beaucoup
+
+mais enfin y a quand même aussi des heures des présences c'est pas des heures de chez Renault hein
+
+</Turn>
+<Turn speaker="spk2" startTime="1344.601" endTime="1344.954">
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="1344.954" endTime="1346.691">
+y a des heures y a des temps morts tout de même
+</Turn>
+<Turn speaker="spk2" startTime="1346.691" endTime="1349.943">
+oui oui
+
+hum
+
+</Turn>
+</Section>
+<Section type="report" topic="to16" startTime="1349.943" endTime="1373.586">
+<Turn speaker="spk2" startTime="1349.943" endTime="1352.153">
+et qu'est-ce que vous pensez du latin à l'école ?
+</Turn>
+<Turn speaker="spk1" startTime="1352.153" endTime="1368.627">
+
+ah ça je suis pas habileté à vous répondre
+
+euh d'après mes fils c'est valable parce que quand même c'est la c'est la la racine de notre langue quand même n'est-ce pas
+
+mais mes gosses en ont fait un peu
+
+moi eh bien évidemment je peux pas vous parler de ça puisque malheureusement je vous dis j'ai
+
+j'ai été qu'à l'école jusqu'à treize ans et j'ai jamais appris un mot de latin
+</Turn>
+<Turn speaker="spk2" startTime="1368.627" endTime="1373.586">
+oui oui oui
+
+et 
+
+</Turn>
+</Section>
+<Section type="report" topic="to17" startTime="1373.586" endTime="1399.3">
+<Turn speaker="spk2" startTime="1373.586" endTime="1382.017">
+dans quelles matières aimeriez-vous que vos vos enfants aient été forts à l'école ?
+
+pourriez-vous
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1382.017" endTime="1383.095">
+les langues et les maths 
+
+
+</Turn>
+<Turn speaker="spk2" startTime="1383.095" endTime="1387.904">
+
+les langues et les maths oui
+
+</Turn>
+<Turn speaker="spk1" startTime="1387.904" endTime="1395.527">
+et dans les langues euh bien euh
+c'est dommage il devait venir Jacques
+
+mon fils 
+ euh il parle l'anglais euh
+
+assez facilement
+</Turn>
+<Turn speaker="spk2" startTime="1395.527" endTime="1395.916">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1395.916" endTime="1399.3">
+assez facilement oui
+
+</Turn>
+</Section>
+<Section type="report" topic="to18" startTime="1399.3" endTime="1466.274">
+<Turn speaker="spk2" startTime="1399.3" endTime="1403.246">
+qu'est-ce qui fait d'après vous que les enfants réussissent ou ne réussissent pas à l'école ?
+</Turn>
+<Turn speaker="spk1" startTime="1403.246" endTime="1414.019">
+
+euh je crois pas tellement vous savez à la super-intelligence hein
+
+enfin euh si je juge d'après mes mes enfants
+</Turn>
+<Turn speaker="spk2" startTime="1414.019" endTime="1414.522">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="1414.522" endTime="1422.678">
+n'est-ce pas euh 
+
+ils sont d'un bon niveau
+
+mais enfin c'est pas des des grands cerveaux seulement à côté de ça ce sont des travailleurs
+</Turn>
+<Turn speaker="spk2" startTime="1422.678" endTime="1423.481">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="1423.481" endTime="1425.571">
+ils ont jamais fait d'éclat
+
+
+</Turn>
+<Turn speaker="spk2" startTime="1425.571" endTime="1430.386">
+oh là
+
+</Turn>
+<Turn speaker="spk1" startTime="1430.386" endTime="1431.464">
+oui où est-ce qu'on en était ?
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1431.464" endTime="1431.877">
+ah oui
+oh
+</Turn>
+<Turn speaker="spk2" startTime="1431.877" endTime="1432.476">
+je vous demandai
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1432.476" endTime="1433.937">
+qu'est-ce qui fait qu'ils réussissent ?
+oui ou enfin 
+</Turn>
+<Turn speaker="spk1" startTime="1433.937" endTime="1451.147">
+moi je crois que c'est surtout le la la volonté euh d'arriver on peut faire euh on est un élément moyen mais on peut quand même arriver moi
+
+si je vous le répète si je juge d'après mes enfants et d'après moi-même
+
+bah euh évidemment si on juge euh
+
+en faire des intellectuels ça c'est autre chose
+</Turn>
+<Turn speaker="spk2" startTime="1451.147" endTime="1451.8">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="1451.8" endTime="1452.093">
+hein ?
+</Turn>
+<Turn speaker="spk2" startTime="1452.093" endTime="1452.746">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="1452.746" endTime="1463.178">
+mais on on peut faire des bons manuels moi vous vous me direz que j'en reviens toujours à cette 
+question mais enfin y a des bons métiers manuels
+
+et on euh un élément moyen peut faire un un bon manuel tout de même et il 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1463.178" endTime="1463.891">
+gagne sa vie
+oui oui
+</Turn>
+<Turn speaker="spk2" startTime="1463.891" endTime="1466.274">
+oui oui
+
+</Turn>
+</Section>
+<Section type="report" topic="to19" startTime="1466.274" endTime="1513.626">
+<Turn speaker="spk2" startTime="1466.274" endTime="1468.753">
+alors d'après vous euh jusqu'à quel âge est-ce qu'il faut que les 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1468.753" endTime="1470.879">
+enfants euh fassent des études ?
+euh je suis d'accord pour aller jusqu'à seize ans
+</Turn>
+<Turn speaker="spk1" startTime="1470.879" endTime="1471.622">
+quand même c'est un 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1471.622" endTime="1471.975">
+minimum 
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1471.975" endTime="1473.765">
+de bagages qu'il faut parce que moi j'en souffre de ça
+</Turn>
+<Turn speaker="spk2" startTime="1473.765" endTime="1474.448">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="1474.448" endTime="1480.605">
+comprenez-vous moi j'ai été à l'école jusqu'à mon Certificat d'Etudes j'avais douze ans et demi
+
+et ça j'en ai toujours souffert
+
+</Turn>
+<Turn speaker="spk2" startTime="1480.605" endTime="1481.102">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="1481.102" endTime="1484.773">
+n'est-ce pas 
+
+mais j'estime que c'est valable qu'un gosse aille à l'école jusqu'à treize ans
+
+</Turn>
+<Turn speaker="spk2" startTime="1484.773" endTime="1485.252">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="1485.252" endTime="1494.93">
+comprenez-vous ?
+
+mais alors là quoi à ce moment-là quoi
+
+qu'on dise carrément bon ben ça suffit
+
+hein parce un élé- un gosse je pense qu'à seize ans il s'est révélé ou alors euh euh c'est pas la peine
+</Turn>
+<Turn speaker="spk2" startTime="1494.93" endTime="1495.2">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1495.2" endTime="1512.5">
+y en a qui se révèlent tard mais enfin quand même
+
+je trouve qu'à seize ans euh un gosse s'est révélé
+
+s'il est valable pour faire un intellectuel euh un cadre ou enfin même un 
+
+un un comment dirais-je un responsable euh assez haut placé
+
+mais sinon à seize ans bah qu'est-ce que vous voulez à ce moment-là qu'il prenne un bon métier manuel euh j'en reviens toujours 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1512.5" endTime="1512.89">
+avec mes
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="1512.89" endTime="1513.626">
+questions
+
+</Turn>
+</Section>
+<Section type="report" topic="to20" startTime="1513.626" endTime="1565.493">
+<Turn speaker="spk2" startTime="1513.626" endTime="1516.92">
+et pour vous d'après vous ce serait la même chose pour les garçons et pour les filles ?
+</Turn>
+<Turn speaker="spk1" startTime="1516.92" endTime="1522.932">
+
+là je vous savez euh 
+ça m'est difficile de vous répondre parce que j'ai pas de filles
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1522.932" endTime="1523.195">
+j'ai que des 
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1523.195" endTime="1526.717">
+garçons
+
+alors je peux que juger qu'à travers de mes fils
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1526.717" endTime="1527.4">
+oui oui oui
+comprenez-vous ?
+</Turn>
+<Turn speaker="spk1" startTime="1527.4" endTime="1542.142">
+
+moi j'e- j'estime que j'ai pleinement réussi à travers eux puisque
+
+euh ils ont tous les deux un métier manuel
+
+et ils réussissent tous les deux parfaitement dans leur métier manuel alors par conséquent j'estime
+
+que 
+qu'on a réussi
+</Turn>
+<Turn speaker="spk2" startTime="1542.142" endTime="1542.562">
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="1542.562" endTime="1556.647">
+vous comprenez ?
+
+et qu'est-ce qu'il faut c'est c'est
+
+euh donner de l'agrément
+
+donner de l'agrément à son métier
+
+comprenez-vous
+
+boh bah c'est pas parce qu'on fait un métier manuel que pour ça on est
+
+tiens 
+
+</Turn>
+<Turn speaker="spk2" startTime="1556.647" endTime="1557.665">
+oui pour les filles euh 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1557.665" endTime="1558.474">
+et pour les garçons ?
+oui non je peux
+</Turn>
+<Turn speaker="spk1" startTime="1558.474" endTime="1559.187">
+pas vous répondre hein 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1559.187" endTime="1559.63">
+pour les filles 
+non non
+</Turn>
+<Turn speaker="spk1" startTime="1559.63" endTime="1565.493">
+puisque je vois pas
+
+j'ai pas l- j'ai pas de filles alors je peux pas juger
+
+franchement
+
+</Turn>
+</Section>
+<Section type="report" topic="to21" startTime="1565.493" endTime="1677.077">
+<Turn speaker="spk2" startTime="1565.493" endTime="1567.733">
+alors pour revenir à la ville d'Orléans
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1567.733" endTime="1568.416">
+est-ce que 
+oui
+</Turn>
+<Turn speaker="spk2" startTime="1568.416" endTime="1570.566">
+d'après vous on fait assez pour les habitants à Orléans ?
+</Turn>
+<Turn speaker="spk1" startTime="1570.566" endTime="1576.507">
+
+moi je me plains pas de la municipalité évidemment euh
+
+on peut toujours faire mieux
+
+</Turn>
+<Turn speaker="spk2" startTime="1576.507" endTime="1577.154">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="1577.154" endTime="1582.658">
+on peut toujours faire mieux
+
+mais enfin faut reconnaître quand même que notre ville a été sinistrée à combien à soixante pour cent peut-être
+
+</Turn>
+<Turn speaker="spk2" startTime="1582.658" endTime="1583.131">
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="1583.131" endTime="1586.928">
+n'est-ce pas ?
+
+et que quand même on on n'est on s'est pas mal relevé n'est-ce pas
+
+</Turn>
+<Turn speaker="spk2" startTime="1586.928" endTime="1587.191">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1587.191" endTime="1592.072">
+on a des rues larges enfin agréables euh la rue Royale est une réussite à mon avis moi
+
+</Turn>
+<Turn speaker="spk2" startTime="1592.072" endTime="1592.335">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1592.335" endTime="1592.635">
+n'est-ce pas ?
+</Turn>
+<Turn speaker="spk2" startTime="1592.635" endTime="1593.342">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="1593.342" endTime="1600.51">
+euh évidemment y a des lacunes mais enfin
+
+non moi euh
+
+euh y a des erreurs hein pour moi
+
+pour moi y a des erreurs
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1600.51" endTime="1600.833">
+n'est-ce pas ?
+oui
+</Turn>
+<Turn speaker="spk2" startTime="1600.833" endTime="1601.043">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1601.043" endTime="1611.378">
+par exemple j'estime ça je peux vous le dire
+
+euh la la Motte Minsart par exemple la euh vous savez la
+
+euh comment dirais-je 
+le parc des expositions
+
+</Turn>
+<Turn speaker="spk2" startTime="1611.378" endTime="1612.031">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="1612.031" endTime="1618.373">
+bon bah voilà un parc qui a coûté je en sais combien de millions 
+
+qui sert pour quinze jours
+
+n'est-ce pas ?
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1618.373" endTime="1618.846">
+au moment 
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1618.846" endTime="1624.218">
+des du salon
+
+des arts ménagers
+
+et puis incidemment il va servir trois quatre fois dans l'année
+</Turn>
+<Turn speaker="spk2" startTime="1624.218" endTime="1624.721">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1624.721" endTime="1625.703">
+ça c'est une erreur
+</Turn>
+<Turn speaker="spk2" startTime="1625.703" endTime="1626.062">
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="1626.062" endTime="1626.661">
+à mon avis
+</Turn>
+<Turn speaker="spk2" startTime="1626.661" endTime="1627.08">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1627.08" endTime="1637.009">
+comprenez-vous ?
+
+évidemment y a une politique de prestige qu'on a pratiquée en France depuis pas mal d'années peut-être que nos municipalités ont voulu prendre le même exemple
+
+j'en sais rien 
+mais enfin pour moi ça c'est c'est c'est pas rentable
+</Turn>
+<Turn speaker="spk2" startTime="1637.009" endTime="1637.392">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1637.392" endTime="1645.482">
+hein ?
+
+y a des lacunes y a pas de piscine chauffée y a pas
+
+quand même au point de vue sportif on c-
+
+c'est léger hein ?
+</Turn>
+<Turn speaker="spk2" startTime="1645.482" endTime="1645.895">
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="1645.895" endTime="1648.35">
+c'est tout ce qu'on peut dire pour des enfants de cet âge-là c'est léger hein
+</Turn>
+<Turn speaker="spk2" startTime="1648.35" endTime="1648.859">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1648.859" endTime="1659.991">
+c'est léger
+
+hein on manque de tennis on manque de
+
+quand même on a beau dire il faut se battre euh si on veut un 
+
+on va au parc Pasteur pour pouvoir faire une partie de tennis le dimanche matin
+
+comprenez ?
+</Turn>
+<Turn speaker="spk2" startTime="1659.991" endTime="1660.321">
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="1660.321" endTime="1663.363">
+enfin il manque vraiment en équipements sportifs on manque
+ça y a pas d'erreur
+</Turn>
+<Turn speaker="spk2" startTime="1663.363" endTime="1663.902">
+hum hum
+</Turn>
+<Turn speaker="spk1" startTime="1663.902" endTime="1677.077">
+y a des réussites si y a des réussites oui
+
+je vous dis la ville euh moi j'estime que la ville c'est une réussite
+
+nos quais
+
+nos quais sont bien euh
+
+et puis je sais pas la ville par elle-même est agréable enfin 
+
+à mon avis
+
+</Turn>
+</Section>
+<Section type="report" topic="to22" startTime="1677.077" endTime="1770.297">
+<Turn speaker="spk2" startTime="1677.077" endTime="1680.928">
+oui je viens de dire tout à l'heure on est-ce qu'on fait assez pour les habitants 
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1680.928" endTime="1681.251">
+qu'est-ce que 
+oui
+</Turn>
+<Turn speaker="spk2" startTime="1681.251" endTime="1686.958">
+cela représenterait exactement pour vous ?
+
+quand je dis est-ce qu'on fait assez pour les habitants
+</Turn>
+<Turn speaker="spk1" startTime="1686.958" endTime="1689.742">
+
+ah vous voulez dire euh personnellement ?
+</Turn>
+<Turn speaker="spk2" startTime="1689.742" endTime="1690.431">
+oui c'est ça
+</Turn>
+<Turn speaker="spk1" startTime="1690.431" endTime="1705.659">
+
+non moi je ne me trouve pas mal admi- administré
+
+qu'est-ce t'en penses toi Denis ?
+
+</Turn>
+<Turn speaker="spk1 spk3" startTime="1705.659" endTime="1706.102">
+tu te trouves pas 
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1706.102" endTime="1707.587">
+mal administré ?
+
+</Turn>
+<Turn speaker="spk3" startTime="1707.587" endTime="1713.887">
+oui c'est--à-dire que les
+
+que la mentalité peut-être euh
+n'est pas assez jeune justement dans la 
+</Turn>
+<Turn speaker="spk3 spk1" startTime="1713.887" endTime="1714.3">
+municipalité
+des jeunes
+</Turn>
+<Turn speaker="spk1" startTime="1714.3" endTime="1715.222">
+hein qui se posent
+</Turn>
+<Turn speaker="spk3" startTime="1715.222" endTime="1715.581">
+oui
+</Turn>
+<Turn speaker="spk2" startTime="1715.581" endTime="1722.151">
+oui oui oui
+
+euh 
+
+mais alors
+
+quand on dit la municipalité
+</Turn>
+<Turn speaker="spk1" startTime="1722.151" endTime="1722.54">
+hum
+</Turn>
+<Turn speaker="spk2" startTime="1722.54" endTime="1725.504">
+qui est-ce que ça représente enfin
+quelles personnes ? 
+</Turn>
+<Turn speaker="spk3" startTime="1725.504" endTime="1726.582">
+bah le maire et ses 
+</Turn>
+<Turn speaker="spk3 spk1" startTime="1726.582" endTime="1727.78">
+administrés 
+ah oui oui
+</Turn>
+<Turn speaker="spk1" startTime="1727.78" endTime="1734.6">
+
+ah moi euh je vois le maire et les adjoints après qu'est-ce vous voulez c'est un petit peu plus flou pour moi hein
+</Turn>
+<Turn speaker="spk2" startTime="1734.6" endTime="1734.84">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1734.84" endTime="1742.648">
+mais je connais pas mal de conseillers municipaux
+
+mais enfin remarquez que je leur fais entière confiance je je c'est des gens très honnêtes et certainement très dévoués hein
+</Turn>
+<Turn speaker="spk2" startTime="1742.648" endTime="1743.157">
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="1743.157" endTime="1751.69">
+parce que 
+moi-même si vous voulez dans une plus petite sphère j'ai été président de chez nous et tout ça
+
+je connais les inconvénients de mener des du monde c'est pas commode hein
+</Turn>
+<Turn speaker="spk2" startTime="1751.69" endTime="1752.109">
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="1752.109" endTime="1753.99">
+et puis de gérer
+
+c'est pas commode
+</Turn>
+<Turn speaker="spk2" startTime="1753.99" endTime="1754.134">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1754.134" endTime="1756.044">
+la critique 
+ la critique est toujours facile hein
+</Turn>
+<Turn speaker="spk2" startTime="1756.044" endTime="1756.553">
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="1756.553" endTime="1760.59">
+n'est-ce pas ?
+
+non moi je je me plains pas de la municipalité sauf ça je vous répète 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1760.59" endTime="1760.943">
+que 
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1760.943" endTime="1769.195">
+
+euh au point de vue équipements sportifs vraiment ça ça laisse à désirer et puis alors y des lacunes quoi euh 
+
+comme celle que je viens de vous signaler
+</Turn>
+<Turn speaker="spk2" startTime="1769.195" endTime="1770.297">
+oui
+
+</Turn>
+</Section>
+<Section type="report" topic="to23" startTime="1770.297" endTime="1855.055">
+<Turn speaker="spk2" startTime="1770.297" endTime="1778.136">
+en dehors de ces la municipalité est-ce qu'il y a d'autres personnes qui comptent euh
+
+qui ont de l'influence à Orléans ?
+</Turn>
+<Turn speaker="spk1" startTime="1778.136" endTime="1788.215">
+
+bah voilà voyez toujours pareil euh c'est-ce qui prouve quand même
+j'admire le professeur le le recteur Antoine par exemple
+</Turn>
+<Turn speaker="spk2" startTime="1788.215" endTime="1789.461">
+oui oui
+
+</Turn>
+<Turn speaker="spk1" startTime="1789.461" endTime="1795.024">
+hein ?
+
+euh Maurice Genevoix j'estime que c'est un homme de notre terroir c'est un homme de chez nous 
+si 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1795.024" endTime="1795.587">
+vous voulez
+oui
+</Turn>
+<Turn speaker="spk2" startTime="1795.587" endTime="1795.94">
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="1795.94" endTime="1825.782">
+hein ?
+
+voilà des gens que j'admire j'aime entendre par exemple à 
+
+sur la comment dirais-je euh 
+
+en moyenne fréquence vous savez euh
+
+à entendre j'ai entendu l'autre jour une causerie
+
+justement sur l'Orléanais
+
+qui était débattue entre Maurice Genevoix
+
+euh Secrétain
+
+et le prof- le recteur Antoine
+
+je me souviens pas le quatrième responsable ah oui
+
+euh le président Le- Le- Leguet 
+président de la Chambre de Commerce
+
+bah là j'ai bu du petit lait ça c'est des hommes que j'admire parce que justement ils défendent mon terroir
+</Turn>
+<Turn speaker="spk2" startTime="1825.782" endTime="1826.075">
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="1826.075" endTime="1835.495">
+ils ressentent ce que je ressens si vous voulez
+
+oui autrement je vois
+
+évidemment euh c'est tout ce que je peux vous signaler 
+Péguy
+évidemment Péguy
+</Turn>
+<Turn speaker="spk2" startTime="1835.495" endTime="1835.699">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1835.699" endTime="1839.19">
+mais qu'est-ce que vous voulez j'ai pas assez de culture pour l'apprécier je 
+
+j'aime le lire mais enfin
+</Turn>
+<Turn speaker="spk2" startTime="1839.19" endTime="1839.61">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1839.61" endTime="1848.575">
+mais je ne peux pas tirer certainement la quintessence comme
+
+comme un type qui qui a vraiment euh étudié la littérature
+
+si vous me demandez des hommes de notre terroir c'est ça que vous voulez savoir
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1848.575" endTime="1849.228">
+n'est-ce pas ?
+oui oui oui
+</Turn>
+<Turn speaker="spk1" startTime="1849.228" endTime="1855.055">
+
+oui c'est tout ce que je vois
+
+à vous signaler
+</Turn>
+</Section>
+<Section type="report" topic="to24" startTime="1855.055" endTime="2037.087">
+<Turn speaker="spk2" startTime="1855.055" endTime="1858.103">
+eh bien on a beaucoup parlé des évènements de mai dernier
+</Turn>
+<Turn speaker="spk1" startTime="1858.103" endTime="1858.456">
+oui
+</Turn>
+<Turn speaker="spk2" startTime="1858.456" endTime="1860.223">
+et moi je n'étais pas en France à 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1860.223" endTime="1860.756">
+l'époque
+oui
+</Turn>
+<Turn speaker="spk2" startTime="1860.756" endTime="1861.768">
+alors euh est-ce que vous 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1861.768" endTime="1862.78">
+pourriez m'expliquer
+mai septembre
+</Turn>
+<Turn speaker="spk2" startTime="1862.78" endTime="1865.648">
+ce qu'il s-
+
+s'est passé ?
+pas pas pas pas votre fils
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1865.648" endTime="1866.846">
+mais vous
+non non non
+</Turn>
+<Turn speaker="spk2" startTime="1866.846" endTime="1868.032">
+
+parce que vous aurez
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1868.032" endTime="1868.631">
+certainement
+alors
+</Turn>
+<Turn speaker="spk2" startTime="1868.631" endTime="1868.954">
+des 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1868.954" endTime="1870.295">
+oui des des des ah des
+idées assez différentes 
+</Turn>
+<Turn speaker="spk2" startTime="1870.295" endTime="1870.475">
+là-dessus
+</Turn>
+<Turn speaker="spk1" startTime="1870.475" endTime="1911.837">
+oui
+
+remarquez que ça ça ça a pris tellement soudainement que 
+
+inconsciemment je me suis dit y a quelque chose de valable
+
+certainement on peut pas
+
+un mouvement comme ça ne peut pas se déclencher
+
+avec cette rapidité s'il n'y a pas un mécontentement général
+
+n'est-ce pas ?
+
+mais alors évidemment après j ai vu quand même que les les les les à enfin à mon avis les extrêmes les extrêmes menaient la la danse
+
+alors là j'ai vu que le la majorité était embarquée dans une affaire
+
+que 
+
+euh qui n'était pas prévue au départ certainement euh par les par les pondérés par les 
+
+les gens qui voulaient continuer d'étudier dans de meilleures conditions
+
+n'est-ce pas ?
+</Turn>
+<Turn speaker="spk2" startTime="1911.837" endTime="1912.196">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1912.196" endTime="1928.55">
+mais qui étaient amenés justement par toute cette bande de meneurs euh politiques ou autres sans doute
+
+comprenez-vous ?
+
+et 
+
+en tant que français moyen euh 
+
+je peux pas dire que j'ai pris peur 
+non
+
+mais enfin j'ai déploré ces j'ai déploré ces mouvements-là
+
+</Turn>
+<Turn speaker="spk2" startTime="1928.55" endTime="1928.85">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1928.85" endTime="1934.677">
+comprenez ?
+
+quoique dans m- dans ma profession euh j'ai beaucoup de contact avec des des professeurs
+
+n'est-ce pas ?
+</Turn>
+<Turn speaker="spk2" startTime="1934.677" endTime="1935.174">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="1935.174" endTime="1952.11">
+qui m'ont expliqué
+
+le mouvement
+
+hein on peut le dire
+
+et je j'ai très bien compris leur mouvement euh je je j'ai je l'ai reconnu valable si vous voulez
+
+mais enfin évidemment c'est une explosion euh c'est des jeunes on ne peut pas régenter des jeunes comme on peut régenter je sais pas des gens de mon âge par exemple
+
+</Turn>
+<Turn speaker="spk2" startTime="1952.11" endTime="1960.153">
+oui
+oui oui
+
+mais alors qu'est-ce qui s'est passé euh est-ce qu'il s'est passé quelque chose à Orléans ou ?
+</Turn>
+<Turn speaker="spk1" startTime="1960.153" endTime="1972.765">
+
+bah à la Source vous savez on n'a pas tellement parlé hein oui y a eu quelque chose évidemment à la Source
+
+mais à la Source y a un problème qu'est-ce que vous voulez c'est vraiment un 
+
+euh comment dirais-je 
+c'est pas la claustrophobie 
+ mais presque
+
+</Turn>
+<Turn speaker="spk2" startTime="1972.765" endTime="1972.969">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1972.969" endTime="1973.352">
+hein ?
+</Turn>
+<Turn speaker="spk2" startTime="1973.352" endTime="1973.562">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1973.562" endTime="1975.556">
+ils sont en cir- en circuit fermé
+
+</Turn>
+<Turn speaker="spk2" startTime="1975.556" endTime="1976.544">
+oui pourquoi ça ?
+</Turn>
+<Turn speaker="spk1" startTime="1976.544" endTime="1986.257">
+eh bien parce qu'ils se plaignent justement qu'ils
+
+ils s-
+c'est un campus
+
+alors ils ils sont là et puis sortis de leurs études euh faut qu'ils viennent à Orléans y a aucun moyen de locomotion ou presque
+</Turn>
+<Turn speaker="spk2" startTime="1986.257" endTime="1986.946">
+oui oui oui
+</Turn>
+<Turn speaker="spk1" startTime="1986.946" endTime="1991.186">
+comprenez-vous ?
+
+alors ils ils sont casernés ils ont l'impression d'être encasernés
+</Turn>
+<Turn speaker="spk2" startTime="1991.186" endTime="1992.228">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="1992.228" endTime="2000.39">
+on a beau leur faire en ce moment des des des parcs et tout ce que vous voudrez euh
+
+le jeune c'est pas ça qu'il cherche au fond quand il cherche un autre dérivatif que celui-là hein
+</Turn>
+<Turn speaker="spk2" startTime="2000.39" endTime="2000.929">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="2000.929" endTime="2007.623">
+il a le confort
+
+n'est-ce pas à la Source certainement et 
+
+il a il a des belles salles de classe si vous voulez n'est-ce pas ?
+</Turn>
+<Turn speaker="spk2" startTime="2007.623" endTime="2008.013">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2008.013" endTime="2021.541">
+mais ce qu'il rechercherait c'est un contact est-ce
+
+il en peine ça parce que je vois ça à travers de mon aîné
+
+qui est qui vit avec beaucoup d'étudiants
+
+et l'étudiant peine de ça
+
+hein ?
+du manque de contact justement avec le le la population orléanaise
+</Turn>
+<Turn speaker="spk2" startTime="2021.541" endTime="2022.404">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="2022.404" endTime="2023.536">
+ils ont l'impression d'être à part
+</Turn>
+<Turn speaker="spk2" startTime="2023.536" endTime="2025.117">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="2025.117" endTime="2030.59">
+ça c'est un élément aussi euh
+de trouble si vous voulez de 
+
+je crois
+</Turn>
+<Turn speaker="spk2" startTime="2030.59" endTime="2037.087">
+oui
+oui oui
+
+non merci
+
+</Turn>
+</Section>
+<Section type="report" topic="to25" startTime="2037.087" endTime="2156.846">
+<Turn speaker="spk2" startTime="2037.087" endTime="2042.076">
+est-ce que 
+
+les différences entre les classes sont très marquées à Orléans ?
+</Turn>
+<Turn speaker="spk1" startTime="2042.076" endTime="2088.11">
+
+je pense pas non vous savez enfin vous savez
+
+le euh
+
+l'Orléanais
+
+si vous voulez c'est le Val-de-Loire hein
+
+hein c'est le climat tempéré eh bah l'homme est un peu euh le reflet de son climat
+
+hein ?
+
+évidemment y a des extrémistes
+
+mais enfin je pense pas qu'il y ait 
+tellement de de différences entre les classes comme
+
+vous vous savez je crois que pour les les dirigeants qui viennent à Orléans que ça soit
+
+du ministère de l'intérieur ou un préfet ou que ça soit
+
+euh de du ministère des finances ou que ça soit
+
+euh tous les les cadres qui viennent enfin des responsables de la région
+
+vous savez je j'ai l'impression que c'est un peu une sinécure hein pour Orléans euh 
+
+
+il y a pas tellement de problèmes dans nos dans notre coin
+</Turn>
+<Turn speaker="spk2" startTime="2088.11" endTime="2089.086">
+oui
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="2089.086" endTime="2103.65">
+moi j'ai eu des contacts euh bien des fois avec euh la préfecture euh professionnellement
+
+on sent quand même que c'est pas un pays de de troublions 
+ vous savez les les Orléanais hein c'est des gens pondérés
+
+et je crois que ça se reflète dans toutes les classes de la société
+</Turn>
+<Turn speaker="spk2" startTime="2103.65" endTime="2104.267">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="2104.267" endTime="2104.896">
+je crois
+</Turn>
+<Turn speaker="spk2" startTime="2104.896" endTime="2110.279">
+mais quelles sont elles enfin d'après vous ces classes de la société ?
+
+euh pour leur donner un nom
+</Turn>
+<Turn speaker="spk1" startTime="2110.279" endTime="2114.501">
+bah vous savez Orléans n'est pas tellement industrialisé
+
+hein ?
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2114.501" endTime="2115.094">
+on peut dire 
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2115.094" endTime="2148.761">
+évidemment elle suit le le la courbe
+générale
+
+mais enfin euh
+
+Orléans est pas tellement instru- industrialisée alors par conséquent vous n'avez pas euh 
+
+l'ouvrier de basse classe quoi enfin celui qui qui qui gagne euh
+
+euh le minimum vital y en a y en a mais enfin
+
+c'est quand même pas la généralité vous avez quand même beaucoup de de petites entreprises de 
+
+des gens quand même qui 
+qui ont une petite responsabilité moi je crois
+
+hein et 
+
+moi je suis on touche toutes les classes de la société on peut pas dire que y ait des clans hein
+
+</Turn>
+<Turn speaker="spk2" startTime="2148.761" endTime="2149.204">
+hum
+</Turn>
+<Turn speaker="spk1" startTime="2149.204" endTime="2154.198">
+évidemment les gens se trient mais enfin je 
+
+on on sent pas une acrimonie entre les classes
+
+</Turn>
+<Turn speaker="spk2" startTime="2154.198" endTime="2155.031">
+hum
+
+</Turn>
+<Turn speaker="spk1" startTime="2155.031" endTime="2156.163">
+franchement non
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2156.163" endTime="2156.846">
+je crois pas
+et est-ce
+</Turn>
+</Section>
+<Section type="report" topic="to26" startTime="2156.846" endTime="2248.307">
+<Turn speaker="spk2" startTime="2156.846" endTime="2164.649">
+est-ce qu'on pourrait reconnaître disons un un ouvrier d'un autre euh 
+
+d'un membre des autres classes en les voyant euh 
+</Turn>
+<Turn speaker="spk1" startTime="2164.649" endTime="2165.541">
+euh
+</Turn>
+<Turn speaker="spk2" startTime="2165.541" endTime="2166.11">
+comme ça ?
+</Turn>
+<Turn speaker="spk1" startTime="2166.11" endTime="2167.565">
+
+de moins en moins
+</Turn>
+<Turn speaker="spk2" startTime="2167.565" endTime="2170.553">
+oui
+
+mais enfin dans les cas où on pourrait faire la 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2170.553" endTime="2171.422">
+différence à quoi
+ah oui
+</Turn>
+<Turn speaker="spk2" startTime="2171.422" endTime="2174.799">
+à quoi est-ce qu'on le reconnaîtrait
+
+d'après vous ?
+</Turn>
+<Turn speaker="spk1" startTime="2174.799" endTime="2178.422">
+d'abord par euh par son habillement on dit l'habit ne fait pas le moine mais enfin tout de même
+</Turn>
+<Turn speaker="spk2" startTime="2178.422" endTime="2179.141">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="2179.141" endTime="2186.549">
+et puis puis par ses 
+par son raisonnement par ses 
+
+euh sa façon de de de voir la vie quoi
+</Turn>
+<Turn speaker="spk2" startTime="2186.549" endTime="2186.962">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2186.962" endTime="2199.376">
+comprenez là on sent l'ouvrier 
+
+enfin on sent si vous voulez le le le type aigri qui n'a peut-être pas
+réussi sa vie et 
+
+et qui à ce moment-là s'en prend à la société hein
+</Turn>
+<Turn speaker="spk2" startTime="2199.376" endTime="2199.765">
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="2199.765" endTime="2204.52">
+hein ?
+ou même peut-être aussi faut le reconnaître peut-être l'ouvrier qui est exploité aussi hein y en a malheureusement
+</Turn>
+<Turn speaker="spk2" startTime="2204.52" endTime="2204.88">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2204.88" endTime="2205.473">
+comprenez-vous ?
+</Turn>
+<Turn speaker="spk2" startTime="2205.473" endTime="2205.796">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2205.796" endTime="2211.174">
+alors celui-là s'exprime évidemment euh
+
+euh en en fonction de ce qu'il ressent hein
+</Turn>
+<Turn speaker="spk2" startTime="2211.174" endTime="2211.677">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2211.677" endTime="2241.372">
+mais autrement on on peut dire que les trois quarts des des des ouvriers maintenant hein
+
+viennent sont bien habillés euh 
+prennent le
+je vais parler commerçant
+
+prennent les bons morceaux aussi bien que les autres
+
+euh ça y a pas de différence hein
+
+si le si le dimanche ils ont envie de manger un gigot y a rien 
+ils mangent un gigot ils s'occupent pas vous savez 
+
+ on dit pas c'est 
+ Untel elle va manger un gigot
+
+y a p-
+
+euh la semaine on vend huit à dix gigots par exemple eh bien vous savez vous en vendez autant
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2241.372" endTime="2242.001">
+ si vous voulez à un 
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="2242.001" endTime="2248.307">
+ouvrier qu'à 
+qu'à un avocat ou un docteur ou un chirurgien euh
+
+ça euh
+
+</Turn>
+</Section>
+<Section type="report" topic="to4" startTime="2248.307" endTime="2386.286">
+<Turn speaker="spk2" startTime="2248.307" endTime="2259.302">
+est-ce que vous remarquez une
+
+différence sensible entre vos différents clients dans leur façon de choisir la viande
+
+dans ce qu'ils achètent et caetera ?
+
+indépendamment 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2259.302" endTime="2259.745">
+disons de leurs 
+oui
+</Turn>
+<Turn speaker="spk2" startTime="2259.745" endTime="2260.763">
+origines de classe ? 
+</Turn>
+<Turn speaker="spk1" startTime="2260.763" endTime="2278.728">
+oui
+
+ce qu'il y a c'est que avec le progrès vous comprenez de moins en moins
+
+le client a 
+veut faire de de plats
+
+à cuisson lente
+
+</Turn>
+<Turn speaker="spk2" startTime="2278.728" endTime="2279.591">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="2279.591" endTime="2285.573">
+comprenez-vous c'est un des phénomènes de notre métier et on en souffre
+
+on va de plus en plus vers le steak vers le 
+comprenez-vous ?
+</Turn>
+<Turn speaker="spk2" startTime="2285.573" endTime="2285.902">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2285.902" endTime="2292.118">
+n'est-ce pas ?
+
+mais alors là y a pas de problèmes pas plus la classe euh dirigeante enfin si on devait l'appeler ainsi que la classe ouvrière hein
+</Turn>
+<Turn speaker="spk2" startTime="2292.118" endTime="2292.508">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2292.508" endTime="2304.113">
+et le le et et le problème est le même pour tous hein
+
+on on va de plus en plus vers euh
+
+vers la vente de de la cuisson rapide quoi des morceaux nobles ce qu'ils appellent quoi c'est à dire les rosbifs les biftecks et tout ça
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2304.113" endTime="2304.772">
+de plus en plus 
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2304.772" endTime="2312.179">
+d'une année sur l'autre on constate hein
+
+non autrement non
+
+on ressent
+on ressent les fins de mois
+
+</Turn>
+<Turn speaker="spk2" startTime="2312.179" endTime="2312.539">
+les ?
+</Turn>
+<Turn speaker="spk1" startTime="2312.539" endTime="2313.995">
+les fins de mois
+
+</Turn>
+<Turn speaker="spk2" startTime="2313.995" endTime="2314.558">
+ah oui
+
+</Turn>
+<Turn speaker="spk1" startTime="2314.558" endTime="2316.468">
+ça on les ressent
+
+</Turn>
+<Turn speaker="spk2" startTime="2316.468" endTime="2316.977">
+les fins de mois ?
+</Turn>
+<Turn speaker="spk1" startTime="2316.977" endTime="2317.815">
+ah c'est net hein
+</Turn>
+<Turn speaker="spk2" startTime="2317.815" endTime="2318.714">
+qu'est-ce que c'est les fins de mois ?
+</Turn>
+<Turn speaker="spk1" startTime="2318.714" endTime="2328.726">
+eh bien c'est--à-dire que le client par exemple il est si vous posez qu'il a un budget de cent mille
+
+bon il va manger quatre-vingt-dix mille dans les les vingt ou vingt-deux premiers jours
+
+et puis huit jours 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2328.726" endTime="2329.804">
+il reste avec dix mille
+ah les fins de mois oui
+</Turn>
+<Turn speaker="spk1" startTime="2329.804" endTime="2330.194">
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2330.194" endTime="2330.727">
+comprenez ?
+parce que j'avais 
+</Turn>
+<Turn speaker="spk2" startTime="2330.727" endTime="2331.38">
+pas compris oui
+</Turn>
+<Turn speaker="spk1" startTime="2331.38" endTime="2332.152">
+voilà
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2332.152" endTime="2332.452">
+ alors 
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2332.452" endTime="2336.303">
+là euh 
+
+pendant huit jours faut qu'il vive avec dix ou quinze mille
+</Turn>
+<Turn speaker="spk2" startTime="2336.303" endTime="2336.566">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2336.566" endTime="2338.034">
+alors là on ressent les fins de mois 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2338.034" endTime="2338.567">
+alors on le 
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2338.567" endTime="2339.729">
+ressent dans notre vente
+
+</Turn>
+<Turn speaker="spk2" startTime="2339.729" endTime="2340.052">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2340.052" endTime="2357.39">
+c'est--à-dire que vous allez faire cent clients
+
+avec une moyenne par exemple de sept cents je vais vous citer un chiffre
+sept francs
+par client 
+n'est-ce pas ?
+
+dans une semaine ordinaire
+
+et vous allez faire cent clients
+
+avec quatre cent ou quatre cent cinquante
+ou quatre francs quatre francs cinquante plus exactement
+
+par client
+dans ces semaines--là
+</Turn>
+<Turn speaker="spk2" startTime="2357.39" endTime="2357.66">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2357.66" endTime="2363.211">
+c'est--à-dire qu'ils vont se diriger vers le bifteck haché
+
+ils vont se diriger
+
+euh vers les abats
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2363.211" endTime="2363.511">
+ qui sont 
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2363.511" endTime="2368.518">
+des articles moins chers
+
+ce qui prouve que le budget vous comprenez là on le ressent
+
+on ressent les fins de 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2368.518" endTime="2368.991">
+mois ça
+et y a une
+</Turn>
+<Turn speaker="spk2" startTime="2368.991" endTime="2371.231">
+différence entre les catégories euh de ce point de vue-là ?
+</Turn>
+<Turn speaker="spk1" startTime="2371.231" endTime="2372.991">
+ah oui là là ça se sent là quand même
+</Turn>
+<Turn speaker="spk2" startTime="2372.991" endTime="2373.291">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2373.291" endTime="2380.274">
+là ça se sent là oui
+
+oui c'est c'est la seule chose que je puisse vous dire à ce sujet-là hein
+
+</Turn>
+<Turn speaker="spk2" startTime="2380.274" endTime="2386.286">
+oui
+
+</Turn>
+</Section>
+<Section type="report" topic="to27" startTime="2386.286" endTime="2569.717">
+<Turn speaker="spk2" startTime="2386.286" endTime="2388.765">
+y a t-il chez vous un dictionnaire ?
+</Turn>
+<Turn speaker="spk1" startTime="2388.765" endTime="2389.777">
+
+oui
+
+</Turn>
+<Turn speaker="spk2" startTime="2389.777" endTime="2394.945">
+oui
+
+euh
+
+ou des dictionnaires ?
+</Turn>
+<Turn speaker="spk1" startTime="2394.945" endTime="2397.994">
+
+bah euh j'ai un Littré et j'ai un Larousse
+
+</Turn>
+<Turn speaker="spk2" startTime="2397.994" endTime="2405.396">
+oui
+
+euh hum
+
+est-ce que vous avez
+
+oui bon excusez-moi parce que 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2405.396" endTime="2405.935">
+je suis pas très 
+je vous en prie
+</Turn>
+<Turn speaker="spk2" startTime="2405.935" endTime="2411.217">
+au fait de de 
+ ces questions
+
+oui c'est c'est le Littré ou le Larousse 
+vous avez les deux ?
+</Turn>
+<Turn speaker="spk1" startTime="2411.217" endTime="2411.636">
+oui
+</Turn>
+<Turn speaker="spk2" startTime="2411.636" endTime="2416.397">
+le Littré et le Larousse
+
+euh en combien de volumes ?
+</Turn>
+<Turn speaker="spk1" startTime="2416.397" endTime="2420.906">
+
+je l'ai en trois j'ai le le 
+
+le petit volume en Larousse vous savez le 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2420.906" endTime="2421.236">
+et puis alors
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2421.236" endTime="2423.685">
+ je l'ai en trois en trois volumes en Littré
+</Turn>
+<Turn speaker="spk2" startTime="2423.685" endTime="2425.691">
+oui
+
+où est-ce que vous les gardez ?
+</Turn>
+<Turn speaker="spk1" startTime="2425.691" endTime="2426.823">
+
+bah je les ai là euh 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2426.823" endTime="2427.841">
+dans la bibliothèque
+c'est votre bureau là
+</Turn>
+<Turn speaker="spk1" startTime="2427.841" endTime="2428.224">
+oui 
+</Turn>
+<Turn speaker="spk2" startTime="2428.224" endTime="2432.829">
+oui
+
+euh hum depuis quand est-ce que vous avez un ou des dictionnaires ?
+</Turn>
+<Turn speaker="spk1" startTime="2432.829" endTime="2436.057">
+
+oh depuis toujours pratiquement
+</Turn>
+<Turn speaker="spk2" startTime="2436.057" endTime="2436.506">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2436.506" endTime="2445.992">
+le Larousse je l'ai depuis toujours
+
+le Littré je l'ai acheté après euh parce que je l'ai jugé un petit peu plus 
+
+mieux approfondi si vous voulez
+un peu plus fouillé
+
+</Turn>
+<Turn speaker="spk2" startTime="2445.992" endTime="2448.77">
+oui quand est-ce que vous l'avez vous l'avez acheté euh est-ce que vous vous 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2448.77" endTime="2449.22">
+souvenez ?
+oh
+</Turn>
+<Turn speaker="spk1" startTime="2449.22" endTime="2450.501">
+y a une quinzaine d'années oui
+</Turn>
+<Turn speaker="spk2" startTime="2450.501" endTime="2459.915">
+oui
+
+et 
+
+comment est-ce que vous l'avez vous avez euh
+
+acheté enfin l'un ou l'autre de ces dictionnaires enfin
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2459.915" endTime="2460.574">
+
+
+
+
+</Turn>
+<Turn speaker="spk1" startTime="2460.574" endTime="2466.574">
+le le le dictionnaire euh Larousse y avait pas de problèmes je l'avais 
+
+euh apprécié à l'école
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2466.574" endTime="2466.964">
+ alors
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2466.964" endTime="2470.042">
+j'ai continué c'est un Larousse tout ce qu'il y a de primaire
+</Turn>
+<Turn speaker="spk2" startTime="2470.042" endTime="2470.365">
+oui
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2470.365" endTime="2470.695">
+ah puis 
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2470.695" endTime="2473.264">
+après j'ai demandé l'avis à un d'un libraire
+
+</Turn>
+<Turn speaker="spk2" startTime="2473.264" endTime="2479.079">
+oui
+
+oui
+
+bien
+
+qui est-ce qui s'en sert le plus souvent à la maison ?
+</Turn>
+<Turn speaker="spk1" startTime="2479.079" endTime="2486.667">
+
+bah un peu tous hein
+
+des fois quand on a quelque chose à débattre bah on c'est le Larousse qui nous départage ou le 
+ ou le Littré
+</Turn>
+<Turn speaker="spk2" startTime="2486.667" endTime="2491.59">
+oui oui oui
+oui
+
+et vous est-ce que vous vous en servez euh ?
+</Turn>
+<Turn speaker="spk1" startTime="2491.59" endTime="2500.53">
+
+oui parce que je je vous l'ai répété comme euh tout à l'heure je vous le disais là
+
+du fait que ayant quitté l'école à treize ans hein je bute sur pas mal de choses hein
+</Turn>
+<Turn speaker="spk2" startTime="2500.53" endTime="2501.093">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="2501.093" endTime="2503.998">
+et alors je suis content de le trouver pour pouvoir me m'éclairer
+</Turn>
+<Turn speaker="spk2" startTime="2503.998" endTime="2508.507">
+oui
+
+en moyenne enfin combien
+de fois par mois est-ce que vous seriez 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2508.507" endTime="2509.256">
+susceptible de 
+oh je sais
+</Turn>
+<Turn speaker="spk1" startTime="2509.256" endTime="2515.621">
+pas peut-être euh deux ou trois fois par mois ça dépend des moments je vais l'employer des fois 
+
+dans la même semaine trois quatre fois puis je vais être un mois sans m'en servir
+</Turn>
+<Turn speaker="spk2" startTime="2515.621" endTime="2520.706">
+oui c'est ça oui oui oui
+
+est-ce que vous vous souvenez de la dernière fois que vous l'avez regardé ?
+</Turn>
+<Turn speaker="spk1" startTime="2520.706" endTime="2523.958">
+
+qu' est-ce qu'on a regardé ?
+à quel euh sujet ? 
+</Turn>
+<Turn speaker="spk3" startTime="2523.958" endTime="2525.114">
+oh y a pas longtemps
+
+</Turn>
+<Turn speaker="spk1" startTime="2525.114" endTime="2526.581">
+hum oh une huitaine peut-être 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2526.581" endTime="2527.15">
+si vous voulez
+oui
+</Turn>
+<Turn speaker="spk2" startTime="2527.15" endTime="2531.24">
+
+et
+
+vous vous souvenez de ce que vous avez cherché ?
+</Turn>
+<Turn speaker="spk3" startTime="2531.24" endTime="2536.205">
+
+ c'était Jacques
+
+</Turn>
+<Turn speaker="spk1" startTime="2536.205" endTime="2538.259">
+la denture et la dentition
+
+</Turn>
+<Turn speaker="spk2 spk3" startTime="2538.259" endTime="2538.888">
+ah bon ?
+oui
+</Turn>
+<Turn speaker="spk3" startTime="2538.888" endTime="2539.99">
+oui je me souviens oui
+</Turn>
+<Turn speaker="spk1" startTime="2539.99" endTime="2544.655">
+hum
+
+</Turn>
+<Turn speaker="spk2" startTime="2544.655" endTime="2555.506">
+bon
+
+euh
+
+là s'il s'agit de dire dans dans quelle catégorie vous cherchez le plus souvent entre orthographe euh le sens des mots l'histoire ou la géographie ?
+</Turn>
+<Turn speaker="spk1" startTime="2555.506" endTime="2556.165">
+l'orthographe
+</Turn>
+<Turn speaker="spk2" startTime="2556.165" endTime="2557.387">
+l'orthographe oui
+</Turn>
+<Turn speaker="spk3" startTime="2557.387" endTime="2558.968">
+le sens des mots aussi
+
+</Turn>
+<Turn speaker="spk1" startTime="2558.968" endTime="2560.249">
+le sens des mots aussi oui
+</Turn>
+<Turn speaker="spk2" startTime="2560.249" endTime="2566.495">
+oui
+
+et est-ce que vous avez aussi euh une ou des encyclopédies ?
+</Turn>
+<Turn speaker="spk1" startTime="2566.495" endTime="2567.088">
+
+non
+</Turn>
+<Turn speaker="spk2" startTime="2567.088" endTime="2569.717">
+non
+
+</Turn>
+</Section>
+<Section type="report" topic="to28" startTime="2569.717" endTime="2585.43">
+<Turn speaker="spk2" startTime="2569.717" endTime="2577.921">
+est-ce que vous possédez d'autres dictionnaires euh du genre euh 
+
+par exemple Larousse ménager Larousse médical Larousse gastronomique ?
+</Turn>
+<Turn speaker="spk1" startTime="2577.921" endTime="2580.556">
+euh ma femme a un Larousse ménager oui
+
+</Turn>
+<Turn speaker="spk2" startTime="2580.556" endTime="2585.43">
+oui
+
+</Turn>
+</Section>
+<Section type="report" topic="to29" startTime="2585.43" endTime="2639.608">
+<Turn speaker="spk2" startTime="2585.43" endTime="2592.107">
+est-ce que vous possédez un livre euh sur euh l'art de parler ou la sur la prononciation ?
+</Turn>
+<Turn speaker="spk1" startTime="2592.107" endTime="2593.059">
+non
+
+</Turn>
+<Turn speaker="spk2" startTime="2593.059" endTime="2594.706">
+sur l'art d'écrire l'art d'écrire des 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2594.706" endTime="2595.269">
+lettres ?
+non
+</Turn>
+<Turn speaker="spk2" startTime="2595.269" endTime="2595.473">
+le
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2595.473" endTime="2595.707">
+Bon 
+non
+</Turn>
+<Turn speaker="spk2" startTime="2595.707" endTime="2596.33">
+Usage ?
+</Turn>
+<Turn speaker="spk1" startTime="2596.33" endTime="2597.102">
+non
+
+</Turn>
+<Turn speaker="spk2" startTime="2597.102" endTime="2600.031">
+les difficultés de la langue française en orthographe ?
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2600.031" endTime="2601.073">
+non euh ça je 
+ah oui oui
+</Turn>
+<Turn speaker="spk1" startTime="2601.073" endTime="2603.876">
+vous dis je me fie au 
+
+au Littré
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2603.876" endTime="2604.678">
+quand euh 
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2604.678" endTime="2605.81">
+je bute sur un mot
+
+</Turn>
+<Turn speaker="spk2" startTime="2605.81" endTime="2607.181">
+un guide de politesse de 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2607.181" endTime="2607.541">
+savoir 
+non
+</Turn>
+<Turn speaker="spk2" startTime="2607.541" endTime="2607.954">
+faire 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2607.954" endTime="2608.343">
+et caetera ?
+non
+</Turn>
+<Turn speaker="spk2" startTime="2608.343" endTime="2614.649">
+non 
+
+et pourquoi est-ce que vous n'avez aucun de ces livres-là est-ce que vous ?
+</Turn>
+<Turn speaker="spk1" startTime="2614.649" endTime="2622.655">
+
+euh parce que qu'est-ce que vous voulez j'ai une vie tout à fait 
+
+comment dirais-je euh 
+
+restreinte au point de vue relations 
+</Turn>
+<Turn speaker="spk2" startTime="2622.655" endTime="2624.092">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="2624.092" endTime="2633.853">
+donc par conséquent j'ai j'ai pas de rela- de relations épistolaires ou alors même si vous voulez
+
+euh de contacts euh de en société
+</Turn>
+<Turn speaker="spk2" startTime="2633.853" endTime="2634.206">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2634.206" endTime="2637.051">
+alors je j'en éprouve pas le le besoin d'un 
+</Turn>
+<Turn speaker="spk2" startTime="2637.051" endTime="2637.464">
+oui d'accord
+</Turn>
+<Turn speaker="spk1" startTime="2637.464" endTime="2638.327">
+d'en acheter
+
+</Turn>
+<Turn speaker="spk2" startTime="2638.327" endTime="2639.608">
+oui
+
+</Turn>
+</Section>
+<Section type="report" topic="to31" startTime="2639.608" endTime="2647.621">
+<Turn speaker="spk2" startTime="2639.608" endTime="2643.65">
+est-ce que le journal que vous lisez habituellement a une rubrique sur le langage ?
+</Turn>
+<Turn speaker="spk1" startTime="2643.65" endTime="2644.632">
+
+non
+
+</Turn>
+<Turn speaker="spk2" startTime="2644.632" endTime="2647.621">
+non
+
+</Turn>
+</Section>
+<Section type="report" topic="to32" startTime="2647.621" endTime="2653.082">
+<Turn speaker="spk2" startTime="2647.621" endTime="2649.411">
+euh est-ce que vous faites des mots-croisés ?
+</Turn>
+<Turn speaker="spk1" startTime="2649.411" endTime="2650.783">
+
+non
+
+</Turn>
+<Turn speaker="spk2" startTime="2650.783" endTime="2653.082">
+non
+
+</Turn>
+</Section>
+<Section type="report" topic="to33" startTime="2653.082" endTime="2674.607">
+<Turn speaker="spk2" startTime="2653.082" endTime="2654.52">
+est-ce que vous je vous répète une question que je 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2654.52" endTime="2655.113">
+vous 
+oui
+</Turn>
+<Turn speaker="spk2" startTime="2655.113" endTime="2658.76">
+ai déjà posée est-ce que vous pensez qu'il soit utile que les enfants apprennent le latin à l'école ?
+</Turn>
+<Turn speaker="spk1" startTime="2658.76" endTime="2663.569">
+
+alors je vous ai répété ce que à travers mes fils oui
+
+</Turn>
+<Turn speaker="spk2" startTime="2663.569" endTime="2663.862">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2663.862" endTime="2665.06">
+ parce que d'après 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2665.06" endTime="2665.689">
+eux
+et pourquoi
+</Turn>
+<Turn speaker="spk2" startTime="2665.689" endTime="2666.282">
+d'après vous ?
+</Turn>
+<Turn speaker="spk1" startTime="2666.282" endTime="2670.048">
+ah parce que c'est a- avec le grec c'est la base euh de la langue française
+</Turn>
+<Turn speaker="spk2" startTime="2670.048" endTime="2671.091">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="2671.091" endTime="2672.133">
+c'est les racines quand même
+</Turn>
+<Turn speaker="spk2" startTime="2672.133" endTime="2674.607">
+oui d'accord
+
+</Turn>
+</Section>
+<Section type="report" topic="to34" startTime="2674.607" endTime="2709.191">
+<Turn speaker="spk2" startTime="2674.607" endTime="2676.847">
+qu'est-ce que vous pensez de ce qu'on appelle le franglais ?
+</Turn>
+<Turn speaker="spk1" startTime="2676.847" endTime="2680.722">
+
+bah il est un petit peu envahissant hein
+
+</Turn>
+<Turn speaker="spk2" startTime="2680.722" endTime="2687.536">
+oui
+
+est-ce que vous êtes pour ou contre ou 
+ indifférent disons ?
+
+enfin 
+
+de ces trois choix 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2687.536" endTime="2688.764">
+pour contre ou indifférent ?
+pour contre
+</Turn>
+<Turn speaker="spk1" startTime="2688.764" endTime="2693.992">
+ou indifférent
+
+ça va peut-être pas vous faire plaisir mais je vais vous dire contre
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2693.992" endTime="2695.932">
+
+ 
+
+
+
+</Turn>
+<Turn speaker="spk2" startTime="2695.932" endTime="2697.507">
+d'accord 
+et pourquoi ?
+</Turn>
+<Turn speaker="spk1" startTime="2697.507" endTime="2702.268">
+
+parce que je trouve que la langue française est assez riche pour pouvoir trouver les mots
+
+</Turn>
+<Turn speaker="spk2" startTime="2702.268" endTime="2702.711">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2702.711" endTime="2704.921">
+qui correspondent à ce que l'on veut dire tout de même
+</Turn>
+<Turn speaker="spk2" startTime="2704.921" endTime="2709.191">
+oui
+
+hum bien
+
+</Turn>
+</Section>
+<Section type="report" topic="to35" startTime="2709.191" endTime="2780.871">
+<Turn speaker="spk2" startTime="2709.191" endTime="2715.652">
+et y a-t-il des différences selon vous dans la façon de parler français entre les gens 
+appartenant à des milieux sociaux différents ?
+</Turn>
+<Turn speaker="spk1" startTime="2715.652" endTime="2731.958">
+
+je pense pas
+
+on sent la personne bien éduquée
+
+n'est-ce pas je ressens ça dans la clientèle mais ça c'est indéfinissable si vous voulez
+</Turn>
+<Turn speaker="spk2" startTime="2731.958" endTime="2732.407">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2732.407" endTime="2738.605">
+comprenez-vous ?
+
+mais vous avez des des gens qui s'expriment aussi bien chez un ouvrier quand c'est ils possèdent bien leur sujet
+</Turn>
+<Turn speaker="spk2" startTime="2738.605" endTime="2739.827">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="2739.827" endTime="2746.013">
+euh évidemment c'est peut-être pas aussi châtié que quand c'est un intellectuel
+
+mais enfin quand même ils savent euh très bien s'exprimer tout de même
+</Turn>
+<Turn speaker="spk2" startTime="2746.013" endTime="2747.235">
+oui
+oui oui
+
+</Turn>
+<Turn speaker="spk1" startTime="2747.235" endTime="2751.894">
+d'ailleurs on n'est pas la 
+
+euh la vallée de la Loire pour rien hein
+</Turn>
+<Turn speaker="spk2" startTime="2751.894" endTime="2767.553">
+oui
+
+bien
+
+euh hum
+
+enfin c'est différent ce qui existe quand même entre euh
+
+différentes catégories
+
+est-ce que d'après vous euh
+elles seraient très importantes importantes ou peu importantes ?
+</Turn>
+<Turn speaker="spk1" startTime="2767.553" endTime="2772.943">
+
+peu importantes
+</Turn>
+<Turn speaker="spk2" startTime="2772.943" endTime="2780.871">
+oui
+
+bien
+
+</Turn>
+</Section>
+<Section type="report" topic="to36" startTime="2780.871" endTime="2798.231">
+<Turn speaker="spk2" startTime="2780.871" endTime="2785.931">
+est-ce que d'après vous les gens parleraient de mieux en mieux de plus en plus mal ou sans changement ?
+</Turn>
+<Turn speaker="spk1" startTime="2785.931" endTime="2786.889">
+ah non de mieux en mieux
+</Turn>
+<Turn speaker="spk2" startTime="2786.889" endTime="2789.314">
+de mieux en mieux oui et à quoi cela tient d'après vous ?
+</Turn>
+<Turn speaker="spk1" startTime="2789.314" endTime="2794.045">
+
+bah justement parce que je crois que l'éducation est un petit peu plus poussée l'instruction est un peu plus poussée
+</Turn>
+<Turn speaker="spk2" startTime="2794.045" endTime="2798.231">
+oui
+
+</Turn>
+</Section>
+<Section type="report" topic="to37" startTime="2798.231" endTime="2870.682">
+<Turn speaker="spk2" startTime="2798.231" endTime="2804.585">
+parmi vos vos connaissances 
+quelle est la personne qui parle le mieux le français ?
+
+des personnes que vous connaissez ?
+</Turn>
+<Turn speaker="spk1" startTime="2804.585" endTime="2806.28">
+
+il faut que je vous cite son nom ?
+</Turn>
+<Turn speaker="spk2" startTime="2806.28" endTime="2807.238">
+
+euh
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2807.238" endTime="2807.538">
+euh
+non
+</Turn>
+<Turn speaker="spk2" startTime="2807.538" endTime="2810.754">
+la profession enfin
+
+plutôt
+
+</Turn>
+<Turn speaker="spk1 spk3" startTime="2810.754" endTime="2811.556">
+eh bien c'est euh
+
+
+</Turn>
+<Turn speaker="spk1" startTime="2811.556" endTime="2817.514">
+oui
+oui mais enfin entre autres euh 
+
+c'est madame NPERS
+
+</Turn>
+<Turn speaker="spk3" startTime="2817.514" endTime="2817.964">
+tu trouves ?
+</Turn>
+<Turn speaker="spk1" startTime="2817.964" endTime="2818.467">
+ah oui
+</Turn>
+<Turn speaker="spk2" startTime="2818.467" endTime="2818.82">
+c'est qui ?
+</Turn>
+<Turn speaker="spk3" startTime="2818.82" endTime="2819.982">
+madame 
+ plus
+</Turn>
+<Turn speaker="spk1 spk3" startTime="2819.982" endTime="2820.964">
+madame NPERS 
+
+
+</Turn>
+<Turn speaker="spk1" startTime="2820.964" endTime="2826.875">
+madame NPERS ce sont euh 
+justement la la femme qui qui est mariée avec un 
+colonel américain
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2826.875" endTime="2827.588">
+une Française
+ah oui
+</Turn>
+<Turn speaker="spk1" startTime="2827.588" endTime="2827.792">
+d'ailleurs
+</Turn>
+<Turn speaker="spk2" startTime="2827.792" endTime="2829.667">
+oui
+
+</Turn>
+<Turn speaker="spk3" startTime="2829.667" endTime="2830.889">
+bon madame NPERS
+</Turn>
+<Turn speaker="spk1" startTime="2830.889" endTime="2832.908">
+madame NPERS oui
+
+oui si hein 
+</Turn>
+<Turn speaker="spk1 spk3" startTime="2832.908" endTime="2833.68">
+quand même
+oh si
+</Turn>
+<Turn speaker="spk1" startTime="2833.68" endTime="2834.159">
+hum
+</Turn>
+<Turn speaker="spk3" startTime="2834.159" endTime="2835.261">
+oui 
+
+</Turn>
+<Turn speaker="spk2" startTime="2835.261" endTime="2842.345">
+et euh
+
+parmi les gens que vous êtes amené à entendre euh parler euh 
+sans forcément les connaître
+</Turn>
+<Turn speaker="spk1" startTime="2842.345" endTime="2843.147">
+hum
+
+</Turn>
+<Turn speaker="spk2" startTime="2843.147" endTime="2846.98">
+qui est-ce qui 
+
+vous avez entendu qui vous semblait parler le mieux ?
+</Turn>
+<Turn speaker="spk1" startTime="2846.98" endTime="2855.627">
+
+euh vous parlez euh
+</Turn>
+<Turn speaker="spk2" startTime="2855.627" endTime="2856.669">
+des gens qui qui vous 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2856.669" endTime="2859.717">
+avez entendu parler en public euh . 
+euh sans parler de la télévision ou autre euh ?
+</Turn>
+<Turn speaker="spk2" startTime="2859.717" endTime="2860.43">
+y compris la
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2860.43" endTime="2861.622">
+télévision ou autre
+y compris la télévision
+</Turn>
+<Turn speaker="spk1" startTime="2861.622" endTime="2865.329">
+
+ah c'est maître Floriot moi je crois
+</Turn>
+<Turn speaker="spk2" startTime="2865.329" endTime="2870.682">
+oui
+
+</Turn>
+</Section>
+<Section type="report" topic="to38" startTime="2870.682" endTime="2894.667">
+<Turn speaker="spk2" startTime="2870.682" endTime="2876.7">
+est-ce qu'il y a en France un organisme qui di- qui décide si un mot ou une expression fait partie ou non du français ?
+</Turn>
+<Turn speaker="spk1" startTime="2876.7" endTime="2878.395">
+
+ah oui
+
+</Turn>
+<Turn speaker="spk2" startTime="2878.395" endTime="2879.802">
+oui
+
+lequel ?
+</Turn>
+<Turn speaker="spk1" startTime="2879.802" endTime="2882.132">
+
+eh bien c'est le l'Académie Française je 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2882.132" endTime="2882.485">
+crois
+oui
+</Turn>
+<Turn speaker="spk2" startTime="2882.485" endTime="2888.725">
+
+est-ce que vous trouvez que c'est 
+
+très utile utile ou sans utilité ?
+</Turn>
+<Turn speaker="spk1" startTime="2888.725" endTime="2889.707">
+ah c'est utile
+</Turn>
+<Turn speaker="spk2" startTime="2889.707" endTime="2890.659">
+utile
+
+</Turn>
+<Turn speaker="spk3" startTime="2890.659" endTime="2891.402">
+non très utile
+</Turn>
+<Turn speaker="spk1" startTime="2891.402" endTime="2892.115">
+très utile
+</Turn>
+<Turn speaker="spk2" startTime="2892.115" endTime="2894.667">
+très utile
+
+oui d'accord
+
+</Turn>
+</Section>
+<Section type="report" topic="to39" startTime="2894.667" endTime="2993.675">
+<Turn speaker="spk2" startTime="2894.667" endTime="2900.458">
+on dit quelquefois que la langue française se dégrade
+
+qu'en pensez-vous ?
+
+est-ce que vous pensez que c'est juste ?
+</Turn>
+<Turn speaker="spk1" startTime="2900.458" endTime="2907.189">
+
+pense pas non d'après ce que je viens de vous dire puisque moi je trouve quand même que les gens s'expriment de mieux en mieux quand même
+</Turn>
+<Turn speaker="spk2" startTime="2907.189" endTime="2907.542">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2907.542" endTime="2926.178">
+si vous voulez y a trente ans que je suis établi
+
+eh bien si je compare par exemple euh mes clientes euh qui ont alors soixante-cinq ou soixante-dix ans
+
+bon bah on parle un langage moins quand même euh beaucoup plus commun euh 
+hein avec beaucoup plus de fautes d'orthographe que que les jeunes 
+actuellement
+</Turn>
+<Turn speaker="spk2" startTime="2926.178" endTime="2927.01">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="2927.01" endTime="2928.537">
+ah oui sûr
+
+</Turn>
+<Turn speaker="spk2" startTime="2928.537" endTime="2945.172">
+oui oui d'accord
+
+est-ce que vous seriez favorable à un contrôle des journalistes euh ou des professeurs des speakers euh de la télévision ou de la radio du point de vue de leur langage ?
+</Turn>
+<Turn speaker="spk1" startTime="2945.172" endTime="2945.921">
+pardon j'ai pas 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2945.921" endTime="2946.454">
+compris 
+est-ce que vous
+</Turn>
+<Turn speaker="spk2" startTime="2946.454" endTime="2954.401">
+seriez favorable à un contrôle du langage des speakers des professeurs
+
+des journalistes à la télévision à la radio ?
+</Turn>
+<Turn speaker="spk1" startTime="2954.401" endTime="2963.192">
+
+oui on leur reproche quelques coqs-à-l'âne mais remarquez que moi je ne suis pas
+
+assez ferré dans notre langue pour pouvoir
+
+qu- quelquefois on le 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2963.192" endTime="2963.635">
+remarque
+oui 
+</Turn>
+<Turn speaker="spk2" startTime="2963.635" endTime="2963.875">
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2963.875" endTime="2964.348">
+on le remarque
+oui
+</Turn>
+<Turn speaker="spk2" startTime="2964.348" endTime="2964.677">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2964.677" endTime="2965.42">
+si on le remarque
+</Turn>
+<Turn speaker="spk2" startTime="2965.42" endTime="2968.169">
+ah vous vous seriez euh
+très favorable ou favorable ou
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2968.169" endTime="2968.971">
+oh favorable 
+
+
+</Turn>
+<Turn speaker="spk1" startTime="2968.971" endTime="2972.348">
+oui quand même qu'il y ait quand même une sélection parce qu'ils sont là quand même pour représenter la langue 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2972.348" endTime="2973.007">
+française
+oui
+</Turn>
+<Turn speaker="spk2" startTime="2973.007" endTime="2976.606">
+oui
+
+et comment est-ce que ce contrôle devrait se ?
+</Turn>
+<Turn speaker="spk1" startTime="2976.606" endTime="2981.595">
+oh je sais pas moi c'est quand même l'OR- l'ORTF
+
+à faire passer quand même un concours à ce moment-là je 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2981.595" endTime="2982.044">
+pense que 
+hum hum
+</Turn>
+<Turn speaker="spk1" startTime="2982.044" endTime="2986.183">
+quand même le le français ça serait 
+
+euh la base élémentaire
+
+</Turn>
+<Turn speaker="spk2" startTime="2986.183" endTime="2986.836">
+oui
+oui
+</Turn>
+<Turn speaker="spk1" startTime="2986.836" endTime="2989.135">
+pour faire un speaker ou une speakerine 
+
+</Turn>
+<Turn speaker="spk2" startTime="2989.135" endTime="2993.675">
+d'accord
+
+aujourd'hui euh
+
+</Turn>
+</Section>
+<Section type="report" topic="to40" startTime="2993.675" endTime="3048.925">
+<Turn speaker="spk2" startTime="2993.675" endTime="3009.724">
+à votre avis euh est-ce que l'orthographe et la correction de la langue sont bien enseignées euh
+
+bon
+
+mieux ou moins bien que du temps où vous étiez vous-même à l'école ?
+par exemple l'orthographe
+
+est-ce qu'elle est aussi bien mieux ou moins bien en- moins bien enseignée d'après vous ?
+</Turn>
+<Turn speaker="spk1" startTime="3009.724" endTime="3016.934">
+
+j'ai l'impression qu'elle est mieux enseignée hein 
+c'est plus condensé que 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3016.934" endTime="3017.533">
+lorsque j'allais 
+hum
+</Turn>
+<Turn speaker="spk1" startTime="3017.533" endTime="3019.443">
+à l'école d'après mes enfants
+</Turn>
+<Turn speaker="spk2" startTime="3019.443" endTime="3023.36">
+oui
+et la correction de la langue en général ?
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3023.36" endTime="3023.923">
+je peux pas vous répondre
+
+
+</Turn>
+<Turn speaker="spk1" startTime="3023.923" endTime="3024.306">
+oh non 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3024.306" endTime="3024.606">
+franchement
+non
+</Turn>
+<Turn speaker="spk1" startTime="3024.606" endTime="3026.63">
+je peux pas vous répondre
+
+</Turn>
+<Turn speaker="spk2" startTime="3026.63" endTime="3030.133">
+et le le fait que l'orthographe soit mieux enseignée ça tient à quoi d'après vous ?
+</Turn>
+<Turn speaker="spk1" startTime="3030.133" endTime="3043.739">
+
+parce que je crois que les études ont été plus poussées et puis qu'on aperçoit maintenant que les enfants ont une facilité beaucoup plus grande
+
+euh que l'on croyait pour pouvoir euh
+
+euh 
+comment dirais-je 
+</Turn>
+<Turn speaker="spk3" startTime="3043.739" endTime="3044.272">
+assimiler
+</Turn>
+<Turn speaker="spk1" startTime="3044.272" endTime="3044.985">
+assimiler 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3044.985" endTime="3046.057">
+oui assimiler 
+hum hum hum hum
+</Turn>
+<Turn speaker="spk1" startTime="3046.057" endTime="3048.925">
+la 
+
+</Turn>
+</Section>
+<Section type="report" topic="to41" startTime="3048.925" endTime="3069.333">
+<Turn speaker="spk2" startTime="3048.925" endTime="3052.542">
+euh dans quelle matière étiez-vous le plus fort à l'école ?
+</Turn>
+<Turn speaker="spk1" startTime="3052.542" endTime="3056.902">
+
+bah c'est peut-être ça quand même l'orthographe
+
+</Turn>
+<Turn speaker="spk2" startTime="3056.902" endTime="3057.794">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="3057.794" endTime="3059.914">
+c'est peut-être un paradoxe
+mais enfin
+
+</Turn>
+<Turn speaker="spk2" startTime="3059.914" endTime="3062.962">
+et un une autre matière deuxième matière aurait été quoi ?
+</Turn>
+<Turn speaker="spk1" startTime="3062.962" endTime="3065.86">
+
+l'histoire
+</Turn>
+<Turn speaker="spk2" startTime="3065.86" endTime="3069.333">
+l'histoire oui
+
+</Turn>
+</Section>
+<Section type="report" topic="to42" startTime="3069.333" endTime="3079.221">
+<Turn speaker="spk2" startTime="3069.333" endTime="3074.262">
+est-ce que vous avez habituellement
+
+euh 
+
+quelque chose pour écrire sur vous ?
+</Turn>
+<Turn speaker="spk1" startTime="3074.262" endTime="3076.711">
+
+non
+</Turn>
+<Turn speaker="spk2" startTime="3076.711" endTime="3079.221">
+non
+
+</Turn>
+</Section>
+<Section type="report" topic="to43" startTime="3079.221" endTime="3110.726">
+<Turn speaker="spk2" startTime="3079.221" endTime="3081.311">
+est-ce que vous avez un stylo à encre ?
+</Turn>
+<Turn speaker="spk1" startTime="3081.311" endTime="3082.078">
+ah oui
+
+</Turn>
+<Turn speaker="spk2" startTime="3082.078" endTime="3089.791">
+oui
+
+euh à la suite de quelle circonstance est-ce que vous avez eu pour la première fois un stylo à encre ?
+</Turn>
+<Turn speaker="spk1" startTime="3089.791" endTime="3093.977">
+
+oh depuis toujours ça je trouve que ça
+
+</Turn>
+<Turn speaker="spk2" startTime="3093.977" endTime="3094.151">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="3094.151" endTime="3094.923">
+ça fait partie ça
+</Turn>
+<Turn speaker="spk2" startTime="3094.923" endTime="3096.204">
+depuis toujours ça veut dire depuis 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3096.204" endTime="3096.953">
+votre enfance ?
+
+ oui
+</Turn>
+<Turn speaker="spk1" startTime="3096.953" endTime="3106.073">
+depuis depuis dix-huit vingt ans quoi enfin de de 
+
+pas depuis ma sortie de l'école bien sûr mais enfin dès que j'ai pu 
+
+euh avoir l'occasion d'écrire un rapport 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3106.073" endTime="3106.642">
+j'ai estimé bon 
+d'accord
+</Turn>
+<Turn speaker="spk1" startTime="3106.642" endTime="3108.732">
+d'avoir un stylo à encre
+
+</Turn>
+<Turn speaker="spk2" startTime="3108.732" endTime="3110.726">
+euh hum
+
+</Turn>
+</Section>
+<Section type="report" topic="to44" startTime="3110.726" endTime="3145.592">
+<Turn speaker="spk2" startTime="3110.726" endTime="3116.673">
+depuis quand n'avez-vous pas écrit ?
+
+maintenant est-ce que
+
+</Turn>
+<Turn speaker="spk1" startTime="3116.673" endTime="3117.691">
+huit quinze jours y a 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3117.691" endTime="3118.26">
+pas de 
+oui
+</Turn>
+<Turn speaker="spk1" startTime="3118.26" endTime="3120.613">
+semaines que 
+
+</Turn>
+<Turn speaker="spk2" startTime="3120.613" endTime="3124.56">
+et 
+la dernière fois est-ce que je peux vous demander pourquoi vous aviez écrit ?
+</Turn>
+<Turn speaker="spk1" startTime="3124.56" endTime="3131.71">
+
+c'était pour un un camarade à Paris un de mes amis à Paris une 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3131.71" endTime="3132.309">
+lettre
+une lettre
+</Turn>
+<Turn speaker="spk1" startTime="3132.309" endTime="3132.932">
+une lettre oui
+</Turn>
+<Turn speaker="spk2" startTime="3132.932" endTime="3133.225">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="3133.225" endTime="3136.902">
+oui
+
+</Turn>
+<Turn speaker="spk2" startTime="3136.902" endTime="3137.98">
+je m'excuse de presser 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3137.98" endTime="3139.417">
+ça mais euh
+oui oui oui allez-y allez-y
+</Turn>
+<Turn speaker="spk1" startTime="3139.417" endTime="3140.309">
+ça va aller au bout ?
+</Turn>
+<Turn speaker="spk2" startTime="3140.309" endTime="3141.986">
+ça va aller au bout oh ça ne fait rien on pourra
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3141.986" endTime="3142.429">
+retourner
+oui
+</Turn>
+<Turn speaker="spk2" startTime="3142.429" endTime="3142.788">
+mais
+</Turn>
+<Turn speaker="spk1" startTime="3142.788" endTime="3143.178">
+oui
+</Turn>
+<Turn speaker="spk2" startTime="3143.178" endTime="3145.592">
+si je je n'ai pas besoin c'est encore mieux
+
+</Turn>
+</Section>
+<Section type="report" topic="to45" startTime="3145.592" endTime="3159.281">
+<Turn speaker="spk2" startTime="3145.592" endTime="3148.131">
+euh est-ce que vous avez besoin d'écrire pour votre travail ?
+</Turn>
+<Turn speaker="spk1" startTime="3148.131" endTime="3152.945">
+ah je euh attendez voir surtout au point de vue comptabilité oui
+</Turn>
+<Turn speaker="spk2" startTime="3152.945" endTime="3153.275">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="3153.275" endTime="3155.964">
+oh ça constamment deux ou trois heures par jour
+
+</Turn>
+<Turn speaker="spk2" startTime="3155.964" endTime="3159.281">
+d'accord
+
+</Turn>
+</Section>
+<Section type="report" topic="to46" startTime="3159.281" endTime="3175.708">
+<Turn speaker="spk2" startTime="3159.281" endTime="3162.245">
+est-ce que vous portez habituellement sur vous un carnet un agenda
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3162.245" endTime="3162.665">
+ou
+oui
+</Turn>
+<Turn speaker="spk2" startTime="3162.665" endTime="3165.617">
+quelque chose pour écrire oui
+
+euh qu'est-ce que c'est exactement euh ?
+</Turn>
+<Turn speaker="spk1" startTime="3165.617" endTime="3171.084">
+bah un journalier euh tenez voyez
+
+ah bien je le je l'ai dans mon
+dans mon autre veston
+</Turn>
+<Turn speaker="spk2" startTime="3171.084" endTime="3171.354">
+d'accord
+</Turn>
+<Turn speaker="spk1" startTime="3171.354" endTime="3172.875">
+oui c'est un petit carnet journalier
+</Turn>
+<Turn speaker="spk2" startTime="3172.875" endTime="3173.528">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="3173.528" endTime="3174.45">
+un agenda journalier
+</Turn>
+<Turn speaker="spk2" startTime="3174.45" endTime="3175.708">
+oui
+
+</Turn>
+</Section>
+<Section type="report" topic="to47" startTime="3175.708" endTime="3215.535">
+<Turn speaker="spk2" startTime="3175.708" endTime="3185.385">
+si vous deviez écrire à 
+si vous aviez quelque chose à dire à une personne habitant à cinq kilomètres de chez vous
+
+est-ce que vous préféreriez vous déplacer ou lui écrire une lettre ?
+</Turn>
+<Turn speaker="spk1" startTime="3185.385" endTime="3187.984">
+
+me 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3187.984" endTime="3188.397">
+déplacer
+si
+</Turn>
+<Turn speaker="spk2" startTime="3188.397" endTime="3188.75">
+par exemple 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3188.75" endTime="3189.648">
+tout d'abord 
+oui oui
+</Turn>
+<Turn speaker="spk2" startTime="3189.648" endTime="3192.187">
+si cette personne était un de vos amis est-ce que vous préféreriez
+</Turn>
+<Turn speaker="spk1" startTime="3192.187" endTime="3193.319">
+ah je préférerais me déplacer oui
+</Turn>
+<Turn speaker="spk2" startTime="3193.319" endTime="3198.906">
+vous déplacer oui
+
+et si c'était quelqu'un que vous considéreriez comme étant socialement supérieur ?
+</Turn>
+<Turn speaker="spk1" startTime="3198.906" endTime="3200.96">
+
+j'aimerais peut-être encore aussi
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3200.96" endTime="3201.619">
+ me déplacer 
+oui
+</Turn>
+<Turn speaker="spk2" startTime="3201.619" endTime="3202.152">
+vous déplacer 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3202.152" endTime="3202.655">
+pourquoi ?
+oui
+</Turn>
+<Turn speaker="spk1" startTime="3202.655" endTime="3208.661">
+
+parce que justement parce que ce complexe de de de faire de 
+de la syntaxe comprenez-vous ?
+</Turn>
+<Turn speaker="spk2" startTime="3208.661" endTime="3215.535">
+oui oui oui
+
+</Turn>
+</Section>
+<Section type="report" topic="to48" startTime="3215.535" endTime="3246.069">
+<Turn speaker="spk2" startTime="3215.535" endTime="3229.56">
+est-ce qu'il est important selon vous
+
+très important important
+peu important ou sans aucune importance d'avoir
+
+une belle écriture ?
+
+très important important peu important ou sans aucune importance ?
+</Turn>
+<Turn speaker="spk1" startTime="3229.56" endTime="3234.614">
+
+euh important tout de même hein pas très important mais important tout de même
+
+</Turn>
+<Turn speaker="spk2" startTime="3234.614" endTime="3234.967">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="3234.967" endTime="3241.734">
+a priori lorsque vous voyez une en-tête de lettre euh bien écrite euh c'est un préjugé favorable
+</Turn>
+<Turn speaker="spk2" startTime="3241.734" endTime="3246.069">
+oui
+
+</Turn>
+</Section>
+<Section type="report" topic="to49" startTime="3246.069" endTime="3260.352">
+<Turn speaker="spk2" startTime="3246.069" endTime="3248.435">
+est-ce qu'il est important selon vous d'avoir de l'orthographe ?
+</Turn>
+<Turn speaker="spk1" startTime="3248.435" endTime="3249.028">
+
+ah oui
+</Turn>
+<Turn speaker="spk2" startTime="3249.028" endTime="3250.639">
+même chose très important important ?
+</Turn>
+<Turn speaker="spk1" startTime="3250.639" endTime="3252.399">
+oh très important pour moi c'est
+</Turn>
+<Turn speaker="spk2" startTime="3252.399" endTime="3253.142">
+oui
+et pourquoi ?
+</Turn>
+<Turn speaker="spk1" startTime="3253.142" endTime="3256.286">
+j- ah j'aurais aimé écrire parfaitement le français
+
+</Turn>
+<Turn speaker="spk2" startTime="3256.286" endTime="3260.352">
+oui
+
+</Turn>
+</Section>
+<Section type="report" topic="to50" startTime="3260.352" endTime="3277.855">
+<Turn speaker="spk2" startTime="3260.352" endTime="3269.358">
+est-ce que vous seriez favorable
+très favorable favorable défavorable ou très défavorable
+
+à une réforme de l'orthographe ?
+</Turn>
+<Turn speaker="spk1" startTime="3269.358" endTime="3274.202">
+
+oh non je suis pas habilité à vous répondre 
+
+
+</Turn>
+<Turn speaker="spk2" startTime="3274.202" endTime="3277.855">
+d'accord
+
+euh 
+
+</Turn>
+</Section>
+<Section type="report" topic="to51" startTime="3277.855" endTime="3343.1">
+<Turn speaker="spk2" startTime="3277.855" endTime="3286.915">
+qui de vous ou de votre euh femme
+
+écrit habituellement aux personnes suivantes euh
+
+ou bien indifféremment n'est-ce pas ?
+</Turn>
+<Turn speaker="spk1" startTime="3286.915" endTime="3287.334">
+hum
+</Turn>
+<Turn speaker="spk2" startTime="3287.334" endTime="3288.831">
+à des amis communs ?
+</Turn>
+<Turn speaker="spk1" startTime="3288.831" endTime="3290.328">
+
+c'est ma femme
+
+</Turn>
+<Turn speaker="spk2" startTime="3290.328" endTime="3294.897">
+hum oui
+
+euh la la famille à votre famille à vous ?
+</Turn>
+<Turn speaker="spk1" startTime="3294.897" endTime="3298.071">
+
+en général c'est ma femme ah 
+</Turn>
+<Turn speaker="spk2" startTime="3298.071" endTime="3298.664">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="3298.664" endTime="3300.071">
+presque euh toujours qui s'occupe 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3300.071" endTime="3300.64">
+du courrier
+et à la famille
+</Turn>
+<Turn speaker="spk2" startTime="3300.64" endTime="3301.502">
+de votre femme ?
+</Turn>
+<Turn speaker="spk1" startTime="3301.502" endTime="3302.844">
+
+pareil c'est 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3302.844" endTime="3304.365">
+elle oui
+oui pourquoi est-ce que
+</Turn>
+<Turn speaker="spk2" startTime="3304.365" endTime="3305.587">
+c'est elle qui écrit dans ces cas-là ?
+</Turn>
+<Turn speaker="spk1" startTime="3305.587" endTime="3311.672">
+je 
+
+voyez là y a eu euh comment dirais-je un 
+
+un moment où c'était moi qui écrivais
+</Turn>
+<Turn speaker="spk2" startTime="3311.672" endTime="3312.684">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="3312.684" endTime="3316.391">
+et puis alors après du fait de l'augmentation de l'activité que je vous ai signalée 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3316.391" endTime="3316.804">
+tout à l'heure
+oui
+</Turn>
+<Turn speaker="spk1" startTime="3316.804" endTime="3324.331">
+comprenez ?
+
+j'ai négligé 
+alors ma femme était forcée d'écrire
+
+puis c'est devenu une habitude et puis maintenant c'est elle qui écrit
+
+</Turn>
+<Turn speaker="spk2" startTime="3324.331" endTime="3327.535">
+d'accord
+
+et pour les papiers administratifs 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3327.535" endTime="3327.888">
+ah non 
+euh
+</Turn>
+<Turn speaker="spk1" startTime="3327.888" endTime="3328.481">
+ça c'est moi
+</Turn>
+<Turn speaker="spk2" startTime="3328.481" endTime="3329.343">
+feuilles d'impôts c'est vous
+</Turn>
+<Turn speaker="spk1" startTime="3329.343" endTime="3329.463">
+oui
+</Turn>
+<Turn speaker="spk2" startTime="3329.463" endTime="3331.11">
+oui euh
+feuilles de sécurité sociale 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3331.11" endTime="3332.691">
+de maladie 
+tout tout ça c'est moi
+</Turn>
+<Turn speaker="spk2" startTime="3332.691" endTime="3335.739">
+euh et autres ?
+c'est vous oui
+et pourquoi là c'est vous dans ces cas-là ?
+</Turn>
+<Turn speaker="spk1" startTime="3335.739" endTime="3338.961">
+
+eh bien parce que là ça fait partie de de la partie commerciale 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3338.961" endTime="3339.704">
+un peu alors 
+c'est ça oui
+</Turn>
+<Turn speaker="spk1" startTime="3339.704" endTime="3343.1">
+évidemment ça
+c'est mon domaine ça me concerne
+
+</Turn>
+</Section>
+<Section type="report" topic="to52" startTime="3343.1" endTime="3384.077">
+<Turn speaker="spk2" startTime="3343.1" endTime="3348.621">
+et 
+
+qui de vous deux possède la meilleure orthographe ?
+
+d'après vous ?
+</Turn>
+<Turn speaker="spk1" startTime="3348.621" endTime="3350.083">
+je crois que c'est ma femme
+
+</Turn>
+<Turn speaker="spk2" startTime="3350.083" endTime="3352.192">
+oui
+
+la plus belle écriture ?
+</Turn>
+<Turn speaker="spk1" startTime="3352.192" endTime="3353.653">
+
+</Turn>
+<Turn speaker="spk3" startTime="3353.653" endTime="3354.366">
+toi
+
+</Turn>
+<Turn speaker="spk1" startTime="3354.366" endTime="3355.019">
+peut-être oui
+</Turn>
+<Turn speaker="spk3" startTime="3355.019" endTime="3355.696">
+hum
+
+</Turn>
+<Turn speaker="spk2" startTime="3355.696" endTime="3362.302">
+oui
+
+et d'après vous qui est-ce qui des deux parle le meilleur français ?
+
+parle le meilleur français ?
+</Turn>
+<Turn speaker="spk1" startTime="3362.302" endTime="3363.518">
+
+ma femme
+
+</Turn>
+<Turn speaker="spk2" startTime="3363.518" endTime="3366.117">
+oui
+
+et écrit euh dans le meilleur français ?
+</Turn>
+<Turn speaker="spk1" startTime="3366.117" endTime="3369.099">
+
+oui je lui demanderais son avis souvent pour euh écrire 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3369.099" endTime="3369.459">
+un mot
+oui
+</Turn>
+<Turn speaker="spk1" startTime="3369.459" endTime="3376.92">
+
+si j'ai la 
+
+la fainéantise de me déplacer pour prendre le dictionnaire je lui dirai crois-tu que tel mot ça s'écrit comme ci ou comme ça ?
+
+</Turn>
+<Turn speaker="spk2" startTime="3376.92" endTime="3377.843">
+oui
+oui oui
+</Turn>
+<Turn speaker="spk1" startTime="3377.843" endTime="3379.298">
+ et c'est valable en général
+
+</Turn>
+<Turn speaker="spk2" startTime="3379.298" endTime="3384.077">
+oui
+oui
+
+euh
+
+</Turn>
+</Section>
+<Section type="report" topic="to53" startTime="3384.077" endTime="3413.775">
+<Turn speaker="spk2" startTime="3384.077" endTime="3387.64">
+pour votre travail combien de lettres écrivez-vous en moyenne par mois ?
+</Turn>
+<Turn speaker="spk1" startTime="3387.64" endTime="3398.091">
+
+oh
+
+huit dix
+
+euh par mois ?
+
+</Turn>
+<Turn speaker="spk2" startTime="3398.091" endTime="3398.774">
+par mois oui
+</Turn>
+<Turn speaker="spk1" startTime="3398.774" endTime="3400.295">
+oh oui
+
+une trentaine
+</Turn>
+<Turn speaker="spk2" startTime="3400.295" endTime="3404.379">
+une trentaine oui
+
+et euh en dehors de votre travail ?
+</Turn>
+<Turn speaker="spk1" startTime="3404.379" endTime="3406.949">
+
+ah non alors pas puisque 
+c'est ma 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3406.949" endTime="3407.212">
+femme qui 
+non
+</Turn>
+<Turn speaker="spk1" startTime="3407.212" endTime="3410.404">
+s'en occupe
+
+à part les papiers administratifs ou commerciaux
+</Turn>
+<Turn speaker="spk2" startTime="3410.404" endTime="3413.775">
+d'accord
+oui
+
+euh hum
+
+</Turn>
+</Section>
+<Section type="report" topic="to54" startTime="3413.775" endTime="3472.6">
+<Turn speaker="spk2" startTime="3413.775" endTime="3418.236">
+est-ce que vous conservez les lettres qu'on vous envoie toujours très souvent souvent assez 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3418.236" endTime="3419.105">
+rarement rarement ou
+rarement
+</Turn>
+<Turn speaker="spk2" startTime="3419.105" endTime="3419.368">
+jamais ?
+</Turn>
+<Turn speaker="spk1" startTime="3419.368" endTime="3419.871">
+rarement
+</Turn>
+<Turn speaker="spk2" startTime="3419.871" endTime="3420.224">
+rarement
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3420.224" endTime="3421.033">
+mais vous en 
+rarement
+</Turn>
+<Turn speaker="spk2" startTime="3421.033" endTime="3422.009">
+conservez
+quand même
+</Turn>
+<Turn speaker="spk1" startTime="3422.009" endTime="3425.716">
+oui
+
+oui quelques--unes euh un certain temps puis après je les les laisse
+</Turn>
+<Turn speaker="spk2" startTime="3425.716" endTime="3429.028">
+oui
+oui
+
+lesquelles est-ce que vous conserveriez un certain temps ?
+</Turn>
+<Turn speaker="spk1" startTime="3429.028" endTime="3441.166">
+
+bien la lettre euh 
+d'un ami parce que justement
+
+euh j'appelle un certain temps quinze jours trois semaines si j'ai à répondre
+alors je la laisse là sous le coude de manière à dire il faut que je réponde à cette 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3441.166" endTime="3442.035">
+lettre comprenez-vous ?
+oui oui oui
+</Turn>
+<Turn speaker="spk1" startTime="3442.035" endTime="3445.562">
+
+après si je juge qu'elle a plus d'importance euh je je la jette
+</Turn>
+<Turn speaker="spk2" startTime="3445.562" endTime="3446.305">
+oui
+
+</Turn>
+<Turn speaker="spk1" startTime="3446.305" endTime="3451.808">
+y a certaines lettres que je garde quand même parce que c'est 
+c'est des lettres amicales et que j'y suis sensible
+</Turn>
+<Turn speaker="spk2" startTime="3451.808" endTime="3455.832">
+oui oui oui
+
+est-ce que vous en avez par exemple en ce moment ?
+</Turn>
+<Turn speaker="spk1" startTime="3455.832" endTime="3459.803">
+
+euh non là pour l'instant non
+
+</Turn>
+<Turn speaker="spk2" startTime="3459.803" endTime="3472.6">
+d'accord
+
+est-ce qu'il y aurait 
+
+ça votre femme va pas être contente
+ah non non non on n'est pas encore là
+
+</Turn>
+</Section>
+<Section type="report" topic="to55" startTime="3472.6" endTime="3506.599">
+<Turn speaker="spk2" startTime="3472.6" endTime="3476.433">
+quand vous écrivez à vos amis euh est-ce que vous faites un brouillon ?
+</Turn>
+<Turn speaker="spk1" startTime="3476.433" endTime="3477.026">
+
+non
+</Turn>
+<Turn speaker="spk2" startTime="3477.026" endTime="3480.637">
+non
+
+est-ce que vous faites attention aux fautes d'orthographe ?
+</Turn>
+<Turn speaker="spk1" startTime="3480.637" endTime="3481.02">
+oui
+</Turn>
+<Turn speaker="spk2" startTime="3481.02" endTime="3484.039">
+oui
+
+est-ce que vous relisez ?
+</Turn>
+<Turn speaker="spk1" startTime="3484.039" endTime="3484.392">
+oui
+</Turn>
+<Turn speaker="spk2" startTime="3484.392" endTime="3491.352">
+oui
+
+euh 
+quel instrument est-ce que vous utilisez pour écrire à vos amis ?
+</Turn>
+<Turn speaker="spk1" startTime="3491.352" endTime="3492.514">
+
+un stylo
+</Turn>
+<Turn speaker="spk2" startTime="3492.514" endTime="3492.957">
+stylo à 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3492.957" endTime="3494.095">
+encre stylo à bille ?
+oui stylo à encre
+</Turn>
+<Turn speaker="spk2" startTime="3494.095" endTime="3500.365">
+stylo à encre
+oui 
+
+euh hum
+
+quel type de papier utilisez-vous ?
+</Turn>
+<Turn speaker="spk1" startTime="3500.365" endTime="3501.85">
+le quadrillé
+
+</Turn>
+<Turn speaker="spk2" startTime="3501.85" endTime="3506.599">
+quadrillé oui
+
+euh hum
+
+</Turn>
+</Section>
+<Section type="report" topic="to56" startTime="3506.599" endTime="3533.117">
+<Turn speaker="spk2" startTime="3506.599" endTime="3513.929">
+si vous devez écrire un ou deviez écrire une lettre euh
+
+d'un mot d'excuse à l'école est-ce que vous feriez un brouillon ?
+</Turn>
+<Turn speaker="spk1" startTime="3513.929" endTime="3514.642">
+
+ah oui
+</Turn>
+<Turn speaker="spk2" startTime="3514.642" endTime="3517.055">
+oui
+
+vous feriez attention à l'orthographe ?
+</Turn>
+<Turn speaker="spk1" startTime="3517.055" endTime="3517.624">
+ah oui plus 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3517.624" endTime="3518.612">
+que jamais oui
+et vous utiliseriez
+</Turn>
+<Turn speaker="spk2" startTime="3518.612" endTime="3522.942">
+quel euh
+
+quel euh instrument ?
+</Turn>
+<Turn speaker="spk1" startTime="3522.942" endTime="3525.032">
+
+même chose stylo à encre
+</Turn>
+<Turn speaker="spk2" startTime="3525.032" endTime="3525.415">
+ah oui
+</Turn>
+<Turn speaker="spk1" startTime="3525.415" endTime="3527.505">
+oui
+
+</Turn>
+<Turn speaker="spk2" startTime="3527.505" endTime="3528.943">
+d'accord et quel papier ?
+</Turn>
+<Turn speaker="spk1" startTime="3528.943" endTime="3530.494">
+
+euh le papier quadrillé aussi
+</Turn>
+<Turn speaker="spk2" startTime="3530.494" endTime="3533.117">
+d'accord
+
+</Turn>
+</Section>
+<Section type="report" topic="to57" startTime="3533.117" endTime="3551.184">
+<Turn speaker="spk2" startTime="3533.117" endTime="3540.106">
+et si vous devez écrire à votre supérieur dans le travail
+
+est -ce que vous feriez un brouillon ?
+</Turn>
+<Turn speaker="spk1" startTime="3540.106" endTime="3540.639">
+ah oui sûr
+</Turn>
+<Turn speaker="spk2" startTime="3540.639" endTime="3542.399">
+oui
+vous feriez attention aux orthographes ?
+</Turn>
+<Turn speaker="spk1" startTime="3542.399" endTime="3543.118">
+aussi oui
+
+</Turn>
+<Turn speaker="spk2" startTime="3543.118" endTime="3545.094">
+vous utiliseriez le même
+</Turn>
+<Turn speaker="spk1" startTime="3545.094" endTime="3545.423">
+papier
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3545.423" endTime="3546.861">
+instrument et le même papier
+
+
+</Turn>
+<Turn speaker="spk2" startTime="3546.861" endTime="3551.184">
+bon
+
+euh hum
+
+</Turn>
+</Section>
+<Section type="report" topic="to58" startTime="3551.184" endTime="3582.867">
+<Turn speaker="spk2" startTime="3551.184" endTime="3553.998">
+est-ce que vous utilisez euh d'autre papier pour vos 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3553.998" endTime="3554.448">
+autre chose ?
+non
+</Turn>
+<Turn speaker="spk2" startTime="3554.448" endTime="3566.86">
+non
+
+d'accord
+
+c'est bête
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3566.86" endTime="3567.878">
+si ces bandes 
+vous avez 
+
+</Turn>
+<Turn speaker="spk2" startTime="3567.878" endTime="3569.968">
+sont un peu courtes et j'ai toujours 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3569.968" endTime="3570.471">
+peur que 
+alors ça c'est
+</Turn>
+<Turn speaker="spk1" startTime="3570.471" endTime="3570.974">
+dommage
+</Turn>
+<Turn speaker="spk2" startTime="3570.974" endTime="3572.106">
+ça vienne à
+
+</Turn>
+<Turn speaker="spk1" startTime="3572.106" endTime="3572.699">
+
+
+</Turn>
+<Turn speaker="spk2" startTime="3572.699" endTime="3581.436">
+finir que je serais obligé de retourner mais enfin c'est c'est pas
+
+de toute façon comme c'est un questionnaire un peu fermé on pourra revenir dessus
+</Turn>
+<Turn speaker="spk1" startTime="3581.436" endTime="3582.867">
+oui
+
+</Turn>
+</Section>
+<Section type="report" topic="to59" startTime="3582.867" endTime="3599.874">
+<Turn speaker="spk2" startTime="3582.867" endTime="3590.55">
+euh oui oui justement je vous disais
+
+est-ce qu'il y aurait 
+des choses dans la façon de parler de votre femme qui vous agaceraient ?
+</Turn>
+<Turn speaker="spk1" startTime="3590.55" endTime="3591.059">
+non
+</Turn>
+<Turn speaker="spk2" startTime="3591.059" endTime="3597.311">
+non
+
+est-ce que vous il vous arrive de la reprendre euh quand elle parle ?
+</Turn>
+<Turn speaker="spk1" startTime="3597.311" endTime="3597.814">
+
+non
+</Turn>
+<Turn speaker="spk2" startTime="3597.814" endTime="3599.874">
+non
+
+</Turn>
+</Section>
+<Section type="report" topic="to60" startTime="3599.874" endTime="3626.852">
+<Turn speaker="spk2" startTime="3599.874" endTime="3604.186">
+euh 
+est-ce qu'il y a des choses dans votre façon de parler qui l'agacent ?
+
+elle ?
+</Turn>
+<Turn speaker="spk1" startTime="3604.186" endTime="3605.552">
+
+ah ça peut-être
+
+</Turn>
+<Turn speaker="spk2" startTime="3605.552" endTime="3606.354">
+euh oui
+</Turn>
+<Turn speaker="spk1" startTime="3606.354" endTime="3606.863">
+
+
+</Turn>
+<Turn speaker="spk2" startTime="3606.863" endTime="3607.971">
+euh quoi par exemple ?
+</Turn>
+<Turn speaker="spk1" startTime="3607.971" endTime="3610.953">
+oui
+
+elle me trouve trop bavard
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3610.953" endTime="3612.031">
+trop bavard oui
+oui bah oui
+</Turn>
+<Turn speaker="spk1" startTime="3612.031" endTime="3615.109">
+
+
+
+</Turn>
+<Turn speaker="spk2" startTime="3615.109" endTime="3616.45">
+c'est notre chance
+
+</Turn>
+<Turn speaker="spk1" startTime="3616.45" endTime="3617.672">
+
+
+
+</Turn>
+<Turn speaker="spk2" startTime="3617.672" endTime="3619.678">
+et il lui arrive de vous reprendre ?
+</Turn>
+<Turn speaker="spk1" startTime="3619.678" endTime="3624.672">
+
+non elle me dit va au fait
+
+</Turn>
+<Turn speaker="spk2" startTime="3624.672" endTime="3626.852">
+euh hum
+
+</Turn>
+</Section>
+<Section type="report" topic="to61" startTime="3626.852" endTime="3640.111">
+<Turn speaker="spk2" startTime="3626.852" endTime="3630.978">
+alors euh lequel
+
+qui des deux ré- reprend l'autre le plus souvent ?
+</Turn>
+<Turn speaker="spk1" startTime="3630.978" endTime="3635.362">
+
+oh bah
+euh vous savez c'est non c'est pratiquement c'est rare hein
+</Turn>
+<Turn speaker="spk2" startTime="3635.362" endTime="3635.991">
+rare oui
+</Turn>
+<Turn speaker="spk1" startTime="3635.991" endTime="3636.608">
+oui
+
+</Turn>
+<Turn speaker="spk2" startTime="3636.608" endTime="3640.111">
+d'accord
+
+</Turn>
+</Section>
+<Section type="report" topic="to62" startTime="3640.111" endTime="3691.137">
+<Turn speaker="spk2" startTime="3640.111" endTime="3643.434">
+est-ce qu'il y a quelque chose qui vous agace dans la façon de parler de vos enfants ?
+</Turn>
+<Turn speaker="spk1" startTime="3643.434" endTime="3644.536">
+
+non
+
+</Turn>
+<Turn speaker="spk2" startTime="3644.536" endTime="3647.764">
+non
+
+il vous arrive de les reprendre ?
+</Turn>
+<Turn speaker="spk1" startTime="3647.764" endTime="3652.519">
+
+euh rarement parce que on se surveille mutuellement pour ça
+
+</Turn>
+<Turn speaker="spk2" startTime="3652.519" endTime="3658.172">
+oui
+
+et dans les cas où vous les 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3658.172" endTime="3659.154">
+vous auriez à les reprendre ?
+
+
+</Turn>
+<Turn speaker="spk1" startTime="3659.154" endTime="3660.31">
+amical 
+c'est dit amicalement
+</Turn>
+<Turn speaker="spk2" startTime="3660.31" endTime="3660.873">
+c'est dit amicalement
+</Turn>
+<Turn speaker="spk1" startTime="3660.873" endTime="3661.915">
+ah oui
+
+</Turn>
+<Turn speaker="spk2" startTime="3661.915" endTime="3662.238">
+d'accord
+</Turn>
+<Turn speaker="spk1" startTime="3662.238" endTime="3663.795">
+encore on en fait un jeu
+
+</Turn>
+<Turn speaker="spk2" startTime="3663.795" endTime="3672.322">
+d'accord
+
+est-ce qu'il y a eu des choses que vous avez voulu leur avez interdit de de de prononcer de dire ?
+</Turn>
+<Turn speaker="spk1" startTime="3672.322" endTime="3674.741">
+
+non rarement
+
+</Turn>
+<Turn speaker="spk2" startTime="3674.741" endTime="3675.244">
+rarement 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3675.244" endTime="3675.657">
+oui
+oui
+</Turn>
+<Turn speaker="spk1" startTime="3675.657" endTime="3678.825">
+
+ils sont pas grossiers alors y a pas lieu 
+</Turn>
+<Turn speaker="spk2" startTime="3678.825" endTime="3680.436">
+oui
+
+vous n'avez 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3680.436" endTime="3681.22">
+jamais
+non 
+
+</Turn>
+<Turn speaker="spk2" startTime="3681.22" endTime="3682.292">
+eu à les 
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3682.292" endTime="3682.645">
+reprendre à 
+non
+</Turn>
+<Turn speaker="spk2" startTime="3682.645" endTime="3683.507">
+les punir par 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3683.507" endTime="3684.166">
+exemple pour avoir
+ah non non
+</Turn>
+<Turn speaker="spk2" startTime="3684.166" endTime="3684.549">
+dit euh 
+</Turn>
+<Turn speaker="spk1" startTime="3684.549" endTime="3685.083">
+non
+</Turn>
+<Turn speaker="spk2" startTime="3685.083" endTime="3685.796">
+telle ou telle chose ?
+</Turn>
+<Turn speaker="spk1" startTime="3685.796" endTime="3687.281">
+non non
+
+</Turn>
+<Turn speaker="spk2" startTime="3687.281" endTime="3691.137">
+bon
+
+</Turn>
+</Section>
+<Section type="report" topic="to63" startTime="3691.137" endTime="3709.145">
+<Turn speaker="spk2" startTime="3691.137" endTime="3694.605">
+est-ce que vos
+
+vos parents faisaient attention à la façon dont vous parliez ?
+</Turn>
+<Turn speaker="spk1" startTime="3694.605" endTime="3695.491">
+
+ah non non
+
+</Turn>
+<Turn speaker="spk2" startTime="3695.491" endTime="3702.851">
+non
+
+et 
+
+hum il est-ce qu'ils prenaient des sanctions si vous disiez des choses euh ?
+</Turn>
+<Turn speaker="spk1" startTime="3702.851" endTime="3705.48">
+bah non parce que malheureusement vous savez euh c- c'était 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3705.48" endTime="3706.642">
+tout à fait des
+
+ votre mère oui
+</Turn>
+<Turn speaker="spk1" startTime="3706.642" endTime="3707.115">
+ma mère
+</Turn>
+<Turn speaker="spk2" startTime="3707.115" endTime="3709.145">
+oui
+
+</Turn>
+</Section>
+<Section type="report" topic="to54" startTime="3709.145" endTime="3776.755">
+<Turn speaker="spk2" startTime="3709.145" endTime="3712.157">
+et votre instituteur
+
+est-ce qu'il faisait attention à la 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3712.157" endTime="3712.756">
+façon dont vous 
+ah oui
+</Turn>
+<Turn speaker="spk2" startTime="3712.756" endTime="3715.104">
+parliez ?
+oui
+
+pour quel genre de choses 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3715.104" endTime="3715.637">
+surtout ?
+ah surtout
+</Turn>
+<Turn speaker="spk1" startTime="3715.637" endTime="3716.409">
+pour l'orthographe
+</Turn>
+<Turn speaker="spk2" startTime="3716.409" endTime="3718.595">
+orthographe
+oui mais de dans la façon de parler ?
+</Turn>
+<Turn speaker="spk1" startTime="3718.595" endTime="3725.266">
+
+oui il bah il admettait mal que 
+
+que ce soit mal conjugué enfin si vous 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3725.266" endTime="3725.769">
+voulez
+oui
+</Turn>
+<Turn speaker="spk2" startTime="3725.769" endTime="3730.853">
+
+d'accord
+
+y a autre chose non ?
+</Turn>
+<Turn speaker="spk1" startTime="3730.853" endTime="3731.715">
+non c'est tout ce que je vois
+</Turn>
+<Turn speaker="spk2" startTime="3731.715" endTime="3734.398">
+non
+
+est-ce qu'il prenait des sanctions quelquefois ?
+</Turn>
+<Turn speaker="spk1" startTime="3734.398" endTime="3735.117">
+oh oui assez ça
+</Turn>
+<Turn speaker="spk2" startTime="3735.117" endTime="3735.74">
+oui
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3735.74" endTime="3736.093">
+pour
+il était assez
+</Turn>
+<Turn speaker="spk1" startTime="3736.093" endTime="3736.865">
+sévère 
+
+</Turn>
+<Turn speaker="spk2" startTime="3736.865" endTime="3737.877">
+quelles quelles sanctions
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3737.877" endTime="3738.769">
+ah bah les 
+
+
+</Turn>
+<Turn speaker="spk1" startTime="3738.769" endTime="3740.38">
+les lignes les lignes les lignes
+
+</Turn>
+<Turn speaker="spk2" startTime="3740.38" endTime="3740.733">
+oui
+</Turn>
+<Turn speaker="spk1" startTime="3740.733" endTime="3743.308">
+
+
+
+</Turn>
+<Turn speaker="spk2" startTime="3743.308" endTime="3744.685">
+et pour quel genre de choses ?
+</Turn>
+<Turn speaker="spk1" startTime="3744.685" endTime="3746.656">
+
+ah bah si on avait mal conjugué un verbe
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3746.656" endTime="3747.309">
+vous étiez sûr
+oui oui oui
+</Turn>
+<Turn speaker="spk1" startTime="3747.309" endTime="3753.132">
+d'avoir deux cent deux cent fois à le faire 
+
+
+</Turn>
+<Turn speaker="spk2" startTime="3753.132" endTime="3756.186">
+bon
+
+bon ça je crois que 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3756.186" endTime="3758.581">
+on y a réussi euh 
+allez vous allez 
+
+</Turn>
+<Turn speaker="spk2" startTime="3758.581" endTime="3761.455">
+en y allant très très vite à 
+
+</Turn>
+<Turn speaker="spk1" startTime="3761.455" endTime="3763.491">
+ à mettre tout sur la bande
+
+</Turn>
+<Turn speaker="spk2" startTime="3763.491" endTime="3776.755">
+ah bah je vous remercie beaucoup de si y a encore un petit questionnaire mais là c'est écrit alors ça n'a ça n'a pas besoin d'être enregistré
+
+</Turn>
+</Section>
+</Episode>
+</Trans>

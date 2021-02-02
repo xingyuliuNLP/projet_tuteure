@@ -1,0 +1,6287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Brochard/Flé" audio_filename="ESLO1_INTPERS_415" version="25" version_date="130617">
+<Speakers>
+<Speaker id="spk1" name="PB" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="415PERS" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk5" name="BV" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="3953.306">
+<Turn startTime="0" endTime="2.375">
+<Sync time="0"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2.375" endTime="8.838">
+<Sync time="2.375"/>
+ vous euh réaffirmer que
+<Sync time="4.751"/>
+
+<Sync time="5.208"/>
+nous espérons
+<Sync time="6.513"/>
+
+<Sync time="7.57"/>
+euh
+<Sync time="8.0"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="8.838" endTime="10.678">
+<Sync time="8.838"/>
+<Who nb="1"/>
+faire 
+<Event desc="pi" type="pronounce" extent="previous"/>
+
+<Who nb="2"/>
+faudrait peut-être qu'on ferme là-haut
+</Turn>
+<Turn speaker="spk2" startTime="10.678" endTime="12.08">
+<Sync time="10.678"/>
+oui parce que
+</Turn>
+<Turn speaker="spk5" startTime="12.08" endTime="12.428">
+<Sync time="12.08"/>
+oui
+</Turn>
+<Turn speaker="spk1 spk5" startTime="12.428" endTime="14.089">
+<Sync time="12.428"/>
+<Who nb="1"/>
+oui
+<Who nb="2"/>
+d'accord
+<Sync time="13.124"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="14.089" endTime="19.744">
+<Sync time="14.089"/>
+que l'usage que nous allons faire
+<Sync time="15.725"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="16.272"/>
+euh
+<Sync time="17.043"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="17.486"/>
+de ces enregistrements que nous faisons en ce moment
+</Turn>
+<Turn speaker="spk2" startTime="19.744" endTime="20.311">
+<Sync time="19.744"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="20.311" endTime="28.542">
+<Sync time="20.311"/>
+c'est euh entièrement euh une question de recherche
+<Sync time="23.066"/>
+
+<Sync time="23.708"/>
+pédagogique
+<Sync time="24.441"/>
+
+<Sync time="24.915"/>
+et que nous n'allons pas nous en servir euh
+<Sync time="27.168"/>
+
+<Sync time="27.503"/>
+enfin
+<Sync time="28.169"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="28.542" endTime="29.91">
+<Sync time="28.542"/>
+oui oui bien sûr
+</Turn>
+<Turn speaker="spk1 spk5" startTime="29.91" endTime="30.974">
+<Sync time="29.91"/>
+<Who nb="1"/>
+de manière commerciale
+<Who nb="2"/>
+oui dans la presse ou ailleurs
+</Turn>
+<Turn speaker="spk2 spk5" startTime="30.974" endTime="31.755">
+<Sync time="30.974"/>
+<Who nb="1"/>
+très bien
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="31.755" endTime="32.72">
+<Sync time="31.755"/>
+<Who nb="1"/>
+non j'aime autant
+<Who nb="2"/>
+non non
+</Turn>
+<Turn speaker="spk1 spk2" startTime="32.72" endTime="33.746">
+<Sync time="32.72"/>
+<Who nb="1"/>
+non
+<Who nb="2"/>
+oui bien sûr
+</Turn>
+<Turn speaker="spk1" startTime="33.746" endTime="40.117">
+<Sync time="33.746"/>
+mais si ultérieurement vous permettiez que les étudiants par exemple écoutent ce que vous dites
+</Turn>
+<Turn speaker="spk2" startTime="40.117" endTime="41.279">
+<Sync time="40.117"/>
+pas de secret
+</Turn>
+<Turn speaker="spk1" startTime="41.279" endTime="42.916">
+<Sync time="41.279"/>
+bon
+<Sync time="41.872"/>
+
+<Sync time="42.345"/>
+alors
+</Turn>
+<Turn speaker="spk2" startTime="42.916" endTime="43.492">
+<Sync time="42.916"/>
+pas de secret
+</Turn>
+<Turn speaker="spk1" startTime="43.492" endTime="44.733">
+<Sync time="43.492"/>
+c'est parfait
+</Turn>
+<Turn speaker="spk2" startTime="44.733" endTime="52.983">
+<Sync time="44.733"/>
+non ce qu'il faudrait je crois c'est que vous me posiez tout de même des quelques questions pour que
+<Sync time="48.681"/>
+ce que je vous dise réponde
+<Sync time="50.42"/>
+
+<Sync time="50.971"/>
+à ce que vous-même recherchez pour votre
+</Turn>
+<Turn speaker="spk2 spk1" startTime="52.983" endTime="54.623">
+<Sync time="52.983"/>
+<Who nb="1"/>
+votre enquête
+<Who nb="2"/>
+hm
+<Sync time="53.845"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="54.623" endTime="58.994">
+<Sync time="54.623"/>
+parce que l'économie d'Orléans c'est une chose qui est c'est un sujet un peu
+</Turn>
+<Turn speaker="spk2 spk1" startTime="58.994" endTime="59.725">
+<Sync time="58.994"/>
+<Who nb="1"/>
+vaste
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk1 spk2" startTime="59.725" endTime="61.210">
+<Sync time="59.725"/>
+<Who nb="1"/>
+oui oui oui bien sûr
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="61.210" endTime="73.354">
+<Sync time="61.210"/>
+oui euh
+<Sync time="62.617"/>
+
+<Sync time="63.838"/>
+on avait
+<Sync time="64.9"/>
+
+<Sync time="65.391"/>
+pensé vous demander au début
+<Sync time="67.554"/>
+
+<Sync time="68.545"/>
+euh puisque
+<Sync time="69.954"/>
+
+<Sync time="70.491"/>
+nous avons des étudiants qui ne connaissent absolument pas la vie en
+</Turn>
+<Turn speaker="spk1 spk2" startTime="73.354" endTime="74.444">
+<Sync time="73.354"/>
+<Who nb="1"/>
+France
+<Who nb="2"/>
+hm
+<Sync time="74.084"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="74.444" endTime="81.928">
+<Sync time="74.444"/>
+si vous pouviez peut-être euh commencer en
+<Sync time="77.53"/>
+
+<Sync time="78.003"/>
+expliquant
+<Sync time="78.804"/>
+
+<Sync time="79.475"/>
+le fonctionnement d'une chambre de commerce
+</Turn>
+<Turn speaker="spk2" startTime="81.928" endTime="84.397">
+<Sync time="81.928"/>
+oui ça c'est plus facile déjà oui
+<Sync time="83.981"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="84.397" endTime="84.848">
+<Sync time="84.397"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="84.848" endTime="86.219">
+<Sync time="84.848"/>
+oui
+<Sync time="85.318"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="86.219" endTime="86.887">
+<Sync time="86.219"/>
+<Who nb="1"/>
+alors euh
+<Who nb="2"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="86.887" endTime="487.741">
+<Sync time="86.887"/>
+alors ça s- ça s'est plus d- c'est beaucoup plus précis hm hm
+<Sync time="90.043"/>
+
+<Sync time="90.875"/>
+bah les chambres de commerce ont été créées en général
+<Sync time="94.391"/>
+au début du dix-neuvième siècle par un décret impérial
+<Sync time="97.986"/>
+
+<Sync time="99.258"/>
+parce que euh au vide euh suscité par la crise révolutionnaire
+<Sync time="104.146"/>
+qui avait détruit les anciennes corporations
+<Sync time="106.617"/>
+
+<Sync time="107.748"/>
+il fallait substituer une organisation nouvelle
+<Sync time="110.589"/>
+
+<Sync time="111.46"/>
+qui corresponde à la
+<Sync time="112.978"/>
+
+<Sync time="113.757"/>
+cette centralisation et au découpage administratif
+<Sync time="117.35"/>
+
+<Sync time="118.832"/>
+qui
+<Sync time="119.17"/>
+
+<Sync time="119.679"/>
+avait été
+<Sync time="121.261"/>
+
+<Sync time="122.413"/>
+instui- institué en France
+<Sync time="124.922"/>
+
+<Sync time="126.003"/>
+par euh le consulat et l'empire
+<Sync time="129.048"/>
+
+<Sync time="130.98"/>
+et c'est ainsi que
+<Sync time="132.126"/>
+
+<Sync time="132.869"/>
+dans chacun des départements
+<Sync time="134.57"/>
+
+<Sync time="135.081"/>
+nouvellement créés
+<Sync time="136.172"/>
+
+<Sync time="137.434"/>
+on a constitué un organisme
+<Sync time="139.481"/>
+
+<Sync time="140.543"/>
+économique qu'on a appelé la chambre de commerce
+<Sync time="143.768"/>
+
+<Sync time="144.923"/>
+je crois me rappeler que la loi doit êt- avoir été créée en dix-huit cent quatre ou quelque chose comme ça
+<Sync time="150.697"/>
+
+<Sync time="152.82"/>
+ces euh chambres de commerce
+<Sync time="155.456"/>
+
+<Sync time="155.958"/>
+sont 
+<Sync time="156.491"/>
+
+<Sync time="157.054"/>
+composées de membres élus
+<Sync time="159.204"/>
+
+<Sync time="160.366"/>
+par tous les commerçants et industriels patentés c'est-à-dire inscrits au registre du commerce
+<Sync time="167.518"/>
+et payant une patente
+<Sync time="169.907"/>
+
+<Sync time="170.768"/>
+à l'intérieur du département du Loiret
+<Sync time="173.727"/>
+
+<Sync time="175.068"/>
+comme dans tous les départements où il n'y a qu'une seule chambre de commerce
+<Sync time="179.636"/>
+
+<Sync time="180.149"/>
+dans des départements plus importants 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="182.497"/>
+comme euh
+<Sync time="183.752"/>
+dans le Nord y a plusieurs chambres de commerce et alors effectivement ils sont élus par arrondissement
+<Sync time="188.803"/>
+bien on s'oriente généralement
+<Sync time="191.407"/>
+vers une seule chambre de commerce par département
+<Sync time="194.691"/>
+
+<Sync time="197.535"/>
+pendant longtemps
+<Sync time="199.894"/>
+les membres des chambres de commerce
+<Sync time="203.195"/>
+
+<Sync time="203.956"/>
+ont été élus
+<Sync time="205.182"/>
+à l'intérieur
+<Sync time="206.619"/>
+
+<Sync time="207.009"/>
+de
+<Sync time="207.667"/>
+
+<Sync time="208.266"/>
+catégories professionnelles
+<Sync time="210.179"/>
+
+<Sync time="211.01"/>
+c'était telle ou telle profession qui était représentée par tant de monde
+<Sync time="216.184"/>
+
+<Sync time="219.258"/>
+mais
+<Sync time="219.881"/>
+
+<Sync time="220.312"/>
+on s'est vite aperçu que
+<Sync time="222.282"/>
+
+<Sync time="223.504"/>
+cette euh
+<Sync time="224.995"/>
+
+<Sync time="226.517"/>
+façon
+<Sync time="227.198"/>
+
+<Sync time="227.994"/>
+euh ne correspondait pas
+<Sync time="229.701"/>
+
+<Sync time="230.141"/>
+à la réalité économique
+<Sync time="232.024"/>
+
+<Sync time="232.715"/>
+parce que
+<Sync time="233.404"/>
+
+<Sync time="234.063"/>
+par exemple
+<Sync time="234.872"/>
+
+<Sync time="235.876"/>
+l- dans euh
+<Sync time="236.929"/>
+
+<Sync time="237.38"/>
+le bâtiment
+<Sync time="238.202"/>
+
+<Sync time="239.204"/>
+était autrefois représenté par un très grand nombre d'entreprises
+<Sync time="243.692"/>
+aujourd'hui il y a peu d'entreprises
+<Sync time="247.009"/>
+
+<Sync time="247.95"/>
+mais dont chacune emploie un grand nombre de personnes
+<Sync time="251.323"/>
+
+<Sync time="251.934"/>
+aussi
+<Sync time="252.545"/>
+
+<Sync time="253.676"/>
+depuis quelques années on a substitué
+<Sync time="255.809"/>
+
+<Sync time="256.67"/>
+à cette représentation professionnelle
+<Sync time="259.186"/>
+
+<Sync time="260.298"/>
+une représentation qui tient compte du nombre de salariés des entreprises des différentes tranches
+<Sync time="267.772"/>
+n'est-ce pas
+<Sync time="268.453"/>
+
+<Sync time="269.004"/>
+et nos vingt et un membres titulaires
+<Sync time="272.082"/>
+n'est-ce pas sont élus
+<Sync time="273.269"/>
+
+<Sync time="274.29"/>
+suivant
+<Sync time="275.509"/>
+
+<Sync time="276.551"/>
+la catégorie à laquelle ils appartiennent
+<Sync time="279.605"/>
+
+<Sync time="280.266"/>
+et qui n'est basée que sur le nombre de salariés
+<Sync time="283.793"/>
+c'est ainsi que dans une même catégorie maintenant
+<Sync time="286.871"/>
+
+<Sync time="288.153"/>
+peut
+<Sync time="288.542"/>
+
+<Sync time="290.494"/>
+être euh élu
+<Sync time="292.135"/>
+
+<Sync time="293.476"/>
+un entrepreneur du bâtiment de la rue publique
+<Sync time="297.802"/>
+siégeant à côté 
+<Sync time="299.134"/>
+
+<Sync time="300.075"/>
+du directeur d'une grande affaire commerciale
+<Sync time="302.969"/>
+
+<Sync time="306.444"/>
+il y a donc vingt et un membres titulaires qui sont élus pour euh six ans n'est-ce pas
+<Sync time="312.847"/>
+
+<Sync time="313.888"/>
+dans les chambres de commerce
+<Sync time="315.475"/>
+
+<Sync time="318.249"/>
+le président ils se choisissent un président qui est en ce moment le prési- monsieur Roger Leguay qui est un industriel
+<Sync time="324.676"/>
+
+<Sync time="324.68"/>
+dans les dans du carton
+<Sync time="326.243"/>
+
+<Sync time="328.296"/>
+et qui lui est élu pour deux ans
+<Sync time="330.469"/>
+
+<Sync time="331.27"/>
+mais son mandat
+<Event desc="mandlat" type="pronounce" extent="previous"/>
+ mandat peut être renouvelé quatre fois
+<Sync time="334.617"/>
+
+<Sync time="337.442"/>
+ces vingt et un membres ne sont ne siègent pas seuls à la chambre du commerce
+<Sync time="341.623"/>
+à leur tour
+<Sync time="343.045"/>
+
+<Sync time="343.920"/>
+ils appellent vingt et un autres collègues
+<Sync time="346.315"/>
+
+<Sync time="346.876"/>
+qu'ils choisissent eux-mêmes
+<Sync time="347.986"/>
+
+<Sync time="348.617"/>
+dans deux buts
+<Sync time="349.328"/>
+
+<Sync time="349.819"/>
+d'abord de remplir les vides
+<Sync time="353.136"/>
+que le jeu des élections n'aurait pas réussi 
+<Sync time="357.162"/>
+
+<Sync time="357.793"/>
+à combler
+<Sync time="358.454"/>
+
+<Sync time="359.196"/>
+et dans un autre but
+<Sync time="360.268"/>
+
+<Sync time="361.259"/>
+de former des gens plus jeunes
+<Sync time="363.02"/>
+
+<Sync time="363.521"/>
+aux responsabilités consulaires
+<Sync time="365.495"/>
+
+<Sync time="366.756"/>
+qui un jour ou l'autre pourront se présenter
+<Sync time="368.859"/>
+
+<Sync time="369.66"/>
+en tant que membre titulaire
+<Sync time="371.126"/>
+
+<Sync time="373.038"/>
+ces vingt et un autres membres
+<Sync time="374.858"/>
+
+<Sync time="375.697"/>
+lorsque la chambre de commerce et le notaire
+<Sync time="377.99"/>
+ne prennent pas part au au
+<Sync time="379.78"/>
+au vote
+<Sync time="380.321"/>
+
+<Sync time="381.683"/>
+mais z- leur avis est écouté dans les délibérations
+<Sync time="384.838"/>
+
+<Sync time="385.581"/>
+euh voilà comment est constituée
+<Sync time="387.223"/>
+
+<Sync time="387.984"/>
+une chambre de commerce
+<Sync time="389.591"/>
+
+<Sync time="391.083"/>
+alors
+<Sync time="391.736"/>
+
+<Sync time="393.528"/>
+que fait la chambre de commerce ?
+<Sync time="395.862"/>
+eh bien
+<Sync time="396.703"/>
+
+<Sync time="397.695"/>
+elle a à la fois
+<Sync time="398.848"/>
+
+<Sync time="400.114"/>
+une action d'ordre général
+<Sync time="402.41"/>
+
+<Sync time="403.662"/>
+et des actions elle peut engager des actions d'ordre particulier
+<Sync time="407.604"/>
+
+<Sync time="409.106"/>
+ses actions d'ordre général
+<Sync time="410.828"/>
+
+<Sync time="411.79"/>
+sont en somme la discussion
+<Sync time="414.216"/>
+
+<Sync time="415.497"/>
+euh des
+<Sync time="416.588"/>
+
+<Sync time="417.268"/>
+projets de lois
+<Sync time="418.684"/>
+avant qu'elles ne soient votées
+<Sync time="420.421"/>
+
+<Sync time="421.672"/>
+euh
+<Sync time="422.361"/>
+qui ont un caractère économique ou qui peuvent avoir une influence
+<Sync time="427.007"/>
+
+<Sync time="427.69"/>
+sur l'économie
+<Sync time="428.665"/>
+
+<Sync time="431.95"/>
+euh
+<Sync time="432.695"/>
+
+<Sync time="433.198"/>
+elles attirent l'attention du gouvernement par des voeux
+<Sync time="436.731"/>
+
+<Sync time="438.309"/>
+sur les sujets qui les lui leur paraissent
+<Sync time="441.152"/>
+
+<Sync time="441.873"/>
+les plus importants
+<Sync time="443.214"/>
+
+<Sync time="445.067"/>
+euh pour euh le devenir euh de du département ou de la région
+<Sync time="449.59"/>
+
+<Sync time="455.038"/>
+è- elles s'associent à des mesures de d'ordre plus général
+<Sync time="459.607"/>
+par exemple euh
+<Sync time="461.119"/>
+
+<Sync time="462.879"/>
+dernièrement elles se sont ins- in- intéressées
+<Sync time="465.873"/>
+
+<Sync time="467.365"/>
+à la promulgation de la loi sur l'eau et
+<Sync time="470.264"/>
+
+<Sync time="471.382"/>
+à la création des organismes qui en ont résulté sur un plan général
+<Sync time="476.054"/>
+
+<Sync time="478.558"/>
+elles discutent les mesures fiscales et en proposent à leur tour
+<Sync time="482.714"/>
+
+<Sync time="483.385"/>
+qui lui paraissent s- euh plus justifiées
+<Sync time="486.969"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="487.741" endTime="488.505">
+<Sync time="487.741"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="488.505" endTime="519.817">
+<Sync time="488.505"/>
+moins préjudiciables
+<Sync time="490.229"/>
+
+<Sync time="490.7"/>
+à l'expansion économique
+<Sync time="492.349"/>
+
+<Sync time="494.938"/>
+mais les chambres de commerce
+<Sync time="497.028"/>
+
+<Sync time="499.241"/>
+peuvent également
+<Sync time="500.583"/>
+
+<Sync time="501.364"/>
+s'intéresser à des sujets particuliers
+<Sync time="503.723"/>
+par exemple elles peuvent entreprendre des programmes de construction d'immeubles
+<Sync time="507.767"/>
+
+<Sync time="508.608"/>
+elles pourraient
+<Sync time="509.382"/>
+
+<Sync time="510.253"/>
+si le cas se présentait
+<Sync time="511.705"/>
+
+<Sync time="512.607"/>
+prendre en main la construction de routes
+<Sync time="514.78"/>
+
+<Sync time="517.032"/>
+cela s'est fait dans d'autres chambres de commerce pour des routes à péage
+</Turn>
+<Turn speaker="spk1" startTime="519.817" endTime="521.716">
+<Sync time="519.817"/>
+ah oui
+<Sync time="520.374"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="521.716" endTime="570.138">
+<Sync time="521.716"/>
+elles peuvent
+<Sync time="522.866"/>
+
+<Sync time="523.908"/>
+euh
+<Sync time="524.56"/>
+réaliser des zones industrielles
+<Sync time="527.148"/>
+comme nous le faisons actuellement nous en avons euh réalisé trois zones industrielles 
+<Sync time="531.423"/>
+de façon
+<Sync time="532.082"/>
+
+<Sync time="532.793"/>
+à créer
+<Sync time="533.726"/>
+
+<Sync time="534.357"/>
+des centres euh d'emploi pour une population qui se développe
+<Sync time="537.198"/>
+
+<Sync time="541.264"/>
+enfin 
+<Sync time="541.935"/>
+elles ont un éventail de possibilités extrêmement large
+<Sync time="546.898"/>
+
+<Sync time="547.401"/>
+euh je ne vous en cite que quelques-uns parce que tous n'intéressent pas toutes les chambres de commerce
+<Sync time="552.92"/>
+
+<Sync time="554.221"/>
+mais suivant l'activité du département
+<Sync time="556.61"/>
+
+<Sync time="557.149"/>
+elles peuvent prendre une part
+<Sync time="559.694"/>
+
+<Sync time="562.170"/>
+administrative et financière
+<Sync time="564.954"/>
+
+<Sync time="565.643"/>
+dans des projets et des programmes
+<Sync time="568.677"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="570.138" endTime="583.683">
+<Sync time="570.138"/>
+est-ce que je pourrais p- vous demander 
+<Sync time="573.03"/>
+depuis qu'Orléans euh est chef-lieu de la région du centre
+<Sync time="578.006"/>
+est-ce que la chambre de commerce d'Orléans ou du Loiret joue un rôle régional ?
+<Sync time="583.06"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="583.683" endTime="589.815">
+<Sync time="583.683"/>
+eh bien elle contribue 
+<Sync time="585.114"/>
+
+<Sync time="586.042"/>
+à jouer un rôle dans le cadre euh d'une action régionale
+</Turn>
+<Turn speaker="spk1" startTime="589.815" endTime="590.456">
+<Sync time="589.815"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="590.456" endTime="595.989">
+<Sync time="590.456"/>
+j'aurais d'abord dû vous dire que depuis quelques années les chambres de commerce étaient devenues chambres de commerce et d'industrie
+</Turn>
+<Turn speaker="spk1" startTime="595.989" endTime="596.85">
+<Sync time="595.989"/>
+oui
+<Sync time="596.339"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="596.85" endTime="724.141">
+<Sync time="596.85"/>
+ça j'ai omis de vous le dire
+<Sync time="598.282"/>
+
+<Sync time="600.432"/>
+parce que il s'était trouvé que
+<Sync time="602.470"/>
+
+<Sync time="603.098"/>
+l'activité commerciale qui était l'activité
+<Sync time="605.581"/>
+
+<Sync time="606.084"/>
+prépondérante lors de la constitution des organismes consulaires
+<Sync time="610.453"/>
+
+<Sync time="612.656"/>
+le l'activité de fabrication étant alors plutôt dans des mains artisanales
+<Sync time="618.071"/>
+
+<Sync time="619.654"/>
+ces fabrications artisanales sont restées sous l'opinion des chambres des métiers
+<Sync time="623.962"/>
+
+<Sync time="625.044"/>
+et la chambre de commerce est devenue elle chambre de commerce et d'industrie
+<Sync time="629.468"/>
+
+<Sync time="629.919"/>
+alors pour répondre à votre deuxième question
+<Sync time="632.129"/>
+oui en effet
+<Sync time="633.273"/>
+
+<Sync time="634.698"/>
+il existe maintenant
+<Sync time="636.219"/>
+dans toutes les régions économiques des chambres de commerce régionales
+<Sync time="639.866"/>
+la nôtre s'appelle chambre de commerce régionale centre
+<Sync time="642.9"/>
+
+<Sync time="643.881"/>
+elle est trè- elle est présidée par monsieur Dio qui est président de la chambre de commerce et d'industrie de Tours
+<Sync time="651.111"/>
+
+<Sync time="652.467"/>
+son siège administratif
+<Sync time="654.952"/>
+
+<Sync time="655.914"/>
+se trouve encore
+<Sync time="657.45"/>
+
+<Sync time="657.981"/>
+à la chambre de commerce de Bourges
+<Sync time="660.789"/>
+
+<Sync time="662.346"/>
+parce que le président Roger Clémençon était président de la chambre de commerce régionale et président de la chambre de commerce de Bourges
+<Sync time="670.423"/>
+
+<Sync time="673.74"/>
+il est possible
+<Sync time="674.892"/>
+
+<Sync time="675.362"/>
+que dans un désir
+<Sync time="676.694"/>
+
+<Sync time="677.435"/>
+d'efficacité
+<Sync time="678.517"/>
+
+<Sync time="679.16"/>
+et pour répondre à des nécessités géographiques
+<Sync time="681.849"/>
+le siège de la chambre régionale de commerce de la région Centre
+<Sync time="686.993"/>
+se transporte
+<Sync time="688.609"/>
+
+<Sync time="689.15"/>
+à Orléans
+<Sync time="689.911"/>
+
+<Sync time="691.971"/>
+ce dans ce cas le service sera comme il est assuré actuellement de Tours
+<Sync time="698.073"/>
+
+<Sync time="698.905"/>
+euh sera
+<Sync time="699.506"/>
+
+<Sync time="700.417"/>
+dirigé par monsieur Sibony
+<Sync time="702.223"/>
+
+<Sync time="702.716"/>
+qui a été nommé secrétaire général de la chambre de commerce régionale
+<Sync time="706.733"/>
+et à ses côtés moi-même
+<Sync time="708.908"/>
+j'assurerai des services
+<Sync time="710.675"/>
+
+<Sync time="711.486"/>
+d'exportation et d'importation
+<Sync time="713.438"/>
+
+<Sync time="714.57"/>
+de
+<Sync time="714.983"/>
+
+<Sync time="715.540"/>
+propre enfin euh
+<Sync time="716.647"/>
+intéressant les six départements
+<Sync time="718.371"/>
+
+<Sync time="720.764"/>
+comme je le fais en ce moment ici pour le le Loiret seulement
+</Turn>
+<Turn speaker="spk1" startTime="724.141" endTime="724.591">
+<Sync time="724.141"/>
+ah oui
+</Turn>
+<Turn speaker="spk2" startTime="724.591" endTime="727.66">
+<Sync time="724.591"/>
+oui
+<Sync time="725.001"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="727.66" endTime="736.201">
+<Sync time="727.66"/>
+est-ce que vous trouvez en tant qu'économiste 
+<Sync time="730.127"/>
+que euh
+<Sync time="731.643"/>
+
+<Sync time="732.134"/>
+les limites de la région
+<Sync time="733.716"/>
+
+<Sync time="734.583"/>
+sont bien tracées du point de vue
+</Turn>
+<Turn speaker="spk1 spk2" startTime="736.201" endTime="738.322">
+<Sync time="736.201"/>
+<Who nb="1"/>
+économique
+<Who nb="2"/>
+eh bien
+<Sync time="736.951"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="738.322" endTime="746.432">
+<Sync time="738.322"/>
+effectivement les limites de la région
+<Sync time="741.579"/>
+
+<Sync time="742.129"/>
+euh ne correspondent pas strictement à une entité géographique
+</Turn>
+<Turn speaker="spk1" startTime="746.432" endTime="748.004">
+<Sync time="746.432"/>
+non
+<Sync time="746.752"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="748.004" endTime="878.193">
+<Sync time="748.004"/>
+d'une part
+<Sync time="748.949"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="751.248"/>
+d'autre part
+<Sync time="752.319"/>
+
+<Sync time="752.794"/>
+il est il s'exerce
+<Sync time="754.291"/>
+
+<Sync time="754.89"/>
+sur deux des départements
+<Sync time="757.95"/>
+
+<Sync time="758.453"/>
+de la région l'Eure-et-Loir et le Loiret
+<Sync time="761.01"/>
+
+<Sync time="762.472"/>
+un attraction parisienne intense
+<Sync time="765.567"/>
+
+<Sync time="769.393"/>
+d'autre part
+<Sync time="770.585"/>
+
+<Sync time="771.789"/>
+il existe au sud de la région
+<Sync time="774.567"/>
+
+<Sync time="775.408"/>
+deux départements
+<Sync time="776.51"/>
+
+<Sync time="777.011"/>
+le Cher
+<Sync time="777.672"/>
+
+<Sync time="778.181"/>
+et l'Indre
+<Event desc="ind" type="pronounce" extent="previous"/>
+
+<Sync time="778.899"/>
+
+<Sync time="779.917"/>
+qui
+<Sync time="780.421"/>
+sont séparés des trois autres 
+<Event desc="aut-" type="pronounce" extent="previous"/>
+
+<Sync time="783.265"/>
+
+<Sync time="784.356"/>
+par
+<Sync time="784.739"/>
+
+<Sync time="785.711"/>
+les plaines de Sologne qui constituent
+<Sync time="788.584"/>
+
+<Sync time="789.054"/>
+tout de même un certain no man's land
+<Sync time="791.028"/>
+
+<Sync time="792.47"/>
+et ces régions
+<Sync time="793.842"/>
+
+<Sync time="794.495"/>
+qui ont donné
+<Sync time="795.686"/>
+plus que les autres départements
+<Sync time="797.924"/>
+son nom à la région Centre
+<Sync time="800.446"/>
+sont effectivement elles beaucoup plus
+<Sync time="803.664"/>
+
+<Sync time="804.981"/>
+incorporées si vous voulez au centre de la France que nous-mêmes
+<Sync time="808.658"/>
+
+<Sync time="810.214"/>
+ceci étant il apparaît que précisément
+<Sync time="813.362"/>
+
+<Sync time="815.104"/>
+la position du Loiret
+<Sync time="816.706"/>
+du Loire-et-Cher et de l'Indre et Loire
+<Sync time="819.02"/>
+
+<Sync time="821.073"/>
+au long du couloir de la Loire
+<Sync time="823.24"/>
+
+<Sync time="824.062"/>
+et entre
+<Sync time="824.869"/>
+
+<Sync time="825.408"/>
+ces régions nord attirées par Paris et sud attirées par le Centre 
+<Event desc="cent-" type="pronounce" extent="instantaneous"/>
+
+<Sync time="829.324"/>
+
+<Sync time="831.176"/>
+permet d'établir de jeter un pont si on
+<Sync time="834.328"/>
+
+<Sync time="835.75"/>
+et
+<Sync time="836.161"/>
+
+<Sync time="836.811"/>
+entre des régions qui auraient été qui sont hétérogènes
+<Sync time="841.017"/>
+
+<Sync time="842.867"/>
+et qu'il se crée
+<Sync time="844.238"/>
+
+<Sync time="844.897"/>
+par des contacts euh humains assez remarquables
+<Sync time="848.368"/>
+
+<Sync time="849.234"/>
+des liaisons qui se resserrent tous les jours
+<Sync time="851.32"/>
+
+<Sync time="853.212"/>
+et que cette région qui n'avait pas d'unité
+<Sync time="856.546"/>
+
+<Sync time="857.968"/>
+certainement le la prend petit à petit
+<Sync time="861.454"/>
+
+<Sync time="863.236"/>
+parce que
+<Sync time="864.098"/>
+
+<Sync time="864.969"/>
+il se trouve
+<Sync time="866.121"/>
+
+<Sync time="866.982"/>
+que
+<Sync time="867.418"/>
+
+<Sync time="867.788"/>
+cette attirance de Paris
+<Sync time="869.351"/>
+
+<Sync time="869.941"/>
+sur le Loiret et sur l'Eure-et-Loire
+<Sync time="873.223"/>
+
+<Sync time="874.666"/>
+n'est pas uniquement bénéfique
+<Sync time="876.439"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="878.193" endTime="878.606">
+<Sync time="878.193"/>
+non
+</Turn>
+<Turn speaker="spk2" startTime="878.606" endTime="965.867">
+<Sync time="878.606"/>
+Paris ne fait pas qu'apporter il absorbe aussi
+<Sync time="882.485"/>
+
+<Sync time="883.347"/>
+et il absorbe notamment la plus grande richesse il absorbe les hommes
+<Sync time="887.262"/>
+
+<Sync time="889.155"/>
+et nous nous apercevons que
+<Sync time="891.454"/>
+
+<Sync time="892.115"/>
+nous devons nous défendre
+<Sync time="894.684"/>
+contre cette absorption
+<Sync time="896.408"/>
+
+<Sync time="898.421"/>
+en cherchant à maintenir le plus possible
+<Sync time="902.109"/>
+dans notre orbite
+<Sync time="903.241"/>
+
+<Sync time="904.513"/>
+les éléments intéressants
+<Sync time="906.139"/>
+
+<Sync time="906.678"/>
+qui jusqu'ici
+<Sync time="907.48"/>
+
+<Sync time="908.281"/>
+ont trop tendance
+<Sync time="909.313"/>
+
+<Sync time="909.906"/>
+à se concentrer à Paris et à déserter en somme notre région
+<Sync time="914.253"/>
+
+<Sync time="915.379"/>
+de l'autre côté au sud
+<Sync time="917.151"/>
+
+<Sync time="918.996"/>
+s- les régions de l'Indre et du Cher
+<Sync time="921.029"/>
+
+<Sync time="921.712"/>
+seraient trop éloignées
+<Sync time="923.592"/>
+
+<Sync time="924.221"/>
+de ce marché de
+<Sync time="925.832"/>
+
+<Sync time="926.335"/>
+douze millions
+<Sync time="927.227"/>
+
+<Sync time="927.667"/>
+d'habitants que va constituer la région parisienne
+<Sync time="930.902"/>
+
+<Sync time="931.667"/>
+s'il n'y avait pas entre elles un relais
+<Sync time="934.661"/>
+
+<Sync time="935.382"/>
+relais que nous pouvons parfaitement constituer
+<Sync time="938.136"/>
+
+<Sync time="939.565"/>
+sur le plan économique
+<Sync time="940.897"/>
+
+<Sync time="941.37"/>
+sous forme d'entrepôts s- sous forme de liaisons humaines
+<Sync time="944.699"/>
+
+<Sync time="946.702"/>
+si bien que par le jeu des circonstances
+<Sync time="949.087"/>
+
+<Sync time="949.691"/>
+et bien il se crée au centre de la France une s-
+<Sync time="953.188"/>
+une sorte d'unité économique tout de même qui partant de bases assez artificielles
+<Sync time="959.22"/>
+euh se renforce un petit peu tous les jours
+<Sync time="961.595"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="965.867" endTime="971.472">
+<Sync time="965.867"/>
+alors vous voyez Paris surtout euh
+<Sync time="968.231"/>
+
+<Sync time="968.832"/>
+comme euh une concurrente
+<Sync time="970.831"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="971.472" endTime="990.334">
+<Sync time="971.472"/>
+je vois Paris à la fois bien sûr comme un marché
+<Sync time="974.909"/>
+
+<Sync time="975.614"/>
+très intéressant pour notre économie
+<Sync time="978.137"/>
+
+<Sync time="979.569"/>
+mais
+<Sync time="980.045"/>
+
+<Sync time="980.704"/>
+également comme un concurrent dans la mesure n'est-ce pas où il absorbe les intelligences
+<Sync time="985.927"/>
+
+<Sync time="986.418"/>
+dont nous avons absolument besoin pour développer notre avenir
+<Sync time="989.563"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="990.334" endTime="997.041">
+<Sync time="990.334"/>
+ah oui
+<Sync time="991.215"/>
+comment donc euh faites-vous pour euh garder ici ces intelligences dont vous parlez ?
+</Turn>
+<Turn speaker="spk2 spk1" startTime="997.041" endTime="1000.053">
+<Sync time="997.041"/>
+<Who nb="1"/>
+et bien nous nous débrouillons assez mal
+<Who nb="2"/>
+quelles sont les mesures ?
+<Sync time="999.131"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1000.053" endTime="1000.973">
+<Sync time="1000.053"/>
+ah oui
+<Sync time="1000.503"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1000.973" endTime="1014.296">
+<Sync time="1000.973"/>
+nous nous débrouillons assez mal
+<Sync time="1002.224"/>
+
+<Sync time="1003.003"/>
+parce que euh s-
+<Sync time="1004.447"/>
+
+<Sync time="1005.362"/>
+si ou puisque vous allez faire des recherches
+<Sync time="1007.991"/>
+
+<Sync time="1009.123"/>
+ici pendant des mois
+<Sync time="1010.665"/>
+
+<Sync time="1011.752"/>
+vous pourriez vous adresser à la République du Centre
+</Turn>
+<Turn speaker="spk1" startTime="1014.296" endTime="1015.350">
+<Sync time="1014.296"/>
+oui
+<Sync time="1014.835"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1015.350" endTime="1047.615">
+<Sync time="1015.350"/>
+qui pendant plusieurs années a publié une chronique les Orléanais à Paris
+<Sync time="1019.896"/>
+
+<Sync time="1021.769"/>
+et vous verrez que ces Orléanais à Paris ce sont pas des moindres
+<Sync time="1024.817"/>
+
+<Sync time="1026.607"/>
+et que il est bien dommage que nous ayons été privés de leur intelligence
+<Sync time="1030.807"/>
+de leur salaire
+<Sync time="1031.99"/>
+de leur famille
+<Sync time="1033.261"/>
+
+<Sync time="1034.583"/>
+et euh
+<Sync time="1036.1"/>
+nous allons essayer certainement de pallier cet inconvénient non pas
+<Sync time="1040.651"/>
+
+<Sync time="1041.25"/>
+en rattrapant
+<Sync time="1042.246"/>
+
+<Sync time="1042.591"/>
+de force ce que nous nous ne saurions pas faire
+<Sync time="1044.687"/>
+nous voudrions pas faire les gens qui sont partis
+<Sync time="1046.939"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1047.615" endTime="1048.124">
+<Sync time="1047.615"/>
+non
+</Turn>
+<Turn speaker="spk2" startTime="1048.124" endTime="1120.113">
+<Sync time="1048.124"/>
+mais en développant des postes analogues
+<Sync time="1051.018"/>
+
+<Sync time="1052.05"/>
+et la création
+<Sync time="1053.743"/>
+
+<Sync time="1054.154"/>
+à Orléans d'une université n'est pas étrangère à ce souci
+<Sync time="1057.629"/>
+
+<Sync time="1058.342"/>
+donc le but a été 
+<Sync time="1059.923"/>
+
+<Sync time="1060.765"/>
+de former des jeunes à des disciplines supérieures
+<Sync time="1065.441"/>
+et de placer à côté d'eux à côté de l'université 
+<Sync time="1069.357"/>
+
+<Sync time="1070.218"/>
+des éléments industriels de recherche
+<Sync time="1072.678"/>
+
+<Sync time="1073.228"/>
+qui aient eux aussi besoin de s'appuyer
+<Sync time="1076.91"/>
+sur les équipements culturels et intellectuels de la faculté
+<Sync time="1082.037"/>
+
+<Sync time="1082.558"/>
+pour développer leur leur recherche dans une
+<Sync time="1086.092"/>
+
+<Sync time="1086.543"/>
+ambiance
+<Sync time="1087.757"/>
+
+<Sync time="1088.841"/>
+humaine convenable
+<Event desc="convenab-" type="pronounce" extent="previous"/>
+
+<Sync time="1090.449"/>
+
+<Sync time="1092.472"/>
+il est donc absolument nécessaire que
+<Sync time="1094.495"/>
+
+<Sync time="1095.386"/>
+à côté de cette université qui je pense
+<Sync time="1097.639"/>
+
+<Sync time="1098.11"/>
+sera réussie
+<Sync time="1099.322"/>
+
+<Sync time="1100.303"/>
+se crée
+<Sync time="1101.154"/>
+
+<Sync time="1101.685"/>
+une zone industrielle où se concentreront
+<Sync time="1104.218"/>
+
+<Sync time="1105.449"/>
+des centres de recherche privés ou publics
+<Sync time="1109.535"/>
+
+<Sync time="1111.818"/>
+et qu'il y ait ainsi une liaison université industrie
+<Sync time="1116.385"/>
+
+<Event desc="bb" type="noise" extent="instantaneous"/>
+
+<Sync time="1118.261"/>
+solide
+<Sync time="1118.832"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1120.113" endTime="1127.971">
+<Sync time="1120.113"/>
+vous croyez que c'est le côté recherche qui compte surtout et non pas le développement de nouvelles industries et de l'implantation de
+</Turn>
+<Turn speaker="spk2" startTime="1127.971" endTime="1135.934">
+<Sync time="1127.971"/>
+tout compte bien sûr mais pour nous le côté recherche compte plus parce que nous n'avons pas de main-d'oeuvre disponible
+<Sync time="1134.582"/>
+en grande quantité
+</Turn>
+<Turn speaker="spk1" startTime="1135.934" endTime="1137.326">
+<Sync time="1135.934"/>
+ah
+<Sync time="1136.425"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1137.326" endTime="1150.381">
+<Sync time="1137.326"/>
+nous avons réussi jusqu'ici à employer toute notre main-d'oeuvre
+<Sync time="1140.681"/>
+
+<Sync time="1141.312"/>
+mais précisément
+<Sync time="1142.544"/>
+en l'employant souvent dans des usines 
+<Event desc="b" type="noise" extent="instantaneous"/>
+ qui étaient télécommandées par Paris
+<Sync time="1149.181"/>
+
+<Sync time="1149.952"/>
+et par
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1150.381" endTime="1150.956">
+<Sync time="1150.381"/>
+<Who nb="1"/>
+conséquent
+<Who nb="2"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="1150.956" endTime="1158.489">
+<Sync time="1150.956"/>
+dans des usines
+<Sync time="1152.148"/>
+qui n'implantaient à pa- qui n'implantaient pas à Orléans le personnel cadre
+<Sync time="1157.635"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1158.489" endTime="1160.252">
+<Sync time="1158.489"/>
+ah oui
+<Sync time="1159.02"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1160.252" endTime="1181.094">
+<Sync time="1160.252"/>
+alors comme il n- on ne peut pas espérer
+<Sync time="1162.785"/>
+
+<Sync time="1163.319"/>
+un retour
+<Sync time="1164.745"/>
+
+<Sync time="1165.446"/>
+en arrière au moins rapide
+<Sync time="1167.899"/>
+il faut que nous nous orientions vers autre chose
+<Sync time="1170.693"/>
+
+<Sync time="1171.064"/>
+et le centre de gué-
+<Sync time="1172.555"/>
+les centres de recherche nous paraissent tout désignés puisque alors eux emploient cet effectif de cadres que nous cherchons à employer et à développer ici
+<Sync time="1180.657"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1181.094" endTime="1183.214">
+<Sync time="1181.094"/>
+hm
+<Sync time="1181.524"/>
+hm
+<Sync time="1182.204"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1183.214" endTime="1183.804">
+<Sync time="1183.214"/>
+hm
+</Turn>
+<Turn speaker="spk1" startTime="1183.804" endTime="1193.015">
+<Sync time="1183.804"/>
+euh quelles sortes de nouvelles industries ou de nouvelles entreprises donc est-ce que vous 
+<Sync time="1188.972"/>
+
+<Sync time="1189.846"/>
+vous voudriez voir euh s'établir ici
+<Sync time="1191.969"/>
+à part euh
+</Turn>
+<Turn speaker="spk2" startTime="1193.015" endTime="1194.386">
+<Sync time="1193.015"/>
+à part les centres de recherche ?
+</Turn>
+<Turn speaker="spk1" startTime="1194.386" endTime="1198.487">
+<Sync time="1194.386"/>
+les centres de recherche oui
+<Sync time="1195.888"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1198.487" endTime="1205.673">
+<Sync time="1198.487"/>
+ben
+<Sync time="1199.362"/>
+ça c'est assez difficile à veni- à dire à partir du moment où je vous ai dit qu'au fond nous n'étions pas tellement riches en main-d'oeuvre
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1205.673" endTime="1206.784">
+<Sync time="1205.673"/>
+<Who nb="1"/>
+mais enfin
+<Who nb="2"/>
+en main-d'oeuvre oui
+</Turn>
+<Turn speaker="spk2" startTime="1206.784" endTime="1209.932">
+<Sync time="1206.784"/>
+il faut penser qu'y a des jeunes
+<Sync time="1208.357"/>
+
+<Sync time="1208.86"/>
+classes qui arrivent
+</Turn>
+<Turn speaker="spk1" startTime="1209.932" endTime="1212.074">
+<Sync time="1209.932"/>
+oui
+<Sync time="1210.493"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1212.074" endTime="1272.596">
+<Sync time="1212.074"/>
+qu'y a des transformations dans l'industrie
+<Sync time="1214.738"/>
+
+<Sync time="1216.141"/>
+alors je pense que
+<Sync time="1217.362"/>
+
+<Sync time="1217.906"/>
+sur le plan électrique et électronique nous sommes largement pourvus
+<Sync time="1221.711"/>
+
+<Sync time="1223.013"/>
+très largement pourvus
+<Sync time="1224.325"/>
+
+<Sync time="1226.247"/>
+sur le plan
+<Sync time="1227.138"/>
+
+<Sync time="1227.759"/>
+pharmaceutique
+<Sync time="1228.751"/>
+
+<Sync time="1229.142"/>
+ça vient
+<Sync time="1229.825"/>
+
+<Sync time="1231.341"/>
+nous avons les laboratoires Servier laboratoires Sandoz
+<Sync time="1234.062"/>
+
+<Sync time="1234.783"/>
+d'autres laboratoires encore
+<Sync time="1236.475"/>
+
+<Sync time="1237.457"/>
+euh
+<Sync time="1238.032"/>
+
+<Sync time="1239.308"/>
+sur le plan des industries chimiques avec euh Michelin
+<Sync time="1242.241"/>
+
+<Sync time="1242.802"/>
+nous sommes également bien placés
+<Sync time="1245.131"/>
+
+<Sync time="1246.353"/>
+peut-être euh
+<Sync time="1247.464"/>
+
+<Sync time="1248.203"/>
+transformons-nous insuffisamment les produits agricoles
+<Sync time="1251.157"/>
+
+<Sync time="1254.322"/>
+et dans une époque où il est difficile de de vendre euh les fruits et les légumes
+<Sync time="1259.309"/>
+serait-il intéressant de voir se développer la la transformation et la conservation des produits agricoles
+<Sync time="1266.016"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1272.596" endTime="1279.357">
+<Sync time="1272.596"/>
+oui je 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ vous nous avez dit je crois la dernière fois que
+<Sync time="1275.866"/>
+
+<Sync time="1276.417"/>
+euh la région du Centre étant surtout agricole
+</Turn>
+<Turn speaker="spk2" startTime="1279.357" endTime="1280.261">
+<Sync time="1279.357"/>
+oui
+<Sync time="1279.727"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1280.261" endTime="1282.86">
+<Sync time="1280.261"/>
+l'économie elle est en quelque sorte liée
+</Turn>
+<Turn speaker="spk2" startTime="1282.86" endTime="1283.445">
+<Sync time="1282.86"/>
+euh elle est l-
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1283.445" endTime="1285.235">
+<Sync time="1283.445"/>
+<Who nb="1"/>
+à l'agriculture oui
+<Who nb="2"/>
+tr- liée à l'agriculture et je
+</Turn>
+<Turn speaker="spk2" startTime="1285.235" endTime="1287.624">
+<Sync time="1285.235"/>
+pense que pour être solide elle doit rester liée à 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1287.624" endTime="1288.505">
+<Sync time="1287.624"/>
+<Who nb="1"/>
+l'agriculture
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="1288.505" endTime="1296.29">
+<Sync time="1288.505"/>
+voyez-vous s- notre ambition serait
+<Sync time="1290.295"/>
+
+<Sync time="1291.194"/>
+de vendre euh nos produits à l'étranger à l'état le moins brut
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1296.29" endTime="1297.911">
+<Sync time="1296.29"/>
+<Who nb="1"/>
+possible
+<Who nb="2"/>
+hm hm
+<Sync time="1296.943"/>
+<Who nb="1"/>
+si vous voulez
+<Who nb="2"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="1297.911" endTime="1316.66">
+<Sync time="1297.911"/>
+pour vous en donner un exemple il est plus intéressant chez nous certainement de développer
+<Sync time="1302.828"/>
+la culture du blé dur pour le transformer en biscuits
+<Sync time="1305.846"/>
+on en transformait la farine en biscuiterie
+<Sync time="1308.099"/>
+
+<Sync time="1309.181"/>
+que de développer la culture du blé tendre dont on a déjà pléthore et qu'il faut envoyer à des prix internationaux qui ne sont pas intéressants
+<Sync time="1315.876"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1316.66" endTime="1318.786">
+<Sync time="1316.66"/>
+hm
+<Sync time="1317.1"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="1318.786" endTime="1325.175">
+<Sync time="1318.786"/>
+crois-tu que ça leur demande de main-d'oeuvre est-ce que Orléans ne pourrait pas faire davantage appel à la main-d'oeuvre étrangère ?
+<Sync time="1324.474"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1325.175" endTime="1353.909">
+<Sync time="1325.175"/>
+oh nous faisons beaucoup appel à la main-d'oeuvre étrangère
+<Sync time="1327.71"/>
+
+<Sync time="1328.491"/>
+beaucoup
+<Sync time="1329.112"/>
+
+<Sync time="1329.540"/>
+pensez que
+<Sync time="1330.543"/>
+
+<Sync time="1331.495"/>
+dans l'augmentation de population active annuelle 
+<Sync time="1334.78"/>
+euh du département
+<Sync time="1336.373"/>
+
+<Sync time="1337.034"/>
+qui est d'environ cinq mille personnes par an
+<Sync time="1340.178"/>
+
+<Sync time="1340.819"/>
+il entre mille étrangers introduits à titre permanent
+<Sync time="1344.655"/>
+
+<Sync time="1346.939"/>
+alors je ne pense pas que nous puiss- qu'un pays puisse raisonnablement aller au-delà de vingt pour cent
+<Sync time="1351.616"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1353.909" endTime="1354.179">
+<Sync time="1353.909"/>
+hm hm
+</Turn>
+<Turn speaker="spk5" startTime="1354.179" endTime="1357.855">
+<Sync time="1354.179"/>
+vous croyez que ça ça pourrait avoir des conséquences néfastes enfin euh
+</Turn>
+<Turn speaker="spk2" startTime="1357.855" endTime="1366.469">
+<Sync time="1357.855"/>
+la France est vaste euh mais si elle examine un pays comme la Suisse i- ce danger est présent à leur idée
+<Sync time="1364.325"/>
+
+<Sync time="1365.397"/>
+oui
+<Sync time="1365.808"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1366.469" endTime="1367.5">
+<Sync time="1366.469"/>
+hm hm
+<Sync time="1367.029"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1367.5" endTime="1378.404">
+<Sync time="1367.5"/>
+alors c'est pas la peine d'aller au devant
+<Sync time="1369.504"/>
+
+<Sync time="1370.009"/>
+du danger 
+<Sync time="1370.931"/>
+
+<Sync time="1371.524"/>
+euh lorsque soi-même on n'est quand même pas sûr on n'est pas certain d'employer tous ses enfants hein
+<Sync time="1377.229"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1378.404" endTime="1379.535">
+<Sync time="1378.404"/>
+non c'est vrai
+</Turn>
+<Turn speaker="spk2" startTime="1379.535" endTime="1384.623">
+<Sync time="1379.535"/>
+n'est-ce pas c'est
+<Sync time="1380.436"/>
+on ne refuse personne mais enfin
+<Sync time="1382.431"/>
+
+<Sync time="1383.427"/>
+on préfère employer les nôtres
+</Turn>
+<Turn speaker="spk5" startTime="1384.623" endTime="1386.625">
+<Sync time="1384.623"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ bien sûr
+<Sync time="1385.709"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1386.625" endTime="1395.963">
+<Sync time="1386.625"/>
+est-ce qu'on peut vous demander comment vous voyez le développement
+<Sync time="1389.973"/>
+d'Orléans
+<Sync time="1390.794"/>
+à l'avenir ?
+<Sync time="1392.046"/>
+
+<Sync time="1393.028"/>
+est-ce que vous voyez euh une ville euh
+<Sync time="1395.28"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1395.963" endTime="1397.509">
+<Sync time="1395.963"/>
+<Who nb="1"/>
+de deux cent mille habitants ou ?
+<Who nb="2"/>
+vous savez
+</Turn>
+<Turn speaker="spk2" startTime="1397.509" endTime="1416.483">
+<Sync time="1397.509"/>
+on parle euh je je crois effectivement que
+<Sync time="1400.052"/>
+
+<Sync time="1400.644"/>
+on ne peut pas ne pas voir
+<Sync time="1402.476"/>
+
+<Sync time="1403.017"/>
+une ville de deux cent mille habitants
+<Sync time="1405.0"/>
+
+<Sync time="1405.921"/>
+et on c'est à peine parler de l'av- de l'avenir ça
+<Sync time="1409.811"/>
+
+<Sync time="1410.44"/>
+une ville de deux cent mille habitants à Orléans 
+<Sync time="1412.901"/>
+
+<Sync time="1413.488"/>
+ça se produira dans
+<Sync time="1414.79"/>
+
+<Sync time="1415.261"/>
+nous le verrons enfin
+</Turn>
+<Turn speaker="spk1" startTime="1416.483" endTime="1417.219">
+<Sync time="1416.483"/>
+oui
+<Sync time="1416.834"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1417.219" endTime="1450.709">
+<Sync time="1417.219"/>
+si vous voulez dans
+<Sync time="1418.62"/>
+dans les quinze ans à venir
+<Sync time="1420.069"/>
+
+<Sync time="1421.611"/>
+c'est donc pas de l'avenir
+<Sync time="1422.877"/>
+ce qu'on peut se demander c'est si
+<Sync time="1424.926"/>
+
+<Sync time="1425.997"/>
+Orléans deviendra
+<Sync time="1427.919"/>
+
+<Sync time="1428.39"/>
+une très grande ville
+<Sync time="1430.133"/>
+ou deviendra un faubourg de Paris
+<Sync time="1431.855"/>
+
+<Sync time="1433.717"/>
+je pense qu'avec euh
+<Sync time="1435.113"/>
+
+<Sync time="1435.673"/>
+le plan actuel de développement de l'agglomération parisienne au long de la Seine
+<Sync time="1439.693"/>
+
+<Sync time="1440.654"/>
+nos chances sont meilleures
+<Sync time="1442.197"/>
+
+<Sync time="1443.719"/>
+de pour permettre un développement
+<Sync time="1446.162"/>
+
+<Sync time="1446.853"/>
+plus autonome
+<Sync time="1448.135"/>
+
+<Sync time="1449.697"/>
+d'Orléans
+<Sync time="1450.438"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1450.709" endTime="1452.859">
+<Sync time="1450.709"/>
+hm hm
+<Sync time="1451.16"/>
+
+<Sync time="1451.937"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="1452.859" endTime="1463.291">
+<Sync time="1452.859"/>
+ou euh à ce moment-là euh quels seront les effectifs ? euh on ne sait pas
+<Sync time="1456.909"/>
+
+<Sync time="1457.85"/>
+sait pas ça dé-
+<Sync time="1458.868"/>
+s- ça dépendra euh
+<Sync time="1461.471"/>
+du coefficient d'augmentation
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1463.291" endTime="1463.912">
+<Sync time="1463.291"/>
+<Who nb="1"/>
+naturel
+<Who nb="2"/>
+hm
+</Turn>
+<Turn speaker="spk2" startTime="1463.912" endTime="1474.679">
+<Sync time="1463.912"/>
+de la population et il est difficile euh
+<Sync time="1467.257"/>
+
+<Sync time="1468.607"/>
+de poursuivre une courbe
+<Sync time="1470.757"/>
+
+<Sync time="1471.258"/>
+pour plus de vingt ans
+<Sync time="1472.329"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1474.679" endTime="1479.934">
+<Sync time="1474.679"/>
+mais cette autonomie
+<Sync time="1476.582"/>
+euh
+<Sync time="1477.26"/>
+
+<Sync time="1478.212"/>
+c'est important pour vous
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1479.934" endTime="1480.663">
+<Sync time="1479.934"/>
+<Who nb="1"/>
+je pense
+<Who nb="2"/>
+ou
+</Turn>
+<Turn speaker="spk2" startTime="1480.663" endTime="1483.322">
+<Sync time="1480.663"/>
+que sur le plan de l'homme oui
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1483.322" endTime="1484.005">
+<Sync time="1483.322"/>
+<Who nb="1"/>
+c'est important
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="1484.005" endTime="1488.287">
+<Sync time="1484.005"/>
+c'est plus important sur le plan de l'homme que sur le plan peut-être de l'économie
+<Sync time="1487.79"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1488.287" endTime="1489.857">
+<Sync time="1488.287"/>
+ah oui
+<Sync time="1488.768"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1489.857" endTime="1491.001">
+<Sync time="1489.857"/>
+<Who nb="1"/>
+oui
+<Who nb="2"/>
+je pense oui
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1491.001" endTime="1491.714">
+<Sync time="1491.001"/>
+<Who nb="1"/>
+parce que
+<Who nb="2"/>
+hm
+</Turn>
+<Turn speaker="spk2" startTime="1491.714" endTime="1530.089">
+<Sync time="1491.714"/>
+euh
+<Sync time="1492.496"/>
+
+<Sync time="1492.957"/>
+il est des cités comme des hommes n'est-ce pas celles
+<Sync time="1496.244"/>
+qui laissent la responsabilité de leur développement à d'autres
+<Sync time="1499.577"/>
+
+<Sync time="1500.418"/>
+finissent par perdre le sens des responsabilités
+<Sync time="1502.851"/>
+
+<Sync time="1505.625"/>
+l'autonomie n- n'est n'est pas forcément le
+<Sync time="1508.825"/>
+le r- euh le
+<Sync time="1509.896"/>
+
+<Sync time="1510.577"/>
+le remède ou le
+<Sync time="1511.899"/>
+
+<Sync time="1512.846"/>
+euh de la p-
+<Sync time="1514.438"/>
+
+<Sync time="1515.175"/>
+n'est pas forcément le le garant de la prospérité
+<Sync time="1517.81"/>
+
+<Sync time="1519.022"/>
+mais
+<Sync time="1519.473"/>
+il est elle est certainement le meilleur ferment
+<Sync time="1522.968"/>
+
+<Sync time="1524.04"/>
+du développement humain des individus
+<Sync time="1526.484"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1530.089" endTime="1532.792">
+<Sync time="1530.089"/>
+vous êtes euh orléanais vous-même ?
+</Turn>
+<Turn speaker="spk2" startTime="1532.792" endTime="1534.016">
+<Sync time="1532.792"/>
+pas de naissance non
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1534.016" endTime="1535.311">
+<Sync time="1534.016"/>
+<Who nb="1"/>
+non
+<Who nb="2"/>
+enfin j'y suis depuis longtemps
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1535.311" endTime="1536.907">
+<Sync time="1535.311"/>
+<Who nb="1"/>
+j'y suis depuis vingt ans
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="1536.907" endTime="1537.29">
+<Sync time="1536.907"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1537.29" endTime="1538.372">
+<Sync time="1537.29"/>
+oui depuis vingt ans
+</Turn>
+<Turn speaker="spk2" startTime="1538.372" endTime="1538.881">
+<Sync time="1538.372"/>
+ouais
+</Turn>
+<Turn speaker="spk1" startTime="1538.881" endTime="1543.414">
+<Sync time="1538.881"/>
+oui
+<Sync time="1539.36"/>
+
+<Sync time="1540.222"/>
+et
+<Sync time="1540.672"/>
+
+<Sync time="1540.935"/>
+et vous êtes donc très intégré à la vie orléanaise
+</Turn>
+<Turn speaker="spk2" startTime="1543.414" endTime="1544.305">
+<Sync time="1543.414"/>
+très intégré à la
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1544.305" endTime="1545.597">
+<Sync time="1544.305"/>
+<Who nb="1"/>
+vie orléanaise oui
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1545.597" endTime="1546.649">
+<Sync time="1545.597"/>
+oui
+<Sync time="1546.118"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1546.649" endTime="1554.977">
+<Sync time="1546.649"/>
+oui
+<Sync time="1546.979"/>
+
+<Sync time="1547.931"/>
+ça certainement c'est une ville euh t- très agréable ça
+<Sync time="1551.306"/>
+
+<Sync time="1552.127"/>
+elle est très agréable peut-être trop agréable 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1554.977" endTime="1555.798">
+<Sync time="1554.977"/>
+ah oui ?
+</Turn>
+<Turn speaker="spk2" startTime="1555.798" endTime="1556.245">
+<Sync time="1555.798"/>
+oui
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1556.245" endTime="1558.207">
+<Sync time="1556.245"/>
+<Who nb="1"/>
+k- qu'est-ce qui vous fait dire cela ?
+<Who nb="2"/>
+trop agréable
+</Turn>
+<Turn speaker="spk2" startTime="1558.207" endTime="1564.568">
+<Sync time="1558.207"/>
+eh bien parce que 
+<Sync time="1559.129"/>
+
+<Sync time="1559.79"/>
+on arrive
+<Sync time="1560.451"/>
+
+<Sync time="1561.102"/>
+assez rapidement à s'y créer des groupes d'amis
+<Sync time="1563.907"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1564.568" endTime="1568.615">
+<Sync time="1564.568"/>
+<Who nb="1"/>
+hm
+<Who nb="2"/>
+de vingt vingt-cinq personnes
+<Sync time="1566.8"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1568.615" endTime="1583.13">
+<Sync time="1568.615"/>
+vivant dans des conditions
+<Sync time="1570.886"/>
+
+<Sync time="1571.602"/>
+hm qui ne sont pas toujours identiques bien sûr mais qui paraissent être toujours assez agréables
+<Sync time="1577.841"/>
+du fait d'un climat modéré d'une lumière euh
+<Sync time="1581.396"/>
+euh qu'on qu'on aime
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1583.13" endTime="1585.293">
+<Sync time="1583.13"/>
+<Who nb="1"/>
+de
+<Who nb="2"/>
+hm
+<Sync time="1583.761"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1585.293" endTime="1595.873">
+<Sync time="1585.293"/>
+hum d'un d'un cadre la la campagne est proche de la ville euh
+<Sync time="1589.979"/>
+
+<Sync time="1591.771"/>
+nous sommes pas encore démesurés vous comprenez y a un côté ben tout le monde se connaît
+</Turn>
+<Turn speaker="spk1" startTime="1595.873" endTime="1596.784">
+<Sync time="1595.873"/>
+oui
+<Sync time="1596.256"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1596.784" endTime="1639.946">
+<Sync time="1596.784"/>
+tout le monde se connaît
+<Sync time="1597.666"/>
+les affaires se traitent entre gens qui se connaissent
+<Sync time="1600.6"/>
+qui s'apprécient ça va d'ailleurs
+<Sync time="1602.123"/>
+beaucoup mieux c'est d'ailleurs beaucoup plus facile
+<Sync time="1604.716"/>
+
+<Sync time="1606.659"/>
+et alors ceci
+<Sync time="1607.931"/>
+
+<Sync time="1610.513"/>
+ne n'est-ce pas ne permet pas aux étrangers qui arrivent de s'intégrer immédiatement
+<Sync time="1615.791"/>
+
+<Sync time="1618.595"/>
+le jour où ils auront percé
+<Sync time="1620.889"/>
+
+<Sync time="1621.71"/>
+une de ces croûtes qui isole les les divers éléments
+<Sync time="1625.230"/>
+les uns des autres
+<Sync time="1626.512"/>
+ils y seront eux-mêmes très heureux
+<Sync time="1628.175"/>
+
+<Sync time="1628.716"/>
+mais entre temps ils ont l'impression de naviguer dans un espèce de de vide entre des îlots bien fermés
+<Sync time="1636.077"/>
+
+<Sync time="1637.288"/>
+c'est un petit peu ennuyeux ça
+<Sync time="1638.786"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1639.946" endTime="1646.094">
+<Sync time="1639.946"/>
+vous trouvez qu'Orléans est très divisée de ce point de vue
+<Sync time="1643.672"/>
+
+<Sync time="1644.273"/>
+y a de
+<Sync time="1644.954"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1646.094" endTime="1648.999">
+<Sync time="1646.094"/>
+divisée
+<Sync time="1646.895"/>
+on pourrait penser qu'y a des oppositions
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1648.999" endTime="1649.653">
+<Sync time="1648.999"/>
+<Who nb="1"/>
+non s-
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="1649.653" endTime="1651.385">
+<Sync time="1649.653"/>
+c'est compartimenté peut-être
+</Turn>
+<Turn speaker="spk1" startTime="1651.385" endTime="1652.246">
+<Sync time="1651.385"/>
+compartimenté
+</Turn>
+<Turn speaker="spk2" startTime="1652.246" endTime="1652.937">
+<Sync time="1652.246"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="1652.937" endTime="1657.365">
+<Sync time="1652.937"/>
+socialement
+<Sync time="1653.838"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1657.365" endTime="1664.031">
+<Sync time="1657.365"/>
+s- c'est p- c'est pas c'est pas
+<Sync time="1659.425"/>
+
+<Sync time="1660.676"/>
+si vous dites socialement on pourrait penser à un ségrégation non
+<Sync time="1663.215"/>
+pas socialement
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1664.031" endTime="1665.002">
+<Sync time="1664.031"/>
+<Who nb="1"/>
+non
+<Who nb="2"/>
+c'est des petits îlots
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1665.002" endTime="1668.979">
+<Sync time="1665.002"/>
+<Who nb="1"/>
+vous savez de gens qui se connaissent
+<Who nb="2"/>
+hm hm
+<Sync time="1666.194"/>
+<Who nb="1"/>
+des fois des 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+ah oui
+<Sync time="1667.296"/>
+<Who nb="1"/>
+qui se reçoivent qui
+<Who nb="2"/>
+hm
+</Turn>
+<Turn speaker="spk2" startTime="1668.979" endTime="1673.253">
+<Sync time="1668.979"/>
+qui
+<Sync time="1669.42"/>
+
+<Sync time="1670.853"/>
+et puis alors on on reste très casaniers il faut dire
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1673.253" endTime="1676.916">
+<Sync time="1673.253"/>
+<Who nb="1"/>
+hm
+<Who nb="2"/>
+on reste beaucoup chez soi
+<Sync time="1674.873"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1676.916" endTime="1694.476">
+<Sync time="1676.916"/>
+vous avez parlé euh des intérêts de l'homme
+<Sync time="1680.078"/>
+
+<Sync time="1680.719"/>
+est-ce que vous voudriez
+<Sync time="1681.99"/>
+
+<Sync time="1682.711"/>
+nous dire ce que vous entendez
+<Sync time="1684.464"/>
+
+<Sync time="1685.045"/>
+par euh le mot que vous avez utilisé expansion expansion économique
+<Sync time="1689.902"/>
+
+<Sync time="1690.894"/>
+quel est le but de l'expansion économique pour vous ?
+<Sync time="1693.847"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1694.476" endTime="1750.185">
+<Sync time="1694.476"/>
+bien euh le but de l'expansion économique
+<Sync time="1696.969"/>
+
+<Sync time="1697.622"/>
+c'est d'assurer évidemment l'emploi
+<Sync time="1701.177"/>
+
+<Sync time="1702.589"/>
+de tout le monde n'est-ce pas dans dans les meilleures conditions
+<Sync time="1707.476"/>
+
+<Sync time="1711.592"/>
+et tout en
+<Sync time="1713.334"/>
+
+<Sync time="1714.205"/>
+ne prenant pas de retard
+<Sync time="1716.293"/>
+
+<Sync time="1716.808"/>
+sur les progrès scientifiques techniques euh
+<Sync time="1720.717"/>
+
+<Sync time="1721.468"/>
+de l'environnement aussi bien français qu'européen
+<Sync time="1724.522"/>
+
+<Sync time="1727.687"/>
+donc ça euh une expansion euh suppose à la fois n'est-ce pas un effort
+<Sync time="1732.414"/>
+
+<Sync time="1733.295"/>
+dans la production un effort dans la qualité un effort dans les prix un effort dans la recherche
+<Sync time="1738.706"/>
+un effort
+<Sync time="1739.427"/>
+
+<Sync time="1741.46"/>
+l'expansion se crée certainement euh
+<Sync time="1744.276"/>
+
+<Sync time="1744.817"/>
+difficile
+<Sync time="1745.758"/>
+
+<Sync time="1748.281"/>
+su-
+<Sync time="1748.771"/>
+
+</Turn>
+<Turn speaker="spk5 spk1" startTime="1750.185" endTime="1751.383">
+<Sync time="1750.185"/>
+<Who nb="1"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+allez-y
+</Turn>
+<Turn speaker="spk5" startTime="1751.383" endTime="1772.323">
+<Sync time="1751.383"/>
+euh pour en revenir à une question quand même que vous aviez déjà abordée
+<Sync time="1754.667"/>
+est-ce que pour quelqu'un parce que vous venez de l'extérieur est-ce que vous pourriez décrire un peu aux Anglais euh
+<Sync time="1760.203"/>
+les Orléanais plus systématiquement savez euh d'après vous quelles sont les qualités principales et éventuellement les défauts principaux enfin 
+<Sync time="1767.944"/>
+
+<Sync time="1768.785"/>
+
+<Event desc="rire" type="noise" extent="previous"/>
+ des Orléanais
+<Sync time="1769.822"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1772.323" endTime="1784.021">
+<Sync time="1772.323"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="1772.766"/>
+
+<Sync time="1773.747"/>
+les qualités principales et les défauts principaux
+<Sync time="1776.578"/>
+
+<Sync time="1778.189"/>
+je sais pas y a
+<Sync time="1779.021"/>
+y a un cliché on dit que l'orléa- l'Orléanais est un on l'appelle un guépin 
+<Sync time="1783.447"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="1784.021" endTime="1784.261">
+<Sync time="1784.021"/>
+ah oui
+</Turn>
+<Turn speaker="spk2" startTime="1784.261" endTime="1805.611">
+<Sync time="1784.261"/>
+alors ça c'est peut-être un petit défaut
+<Sync time="1786.624"/>
+on l'appelle un guépin parce que la guêpe
+<Sync time="1788.739"/>
+
+<Sync time="1789.32"/>
+pique
+<Sync time="1789.79"/>
+
+<Sync time="1790.48"/>
+n'est-ce pas ?
+<Sync time="1790.891"/>
+
+<Sync time="1791.588"/>
+et il paraît qu'il aurait euh
+<Sync time="1793.921"/>
+l'esprit assez caustique et
+<Sync time="1796.665"/>
+
+<Sync time="1797.378"/>
+qu'il serait euh
+<Sync time="1798.66"/>
+
+<Sync time="1799.301"/>
+et d'humeur assez piquante mais
+<Sync time="1801.084"/>
+
+<Sync time="1801.9"/>
+étant orléanais moi-même je ne peux pas savoir si je suis 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2 spk5" startTime="1805.611" endTime="1809.851">
+<Sync time="1805.611"/>
+<Who nb="1"/>
+oui ou non une mauvaise langue hein 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="1808.659"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1809.851" endTime="1945.07">
+<Sync time="1809.851"/>
+mais enfin il est certain que pour commencer par les défauts
+<Sync time="1813.071"/>
+euh le l'Orléanais n'est pas méchant mais enfin
+<Sync time="1815.120"/>
+
+<Sync time="1815.569"/>
+il aime bien s'amuser des petits
+<Sync time="1817.585"/>
+
+<Sync time="1818.076"/>
+des petits travers ou de ce qu'il juge des petits travers des petites choses comme ça 
+<Sync time="1822.444"/>
+et que pour des gens
+<Sync time="1823.63"/>
+euh qui arrivent de l'extérieur
+<Sync time="1826.064"/>
+euh on peut quelquefois euh
+<Sync time="1829.209"/>
+
+<Sync time="1829.701"/>
+se trouver gêné ou
+<Sync time="1832.916"/>
+
+<Sync time="1833.597"/>
+même outré
+<Sync time="1834.679"/>
+
+<Sync time="1835.2"/>
+de certaines remarques de certaines qui ne sont que des taquineries qui ne s- ça va pas loin hein
+<Sync time="1840.182"/>
+
+<Sync time="1842.356"/>
+autrement
+<Sync time="1843.217"/>
+
+<Sync time="1844.027"/>
+ceci
+<Sync time="1844.858"/>
+
+<Sync time="1845.608"/>
+dit euh
+<Sync time="1846.51"/>
+
+<Sync time="1849.378"/>
+comme qualités je crois que l'Orléanais est est est sérieux et tra- et travailleur
+<Sync time="1855.450"/>
+hein
+<Sync time="1856.069"/>
+
+<Sync time="1857.0"/>
+que c'est
+<Sync time="1858.442"/>
+
+<Sync time="1859.744"/>
+euh ascendances euh
+<Sync time="1862.438"/>
+tirées de l'agriculture ou de du travail de la terre
+<Sync time="1866.122"/>
+
+<Sync time="1866.602"/>
+euh l-
+<Sync time="1867.283"/>
+en font un homme euh
+<Sync time="1868.543"/>
+
+<Sync time="1869.444"/>
+assez courageux
+<Sync time="1870.856"/>
+
+<Sync time="1871.383"/>
+assez méthodique
+<Sync time="1872.524"/>
+
+<Sync time="1876.069"/>
+euh sa main-d'oeuvre la main-d'oeuvre d'ailleurs industrielle est jugée comme
+<Sync time="1879.776"/>
+comme bonne
+<Sync time="1880.7"/>
+
+<Sync time="1882.682"/>
+elle n'a pas la rapidité de la main-d'oeuvre parisienne mais ça euh
+<Sync time="1887.004"/>
+
+<Sync time="1889.303"/>
+c'est comme ça c'est puis- tout la France est pareille
+<Sync time="1891.696"/>
+
+<Sync time="1892.167"/>
+hein
+<Sync time="1892.55"/>
+
+<Sync time="1895.744"/>
+et les industriels qui arrivent ici sont en général euh
+<Sync time="1898.518"/>
+très satisfaits des de la main-d'oeuvre
+<Sync time="1901.021"/>
+
+<Sync time="1901.746"/>
+et l- l'Orléanais pour peu qu'on lui explique euh i-
+<Sync time="1905.637"/>
+ça marche très bien
+<Sync time="1906.729"/>
+
+<Sync time="1909.347"/>
+non ch- je pense pas qu'il ait des ni d- ni des qualités
+<Sync time="1913.414"/>
+
+<Sync time="1915.145"/>
+exceptionnelles ni des défauts excessifs c'est un
+<Sync time="1917.787"/>
+c'est c'est t- c'est un homme moi-
+<Sync time="1919.784"/>
+
+<Sync time="1920.565"/>
+moyen
+<Sync time="1921.286"/>
+
+<Sync time="1923.454"/>
+moyen qui est sans histoires et qui aime être sans histoires
+<Sync time="1927.61"/>
+
+<Sync time="1931.316"/>
+y a jamais
+<Sync time="1932.418"/>
+
+<Sync time="1932.958"/>
+y euh
+<Sync time="1933.639"/>
+
+<Sync time="1934.227"/>
+les passions ici ne sont pas violentes
+<Sync time="1937.869"/>
+
+<Sync time="1942.316"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Sync time="1942.795"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="1945.07" endTime="1952.011">
+<Sync time="1945.07"/>
+est-ce que vous croyez que les différentes catégories euh de la population euh
+<Sync time="1949.406"/>
+ont le même genre de qualités et de défauts ou bien est-ce que vous voyez la 
+</Turn>
+<Turn speaker="spk5 spk2" startTime="1952.011" endTime="1954.059">
+<Sync time="1952.011"/>
+<Who nb="1"/>
+différence euh ?
+<Who nb="2"/>
+non à peu près oui
+</Turn>
+<Turn speaker="spk2" startTime="1954.059" endTime="1962.857">
+<Sync time="1954.059"/>
+oh
+<Sync time="1954.466"/>
+
+<Sync time="1954.885"/>
+oh oui
+<Sync time="1955.37"/>
+
+<Sync time="1956.171"/>
+oh oui je crois à peu près
+<Sync time="1957.490"/>
+à peu près
+<Sync time="1958.525"/>
+
+<Sync time="1961.459"/>
+à peu près
+<Sync time="1962.144"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1962.857" endTime="1966.274">
+<Sync time="1962.857"/>
+<Who nb="1"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+bah évidemment suivant que le l'Orléanais est issu
+</Turn>
+<Turn speaker="spk2" startTime="1966.274" endTime="1989.573">
+<Sync time="1966.274"/>
+de la Beauce ou qu'il est issu de la Sologne euh
+<Sync time="1968.663"/>
+il est possible que son caractère soit un petit peu différent tout d'abord physiquement euh sur le plan physique oui
+<Sync time="1974.067"/>
+ceux qui sont issus de la Beauce
+<Sync time="1975.528"/>
+se se rapprochent plus d'une population nordique
+<Sync time="1978.489"/>
+ceux qui sont issus de Sologne se rapprochent certainement plus d'une population méridion- non euh
+<Sync time="1985.541"/>
+
+<Sync time="1986.882"/>
+du centre sur le plan physique
+<Sync time="1988.651"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="1989.573" endTime="1992.525">
+<Sync time="1989.573"/>
+et du point de vue mentalité ?
+<Sync time="1990.824"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1992.525" endTime="2002.687">
+<Sync time="1992.525"/>
+eh bien ça influe certainement oui ça doit tout de même influer sur la mentalité
+<Sync time="1996.561"/>
+peut-être
+<Sync time="1997.042"/>
+
+<Sync time="1997.723"/>
+oui
+<Sync time="1998.034"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2002.687" endTime="2008.749">
+<Sync time="2002.687"/>
+la dernière fois je crois
+<Sync time="2004.72"/>
+que vous nous aviez dit qu'il manque ici
+<Sync time="2006.893"/>
+de cadres
+<Sync time="2007.851"/>
+à Orléans est-ce que
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2008.749" endTime="2010.336">
+<Sync time="2008.749"/>
+<Who nb="1"/>
+oui si je vous le répète oui
+<Who nb="2"/>
+cette fois-ci
+</Turn>
+<Turn speaker="spk1" startTime="2010.336" endTime="2010.665">
+<Sync time="2010.336"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="2010.665" endTime="2012.228">
+<Sync time="2010.665"/>
+il manque d'emplois de cadres
+</Turn>
+<Turn speaker="spk1" startTime="2012.228" endTime="2012.939">
+<Sync time="2012.228"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="2012.939" endTime="2014.001">
+<Sync time="2012.939"/>
+oui
+<Sync time="2013.37"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2014.001" endTime="2020.785">
+<Sync time="2014.001"/>
+et est-ce que vous voudriez nous dire euh ce que c'est qu'un cadre
+<Sync time="2017.536"/>
+
+<Sync time="2018.264"/>
+pour vous ?
+<Sync time="2018.953"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2020.785" endTime="2075.575">
+<Sync time="2020.785"/>
+ben un cadre euh
+<Sync time="2022.508"/>
+s- s- s- 
+<Sync time="2024.179"/>
+c'est essentiellement un n-
+<Sync time="2026.352"/>
+
+<Sync time="2028.275"/>
+euh un homme qui a une responsabilité sur le plan
+<Sync time="2033.382"/>
+
+<Sync time="2034.003"/>
+technique
+<Sync time="2034.624"/>
+
+<Sync time="2036.276"/>
+et
+<Sync time="2036.977"/>
+
+<Sync time="2037.444"/>
+euh sur le plan de enfin de l'encadrement
+<Sync time="2040.404"/>
+c'est-à-dire qui
+<Sync time="2041.315"/>
+
+<Sync time="2042.187"/>
+qui a ch-
+<Sync time="2043.158"/>
+
+<Sync time="2043.991"/>
+sous ses ordres
+<Sync time="2045.183"/>
+
+<Sync time="2046.184"/>
+une équipe
+<Sync time="2047.025"/>
+euh grosse plus moyenne plus ou petite
+<Sync time="2050.049"/>
+
+<Sync time="2051.441"/>
+d'hommes à à diriger et à faire travailler
+<Sync time="2054.586"/>
+
+<Sync time="2057.79"/>
+en même temps
+<Sync time="2058.731"/>
+
+<Sync time="2059.311"/>
+pour euh avoir les qualités nécessaires il est certain que le cadre doit avoir une curiosité
+<Sync time="2064.289"/>
+
+<Sync time="2064.764"/>
+il doit avoir des qualités supérieures point de vue curiosité d'esprit
+<Sync time="2068.327"/>
+
+<Sync time="2069.167"/>
+point de vue ascendant également
+<Sync time="2071.44"/>
+
+<Sync time="2071.925"/>
+point de vue caractère
+<Sync time="2073.156"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2075.575" endTime="2078.219">
+<Sync time="2075.575"/>
+est-ce qu'il est d'une origine sociale spécifique ?
+</Turn>
+<Turn speaker="spk2" startTime="2078.219" endTime="2085.303">
+<Sync time="2078.219"/>
+non
+<Sync time="2078.639"/>
+
+<Sync time="2079.46"/>
+non
+<Sync time="2080.031"/>
+
+<Sync time="2080.732"/>
+non évidemment
+<Sync time="2081.834"/>
+
+<Sync time="2082.224"/>
+vous savez qu'on parle beaucoup de démocratisation de l'enseignement euh
+</Turn>
+<Turn speaker="spk1" startTime="2085.303" endTime="2085.917">
+<Sync time="2085.303"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="2085.917" endTime="2151.068">
+<Sync time="2085.917"/>
+on a les gens qui nous disent que ça n'a pas réussi d'autres que ça a réussi
+<Sync time="2089.863"/>
+
+<Sync time="2092.677"/>
+je crois que
+<Sync time="2093.988"/>
+d'ailleurs avec l'amélioration des salaires
+<Sync time="2096.742"/>
+il s'est produit une certaine un certain nivellement
+<Sync time="2101.206"/>
+si vous voulez
+<Sync time="2102.338"/>
+
+<Sync time="2104.02"/>
+et que dans bien des cas
+<Sync time="2105.843"/>
+
+<Sync time="2107.768"/>
+c'est pas que la position de cadre est fermée aux ouvriers c'est que
+<Sync time="2111.594"/>
+l'ouvrier n- ne veut pas 
+<Event desc="b" type="noise" extent="begin"/>
+ devenir cadre ne voudrait pas devenir cadre
+<Sync time="2116.791"/>
+
+<Sync time="2117.982"/>
+je vais vous citer le cas d'un menuisier que j'emploie
+<Sync time="2120.977"/>
+
+<Sync time="2121.929"/>
+cette semaine et
+<Sync time="2123.336"/>
+il commence à être âgé et je lui disais eh bien puisque vous travaillez avec votre fils
+<Sync time="2127.432"/>
+
+<Sync time="2127.953"/>
+c'est vous qui êtes malade
+<Sync time="2129.405"/>
+c'est lui qui est en bonne santé
+<Sync time="2130.968"/>
+alors je ne comprends pas
+<Sync time="2132.728"/>
+
+<Sync time="2133.159"/>
+donnez-lui votre affaire et vous serez son employé
+<Sync time="2136.557"/>
+comme ça vous bénéficierez de la sécurité sociale
+<Sync time="2139.431"/>
+
+<Sync time="2140.383"/>
+lui il l'aura plus mais puisqu'il est en bonne santé il n'en a pas besoin
+<Sync time="2143.949"/>
+
+<Sync time="2144.851"/>
+ah il m'a dit monsieur mais bien sûr ce serait la solution
+<Sync time="2148.116"/>
+
+<Sync time="2148.709"/>
+il veut pas être patron
+<Sync time="2150.12"/>
+
+</Turn>
+<Turn speaker="spk1 spk5" startTime="2151.068" endTime="2155.558">
+<Sync time="2151.068"/>
+<Who nb="1"/>
+ah oui ah oui 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2155.558" endTime="2173.613">
+<Sync time="2155.558"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="2155.973"/>
+
+<Sync time="2156.273"/>
+il voulait pas de soucis
+<Sync time="2157.436"/>
+
+<Sync time="2157.907"/>
+il m'a dit vous comprenez être patron bah
+<Sync time="2159.768"/>
+
+<Sync time="2160.139"/>
+c'est le soir chez soi
+<Sync time="2161.571"/>
+
+<Sync time="2162.312"/>
+faire des devis préparer des plans
+<Sync time="2165.336"/>
+bah lui
+<Sync time="2166.067"/>
+
+<Sync time="2166.69"/>
+il fait partie de la société de musique
+<Sync time="2168.938"/>
+il préfère aller faire de la musique et il veut pas être patron
+<Sync time="2172.062"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2173.613" endTime="2175.164">
+<Sync time="2173.613"/>
+hm
+<Sync time="2174.093"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2175.164" endTime="2183.021">
+<Sync time="2175.164"/>
+je veux pas juger je sais pas du tout s'il a raison ou tort ce garçon après tout il a peut-être pas tort
+<Sync time="2179.626"/>
+
+<Sync time="2180.578"/>
+parce que comme patron souvent on gagne pas plus
+</Turn>
+<Turn speaker="spk1" startTime="2183.021" endTime="2183.554">
+<Sync time="2183.021"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="2183.554" endTime="2190.734">
+<Sync time="2183.554"/>
+et on se donne plus de mal que quand on ne l'est pas
+<Sync time="2185.681"/>
+
+<Sync time="2186.402"/>
+puis en tout cas on a beaucoup plus de casse-têtes et de responsabilités
+<Sync time="2189.722"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2190.734" endTime="2191.057">
+<Sync time="2190.734"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="2191.057" endTime="2204.629">
+<Sync time="2191.057"/>
+mais enfin
+<Sync time="2191.548"/>
+
+<Sync time="2192.219"/>
+il faut reconnaître que sur le développement
+<Sync time="2194.312"/>
+
+<Sync time="2195.274"/>
+de l'homme
+<Sync time="2195.865"/>
+
+<Sync time="2198.288"/>
+eh bien
+<Sync time="2199.096"/>
+s- le fait de ne pas vouloir être patron n'est pas une solution enrichissante
+<Sync time="2203.264"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2204.629" endTime="2208.957">
+<Sync time="2204.629"/>
+non
+<Sync time="2205.14"/>
+
+<Sync time="2205.942"/>
+non
+<Sync time="2206.293"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2208.957" endTime="2233.374">
+<Sync time="2208.957"/>
+je crois maintenant que
+<Sync time="2210.683"/>
+
+<Sync time="2211.964"/>
+on peut dire que
+<Sync time="2212.846"/>
+que les la plupart des carrières sont sont ouvertes à tout le monde mais que peut-être
+<Sync time="2217.643"/>
+
+<Sync time="2219.656"/>
+il joue certaines lois d'atavisme qui font que
+<Sync time="2222.826"/>
+
+<Sync time="2224.638"/>
+un enfant qui naît dans
+<Sync time="2227.087"/>
+une certaine profession euh est plus apte à embrasser celle-là qu'une autre
+<Sync time="2231.763"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2233.374" endTime="2236.218">
+<Sync time="2233.374"/>
+<Who nb="1"/>
+quelle que soit la profession
+<Who nb="2"/>
+le fait de naître dans une certaine famille ou
+</Turn>
+<Turn speaker="spk2" startTime="2236.218" endTime="2238.608">
+<Sync time="2236.218"/>
+oh je le pense
+<Sync time="2237.176"/>
+sais pas ch- ch- je le pense
+</Turn>
+<Turn speaker="spk1" startTime="2238.608" endTime="2255.696">
+<Sync time="2238.608"/>
+hm hm
+<Sync time="2238.959"/>
+
+<Sync time="2240.481"/>
+de vivre dans une certaine ambiance on est mieux préparé à à rester dans cette ambiance
+<Sync time="2244.936"/>
+quitte à s'élever à l'intérieur de cette ambiance plutôt que de
+<Sync time="2247.476"/>
+de brutalement d'être transplanté d'un d'un milieu dans un autre comme une plante
+<Sync time="2252.147"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="2255.696" endTime="2263.48">
+<Sync time="2255.696"/>
+est-ce que vous pensez que à propos de la société orléanaise on puisse parler de classes sociales ?
+<Sync time="2260.681"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2263.48" endTime="2269.738">
+<Sync time="2263.48"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Sync time="2264.442"/>
+
+<Sync time="2268.001"/>
+des classes sociales
+<Sync time="2269.193"/>
+
+</Turn>
+<Turn speaker="spk5 spk2" startTime="2269.738" endTime="2271.678">
+<Sync time="2269.738"/>
+<Who nb="1"/>
+est-ce que vous croyez
+<Who nb="2"/>
+y a bien des y a y a bien des
+</Turn>
+<Turn speaker="spk2" startTime="2271.678" endTime="2275.725">
+<Sync time="2271.678"/>
+formes de
+<Sync time="2272.96"/>
+
+<Sync time="2273.371"/>
+de hiérarchie c'est
+<Sync time="2275.031"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2275.725" endTime="2276.530">
+<Sync time="2275.725"/>
+<Who nb="1"/>
+vous avez
+<Who nb="2"/>
+hm
+</Turn>
+<Turn speaker="spk2" startTime="2276.530" endTime="2315.767">
+<Sync time="2276.530"/>
+la hiérarchie de l'argent
+<Sync time="2278.112"/>
+
+<Sync time="2278.908"/>
+vous avez
+<Sync time="2279.659"/>
+
+<Sync time="2280.129"/>
+la hiérarchie des traditions familiales
+<Sync time="2283.042"/>
+
+<Sync time="2283.724"/>
+euh vous avez la hiérarchie des métiers
+<Sync time="2287.106"/>
+vous avez 
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+<Sync time="2288.679"/>
+
+<Sync time="2289.15"/>
+la hiérarchie des fonctions la
+<Sync time="2291.453"/>
+et toutes ces hiérarchies euh s'imbriquent s'interpénètrent 
+<Event desc="s'interpénètent" type="pronounce" extent="previous"/>
+
+<Sync time="2296.323"/>
+
+<Sync time="2297.064"/>
+et euh même avec l'électronique je ne sais pas si on pourrait
+<Sync time="2300.873"/>
+classifier socialement une société
+<Sync time="2304.138"/>
+en fonction des des éléments de de chacune des hiérarchies
+<Sync time="2309.205"/>
+
+<Sync time="2311.999"/>
+alors qu'est-ce qu'on entend par classe so- tout le monde parle de ça puis au fond euh
+</Turn>
+<Turn speaker="spk5" startTime="2315.767" endTime="2317.629">
+<Sync time="2315.767"/>
+justement je crois que pour les Anglais c'est 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2317.629" endTime="2339.972">
+<Sync time="2317.629"/>
+tout le monde parle de ça des classes sociales on parle même de la lutte des classes enfin
+<Sync time="2321.838"/>
+
+<Sync time="2323.748"/>
+tout simple et
+<Sync time="2324.759"/>
+
+<Sync time="2326.522"/>
+à quel rang peut-on placer euh ce qu'on appelle un OS1 ou un OS2
+<Sync time="2331.587"/>
+
+<Sync time="2332.12"/>
+hein
+<Sync time="2332.401"/>
+
+<Sync time="2333.143"/>
+par rapport à
+<Sync time="2334.754"/>
+à un conducteur de tracteur dans une ferme
+<Sync time="2338.079"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="2339.972" endTime="2341.615">
+<Sync time="2339.972"/>
+hm
+<Sync time="2340.383"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2341.615" endTime="2366.341">
+<Sync time="2341.615"/>
+théoriquement entre eux deux alors si on adopte ces questions de classes qui me paraissent une notion très primaire y en a un qui est au-dessus de l'autre mais lequel ?
+<Sync time="2349.256"/>
+
+<Sync time="2350.368"/>
+on n'en sait rien
+<Sync time="2351.4"/>
+Pierre sera peut-être au-dessus de Paul
+<Sync time="2353.95"/>
+parce qu'il sera le moins équilibré sur le plan physique intellectuel et moral
+<Sync time="2358.387"/>
+
+<Sync time="2360.082"/>
+mais euh c'est pas celui qui
+<Sync time="2363.124"/>
+est conducteur de tracteur qui sera au-dessus de l'OS ou l'OS
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2366.341" endTime="2367.563">
+<Sync time="2366.341"/>
+<Who nb="1"/>
+automatiquement
+<Who nb="2"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="2367.563" endTime="2394.625">
+<Sync time="2367.563"/>
+alors dans ces conditions-là comment parler de classes sociales ?
+<Sync time="2370.704"/>
+
+<Sync time="2371.605"/>
+alors évidemment y a euh 
+<Sync time="2374.044"/>
+
+<Sync time="2374.89"/>
+tout de même des
+<Sync time="2376.202"/>
+
+<Sync time="2377.758"/>
+des gens qui sont dits euh tenir comme on dit le dessus du pavé
+<Sync time="2381.293"/>
+
+<Sync time="2384.85"/>
+ça d'abord ça ne dure pas puis ensuite
+<Sync time="2387.898"/>
+
+<Sync time="2390.497"/>
+euh
+<Sync time="2391.098"/>
+
+<Sync time="2393.068"/>
+euh
+<Sync time="2393.619"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2394.625" endTime="2398.258">
+<Sync time="2394.625"/>
+euh est-ce ou est-ce que
+<Sync time="2396.565"/>
+vous vous placeriez vous-même
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2398.258" endTime="2400.842">
+<Sync time="2398.258"/>
+<Who nb="1"/>
+moi ? ici ?
+<Who nb="2"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2400.842" endTime="2404.357">
+<Sync time="2400.842"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="2403.616"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2404.357" endTime="2407.893">
+<Sync time="2404.357"/>
+suivant ce que je fais
+<Sync time="2405.649"/>
+hein ici
+<Sync time="2407.121"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2407.893" endTime="2417.228">
+<Sync time="2407.893"/>
+est-ce que vous pouvez nous dire comment euh vous êtes venu ici enfin euh votre rôle que vous jouez comme secrétaire général adjoint
+<Sync time="2414.735"/>
+vous n'avez pas j- toujours joué
+<Sync time="2416.677"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2417.228" endTime="2417.971">
+<Sync time="2417.228"/>
+<Who nb="1"/>
+euh
+<Who nb="2"/>
+euh
+</Turn>
+<Turn speaker="spk2" startTime="2417.971" endTime="2420.665">
+<Sync time="2417.971"/>
+non pas toujours parce que j'appar- j'étais dans l'armée avant
+</Turn>
+<Turn speaker="spk1" startTime="2420.665" endTime="2421.25">
+<Sync time="2420.665"/>
+dans l'armée ?
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2421.25" endTime="2422.434">
+<Sync time="2421.25"/>
+<Who nb="1"/>
+oui
+<Who nb="2"/>
+ah oui
+<Sync time="2421.961"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2422.434" endTime="2425.688">
+<Sync time="2422.434"/>
+alors j'ai quitté l'armée en mille neuf cent quarante-six j'avais fait Saint-Cyr et
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2425.688" endTime="2428.372">
+<Sync time="2425.688"/>
+<Who nb="1"/>
+ah oui oui
+<Who nb="2"/>
+j'ai quitté l'armée en mille neuf cent quarante-six
+<Sync time="2427.961"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2428.372" endTime="2443.447">
+<Sync time="2428.372"/>
+je me suis essayé à diverses choses de vie civile
+<Sync time="2430.996"/>
+
+<Sync time="2433.069"/>
+j'ai eu
+<Sync time="2433.72"/>
+
+<Sync time="2434.892"/>
+comme beaucoup de gens le plaisir de faire quelque chose par moi-même et puis je me suis aperçu que la position de salarié n'était pas dans les plus mauvaises
+<Sync time="2441.061"/>
+
+<Sync time="2442.275"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2443.447" endTime="2444.519">
+<Sync time="2443.447"/>
+<Who nb="1"/>
+ah
+<Who nb="2"/>
+alors maintenant je suis
+</Turn>
+<Turn speaker="spk2" startTime="2444.519" endTime="2455.944">
+<Sync time="2444.519"/>
+salarié de la chambre de commerce
+<Sync time="2446.171"/>
+ou euh je m'occupe d'intérêts généraux qui sont par ex- très intéressants
+<Sync time="2450.404"/>
+
+<Sync time="2451.765"/>
+c'est un métier très intéressant
+<Sync time="2453.5"/>
+j'y suis depuis quinze ans maintenant
+</Turn>
+<Turn speaker="spk1" startTime="2455.944" endTime="2456.826">
+<Sync time="2455.944"/>
+quinze ans ?
+</Turn>
+<Turn speaker="spk2" startTime="2456.826" endTime="2457.598">
+<Sync time="2456.826"/>
+oui
+<Sync time="2457.197"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2457.598" endTime="2461.664">
+<Sync time="2457.598"/>
+ah oui
+<Sync time="2457.988"/>
+
+<Sync time="2459.059"/>
+alors vous avez suivi le développement d'Orléans euh
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2461.664" endTime="2463.215">
+<Sync time="2461.664"/>
+<Who nb="1"/>
+enfin évidemment mais
+<Who nb="2"/>
+oui j'ai sûrement
+</Turn>
+<Turn speaker="spk2" startTime="2463.215" endTime="2466.195">
+<Sync time="2463.215"/>
+oui j'ai suivi le développement d'Orléans à une période très intéressante
+</Turn>
+<Turn speaker="spk1" startTime="2466.195" endTime="2466.636">
+<Sync time="2466.195"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="2466.636" endTime="2468.488">
+<Sync time="2466.636"/>
+vraiment une période de mutation
+</Turn>
+<Turn speaker="spk1" startTime="2468.488" endTime="2469.039">
+<Sync time="2468.488"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="2469.039" endTime="2471.692">
+<Sync time="2469.039"/>
+qui n'est pas terminée d'ailleurs
+<Sync time="2470.691"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2471.692" endTime="2475.296">
+<Sync time="2471.692"/>
+mutation de quel état ?
+<Sync time="2473.514"/>
+enfin vous a- vous nous avez parlé
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2475.296" endTime="2478.13">
+<Sync time="2475.296"/>
+<Who nb="1"/>
+d'Orléans 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+ah ben mutation d'abord dans les effectifs
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2478.13" endTime="2479.231">
+<Sync time="2478.13"/>
+<Who nb="1"/>
+mutation
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="2479.231" endTime="2488.076">
+<Sync time="2479.231"/>
+euh dans les structures
+<Sync time="2481.266"/>
+
+<Sync time="2483.92"/>
+et évidemment mutation dans le développement des communes suburbaines
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2488.076" endTime="2490.83">
+<Sync time="2488.076"/>
+<Who nb="1"/>
+par rapport à Orléans
+<Who nb="2"/>
+ah oui
+<Sync time="2489.618"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2490.83" endTime="2496.6">
+<Sync time="2490.83"/>
+qui a été un phénomène euh
+<Sync time="2492.452"/>
+
+<Sync time="2493.043"/>
+très intéressant à suivre
+<Sync time="2495.286"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2496.6" endTime="2497.402">
+<Sync time="2496.6"/>
+oui bien sûr
+</Turn>
+<Turn speaker="spk2" startTime="2497.402" endTime="2507.57">
+<Sync time="2497.402"/>
+alors passer du stade de euh
+<Sync time="2500.42"/>
+de l'agriculture et de l'artisanat au stade de l'agriculture et de l'industrie
+<Sync time="2505.117"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2507.57" endTime="2508.301">
+<Sync time="2507.57"/>
+<Who nb="1"/>
+ah oui
+<Who nb="2"/>
+ça vraiment
+</Turn>
+<Turn speaker="spk2" startTime="2508.301" endTime="2511.245">
+<Sync time="2508.301"/>
+en quinze ans on a vu une transformation considérable
+</Turn>
+<Turn speaker="spk1" startTime="2511.245" endTime="2519.064">
+<Sync time="2511.245"/>
+ah oui
+<Sync time="2511.755"/>
+
+<Sync time="2516.15"/>
+vous êtes euh économiste de formation ?
+<Sync time="2518.574"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2519.064" endTime="2520.987">
+<Sync time="2519.064"/>
+non je vous ai dit j'ai fait Saint-Cyr
+</Turn>
+<Turn speaker="spk1" startTime="2520.987" endTime="2524.085">
+<Sync time="2520.987"/>
+oui mais enfin on ne fait pas en France des études
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2524.085" endTime="2525.533">
+<Sync time="2524.085"/>
+<Who nb="1"/>
+si maintenant
+<Who nb="2"/>
+à l'intérieur du
+</Turn>
+<Turn speaker="spk1" startTime="2525.533" endTime="2526.905">
+<Sync time="2525.533"/>
+du cadre militaire qui sont
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2526.905" endTime="2528.868">
+<Sync time="2526.905"/>
+<Who nb="1"/>
+économie
+<Who nb="2"/>
+non
+<Sync time="2527.706"/>
+<Who nb="1"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+maintenant si
+</Turn>
+<Turn speaker="spk2" startTime="2528.868" endTime="2541.572">
+<Sync time="2528.868"/>
+maintenant y a je crois que les jeunes sont préparés n'est-ce pas ont un un éventail de
+<Sync time="2533.968"/>
+d'études beaucoup plus large que celui qu'était le nôtre 
+<Event desc="no" type="pronounce" extent="previous"/>
+
+<Sync time="2536.36"/>
+
+<Sync time="2538.764"/>
+et puis alors il y a des formations d'économistes
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2541.572" endTime="2542.344">
+<Sync time="2541.572"/>
+<Who nb="1"/>
+oui
+<Who nb="2"/>
+en France
+</Turn>
+<Turn speaker="spk2" startTime="2542.344" endTime="2547.817">
+<Sync time="2542.344"/>
+euh on y a y a des licences de sciences économiques oui
+<Sync time="2546.362"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2547.817" endTime="2548.266">
+<Sync time="2547.817"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="2548.266" endTime="2551.971">
+<Sync time="2548.266"/>
+alors moi je suis un petit peu
+<Sync time="2550.059"/>
+
+<Sync time="2550.59"/>
+autodidacte
+<Sync time="2551.49"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2551.971" endTime="2552.512">
+<Sync time="2551.971"/>
+ah oui
+</Turn>
+<Turn speaker="spk2" startTime="2552.512" endTime="2555.654">
+<Sync time="2552.512"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ puisque j'ai fait autre chose avant
+<Sync time="2555.123"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2555.654" endTime="2566.362">
+<Sync time="2555.654"/>
+oui
+<Sync time="2556.177"/>
+
+<Sync time="2557.758"/>
+oui
+<Sync time="2558.051"/>
+
+<Sync time="2558.792"/>
+est-ce que vous croyez euh
+<Sync time="2561.035"/>
+que maintenant
+<Sync time="2561.986"/>
+
+<Sync time="2562.697"/>
+l'enseignement devrait être doublé peut-être plus de
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2566.362" endTime="2567.674">
+<Sync time="2566.362"/>
+<Who nb="1"/>
+il le fait
+<Who nb="2"/>
+de questions de
+</Turn>
+<Turn speaker="spk2" startTime="2567.674" endTime="2568.476">
+<Sync time="2567.674"/>
+il le fait
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2568.476" endTime="2570.003">
+<Sync time="2568.476"/>
+<Who nb="1"/>
+je crois qu'effectivement le
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="2570.003" endTime="2583.747">
+<Sync time="2570.003"/>
+euh l- il y a maintenant des
+<Sync time="2572.303"/>
+dans l'enseignement des secteurs
+<Sync time="2574.746"/>
+
+<Sync time="2576.028"/>
+où on étudie euh les statistiques euh l'économie euh
+<Sync time="2580.444"/>
+
+<Sync time="2581.471"/>
+d'une façon très approfondie
+<Sync time="2583.133"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2583.747" endTime="2589.873">
+<Sync time="2583.747"/>
+hm hm
+<Sync time="2584.117"/>
+
+<Sync time="2585.189"/>
+est-ce que le l'enseignement en général
+<Sync time="2587.652"/>
+
+<Sync time="2588.459"/>
+euh qu'est-ce que vous en pensez ?
+</Turn>
+<Turn speaker="spk2" startTime="2589.873" endTime="2595.902">
+<Sync time="2589.873"/>
+oui justement là là je j'aimerais mieux que vous vous in- que vous interrogiez quelqu'un de plus calé que moi
+<Sync time="2595.017"/>
+parce que
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2595.902" endTime="2597.303">
+<Sync time="2595.902"/>
+<Who nb="1"/>
+notamment à l'université
+<Who nb="2"/>
+ouais
+</Turn>
+<Turn speaker="spk2" startTime="2597.303" endTime="2604.261">
+<Sync time="2597.303"/>
+vous avez à l'université des gens prestigieux
+<Sync time="2600.085"/>
+euh la personne du recteur entre autres qui n'est peut-être
+<Sync time="2603.369"/>
+qui a maintenant beaucoup
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2604.261" endTime="2605.545">
+<Sync time="2604.261"/>
+<Who nb="1"/>
+d'autres choses à faire
+<Who nb="2"/>
+vous êtes pas vraiment qualifié
+</Turn>
+<Turn speaker="spk1" startTime="2605.545" endTime="2611.027">
+<Sync time="2605.545"/>
+ mais peut-être qu'aussi vous avez vous-même des enfants qui euh
+<Sync time="2609.23"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2611.027" endTime="2620.29">
+<Sync time="2611.027"/>
+mes enfants maintenant ont fini leurs études euh
+<Sync time="2613.949"/>
+pratiquement j'en ai un qui entre en faculté de médecine l'année prochaine voyez-vous c'est et c'est et c'est le dernier 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2620.29" endTime="2622.183">
+<Sync time="2620.29"/>
+ah oui
+<Sync time="2620.81"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2622.183" endTime="2633.308">
+<Sync time="2622.183"/>
+et c'est le dernier non je suis euh
+<Sync time="2624.327"/>
+
+<Sync time="2625.318"/>
+pas très
+<Sync time="2626.36"/>
+
+<Sync time="2628.313"/>
+apte à vous donner vraiment des des des idées très générales sur ce
+<Sync time="2632.666"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2633.308" endTime="2637.484">
+<Sync time="2633.308"/>
+oui mais en tant que parent
+<Sync time="2634.991"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2637.484" endTime="2655.623">
+<Sync time="2637.484"/>
+en tant que parent ce que je peux vous dire c'est que on a vu pendant
+<Sync time="2640.618"/>
+
+<Sync time="2641.74"/>
+quinze ans
+<Sync time="2642.901"/>
+un bouleversement perpétuel des programmes
+<Sync time="2645.735"/>
+
+<Sync time="2647.518"/>
+si bien qu'à la fin
+<Sync time="2648.99"/>
+
+<Sync time="2649.761"/>
+personne ne savait plus ce qu'un qu'un enfant avait à faire
+<Sync time="2653.216"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2655.623" endTime="2656.074">
+<Sync time="2655.623"/>
+hm
+</Turn>
+<Turn speaker="spk2" startTime="2656.074" endTime="2695.981">
+<Sync time="2656.074"/>
+et que si on avait changé un petit peu moins
+<Sync time="2659.689"/>
+
+<Sync time="2660.24"/>
+ça aurait sans doute mieux valu
+<Sync time="2661.782"/>
+
+<Sync time="2664.526"/>
+et qu'à force d'analyser
+<Sync time="2666.369"/>
+
+<Sync time="2667.86"/>
+le problème de l'instruction
+<Sync time="2669.813"/>
+
+<Sync time="2672.607"/>
+et de pousser très très loin les différentes classifications
+<Sync time="2676.104"/>
+
+<Sync time="2676.595"/>
+on a multiplié le nombre des préparations
+<Sync time="2680.246"/>
+
+<Sync time="2681.408"/>
+ce qui à mon point de vue aurait ten-
+<Sync time="2683.748"/>
+tendu 
+<Sync time="2684.557"/>
+
+<Sync time="2685.268"/>
+à recréer ce qu'on appelait autrefois le bachotage
+<Sync time="2688.232"/>
+
+<Sync time="2689.294"/>
+au détriment
+<Sync time="2690.615"/>
+
+<Sync time="2691.397"/>
+d'une formation de réflexion
+<Sync time="2694.093"/>
+
+<Sync time="2694.806"/>
+et d'équilibre
+</Turn>
+<Turn speaker="spk1" startTime="2695.981" endTime="2699.406">
+<Sync time="2695.981"/>
+hm
+<Sync time="2696.512"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2699.406" endTime="2705.094">
+<Sync time="2699.406"/>
+voilà c'est hélas
+<Sync time="2701.068"/>
+ah vous me demandez une critique euh je vous la fais telle que je la pense
+</Turn>
+<Turn speaker="spk1" startTime="2705.094" endTime="2707.907">
+<Sync time="2705.094"/>
+oui je vous remercie
+<Sync time="2706.245"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2707.907" endTime="2712.661">
+<Sync time="2707.907"/>
+elle est peut-être un peu sévère mais enfin nous s- ce que j'en pense en tant que parent si vous voulez
+</Turn>
+<Turn speaker="spk1" startTime="2712.661" endTime="2712.992">
+<Sync time="2712.661"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="2712.992" endTime="2715.471">
+<Sync time="2712.992"/>
+oui
+<Sync time="2713.523"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="2715.471" endTime="2730.707">
+<Sync time="2715.471"/>
+est-ce que
+<Sync time="2716.583"/>
+
+<Sync time="2717.146"/>
+pour en revenir au problème économique est-ce que vous pensez que les syndicats jouent un rôle euh intéressant sur le plan économique en fait est-ce que vous pensez qu'ils ont des
+<Sync time="2724.062"/>
+
+<Sync time="2724.863"/>
+que leur action a des conséquences néfastes ou bien plutôt favorables pour l'économie ?
+<Sync time="2729.155"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2730.707" endTime="2772.579">
+<Sync time="2730.707"/>
+non ah non alors je je pense que
+<Sync time="2732.879"/>
+les les syndicats sont nécessaires
+<Sync time="2734.752"/>
+
+<Sync time="2735.974"/>
+et qu'il est souhaitable que les
+<Sync time="2738.528"/>
+
+<Sync time="2739.209"/>
+salariés
+<Sync time="2740.23"/>
+
+<Sync time="2741.576"/>
+prennent le plus rapidement possible de
+<Sync time="2744.229"/>
+la réalité
+<Sync time="2745.811"/>
+
+<Sync time="2747.362"/>
+euh des de l'ambiance économique à laquelle ils contribuent
+<Sync time="2750.502"/>
+
+<Sync time="2751.188"/>
+et je dis bien de la d- de la réalité
+<Sync time="2753.441"/>
+
+<Sync time="2755.835"/>
+et
+<Sync time="2756.817"/>
+de façon à
+<Sync time="2757.91"/>
+
+<Sync time="2758.501"/>
+si vous voulez sortir du domaine de la contestation
+<Sync time="2762.171"/>
+
+<Sync time="2762.712"/>
+pour entrer dans le domaine
+<Sync time="2764.892"/>
+de la construction
+<Sync time="2766.178"/>
+euh
+<Sync time="2766.679"/>
+réaliste
+<Sync time="2767.699"/>
+d'un
+<Sync time="2768.274"/>
+monde nouveau
+<Sync time="2769.273"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="2772.579" endTime="2779.203">
+<Sync time="2772.579"/>
+depuis que les Anglais sont ici ils entendent tout le temps parler de participation
+<Sync time="2776.229"/>
+est-ce que vous pourriez le
+<Sync time="2777.711"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2779.203" endTime="2918.576">
+<Sync time="2779.203"/>
+ah oui ça c'est difficile
+<Sync time="2780.965"/>
+
+<Sync time="2781.706"/>
+bien sûr on en on on on parle beaucoup de participation
+<Sync time="2785.672"/>
+
+<Sync time="2786.983"/>
+seulement
+<Sync time="2788.366"/>
+
+<Sync time="2789.647"/>
+pour que la participation soit
+<Sync time="2791.489"/>
+
+<Sync time="2792.24"/>
+effective
+<Sync time="2793.382"/>
+
+<Sync time="2794.914"/>
+il faudrait que ce soit une participation
+<Sync time="2796.797"/>
+
+<Sync time="2797.578"/>
+aussi bien aux bénéfices que qu'aux risques
+<Sync time="2800.872"/>
+
+<Sync time="2803.967"/>
+et
+<Sync time="2805.089"/>
+
+<Sync time="2806.23"/>
+il ne semble pas justement que les syndicats soient très très disposés à assumer
+<Sync time="2811.357"/>
+
+<Sync time="2812.178"/>
+euh des responsabilités de
+<Sync time="2815.899"/>
+de véritables responsabilités
+<Sync time="2817.802"/>
+
+<Sync time="2818.438"/>
+soucieux qu'ils sont
+<Sync time="2819.75"/>
+
+<Sync time="2821.535"/>
+de ne pas encourir le risque de faire des des erreurs d'administration
+<Sync time="2827.884"/>
+
+<Sync time="2829.427"/>
+qui les couperaient de
+<Sync time="2831.392"/>
+
+<Sync time="2832.173"/>
+de leurs euh syndiqués enfin de leurs participants
+<Sync time="2836.489"/>
+
+<Sync time="2837.291"/>
+et puis également du fait que
+<Sync time="2839.554"/>
+
+<Sync time="2840.998"/>
+qu'ils n'auraient probablement pas les les les réserves nécessaires pour euh couvrir des risques économiques
+<Sync time="2847.727"/>
+
+<Sync time="2852.07"/>
+ce qui serait souhaitable n'est-ce pas c'est que ces syndicats euh
+<Sync time="2855.806"/>
+
+<Sync time="2856.735"/>
+se servent de leur obédience
+<Sync time="2859.064"/>
+
+<Sync time="2860.02"/>
+pour euh
+<Sync time="2861.632"/>
+
+<Sync time="2862.604"/>
+préparer
+<Sync time="2863.525"/>
+
+<Sync time="2864.507"/>
+préparer leurs membres à une participation future
+<Sync time="2868.743"/>
+
+<Sync time="2869.261"/>
+n'est-ce pas
+<Sync time="2869.572"/>
+
+<Sync time="2870.002"/>
+en les rendant conscients
+<Sync time="2871.875"/>
+
+<Sync time="2873.088"/>
+de ce qu'est
+<Sync time="2874.009"/>
+l'économie en général et ce qu'est l'économie d'une affaire de l'affaire dans laquelle ils vivent de façon à ce que
+<Sync time="2879.186"/>
+
+<Sync time="2880.887"/>
+ces gens ne soient pas
+<Sync time="2882.819"/>
+prêts à scier l'arbre sur le la branche sur laquelle ils sont assis
+<Sync time="2886.304"/>
+
+<Sync time="2891.496"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Sync time="2891.759"/>
+
+<Sync time="2892.204"/>
+évidemment euh on me parlait d'une affaire anglaise implantée en France hier
+<Sync time="2895.923"/>
+
+<Sync time="2897.075"/>
+affaire qui marche très bien qui fait partie du groupe euh Burma
+<Sync time="2900.365"/>
+
+<Sync time="2901.676"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Sync time="2903.088"/>
+
+<Sync time="2905.191"/>
+bien alors le directeur général est venu en France a rassemblé tout le monde sans distinction
+<Sync time="2910.131"/>
+
+<Sync time="2911.013"/>
+a montré l- la vigueur de cette affaire et les gros bénéfices qu'elle avait faits sur le plan mondial
+<Sync time="2917.139"/>
+euh il venait de refuser
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2918.576" endTime="2919.599">
+<Sync time="2918.576"/>
+<Who nb="1"/>
+une augmentation
+<Who nb="2"/>
+hm hm
+</Turn>
+<Turn startTime="2919.599" endTime="2922.585">
+<Sync time="2919.599"/>
+
+<Comment desc="coupure bande"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2922.585" endTime="2932.33">
+<Sync time="2922.585"/>
+parce que quelques fois
+<Sync time="2923.836"/>
+
+<Sync time="2924.495"/>
+euh on nous a parlé de ce mot comme du temps enfin euh un mot euh
+<Sync time="2928.805"/>
+
+<Sync time="2929.697"/>
+pour apaiser
+<Sync time="2930.718"/>
+
+<Sync time="2931.619"/>
+les
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2932.33" endTime="2937.992">
+<Sync time="2932.33"/>
+<Who nb="1"/>
+ah oui bah
+<Who nb="2"/>
+difficultés
+<Sync time="2933.636"/>
+<Who nb="1"/>
+et et ça se alors ça ça se c'est un mot électoral hein
+<Who nb="2"/>
+et qui n'est pas 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Sync time="2936.833"/>
+<Who nb="1"/>
+ça
+<Who nb="2"/>
+oui c'est ça
+</Turn>
+<Turn speaker="spk1" startTime="2937.992" endTime="2941.367">
+<Sync time="2937.992"/>
+oui c'est ça
+<Sync time="2938.944"/>
+comme un autre
+<Sync time="2940.136"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2941.367" endTime="2948.590">
+<Sync time="2941.367"/>
+ah au point actuel
+<Sync time="2943.901"/>
+
+<Sync time="2944.954"/>
+il est possible que ce ne soit que ça parce que y a un manque de préparation
+<Sync time="2948.134"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2948.590" endTime="2961.243">
+<Sync time="2948.590"/>
+hm hm
+<Sync time="2949.021"/>
+
+<Sync time="2951.015"/>
+hm
+<Sync time="2951.566"/>
+
+<Sync time="2953.716"/>
+sur un plan que vous connaissez euh sans doute très bien euh euh comité d'expansion
+<Sync time="2958.803"/>
+
+<Sync time="2959.279"/>
+régional
+<Sync time="2960.14"/>
+et Coder
+</Turn>
+<Turn speaker="spk2" startTime="2961.243" endTime="2962.645">
+<Sync time="2961.243"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Sync time="2961.753"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="2962.645" endTime="2966.495">
+<Sync time="2962.645"/>
+euh
+<Sync time="2963.507"/>
+est-ce que enfin il y a interaction entre les deux ?
+</Turn>
+<Turn speaker="spk2" startTime="2966.495" endTime="2967.877">
+<Sync time="2966.495"/>
+oui certainement oui
+</Turn>
+<Turn speaker="spk1" startTime="2967.877" endTime="2970.92">
+<Sync time="2967.877"/>
+est-ce que vous pourriez nous dire euh
+<Sync time="2969.518"/>
+nous &amp;ré-argumenter les le
+</Turn>
+<Turn speaker="spk1 spk2" startTime="2970.92" endTime="2972.156">
+<Sync time="2970.92"/>
+<Who nb="1"/>
+la différence entre maintenant
+<Who nb="2"/>
+eh bien
+</Turn>
+<Turn speaker="spk1" startTime="2972.156" endTime="2974.126">
+<Sync time="2972.156"/>
+entre les deux
+<Sync time="2973.108"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2974.126" endTime="2980.611">
+<Sync time="2974.126"/>
+bien les comités
+<Sync time="2975.418"/>
+
+<Sync time="2976.395"/>
+d'expansion régionaux
+<Sync time="2978.208"/>
+
+<Sync time="2978.761"/>
+sont de création plus ancienne
+</Turn>
+<Turn speaker="spk1" startTime="2980.611" endTime="2981.582">
+<Sync time="2980.611"/>
+oui
+<Sync time="2980.981"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="2981.582" endTime="2982.403">
+<Sync time="2981.582"/>
+que les
+</Turn>
+<Turn speaker="spk1" startTime="2982.403" endTime="2982.912">
+<Sync time="2982.403"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="2982.912" endTime="2993.987">
+<Sync time="2982.912"/>
+comités de développement régional
+<Sync time="2985.065"/>
+
+<Sync time="2987.648"/>
+ils sont également
+<Sync time="2989.5"/>
+
+<Sync time="2990.572"/>
+euh de formation
+<Sync time="2992.475"/>
+
+<Sync time="2993.276"/>
+privée
+</Turn>
+<Turn speaker="spk2 spk1" startTime="2993.987" endTime="2994.939">
+<Sync time="2993.987"/>
+<Who nb="1"/>
+en ce sens
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="2994.939" endTime="3026.448">
+<Sync time="2994.939"/>
+il n'y a pas dans leur sein
+<Sync time="2996.906"/>
+de membre de l'administration
+<Sync time="2999.315"/>
+
+<Sync time="3000.677"/>
+quoique les membres de l'administration soient tenus au courant de leurs activités
+<Sync time="3005.053"/>
+
+<Sync time="3006.365"/>
+et soient invités bien sûr à participer au débat et à les éclairer
+<Sync time="3010.311"/>
+bien sur
+<Sync time="3010.801"/>
+
+<Sync time="3013.485"/>
+les comités régionaux de l'expansion
+<Sync time="3016.179"/>
+
+<Sync time="3017.121"/>
+font surtout des des études des statistiques des 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Sync time="3021.681"/>
+et travaillent en liaison étroite avec des comités de développement régionaux
+</Turn>
+<Turn speaker="spk1" startTime="3026.448" endTime="3027.329">
+<Sync time="3026.448"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="3027.329" endTime="3055.216">
+<Sync time="3027.329"/>
+qui sont des organismes en somme si vous voulez paritaires
+<Sync time="3030.363"/>
+
+<Sync time="3030.806"/>
+composés à la fois
+<Sync time="3032.308"/>
+
+<Sync time="3034.261"/>
+de représentants de l'industrie et du commerce enfin de la k- des activités privées
+<Sync time="3039.378"/>
+
+<Sync time="3040.94"/>
+et
+<Sync time="3041.351"/>
+
+<Sync time="3041.803"/>
+de représentants de l'administration
+<Sync time="3044.611"/>
+étant
+<Sync time="3045.672"/>
+
+<Sync time="3046.603"/>
+eux-mêmes
+<Sync time="3047.304"/>
+
+<Sync time="3047.885"/>
+placés
+<Sync time="3048.72"/>
+
+<Sync time="3049.932"/>
+euh sous la direction
+<Sync time="3052.222"/>
+effective
+<Sync time="3053.293"/>
+
+<Sync time="3053.884"/>
+des préfets régionaux
+</Turn>
+<Turn speaker="spk1" startTime="3055.216" endTime="3060.994">
+<Sync time="3055.216"/>
+hm
+<Sync time="3055.569"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3060.994" endTime="3079.786">
+<Sync time="3060.994"/>
+alors euh actuellement
+<Sync time="3063.698"/>
+
+<Sync time="3064.909"/>
+dans les mois qui vont venir vous allez assister certainement à euh
+<Sync time="3069.445"/>
+
+<Sync time="3073.47"/>
+certains bouleversements
+<Sync time="3074.582"/>
+
+<Sync time="3076.645"/>
+parce que
+<Sync time="3077.296"/>
+
+<Sync time="3078.127"/>
+aussi bien les Coder
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3079.786" endTime="3080.379">
+<Sync time="3079.786"/>
+<Who nb="1"/>
+que le
+<Who nb="2"/>
+hm
+</Turn>
+<Turn speaker="spk2" startTime="3080.379" endTime="3101.843">
+<Sync time="3080.379"/>
+sénat que le conseil économique
+<Sync time="3082.83"/>
+vont être l'objet d'une réforme
+<Sync time="3084.937"/>
+qui je crois va fusionner tous ces organismes
+<Sync time="3087.962"/>
+
+<Sync time="3088.582"/>
+dans un seul
+<Sync time="3089.646"/>
+
+<Sync time="3091.378"/>
+organisme qui sera composé à la fois probablement de membres élus et de membres nommés
+<Sync time="3095.741"/>
+je sais pas c'est probable
+<Sync time="3097.174"/>
+
+<Sync time="3098.396"/>
+on ne sait pas parfaitement
+<Sync time="3099.718"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3101.843" endTime="3128.282">
+<Sync time="3101.843"/>
+on
+<Sync time="3102.548"/>
+on nous a dit que
+<Sync time="3104.19"/>
+
+<Sync time="3104.723"/>
+les syndicats reprochent aux Coder
+<Sync time="3107.438"/>
+
+<Sync time="3107.969"/>
+qu'il y ait en quelque sorte une double représentation du patronat
+<Sync time="3111.378"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ qu'il a une représentation cachée
+<Sync time="3114.327"/>
+
+<Sync time="3115.319"/>
+euh parce que le préfet peut ou a le droit de nommer une certaine proportion de personnalités
+<Sync time="3120.917"/>
+
+<Sync time="3121.3"/>
+qui sont généralement des patrons
+<Sync time="3123.923"/>
+
+<Sync time="3124.905"/>
+qu'est-ce que vous en pensez ?
+<Sync time="3126.127"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3128.282" endTime="3166.399">
+<Sync time="3128.282"/>
+bah
+<Sync time="3128.713"/>
+
+<Sync time="3130.623"/>
+
+<Event desc="pf" type="noise" extent="instantaneous"/>
+ je sais pas très bien
+<Sync time="3132.064"/>
+
+<Sync time="3133.156"/>
+j'ai pas entendu dire ça dans la région
+<Sync time="3135.389"/>
+
+<Sync time="3137.717"/>
+c'est euh
+<Sync time="3138.798"/>
+
+<Sync time="3140.275"/>
+ça dépend où dans un dé- il est certain que le préfet doit nommer
+<Sync time="3144.021"/>
+
+<Sync time="3144.882"/>
+des gens qui s'intéressent aux questions économiques qui sont capables de les comprendre et il les choisit là où ils sont
+<Sync time="3151.547"/>
+
+<Sync time="3152.858"/>
+si les syndicats n'ont pas su justement former leurs membres à ces disciplines eh bien il est certain
+<Sync time="3159.478"/>
+
+<Sync time="3160.199"/>
+et si ils s'attachent pas à ça
+<Sync time="3161.945"/>
+bah il est certain que
+<Sync time="3163.487"/>
+
+<Sync time="3164.489"/>
+ils se verront évincés des
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3166.399" endTime="3169.035">
+<Sync time="3166.399"/>
+<Who nb="1"/>
+hm hm
+<Who nb="2"/>
+des assemblées euh
+<Sync time="3168.194"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3169.035" endTime="3191.206">
+<Sync time="3169.035"/>
+qui auront des responsabilités en matière économique
+<Sync time="3172.18"/>
+si au contraire
+<Sync time="3173.622"/>
+
+<Sync time="3174.263"/>
+ils savent
+<Sync time="3175.084"/>
+
+<Sync time="3175.994"/>
+former leurs membres aux aux réalités de la vie économique eh bien c'est dans leur sein que les préfets pourront choisir
+<Sync time="3182.283"/>
+
+<Sync time="3183.503"/>
+euh plus de membres pour s'entourer de leurs conseils ça
+<Sync time="3186.585"/>
+
+<Sync time="3189.334"/>
+c'est je crois que vous savez
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3191.206" endTime="3192.222">
+<Sync time="3191.206"/>
+<Who nb="1"/>
+ah oui
+<Who nb="2"/>
+c'est une question d'hommes
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3192.222" endTime="3193.481">
+<Sync time="3192.222"/>
+<Who nb="1"/>
+ça euh 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+oui
+<Sync time="3192.933"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3193.481" endTime="3194.886">
+<Sync time="3193.481"/>
+question d'hommes
+<Sync time="3194.355"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3194.886" endTime="3195.838">
+<Sync time="3194.886"/>
+<Who nb="1"/>
+oui
+<Who nb="2"/>
+vous-même euh
+</Turn>
+<Turn speaker="spk1" startTime="3195.838" endTime="3196.779">
+<Sync time="3195.838"/>
+vous êtes membre de
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3196.779" endTime="3197.31">
+<Sync time="3196.779"/>
+<Who nb="1"/>
+non
+<Who nb="2"/>
+du comité
+</Turn>
+<Turn speaker="spk1" startTime="3197.31" endTime="3198.812">
+<Sync time="3197.31"/>
+d'expansion du Coder euh
+</Turn>
+<Turn speaker="spk2" startTime="3198.812" endTime="3203.062">
+<Sync time="3198.812"/>
+ah moi j'assure le secrétariat mais d'un comité d'expansion
+<Sync time="3201.427"/>
+
+<Sync time="3201.978"/>
+départemental
+</Turn>
+<Turn speaker="spk1" startTime="3203.062" endTime="3204.995">
+<Sync time="3203.062"/>
+oui
+<Sync time="3203.393"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3204.995" endTime="3207.295">
+<Sync time="3204.995"/>
+départemental pas régional
+</Turn>
+<Turn speaker="spk1" startTime="3207.295" endTime="3211.754">
+<Sync time="3207.295"/>
+hm hm
+<Sync time="3207.936"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3211.754" endTime="3223.526">
+<Sync time="3211.754"/>
+oui vous voyez on tourne toujours autour de la personnalité de l'individu et c'est pourquoi je vous disais comment j'attachais tellement d'importance
+<Sync time="3219.705"/>
+
+<Sync time="3221.167"/>
+à une espèce d'autonomie
+</Turn>
+<Turn speaker="spk1" startTime="3223.526" endTime="3224.047">
+<Sync time="3223.526"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="3224.047" endTime="3230.678">
+<Sync time="3224.047"/>
+orléanaise
+<Sync time="3225.139"/>
+
+<Sync time="3225.691"/>
+qui justement
+<Sync time="3226.532"/>
+
+<Sync time="3227.022"/>
+permettent de développer le nombre des des élites
+<Sync time="3229.621"/>
+si vous voulez
+</Turn>
+<Turn speaker="spk1" startTime="3230.678" endTime="3230.857">
+<Sync time="3230.678"/>
+hm
+</Turn>
+<Turn speaker="spk2" startTime="3230.857" endTime="3232.54">
+<Sync time="3230.857"/>
+de quelque horizon qu'elles soient
+</Turn>
+<Turn speaker="spk1" startTime="3232.54" endTime="3233.722">
+<Sync time="3232.54"/>
+hm hm
+<Sync time="3233.101"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3233.722" endTime="3241.487">
+<Sync time="3233.722"/>
+sur Orléans
+<Sync time="3234.594"/>
+
+<Sync time="3235.165"/>
+au lieu de ne laisser à Orléans que se développer
+<Sync time="3238.333"/>
+
+<Sync time="3238.836"/>
+euh la présence de gens qui sont irresponsables
+</Turn>
+<Turn speaker="spk1" startTime="3241.487" endTime="3243.517">
+<Sync time="3241.487"/>
+oui
+<Sync time="3241.957"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3243.517" endTime="3249.627">
+<Sync time="3243.517"/>
+et par conséquent sur lesquels on peut pas s'appuyer pour euh pour une direction
+<Sync time="3247.733"/>
+
+<Sync time="3248.685"/>
+voyez
+<Sync time="3249.126"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3249.627" endTime="3255.065">
+<Sync time="3249.627"/>
+hm
+<Sync time="3249.868"/>
+
+<Sync time="3252.174"/>
+la question de l'homme qui est la plus fondamentale
+</Turn>
+<Turn speaker="spk2" startTime="3255.065" endTime="3259.539">
+<Sync time="3255.065"/>
+c'est c'est là j- on y revient toujours
+<Sync time="3256.748"/>
+
+<Sync time="3257.208"/>
+oui c'est la question de l'homme qui est fondamentale
+<Sync time="3259.030"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3259.539" endTime="3262.23">
+<Sync time="3259.539"/>
+vous semblez avoir une conviction très profonde
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3262.23" endTime="3265.319">
+<Sync time="3262.23"/>
+<Who nb="1"/>
+là-dessus
+<Who nb="2"/>
+de ça 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="3263.541"/>
+<Who nb="1"/>
+oui
+<Who nb="2"/>
+je pense comme tout le monde oui
+<Sync time="3264.908"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3265.319" endTime="3268.489">
+<Sync time="3265.319"/>
+vous savez au bout d'un certain âge on s'aperçoit qu'y a qu'une chose qui compte
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3268.489" endTime="3270.441">
+<Sync time="3268.489"/>
+<Who nb="1"/>
+c'est peut-être ça hein
+<Who nb="2"/>
+oui
+<Sync time="3269.931"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3270.441" endTime="3279.294">
+<Sync time="3270.441"/>
+et que sans hommes on fait rien
+<Sync time="3271.593"/>
+
+<Sync time="3272.084"/>
+c'est-à-dire qu'on personne ne peut rien faire tout seul
+<Sync time="3274.247"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3279.294" endTime="3281.384">
+<Sync time="3279.294"/>
+alors je pense que c'est
+</Turn>
+<Turn speaker="spk1 spk5" startTime="3281.384" endTime="3284.628">
+<Sync time="3281.384"/>
+<Who nb="1"/>
+toutes les questions oui
+<Who nb="2"/>
+je crois qu'on a déjà abusé de notre partenaire
+<Sync time="3283.863"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3284.628" endTime="3285.729">
+<Sync time="3284.628"/>
+oui nous vous remercions
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3285.729" endTime="3286.814">
+<Sync time="3285.729"/>
+<Who nb="1"/>
+beaucoup 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+ah ben je vous en prie
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3286.814" endTime="3290.105">
+<Sync time="3286.814"/>
+<Who nb="1"/>
+vous savez on est toujours content de voir des gens qui cherchent
+<Who nb="2"/>
+on vous
+<Sync time="3289.504"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3290.105" endTime="3292.892">
+<Sync time="3290.105"/>
+puis peut-être qu'un jour 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ nous aussi on aura besoin de vous
+</Turn>
+<Turn speaker="spk5" startTime="3292.892" endTime="3293.547">
+<Sync time="3292.892"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3293.547" endTime="3294.448">
+<Sync time="3293.547"/>
+nous espérons
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3294.448" endTime="3298.723">
+<Sync time="3294.448"/>
+<Who nb="1"/>
+nous espérons oui nous espérons que Orléans au moins euh profitera
+<Who nb="2"/>
+vous aurez achevé ce cycle d'études
+</Turn>
+<Turn speaker="spk2" startTime="3298.723" endTime="3303.525">
+<Sync time="3298.723"/>
+il serait très intéressant que
+<Sync time="3300.575"/>
+
+<Sync time="3301.136"/>
+quand vous l'aurez achevé quand vous serez capable de faire une
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3303.525" endTime="3304.206">
+<Sync time="3303.525"/>
+<Who nb="1"/>
+oui
+<Who nb="2"/>
+synthèse
+</Turn>
+<Turn speaker="spk1" startTime="3304.206" endTime="3304.817">
+<Sync time="3304.206"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="3304.817" endTime="3307.629">
+<Sync time="3304.817"/>
+ce serait très gentil à vous de venir nous revoir
+</Turn>
+<Turn speaker="spk1" startTime="3307.629" endTime="3308.384">
+<Sync time="3307.629"/>
+certainement
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3308.384" endTime="3310.737">
+<Sync time="3308.384"/>
+<Who nb="1"/>
+et de nous proposer
+<Who nb="2"/>
+certainement
+<Sync time="3310.056"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3310.737" endTime="3323.093">
+<Sync time="3310.737"/>
+par exemple de faire un petit exposé devant
+<Sync time="3313.69"/>
+
+<Sync time="3314.414"/>
+un conseil de gens qui seraient contents de d- d'entendre votre témoignage euh la façon dont vous avez travaillé euh
+</Turn>
+<Turn speaker="spk5" startTime="3323.093" endTime="3327.201">
+<Sync time="3323.093"/>
+une comparaison peut-être entre les villes de province euh anglaises et puis
+</Turn>
+<Turn speaker="spk1" startTime="3327.201" endTime="3327.662">
+<Sync time="3327.201"/>
+oui
+</Turn>
+<Turn speaker="spk5" startTime="3327.662" endTime="3328.974">
+<Sync time="3327.662"/>
+ou sur Orléans sud
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3328.974" endTime="3332.009">
+<Sync time="3328.974"/>
+<Who nb="1"/>
+oui oui certainement oui
+<Who nb="2"/>
+anglaises et Orléans oui
+<Sync time="3330.907"/>
+<Who nb="1"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+les méthodes
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3332.009" endTime="3333.191">
+<Sync time="3332.009"/>
+<Who nb="1"/>
+les hommes enfin
+<Who nb="2"/>
+oui oui
+</Turn>
+<Turn speaker="spk2" startTime="3333.191" endTime="3334.423">
+<Sync time="3333.191"/>
+y a mille choses
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3334.423" endTime="3335.101">
+<Sync time="3334.423"/>
+<Who nb="1"/>
+n'est-ce pas qui seraient
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="3335.101" endTime="3336.613">
+<Sync time="3335.101"/>
+extrêmement intéressantes
+</Turn>
+<Turn speaker="spk1" startTime="3336.613" endTime="3349.614">
+<Sync time="3336.613"/>
+oui oui
+<Sync time="3337.084"/>
+
+<Sync time="3337.646"/>
+une des choses qui seraient intéressantes c'est
+<Sync time="3339.977"/>
+
+<Sync time="3340.598"/>
+euh
+<Sync time="3341.113"/>
+
+<Sync time="3341.664"/>
+s'il y aurait
+<Sync time="3342.405"/>
+s'il y avait possibilité de réunir un certain un petit groupe de personnalités comme vous pour une discussion
+<Sync time="3348.901"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3349.614" endTime="3350.566">
+<Sync time="3349.614"/>
+<Who nb="1"/>
+euh est-ce qu'il y a 
+<Who nb="2"/>
+quand nous avons
+</Turn>
+<Turn speaker="spk1" startTime="3350.566" endTime="3352.952">
+<Sync time="3350.566"/>
+des occasions ou vous vous réunissez avec un 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3352.952" endTime="3354.2">
+<Sync time="3352.952"/>
+<Who nb="1"/>
+comité
+<Who nb="2"/>
+mais ce serait pas du tout
+</Turn>
+<Turn speaker="spk2" startTime="3354.2" endTime="3361.66">
+<Sync time="3354.2"/>
+impossible euh ce serait pas du tout impossible
+<Sync time="3357.285"/>
+
+<Sync time="3357.805"/>
+seulement je pense que
+<Sync time="3359.106"/>
+
+<Sync time="3359.908"/>
+il faudrait que ce soit préparé
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3361.66" endTime="3364.541">
+<Sync time="3361.66"/>
+<Who nb="1"/>
+voyez-vous
+<Who nb="2"/>
+oh oui
+<Sync time="3362.601"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3364.541" endTime="3365.212">
+<Sync time="3364.541"/>
+<Who nb="1"/>
+je pensais
+<Who nb="2"/>
+il faudrait
+</Turn>
+<Turn speaker="spk2" startTime="3365.212" endTime="3372.733">
+<Sync time="3365.212"/>
+que vous ayez bien 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+ mis sur le papier ce qui vous intéresse
+<Sync time="3371.027"/>
+ce que vous voulez demander
+
+</Turn>
+<Turn speaker="spk1" startTime="3372.733" endTime="3374.23">
+<Sync time="3372.733"/>
+oui
+<Sync time="3373.064"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3374.23" endTime="3374.949">
+<Sync time="3374.23"/>
+le thème
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3374.949" endTime="3376.979">
+<Sync time="3374.949"/>
+<Who nb="1"/>
+si vous voulez
+<Who nb="2"/>
+oui oui oui
+<Sync time="3376.583"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3376.979" endTime="3398.12">
+<Sync time="3376.979"/>
+puis on avait pensé à ces sortes de discussions préparées
+<Sync time="3379.994"/>
+
+<Sync time="3380.574"/>
+euh et aussi
+<Sync time="3382.258"/>
+à enregistrer là où euh
+<Sync time="3385.021"/>
+on aurait la permission
+<Sync time="3386.683"/>
+peut-être des discussions
+<Sync time="3388.165"/>
+qui auraient lieu si nous étions là ou si nous n'étions pas là c'est-à-dire euh est-ce qu'il y a
+<Sync time="3392.864"/>
+
+<Sync time="3393.217"/>
+par exemple des des réunions
+<Sync time="3395.044"/>
+
+<Sync time="3395.457"/>
+ou des meetings euh
+<Sync time="3396.808"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3398.12" endTime="3399.082">
+<Sync time="3398.12"/>
+<Who nb="1"/>
+publics
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="3399.082" endTime="3399.783">
+<Sync time="3399.082"/>
+ah publics ?
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3399.783" endTime="3400.674">
+<Sync time="3399.783"/>
+<Who nb="1"/>
+euh
+<Who nb="2"/>
+enfin oui
+</Turn>
+<Turn speaker="spk1" startTime="3400.674" endTime="3402.230">
+<Sync time="3400.674"/>
+qui qui ne seraient pas enfin
+</Turn>
+<Turn speaker="spk2" startTime="3402.230" endTime="3405.985">
+<Sync time="3402.230"/>
+je sais pas
+<Sync time="3403.041"/>
+tu sais y en d- il doit y en avoir
+<Sync time="3404.813"/>
+il doit y en avoir c'est que 
+</Turn>
+<Turn speaker="spk1" startTime="3405.985" endTime="3406.308">
+<Sync time="3405.985"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="3406.308" endTime="3413.54">
+<Sync time="3406.308"/>
+je
+<Sync time="3407.062"/>
+suis pas moi-même parce que
+<Sync time="3408.241"/>
+vous n'allez probablement pas vous o- contenter d'une enquête auprès du service économique
+<Sync time="3412.529"/>
+vous allez
+</Turn>
+<Turn speaker="spk1" startTime="3413.54" endTime="3415.687">
+<Sync time="3413.54"/>
+non
+<Sync time="3414.01"/>
+hm hm 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Sync time="3415.136"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3415.687" endTime="3420.525">
+<Sync time="3415.687"/>
+mais en ce qui concerne le d- économie ce serait très volontiers qu-
+<Sync time="3418.735"/>
+quand vous restez là combien de temps ?
+</Turn>
+<Turn speaker="spk1" startTime="3420.525" endTime="3424.89">
+<Sync time="3420.525"/>
+ici euh la première quinzaine euh de septembre mais nous allons revenir euh
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3424.89" endTime="3426.833">
+<Sync time="3424.89"/>
+<Who nb="1"/>
+mais mais vous reviendrez à Pâques
+<Who nb="2"/>
+à Pâques oui oui oui
+</Turn>
+<Turn speaker="spk1 spk5" startTime="3426.833" endTime="3427.294">
+<Sync time="3426.833"/>
+<Who nb="1"/>
+c'est ça et
+<Who nb="2"/>
+bon
+</Turn>
+<Turn speaker="spk1" startTime="3427.294" endTime="3428.722">
+<Sync time="3427.294"/>
+on fait varier soit
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3428.722" endTime="3429.361">
+<Sync time="3428.722"/>
+<Who nb="1"/>
+ici
+<Who nb="2"/>
+eh bien
+</Turn>
+<Turn speaker="spk2" startTime="3429.361" endTime="3430.133">
+<Sync time="3429.361"/>
+à Pâques
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3430.133" endTime="3432.246">
+<Sync time="3430.133"/>
+<Who nb="1"/>
+on pourrait en-
+<Who nb="2"/>
+entre
+<Sync time="3431.057"/>
+<Who nb="1"/>
+entre nous
+<Who nb="2"/>
+entre temps
+</Turn>
+<Turn speaker="spk2" startTime="3432.246" endTime="3453.49">
+<Sync time="3432.246"/>
+on pourrait peut-être
+<Sync time="3433.756"/>
+
+<Sync time="3434.08"/>
+organiser
+<Sync time="3435.341"/>
+
+<Sync time="3435.852"/>
+une rencontre
+<Sync time="3437.229"/>
+entre vous-mêmes euh enfin toutes les personnes qui auront travaillé à cette affaire
+<Sync time="3441.271"/>
+qui auront des conclusions à apporter n'est-ce pas à faire connaître
+<Sync time="3445.487"/>
+et
+<Sync time="3445.897"/>
+
+<Sync time="3447.02"/>
+suivant le thème choisi un groupe de quinze vingt personnes qu'on réunirait ici par exemple
+<Sync time="3452.889"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3453.49" endTime="3454.434">
+<Sync time="3453.49"/>
+hm
+<Sync time="3453.781"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3454.434" endTime="3479.524">
+<Sync time="3454.434"/>
+et s'établirait une libre discussion entre eux
+<Sync time="3457.654"/>
+
+<Sync time="3458.195"/>
+je crois que ça pourrait être extrêmement intéressant je pense que
+<Sync time="3461.069"/>
+
+<Sync time="3461.692"/>
+euh justement l- le comité
+<Sync time="3463.433"/>
+
+<Sync time="3464.374"/>
+mise en valeur économique dont j'assure le secrétariat avec monsieur Amos pour président serait serait 
+<Sync time="3469.817"/>
+
+<Sync time="3470.596"/>
+s- serait très désireux de vous aider là et vous fournir un auditoire puis en même temps un
+<Sync time="3475.787"/>
+
+<Sync time="3476.649"/>
+de discuter avec vous
+<Sync time="3478.131"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3479.524" endTime="3480.605">
+<Sync time="3479.524"/>
+oui
+<Sync time="3479.985"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3480.605" endTime="3489.757">
+<Sync time="3480.605"/>
+à p- à Pâques on pourrait faire ça
+<Sync time="3482.539"/>
+
+<Sync time="3484.12"/>
+oui
+<Sync time="3484.503"/>
+
+<Sync time="3485.224"/>
+là vous auriez fait vos comparaisons
+<Sync time="3487.338"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3489.757" endTime="3491.056">
+<Sync time="3489.757"/>
+oui
+<Sync time="3490.068"/>
+
+<Sync time="3490.685"/>
+oui
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3491.056" endTime="3492.487">
+<Sync time="3491.056"/>
+<Who nb="1"/>
+ah ben 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+car c'est très volontiers
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3492.487" endTime="3494.128">
+<Sync time="3492.487"/>
+<Who nb="1"/>
+qu'on vous recevrait à ce moment-là
+<Who nb="2"/>
+ah ben on vous remercie
+</Turn>
+<Turn speaker="spk1" startTime="3494.128" endTime="3495.918">
+<Sync time="3494.128"/>
+beaucoup on se mettra
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3495.918" endTime="3496.75">
+<Sync time="3495.918"/>
+<Who nb="1"/>
+on se remettra
+<Who nb="2"/>
+et s-
+</Turn>
+<Turn speaker="spk1" startTime="3496.75" endTime="3497.471">
+<Sync time="3496.75"/>
+en contact
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3497.471" endTime="3499.728">
+<Sync time="3497.471"/>
+<Who nb="1"/>
+eh bien oui c'est ça
+<Who nb="2"/>
+avec vous
+<Sync time="3498.773"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3499.728" endTime="3502.659">
+<Sync time="3499.728"/>
+j'ai oublié de vous remercier de votre lettre si aimable il est
+<Sync time="3502.128"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3502.659" endTime="3506.625">
+<Sync time="3502.659"/>
+<Who nb="1"/>
+oh très bien j'espère qu'au moins tout le français était convenable
+<Who nb="2"/>
+c'était très gentil de nous écrire
+</Turn>
+<Turn speaker="spk2 spk5" startTime="3506.625" endTime="3508.775">
+<Sync time="3506.625"/>
+<Who nb="1"/>
+très ah tout à fait
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3508.775" endTime="3511.044">
+<Sync time="3508.775"/>
+ah bon alors merci beaucoup
+</Turn>
+<Turn speaker="spk2" startTime="3511.044" endTime="3512.016">
+<Sync time="3511.044"/>
+tout à fait
+</Turn>
+<Turn speaker="spk1" startTime="3512.016" endTime="3512.639">
+<Sync time="3512.016"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="3512.639" endTime="3518.877">
+<Sync time="3512.639"/>
+et les les sentiments étaient encore plus convenables 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ 
+<Event desc="rire en fond" type="noise" extent="instantaneous"/>
+ je vous en remercie
+<Sync time="3517.188"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3518.877" endTime="3527.01">
+<Sync time="3518.877"/>
+bon
+<Sync time="3519.388"/>
+
+<Sync time="3520.667"/>
+euh je ne sais pas si on pourrait enfin
+<Sync time="3524.119"/>
+vous sé- vous disposez encore de quelques minutes
+<Sync time="3526.209"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3527.01" endTime="3528.568">
+<Sync time="3527.01"/>
+<Who nb="1"/>
+ou euh 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+si vous voulez
+</Turn>
+<Turn speaker="spk1" startTime="3528.568" endTime="3542.854">
+<Sync time="3528.568"/>
+euh s- c'est pour une chose euh enfin
+<Sync time="3531.352"/>
+vous pouvez
+<Sync time="3531.809"/>
+
+<Sync time="3532.376"/>
+vous êtes entièrement libre de refuser évidemment mais
+<Sync time="3535.11"/>
+
+<Sync time="3535.643"/>
+ça nous intéresse d'avoir sur euh les personnes que nous interrogeons
+<Sync time="3539.92"/>
+
+<Sync time="3540.471"/>
+euh certains détails personnels
+<Sync time="3542.403"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3542.854" endTime="3543.835">
+<Sync time="3542.854"/>
+<Who nb="1"/>
+ah bon 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+euh
+</Turn>
+<Turn speaker="spk1" startTime="3543.835" endTime="3546.913">
+<Sync time="3543.835"/>
+enregistrés sur bande ou non comme vous voulez est-ce que
+</Turn>
+<Turn speaker="spk1 spk5" startTime="3546.913" endTime="3547.935">
+<Sync time="3546.913"/>
+<Who nb="1"/>
+vous acceptez ou ?
+<Who nb="2"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3547.935" endTime="3551.192">
+<Sync time="3547.935"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ moi j'ai rien de caché vous savez 
+<Event desc="rire en fond" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3551.192" endTime="3552.726">
+<Sync time="3551.192"/>
+alors
+<Sync time="3552.013"/>
+qu'est-ce que vous voulez
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3552.726" endTime="3555.471">
+<Sync time="3552.726"/>
+<Who nb="1"/>
+que je vous dise ?
+<Who nb="2"/>
+tant mieux
+<Sync time="3553.548"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+<Sync time="3554.069"/>
+<Who nb="1"/>
+ah ben vous allez m'interroger
+<Who nb="2"/>
+alors
+</Turn>
+<Turn speaker="spk2 spk5" startTime="3555.471" endTime="3557.635">
+<Sync time="3555.471"/>
+<Who nb="1"/>
+sur euh lieu date de naissance et caetera
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1 spk5" startTime="3557.635" endTime="3559.607">
+<Sync time="3557.635"/>
+<Who nb="1"/>
+euh c'est ça c'est ça
+<Who nb="2"/>
+c'est ça aussi 
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3559.607" endTime="3566.632">
+<Sync time="3559.607"/>
+oui alors euh
+<Sync time="3560.698"/>
+enfin on s'intéresse euh au quart- euh au quartier où vous habitez
+<Sync time="3564.524"/>
+
+<Sync time="3565.961"/>
+d'abord
+</Turn>
+<Turn speaker="spk2" startTime="3566.632" endTime="3567.434">
+<Sync time="3566.632"/>
+bon
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3567.434" endTime="3570.022">
+<Sync time="3567.434"/>
+<Who nb="1"/>
+eh bien alors je peux vous le dire que
+<Who nb="2"/>
+alors d'abord est-ce que vous habitez Orléans ?
+<Sync time="3569.532"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3570.022" endTime="3573.347">
+<Sync time="3570.022"/>
+que j'ai j'ai que j'ai dépassé le demi-siècle
+<Sync time="3572.496"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3573.347" endTime="3575.621">
+<Sync time="3573.347"/>
+pardon ?
+<Sync time="3574.064"/>
+que vous avez dépassé un demi-siècle
+</Turn>
+<Turn speaker="spk2" startTime="3575.621" endTime="3578.976">
+<Sync time="3575.621"/>
+oui j'ai dépassé le demi-siècle 
+<Event desc="rire" type="noise" extent="previous"/>
+
+<Sync time="3577.652"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3578.976" endTime="3579.425">
+<Sync time="3578.976"/>
+euh
+</Turn>
+<Turn speaker="spk2" startTime="3579.425" endTime="3582.982">
+<Sync time="3579.425"/>
+et que j'habite à Orléans euh vingt-huit rue de la Bretonnerie euh
+</Turn>
+<Turn speaker="spk1" startTime="3582.982" endTime="3587.824">
+<Sync time="3582.982"/>
+ah oui oui oui
+<Sync time="3584.447"/>
+
+<Sync time="3584.992"/>
+et euh vous avez dit que vous n'êtes pas orléanais
+</Turn>
+<Turn speaker="spk2" startTime="3587.824" endTime="3588.515">
+<Sync time="3587.824"/>
+de naissance
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3588.515" endTime="3590.052">
+<Sync time="3588.515"/>
+<Who nb="1"/>
+de naissance 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+parce que je suis d'Eure-et-Loire
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3590.052" endTime="3592.105">
+<Sync time="3590.052"/>
+<Who nb="1"/>
+je suis pas bien loin
+<Who nb="2"/>
+d'Eure-et-Loire
+<Sync time="3591.472"/>
+<Who nb="1"/>
+oui et oui
+<Who nb="2"/>
+ah oui
+</Turn>
+<Turn speaker="spk1" startTime="3592.105" endTime="3593.412">
+<Sync time="3592.105"/>
+et votre famille est
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3593.412" endTime="3594.894">
+<Sync time="3593.412"/>
+<Who nb="1"/>
+est également d'Eure-et-Loire
+<Who nb="2"/>
+d'Eure-et-Loire
+</Turn>
+<Turn speaker="spk1" startTime="3594.894" endTime="3595.358">
+<Sync time="3594.894"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="3595.358" endTime="3596.640">
+<Sync time="3595.358"/>
+et orléanaise à la fois
+</Turn>
+<Turn speaker="spk1" startTime="3596.640" endTime="3599.618">
+<Sync time="3596.640"/>
+oui et votre père aussi était militaire ?
+</Turn>
+<Turn speaker="spk2" startTime="3599.618" endTime="3600.846">
+<Sync time="3599.618"/>
+non pas du tout pas du
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3600.846" endTime="3601.116">
+<Sync time="3600.846"/>
+<Who nb="1"/>
+tout
+<Who nb="2"/>
+non
+</Turn>
+<Turn speaker="spk2" startTime="3601.116" endTime="3614.469">
+<Sync time="3601.116"/>
+il était
+<Sync time="3601.937"/>
+
+<Sync time="3602.738"/>
+comment je sais pas comment vous dire en fran- comment on appelle ça en France mais enfin si vous voulez euh
+<Sync time="3608.67"/>
+
+<Sync time="3609.181"/>
+le monsieur qui vit à la campagne dans une grande maison sans sans grande activité euh voilà
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3614.469" endTime="3616.280">
+<Sync time="3614.469"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+hm hm hm hm hm
+</Turn>
+<Turn speaker="spk1" startTime="3616.280" endTime="3620.367">
+<Sync time="3616.280"/>
+hm
+<Sync time="3616.751"/>
+
+<Sync time="3617.181"/>
+et vous êtes euh d'une grande famille c'est-à-dire vous avez beaucoup de
+</Turn>
+<Turn speaker="spk2" startTime="3620.367" endTime="3622.044">
+<Sync time="3620.367"/>
+non beaucoup d- non
+<Sync time="3621.398"/>
+j'avais deux
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3622.044" endTime="3623.451">
+<Sync time="3622.044"/>
+<Who nb="1"/>
+frères
+<Who nb="2"/>
+oui
+<Sync time="3622.75"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3623.451" endTime="3624.393">
+<Sync time="3623.451"/>
+deux frères oui
+</Turn>
+<Turn speaker="spk2" startTime="3624.393" endTime="3634.806">
+<Sync time="3624.393"/>
+euh deux frères l-
+<Sync time="3625.514"/>
+l'un a été tué à la guerre
+<Sync time="3627.044"/>
+l'autre était forestier et a été très blessé à la guerre et
+<Sync time="3629.768"/>
+moi j'ai été blessé à la guerre et j'étais officier aussi enfin
+<Sync time="3632.822"/>
+y en a peut-être de toute la famille
+<Sync time="3634.478"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3634.806" endTime="3638.364">
+<Sync time="3634.806"/>
+oui on aimerait revenir vous demander vos souvenirs un de ces jours
+</Turn>
+<Turn speaker="spk2" startTime="3638.364" endTime="3641.472">
+<Sync time="3638.364"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+ j'ai pas grand souvenir j'ai pas beaucoup de souvenirs
+</Turn>
+<Turn speaker="spk1" startTime="3641.472" endTime="3645.778">
+<Sync time="3641.472"/>
+et vous avez dit que vous avez euh enfin vous avez des enfants euh
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3645.778" endTime="3647.24">
+<Sync time="3645.778"/>
+<Who nb="1"/>
+oui j'ai cinq
+<Who nb="2"/>
+qui sont déjà adultes
+</Turn>
+<Turn speaker="spk2" startTime="3647.24" endTime="3648.666">
+<Sync time="3647.24"/>
+ah oui j'ai cinq enfants
+</Turn>
+<Turn speaker="spk1" startTime="3648.666" endTime="3649.787">
+<Sync time="3648.666"/>
+cinq enfants
+<Sync time="3649.417"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3649.787" endTime="3650.548">
+<Sync time="3649.787"/>
+<Who nb="1"/>
+cinq enfants
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="3650.548" endTime="3656.700">
+<Sync time="3650.548"/>
+et le dernier euh entre en faculté de médecine
+<Sync time="3653.483"/>
+
+<Sync time="3654.114"/>
+au mois d'août au mois de je ne sais pas quand
+<Sync time="3656.257"/>
+
+</Turn>
+<Turn speaker="spk5" startTime="3656.700" endTime="3657.031">
+<Sync time="3656.700"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3657.031" endTime="3659.63">
+<Sync time="3657.031"/>
+oui effectivement
+<Sync time="3658.290"/>
+effectivement il faut attendre pour euh
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3659.63" endTime="3662.003">
+<Sync time="3659.63"/>
+<Who nb="1"/>
+il faut attendre pour vous dire la date à laquelle il y rentre oui
+<Who nb="2"/>
+oui la date exacte
+</Turn>
+<Turn speaker="spk1" startTime="3662.003" endTime="3663.153">
+<Sync time="3662.003"/>
+oui
+<Sync time="3662.434"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3663.153" endTime="3664.898">
+<Sync time="3663.153"/>
+<Who nb="1"/>
+hm hm
+<Who nb="2"/>
+oui
+<Sync time="3663.916"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3664.898" endTime="3670.063">
+<Sync time="3664.898"/>
+euh
+<Sync time="3665.469"/>
+
+<Sync time="3666.275"/>
+je suppose que vous avez l'intention de rester à Orléans maintenant ?
+<Sync time="3669.432"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3670.063" endTime="3675.92">
+<Sync time="3670.063"/>
+eh bien oui j'ai l'intention de rester à Orléans mais
+<Sync time="3673.74"/>
+encore tout le temps de mon activité puis après
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3675.92" endTime="3676.663">
+<Sync time="3675.92"/>
+<Who nb="1"/>
+je repartirai
+<Who nb="2"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="3676.663" endTime="3678.768">
+<Sync time="3676.663"/>
+probablement en Eure-et-Loire
+<Sync time="3678.047"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3678.768" endTime="3679.289">
+<Sync time="3678.768"/>
+ah oui
+</Turn>
+<Turn speaker="spk2" startTime="3679.289" endTime="3679.837">
+<Sync time="3679.289"/>
+oui
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3679.837" endTime="3685.362">
+<Sync time="3679.837"/>
+<Who nb="1"/>
+pour prendre votre retraite oui oui
+<Who nb="2"/>
+à la campagne pour prendre ma retraite à la campagne bien sûr
+<Sync time="3683.152"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3685.362" endTime="3692.851">
+<Sync time="3685.362"/>
+oui
+<Sync time="3685.672"/>
+euh votre euh éducation vous nous avez dit déjà Saint-Cyr mais avant Saint-Cyr ?
+<Sync time="3691.599"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3692.851" endTime="3702.246">
+<Sync time="3692.851"/>
+mais mon dieu vous savez on entre à Saint-Cyr assez jeune
+<Sync time="3695.33"/>
+alors euh avant Saint-Cyr eh bien j'ai fait mes études euh à Chartres et puis à l'école Sainte Geneviève à Versailles et
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3702.246" endTime="3703.468">
+<Sync time="3702.246"/>
+<Who nb="1"/>
+puis
+<Who nb="2"/>
+ah oui
+<Sync time="3702.937"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3703.468" endTime="3704.984">
+<Sync time="3703.468"/>
+Saint-Cyr et puis euh
+</Turn>
+<Turn speaker="spk1" startTime="3704.984" endTime="3706.265">
+<Sync time="3704.984"/>
+et puis Saint-Cyr
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3706.265" endTime="3707.527">
+<Sync time="3706.265"/>
+<Who nb="1"/>
+et
+<Who nb="2"/>
+oui
+<Sync time="3706.746"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3707.527" endTime="3713.377">
+<Sync time="3707.527"/>
+et puis euh
+<Sync time="3708.929"/>
+
+<Sync time="3709.467"/>
+vous a- vous êtes euh
+<Sync time="3710.904"/>
+vous étiez donc militaire et ensuite
+<Sync time="3712.897"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3713.377" endTime="3713.738">
+<Sync time="3713.377"/>
+<Who nb="1"/>
+je s-
+<Who nb="2"/>
+vous êtes
+</Turn>
+<Turn speaker="spk1" startTime="3713.738" endTime="3714.964">
+<Sync time="3713.738"/>
+venu à la chambre de commerce
+</Turn>
+<Turn speaker="spk2" startTime="3714.964" endTime="3729.91">
+<Sync time="3714.964"/>
+ah non ensuite oh non après j'ai quitté l'armée en mille neuf cent quarante-six
+<Sync time="3718.815"/>
+
+<Sync time="3719.676"/>
+et après quoi euh je suis rentré dans la vie civile euh dans une dans une société de fabrication de machines agricoles les établissements Rivière Casalis ici
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3729.91" endTime="3730.902">
+<Sync time="3729.91"/>
+<Who nb="1"/>
+que j'ai quittés
+<Who nb="2"/>
+ah oui
+</Turn>
+<Turn speaker="spk2" startTime="3730.902" endTime="3742.743">
+<Sync time="3730.902"/>
+pour euh créer une affaire de travaux publics que j'ai abandonnée à
+<Sync time="3735.349"/>
+
+<Sync time="3736.801"/>
+euh s- quatre ans après
+<Sync time="3738.964"/>
+
+<Sync time="3739.785"/>
+trouvant comme le fils du bon menuisier
+<Sync time="3741.914"/>
+
+</Turn>
+<Turn speaker="spk5 spk2" startTime="3742.743" endTime="3746.605">
+<Sync time="3742.743"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+que ma foi
+<Sync time="3745.799"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3746.605" endTime="3750.412">
+<Sync time="3746.605"/>
+la position de salarié pouvait être moins dangereuse que celle de patron
+</Turn>
+<Turn speaker="spk1" startTime="3750.412" endTime="3751.814">
+<Sync time="3750.412"/>
+oui
+<Sync time="3751.213"/>
+oui
+</Turn>
+<Turn speaker="spk2 spk5" startTime="3751.814" endTime="3755.152">
+<Sync time="3751.814"/>
+<Who nb="1"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Who nb="2"/>
+
+<Event desc="rire" type="noise" extent="instantaneous"/>
+
+<Sync time="3753.596"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3755.152" endTime="3755.773">
+<Sync time="3755.152"/>
+ah oui
+</Turn>
+<Turn speaker="spk2" startTime="3755.773" endTime="3758.407">
+<Sync time="3755.773"/>
+oui
+<Sync time="3756.123"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3758.407" endTime="3776.783">
+<Sync time="3758.407"/>
+euh
+<Sync time="3759.108"/>
+et
+<Sync time="3759.879"/>
+des questions euh enfin euh
+<Sync time="3761.852"/>
+
+<Sync time="3762.867"/>
+toutefois des
+<Sync time="3763.578"/>
+
+<Sync time="3764.049"/>
+bien sur un plan
+<Sync time="3765.261"/>
+
+<Sync time="3766.063"/>
+euh moins professionnel
+<Sync time="3768.309"/>
+que vos vos loisirs si vous en avez si vous disposez de quelques loisirs euh
+<Sync time="3773.128"/>
+
+<Sync time="3773.689"/>
+quels sont les journaux
+<Sync time="3774.891"/>
+
+<Sync time="3775.532"/>
+que vous estimez
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3776.783" endTime="3779.527">
+<Sync time="3776.783"/>
+<Who nb="1"/>
+enfin les 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+quels sont les j- les journaux que je lis ?
+</Turn>
+<Turn speaker="spk1" startTime="3779.527" endTime="3780.526">
+<Sync time="3779.527"/>
+oui s'il vous plaît
+</Turn>
+<Turn speaker="spk2" startTime="3780.526" endTime="3784.328">
+<Sync time="3780.526"/>
+ben voilà si si on avait le courage de tout lire on serait très calé vous savez
+</Turn>
+<Turn speaker="spk1" startTime="3784.328" endTime="3785.589">
+<Sync time="3784.328"/>
+oui
+<Sync time="3784.988"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3785.589" endTime="3817.487">
+<Sync time="3785.589"/>
+alors euh entre le
+<Sync time="3787.439"/>
+
+<Sync time="3787.87"/>
+le journal local
+<Sync time="3789.532"/>
+
+<Sync time="3790.323"/>
+hum le journal Match comme journal hebdomadaire
+<Sync time="3794.499"/>
+
+<Sync time="3795.32"/>
+euh Les Echos comme journal économique
+<Sync time="3798.644"/>
+
+<Sync time="3799.056"/>
+le France Catholique comme journal hebdomadaire très bien fait aussi sur le plan économique et social
+<Sync time="3805.766"/>
+
+<Sync time="3806.994"/>
+euh
+<Sync time="3808.011"/>
+qu'est-ce que je lis encore oh je dois en lire beaucoup d'autres j'ai
+<Sync time="3811.921"/>
+
+<Sync time="3814.289"/>
+oh non c'est à peu près tout vous savez ça fait quatre journaux par jour
+</Turn>
+<Turn speaker="spk2 spk5" startTime="3817.487" endTime="3818.952">
+<Sync time="3817.487"/>
+<Who nb="1"/>
+ça peut aller oui
+<Who nb="2"/>
+hm hm
+</Turn>
+<Turn speaker="spk1" startTime="3818.952" endTime="3823.369">
+<Sync time="3818.952"/>
+et du point du vue culturel vous trouvez qu'Orléans euh
+<Sync time="3821.948"/>
+
+<Sync time="3822.669"/>
+a des
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3823.369" endTime="3825.513">
+<Sync time="3823.369"/>
+<Who nb="1"/>
+a des
+<Who nb="2"/>
+divertissement ou des enfin
+<Sync time="3824.952"/>
+<Who nb="1"/>
+
+<Who nb="2"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3825.513" endTime="3827.425">
+<Sync time="3825.513"/>
+des soirées musicales qui vous intéressent ?
+</Turn>
+<Turn speaker="spk2" startTime="3827.425" endTime="3831.012">
+<Sync time="3827.425"/>
+oui mais si on allait à tout ce qui est offert à Orléans
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3831.012" endTime="3831.914">
+<Sync time="3831.012"/>
+<Who nb="1"/>
+on pourrait très bien
+<Who nb="2"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="3831.914" endTime="3833.907">
+<Sync time="3831.914"/>
+avoir une vie intellectuelle seulement on
+</Turn>
+<Turn speaker="spk1" startTime="3833.907" endTime="3834.938">
+<Sync time="3833.907"/>
+ah oui
+<Sync time="3834.257"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3834.938" endTime="3838.263">
+<Sync time="3834.938"/>
+on se plaint beaucoup qu'il n'y a rien et quand y a quelque chose on n'y va pas
+<Sync time="3837.752"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3838.263" endTime="3839.905">
+<Sync time="3838.263"/>
+ah bon et vous ?
+<Sync time="3839.304"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3839.905" endTime="3840.687">
+<Sync time="3839.905"/>
+c'est pareil
+</Turn>
+<Turn speaker="spk1" startTime="3840.687" endTime="3842.68">
+<Sync time="3840.687"/>
+c'est pareil oui vous n'y allez pas 
+<Event desc="rire en fond" type="noise" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3842.68" endTime="3843.491">
+<Sync time="3842.68"/>
+oh si j'y vais
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3843.491" endTime="3844.247">
+<Sync time="3843.491"/>
+<Who nb="1"/>
+de temps en temps
+<Who nb="2"/>
+vous allez à Paris
+</Turn>
+<Turn speaker="spk1" startTime="3844.247" endTime="3844.617">
+<Sync time="3844.247"/>
+peut-être
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3844.617" endTime="3846.113">
+<Sync time="3844.617"/>
+<Who nb="1"/>
+quelquefois pour euh
+<Who nb="2"/>
+mais non pas non jamais
+</Turn>
+<Turn speaker="spk1" startTime="3846.113" endTime="3847.074">
+<Sync time="3846.113"/>
+vous distraire non ?
+</Turn>
+<Turn speaker="spk2" startTime="3847.074" endTime="3847.525">
+<Sync time="3847.074"/>
+jamais
+</Turn>
+<Turn speaker="spk1" startTime="3847.525" endTime="3848.366">
+<Sync time="3847.525"/>
+non jamais ?
+</Turn>
+<Turn speaker="spk2" startTime="3848.366" endTime="3849.827">
+<Sync time="3848.366"/>
+je m'ennuie à Paris non non
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3849.827" endTime="3850.508">
+<Sync time="3849.827"/>
+<Who nb="1"/>
+ce c'est
+<Who nb="2"/>
+non
+</Turn>
+<Turn speaker="spk2" startTime="3850.508" endTime="3852.617">
+<Sync time="3850.508"/>
+voir tous ces gens qui courent et qui sont excités
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3852.617" endTime="3853.577">
+<Sync time="3852.617"/>
+<Who nb="1"/>
+moi ça me va ça
+<Who nb="2"/>
+ah oui
+</Turn>
+<Turn speaker="spk1" startTime="3853.577" endTime="3855.427">
+<Sync time="3853.577"/>
+ah oui oui oui
+</Turn>
+<Turn speaker="spk2" startTime="3855.427" endTime="3859.409">
+<Sync time="3855.427"/>
+non non je je les plains beaucoup les Parisiens et j'ai pas du tout envie d'y aller
+</Turn>
+<Turn speaker="spk1" startTime="3859.409" endTime="3864.739">
+<Sync time="3859.409"/>
+oui
+<Sync time="3859.799"/>
+
+<Sync time="3860.931"/>
+euh vous avez mentionné la France Catholique c'est-à-dire que vous êtes catholique ?
+</Turn>
+<Turn speaker="spk2" startTime="3864.739" endTime="3865.19">
+<Sync time="3864.739"/>
+ah oui
+</Turn>
+<Turn speaker="spk1" startTime="3865.19" endTime="3865.811">
+<Sync time="3865.19"/>
+oui
+</Turn>
+<Turn speaker="spk2" startTime="3865.811" endTime="3866.392">
+<Sync time="3865.811"/>
+oui
+</Turn>
+<Turn speaker="spk1" startTime="3866.392" endTime="3867.913">
+<Sync time="3866.392"/>
+oui
+<Sync time="3866.932"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3867.913" endTime="3868.835">
+<Sync time="3867.913"/>
+oui
+<Sync time="3868.474"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3868.835" endTime="3872.962">
+<Sync time="3868.835"/>
+euh
+<Sync time="3869.683"/>
+
+<Sync time="3871.79"/>
+et je crois que c'est tout
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3872.962" endTime="3874.598">
+<Sync time="3872.962"/>
+<Who nb="1"/>
+et je crois que c'est tout
+<Who nb="2"/>
+euh vous voyez autre chose ?
+</Turn>
+<Turn speaker="spk5" startTime="3874.598" endTime="3874.987">
+<Sync time="3874.598"/>
+non
+</Turn>
+<Turn speaker="spk1" startTime="3874.987" endTime="3875.567">
+<Sync time="3874.987"/>
+non ?
+</Turn>
+<Turn speaker="spk2" startTime="3875.567" endTime="3876.408">
+<Sync time="3875.567"/>
+alors voilà
+</Turn>
+<Turn speaker="spk1" startTime="3876.408" endTime="3877.812">
+<Sync time="3876.408"/>
+alors alors je vous rassure
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3877.812" endTime="3880.413">
+<Sync time="3877.812"/>
+<Who nb="1"/>
+vous voyez y a pas de secret dans tout ça
+<Who nb="2"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3880.413" endTime="3881.354">
+<Sync time="3880.413"/>
+alors
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3881.354" endTime="3882.957">
+<Sync time="3881.354"/>
+<Who nb="1"/>
+eh bien écoutez mademoiselle bons-
+<Who nb="2"/>
+
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="3882.957" endTime="3888.291">
+<Sync time="3882.957"/>
+c'est moi qui ai été très content de vous revoir et je vous dis j'espère qu'on vous reverra
+</Turn>
+<Turn speaker="spk5 spk2" startTime="3888.291" endTime="3889.135">
+<Sync time="3888.291"/>
+<Who nb="1"/>
+avec 
+<Event desc="pi" type="pronounce" extent="instantaneous"/>
+
+<Who nb="2"/>
+à Pâques
+</Turn>
+<Turn speaker="spk1" startTime="3889.135" endTime="3896.516">
+<Sync time="3889.135"/>
+alors on pourrait peut-être organiser une réunion alors là où nous profiterions de votre travail et de vos conclusions
+<Sync time="3896.103"/>
+
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3896.516" endTime="3898.822">
+<Sync time="3896.516"/>
+<Who nb="1"/>
+nous espérons oui oui oui
+<Who nb="2"/>
+c'est très intéressant hein
+</Turn>
+<Turn speaker="spk1" startTime="3898.822" endTime="3910.280">
+<Sync time="3898.822"/>
+peut-être de notre point de vue enfin de votre point de vue
+<Sync time="3902.024"/>
+il serait encore plus intéressant que nous venions euh
+<Sync time="3905.736"/>
+
+<Sync time="3906.417"/>
+faire un discours ou un exposé
+<Sync time="3908.229"/>
+peut-être vers la fin de l'enquête
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3910.280" endTime="3912.041">
+<Sync time="3910.280"/>
+<Who nb="1"/>
+que que vers le milieu
+<Who nb="2"/>
+ah oui je ben oui
+</Turn>
+<Turn speaker="spk1" startTime="3912.041" endTime="3914.248">
+<Sync time="3912.041"/>
+Pâques c'est le milieu
+<Sync time="3913.122"/>
+
+<Sync time="3913.657"/>
+il y aura
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3914.248" endTime="3916.104">
+<Sync time="3914.248"/>
+<Who nb="1"/>
+encore euh un stage plus tard
+<Who nb="2"/>
+ah ben quand vous voudrez
+</Turn>
+<Turn speaker="spk1" startTime="3916.104" endTime="3917.841">
+<Sync time="3916.104"/>
+et puis peut-être même après
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3917.841" endTime="3921.152">
+<Sync time="3917.841"/>
+<Who nb="1"/>
+nous avons oui
+<Who nb="2"/>
+quand vous voudrez seulement Pâques est en général une date qui est bien choisie
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3921.152" endTime="3923.442">
+<Sync time="3921.152"/>
+<Who nb="1"/>
+parce que les
+<Who nb="2"/>
+qui est bien ah
+<Sync time="3922.11"/>
+<Who nb="1"/>
+oui parce que les gens ont du
+<Who nb="2"/>
+ah bon
+</Turn>
+<Turn speaker="spk2" startTime="3923.442" endTime="3929.354">
+<Sync time="3923.442"/>
+temps dans cet à ce moment là euh
+<Sync time="3925.559"/>
+après ce sont les vacances euh à déterminer
+</Turn>
+<Turn speaker="spk1" startTime="3929.354" endTime="3929.986">
+<Sync time="3929.354"/>
+hm hm
+</Turn>
+<Turn speaker="spk2" startTime="3929.986" endTime="3937.461">
+<Sync time="3929.986"/>
+mais l- des mois des mois de d'avril mai sont sont très propices pour des réunions comme celles-là après hein
+<Sync time="3936.913"/>
+
+</Turn>
+<Turn speaker="spk2 spk1" startTime="3937.461" endTime="3938.923">
+<Sync time="3937.461"/>
+<Who nb="1"/>
+personne hm
+<Who nb="2"/>
+hm bon
+</Turn>
+<Turn speaker="spk2" startTime="3938.923" endTime="3941.809">
+<Sync time="3938.923"/>
+gens pensent à autre chose
+<Sync time="3940.072"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="3941.809" endTime="3942.35">
+<Sync time="3941.809"/>
+bon
+</Turn>
+<Turn speaker="spk1 spk2" startTime="3942.35" endTime="3944.084">
+<Sync time="3942.35"/>
+<Who nb="1"/>
+alors merci beaucoup merci monsieur
+<Who nb="2"/>
+eh bien mademoiselle
+</Turn>
+<Turn speaker="spk2" startTime="3944.084" endTime="3953.306">
+<Sync time="3944.084"/>
+je vous en prie
+<Sync time="3945.416"/>
+
+<Event desc="b" type="noise" extent="instantaneous"/>
+
+</Turn>
+</Section>
+</Episode>
+</Trans>
