@@ -18,7 +18,7 @@ Etat 02/02
 > Enregistrement (sur le vif) lors d’achats de produits plus ou moins exotiques dans des magasins orléanais
 - eslo_interview 953
 > Discussion en face à face entre un (ou plusieurs) chercheur(s) et un locuteur considéré comme une personnalité d’Orléans dans les domaines de l’éducation, l’industrie, le syndicalisme, la politique ou la culture
-- eslo_entretien 1498
+- eslo_entretien 2257
 > Interviews face-à-face sur des questionnaires standardisés, avec un échantillon statistique aléatoire choisi d'après la liste INSEE du recensement de la population 1968.
 - cfpp 181
 > Interviews sur les quartiers de Paris et de la proche banlieue.
